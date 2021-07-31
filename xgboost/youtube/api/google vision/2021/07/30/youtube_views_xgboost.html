@@ -4,20 +4,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="twitter:card" content="summary_large_image" /><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>How to get started on Kaggle Competitions | Jacob Merrell</title>
+<title>YouTube Views with XGBoost | Jacob Merrell</title>
 <meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="How to get started on Kaggle Competitions" />
+<meta property="og:title" content="YouTube Views with XGBoost" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Step by step guide on how to structure your Data Science projects on Kaggle." />
-<meta property="og:description" content="Step by step guide on how to structure your Data Science projects on Kaggle." />
-<link rel="canonical" href="https://jmmerrell.github.io/ws/poop/stuff/2021/07/30/youtube_views_xgboost.html" />
-<meta property="og:url" content="https://jmmerrell.github.io/ws/poop/stuff/2021/07/30/youtube_views_xgboost.html" />
+<meta name="description" content="Predicting views using XGBoost and data from YouTube and Google APIs" />
+<meta property="og:description" content="Predicting views using XGBoost and data from YouTube and Google APIs" />
+<link rel="canonical" href="https://jmmerrell.github.io/ws/xgboost/youtube/api/google%20vision/2021/07/30/youtube_views_xgboost.html" />
+<meta property="og:url" content="https://jmmerrell.github.io/ws/xgboost/youtube/api/google%20vision/2021/07/30/youtube_views_xgboost.html" />
 <meta property="og:site_name" content="Jacob Merrell" />
-<meta property="og:image" content="https://jmmerrell.github.io/ws/images/padelpy.png" />
+<meta property="og:image" content="https://jmmerrell.github.io/ws/images/youtube.jpg" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2021-07-30T00:00:00-05:00" />
 <script type="application/ld+json">
-{"datePublished":"2021-07-30T00:00:00-05:00","url":"https://jmmerrell.github.io/ws/poop/stuff/2021/07/30/youtube_views_xgboost.html","@type":"BlogPosting","image":"https://jmmerrell.github.io/ws/images/padelpy.png","headline":"How to get started on Kaggle Competitions","dateModified":"2021-07-30T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://jmmerrell.github.io/ws/poop/stuff/2021/07/30/youtube_views_xgboost.html"},"description":"Step by step guide on how to structure your Data Science projects on Kaggle.","@context":"https://schema.org"}</script>
+{"datePublished":"2021-07-30T00:00:00-05:00","url":"https://jmmerrell.github.io/ws/xgboost/youtube/api/google%20vision/2021/07/30/youtube_views_xgboost.html","@type":"BlogPosting","image":"https://jmmerrell.github.io/ws/images/youtube.jpg","headline":"YouTube Views with XGBoost","dateModified":"2021-07-30T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://jmmerrell.github.io/ws/xgboost/youtube/api/google%20vision/2021/07/30/youtube_views_xgboost.html"},"description":"Predicting views using XGBoost and data from YouTube and Google APIs","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/ws/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://jmmerrell.github.io/ws/feed.xml" title="Jacob Merrell" /><link rel="shortcut icon" type="image/x-icon" href="/ws/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -72,7 +72,7 @@ window.onload = wrap_img;
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">How to get started on Kaggle Competitions</h1><p class="page-description">Step by step guide on how to structure your Data Science projects on Kaggle.</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2021-07-30T00:00:00-05:00" itemprop="datePublished">
+    <h1 class="post-title p-name" itemprop="name headline">YouTube Views with XGBoost</h1><p class="page-description">Predicting views using XGBoost and data from YouTube and Google APIs</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2021-07-30T00:00:00-05:00" itemprop="datePublished">
         Jul 30, 2021
       </time>
        • <span class="read-time" title="Estimated read time">
@@ -85,10 +85,16 @@ window.onload = wrap_img;
     
       <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
       
-        <a class="category-tags-link" href="/ws/categories/#poop">poop</a>
+        <a class="category-tags-link" href="/ws/categories/#XGBoost">XGBoost</a>
         &nbsp;
       
-        <a class="category-tags-link" href="/ws/categories/#stuff">stuff</a>
+        <a class="category-tags-link" href="/ws/categories/#YouTube">YouTube</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/ws/categories/#API">API</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/ws/categories/#Google Vision">Google Vision</a>
         
       
       </p>
@@ -99,19 +105,19 @@ window.onload = wrap_img;
         <div class="pb-5 d-flex flex-wrap flex-justify-end">
           <div class="px-2">
 
-    <a href="https://github.com/jmmerrell/ws/tree/master/_notebooks/youtube_views_xgboost.ipynb" role="button" target="_blank">
+    <a href="https://github.com/jmmerrell/ws/tree/master/_notebooks/2021-07-30-youtube_views_xgboost.ipynb" role="button" target="_blank">
 <img class="notebook-badge-image" src="/ws/assets/badges/github.svg" alt="View On GitHub">
     </a>
 </div>
 
           <div class="px-2">
-    <a href="https://mybinder.org/v2/gh/jmmerrell/ws/master?filepath=_notebooks%2Fyoutube_views_xgboost.ipynb" target="_blank">
+    <a href="https://mybinder.org/v2/gh/jmmerrell/ws/master?filepath=_notebooks%2F2021-07-30-youtube_views_xgboost.ipynb" target="_blank">
         <img class="notebook-badge-image" src="/ws/assets/badges/binder.svg" alt="Open In Binder"/>
     </a>
 </div>
 
           <div class="px-2">
-    <a href="https://colab.research.google.com/github/jmmerrell/ws/blob/master/_notebooks/youtube_views_xgboost.ipynb" target="_blank">
+    <a href="https://colab.research.google.com/github/jmmerrell/ws/blob/master/_notebooks/2021-07-30-youtube_views_xgboost.ipynb" target="_blank">
         <img class="notebook-badge-image" src="/ws/assets/badges/colab.svg" alt="Open In Colab"/>
     </a>
 </div>
@@ -146,7 +152,7 @@ window.onload = wrap_img;
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
-# file to edit: _notebooks/youtube_views_xgboost.ipynb
+# file to edit: _notebooks/2021-07-30-youtube_views_xgboost.ipynb
 -->
 
 <div class="container" id="notebook-container">
@@ -1611,10 +1617,6 @@ dtype: int64
 </div>
 </div>
 
-<p>div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</p>
-
 
 
   </div><!-- from https://github.com/utterance/utterances -->
@@ -1625,7 +1627,7 @@ dtype: int64
         theme="github-light"
         crossorigin="anonymous"
         async>
-</script><a class="u-url" href="/ws/poop/stuff/2021/07/30/youtube_views_xgboost.html" hidden></a>
+</script><a class="u-url" href="/ws/xgboost/youtube/api/google%20vision/2021/07/30/youtube_views_xgboost.html" hidden></a>
 </article>
       </div>
     </main><footer class="site-footer h-card">
