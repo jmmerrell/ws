@@ -1,0 +1,330 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,xxlkeRuAhbs,Las razones que los Gringos prefieren Las Latinas!,50,8,0.0,0,2020-09-22,14:28:46,1,afternoon,697237,48037,490,0,9114,7.483333333333333,hd,false,True,https://i.ytimg.com/vi/xxlkeRuAhbs/maxresdefault.jpg,1280,720,"['THE NARROWS HIKE', 'The Narrows', 'Zion National Park', 'hiking The Narrows', 'Utah', 'Zion National Park hikes', 'Hikes to do in Zion National Park', 'Things to do in Zion National Park', 'cool hikes', 'awesome hikes', 'river trekking', 'coolest US hikes', 'Hikes to do in Utah', 'Utah hikes', 'nates adventures', 'hiking', 'river', 'waders', 'Zion Utah', 'Tecotzky', 'US National Parks', 'Coolest national parks']",22,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Siempre me preguntan si a mi me gustan las mujeres latinas.  Yo creo que la mujer latina es la mas trabajadora y buena en todo el mundo.  Quería analizar un poco mas las razones por la cual los gringos prefieren mujeres latinas. 
+
+Musica:
+mood. by sakura Hz https://soundcloud.com/sakurahertz
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: https://bit.ly/mood-sakura-hz
+Music promoted by Audio Library https://youtu.be/KwGZ30_QCDU"
+1,668kXuxVKMw,Jacob por fin Conoce a Su Novia Paraguaya!!,43,8,0.0,0,2021-05-06,13:32:26,3,afternoon,160619,5453,61,0,617,4.833333333333333,hd,false,True,https://i.ytimg.com/vi/668kXuxVKMw/maxresdefault.jpg,1280,720,"['THE NARROWS HIKE', 'The Narrows', 'Zion National Park', 'hiking The Narrows', 'Utah', 'Zion National Park hikes', 'Hikes to do in Zion National Park', 'Things to do in Zion National Park', 'cool hikes', 'awesome hikes', 'river trekking', 'coolest US hikes', 'Hikes to do in Utah', 'Utah hikes', 'nates adventures', 'hiking', 'river', 'waders', 'Zion Utah', 'Tecotzky', 'US National Parks', 'Coolest national parks']",22,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,Mi hermano Jacob por fin conoce a su novia paraguaya!!! hace un año que han estado hablando y hoy por fin pudieron conocerse!! están contentos ahora!
+2,vNEmruqh43g,Como Conquistar a un Gringo!,28,5,0.0,0,2020-11-17,12:00:13,1,afternoon,110035,10520,60,0,2290,7.1,hd,false,True,https://i.ytimg.com/vi/vNEmruqh43g/maxresdefault.jpg,1280,720,"['THE NARROWS HIKE', 'The Narrows', 'Zion National Park', 'hiking The Narrows', 'Utah', 'Zion National Park hikes', 'Hikes to do in Zion National Park', 'Things to do in Zion National Park', 'cool hikes', 'awesome hikes', 'river trekking', 'coolest US hikes', 'Hikes to do in Utah', 'Utah hikes', 'nates adventures', 'hiking', 'river', 'waders', 'Zion Utah', 'Tecotzky', 'US National Parks', 'Coolest national parks']",22,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Les voy a ayudar para saber cuales son los secretos de conquistar hombres gringos.  Si tienen otras buenas ideas, favor de dejarlos en los comentarios abajo.
+
+Music:
+
+––––––––––––––––––––––––––––––
+My Itinerary by Tokyo Music Walker https://soundcloud.com/user-356546060 
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0 
+Free Download / Stream: https://bit.ly/t-w-my-itinerary
+Music promoted by Audio Library https://youtu.be/AKy14wPxaSo
+––––––––––––––––––––––––––––––"
+3,VONySY0TeUY,Mi Opinión de Paraguay ha Cambiado! - miren todo para saber porque,66,11,0.0,0,2020-12-29,09:52:06,1,morning,72767,7237,50,0,952,7.933333333333334,hd,false,True,https://i.ytimg.com/vi/VONySY0TeUY/maxresdefault.jpg,1280,720,"['THE NARROWS HIKE', 'The Narrows', 'Zion National Park', 'hiking The Narrows', 'Utah', 'Zion National Park hikes', 'Hikes to do in Zion National Park', 'Things to do in Zion National Park', 'cool hikes', 'awesome hikes', 'river trekking', 'coolest US hikes', 'Hikes to do in Utah', 'Utah hikes', 'nates adventures', 'hiking', 'river', 'waders', 'Zion Utah', 'Tecotzky', 'US National Parks', 'Coolest national parks']",22,22,none,,,Nathan Seastrand,43100,1929473,59,Despues de mi viaje con mi hermano mi opinión de Paraguay ha cambiado.  Ahora lo amo Aún más!! Descubrí cosas que no conocía y quería hablar de eso.
+4,ivRqqlR2iaA,Primer Día en Paraguay! - fue espectacular,42,6,0.0,0,2020-12-07,08:00:25,0,morning,55129,5559,32,0,473,7.666666666666667,hd,false,True,https://i.ytimg.com/vi/ivRqqlR2iaA/maxresdefault.jpg,1280,720,"['THE NARROWS HIKE', 'The Narrows', 'Zion National Park', 'hiking The Narrows', 'Utah', 'Zion National Park hikes', 'Hikes to do in Zion National Park', 'Things to do in Zion National Park', 'cool hikes', 'awesome hikes', 'river trekking', 'coolest US hikes', 'Hikes to do in Utah', 'Utah hikes', 'nates adventures', 'hiking', 'river', 'waders', 'Zion Utah', 'Tecotzky', 'US National Parks', 'Coolest national parks']",22,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"@zachseastrand y yo recorrimos Capiatá y la costanera en Asunción hoy.  fue super lindo y divertido.  Comimos en la casa de una de mis familias favoritas en toda Paraguay! Estamos super contentos con todo!
+
+Musica: 
+
+ ––––––––––––––––––––––––––––––
+Free Range by Mona Wonderlick https://soundcloud.com/monawonderlick
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: http://bit.ly/-free-range
+Music promoted by Audio Library https://youtu.be/XcqtbhIc1ZQ
+––––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––––
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing
+––––––––––––––––––––––––––––––"
+5,Z9vHpkz2Cgs,El Caribe en Paraguay? - Las Dunas de San Cosme,47,9,0.0,0,2020-12-21,17:44:04,0,afternoon,54448,4534,16,0,387,7.566666666666666,hd,false,True,https://i.ytimg.com/vi/Z9vHpkz2Cgs/maxresdefault.jpg,1280,720,"['THE NARROWS HIKE', 'The Narrows', 'Zion National Park', 'hiking The Narrows', 'Utah', 'Zion National Park hikes', 'Hikes to do in Zion National Park', 'Things to do in Zion National Park', 'cool hikes', 'awesome hikes', 'river trekking', 'coolest US hikes', 'Hikes to do in Utah', 'Utah hikes', 'nates adventures', 'hiking', 'river', 'waders', 'Zion Utah', 'Tecotzky', 'US National Parks', 'Coolest national parks']",22,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Tuvimos la gran suerte de poder conocer un lugar en Paraguay que es tan místico y mágico que no hay palabras para describirlo la verdad.  Este lugar es de uno de mis sueños.  Solo tienen que verlo.
+
+Musica:
+
+––––––––––––––––––––––––––––––
+Hope for Tomorrow by Tokyo Music Walker https://soundcloud.com/user-356546060 
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0 
+Free Download / Stream: https://bit.ly/hope-for-tomorrow
+Music promoted by Audio Library https://youtu.be/O_cqRiHm0KY
+––––––––––––––––––––––––––––––"
+6,jmYNjE9ZLz4,Como era que yo llegue en PARAGUAY??,36,7,0.14285714285714285,0,2020-11-12,12:31:24,3,afternoon,53213,5507,29,0,670,8.25,hd,false,True,https://i.ytimg.com/vi/jmYNjE9ZLz4/maxresdefault.jpg,1280,720,"['THE NARROWS HIKE', 'The Narrows', 'Zion National Park', 'hiking The Narrows', 'Utah', 'Zion National Park hikes', 'Hikes to do in Zion National Park', 'Things to do in Zion National Park', 'cool hikes', 'awesome hikes', 'river trekking', 'coolest US hikes', 'Hikes to do in Utah', 'Utah hikes', 'nates adventures', 'hiking', 'river', 'waders', 'Zion Utah', 'Tecotzky', 'US National Parks', 'Coolest national parks']",22,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Queria explicar mejor como es la historia de como llegue en Paraguay.  Cuento todo acá de mi experiencia y como fue que me mandaron a Asuncion como un Misionero.
+
+musica: 
+––––––––––––––––––––––––––––––
+chill. by sakura Hz https://soundcloud.com/sakurahertz
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+Free Download / Stream: http://bit.ly/chill-sakuraHz
+Music promoted by Audio Library https://youtu.be/pF2tXC1pXNo
+––––––––––––––––––––––––––––––"
+7,LbsjET_-i-E,Hablando Guaraní y Conociendo Paraguay con mi Papá!,51,8,0.0,0,2021-05-08,09:30:02,5,morning,49925,3617,14,0,352,12.883333333333333,hd,false,True,https://i.ytimg.com/vi/LbsjET_-i-E/maxresdefault.jpg,1280,720,"['paraguay', 'aventure', 'adventure', 'guarani']",4,22,none,es-419,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Mi Papá y yo nos fuimos al area de Viñas Cue, donde yo vivi antes, y vimos a amigos antiguos y hicimos amigos nuevos.  La gente paraguaya es muyyy amable y amorosa!!"
+8,evpzR649b9M,La Despedida De Jacob y Jazmin :(,33,6,0.0,0,2021-05-15,11:48:24,5,afternoon,45469,2422,15,0,273,3.183333333333333,hd,false,True,https://i.ytimg.com/vi/evpzR649b9M/hqdefault.jpg,480,360,"['paraguay', 'aventure', 'adventure', 'guarani']",4,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Jacob y Jazmin tuvieron una semana espectacular y ahora que Jacob tiene que volver a USA, ellos compartieron su ultimo abrazo por ahora"
+9,-PQ0A7jQJRM,Mi Papá Gringo intenta entender El Acento Paraguayo! - super dificíl,68,10,0.0,0,2021-03-16,16:00:01,1,afternoon,34384,2907,20,0,726,12.95,hd,false,True,https://i.ytimg.com/vi/-PQ0A7jQJRM/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],Nathan Seastrand,43100,1929473,59,"Mi Papá tiene ya 60 años pero cuando el tenia 19 años el vivió en España. El va a venir conmigo a Paraguay y quería ver si el podia entender bien la jopara paraguaya.  Cuando ves mi papa en Paraguay y le queres hablar, favor de hablarle despacio! Ikatu! Aguyje! 
+
+el video que vimos:
+
+https://www.youtube.com/watch?v=kBTqJJusTqg"
+10,2O9sCnQYfXI,"Llegando a Asunción, Paraguay!",30,4,0.0,0,2020-12-06,09:51:54,6,morning,32309,3252,14,0,347,6.483333333333333,hd,false,True,https://i.ytimg.com/vi/2O9sCnQYfXI/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Vehicle']",Nathan Seastrand,43100,1929473,59,"Hoy muy temprano por la manaña llegamos en Paraguay! mira como fue el viaje con todo lo que tuvimos que hacer y las escalas para llegar acá. Mi hermano @zachseastrand estará haciendo mucho contenido también mientras que estamos acá así que síganle también! 
+
+––––––––––––––––––––––––––––––
+Track: Travel With Us — Vendredi [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o-rpKzt4KSY
+Free Download / Stream: https://alplus.io/travel-us
+––––––––––––––––––––––––––––––"
+11,ItmxDyT9KrI,La Vida del Campo Paraguayo - tranquiloite,42,6,0.0,0,2020-12-14,08:00:05,0,morning,24984,2419,11,0,252,9.066666666666666,hd,false,True,https://i.ytimg.com/vi/ItmxDyT9KrI/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Mi hermano @zachseastrand y yo nos fuimos al campo para vivir la vida tranquila.  Yo soy un campesino luego y me encanta estar en la naturaleza pura.  Este video muestra como es la vida del campo.  
+
+musica:
+
+––––––––––––––––––––––––––––––
+Suede by Mona Wonderlick https://soundcloud.com/monawonderlick
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: http://bit.ly/-suede
+Music promoted by Audio Library https://youtu.be/4RYlfOUnrLM
+––––––––––––––––––––––––––––––"
+12,KnaoKBCHf5g,Tirandonos en Pozo Hondo - y comiendo mbeju,43,7,0.0,0,2020-12-15,08:41:36,1,morning,24644,2512,5,0,219,7.016666666666667,hd,false,True,https://i.ytimg.com/vi/KnaoKBCHf5g/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,"Mi hermano y yo nos fuimos con Rocio Ojeda, una viajera famosa acá en Paraguay, y su prima Paola, a Pozo Hondo.  Pozo Hondo es un lugar pasando San Jose de los Arroyos donde uno puede tirarse en el rio.  Estuvo demasiado rico y divertido.  Después hicimos tortilla y mbeju.  
+
+Musica:
+
+––––––––––––––––––––––––––––––
+Track: Resiliencia — Hiracutch [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/OEhXxvqQDvM
+Free Download / Stream: https://alplus.io/resiliencia
+––––––––––––––––––––––––––––––"
+13,SC2OHdr2-iY,Una Lagartija me atacó! y Perdí mi Celular! - Ultimo dia en Asunción,68,12,0.0,0,2020-12-13,16:40:54,6,afternoon,23486,2185,5,0,290,7.1,hd,false,True,https://i.ytimg.com/vi/SC2OHdr2-iY/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"Hoy fue un dia super super loco.  Me fui al parque de ñu guazu en Luque y casi fui matado por una lagartija jajaj. y después yendo al mercado de San Lorenzo deje mi celular en el Uber.  Pero siempre todo con una sonrisa! estoy disfrutando al máximo!
+
+musica:
+
+––––––––––––––––––––––––––––––
+Frames by Pyrosion https://soundcloud.com/pyrosion
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: http://bit.ly/_frames
+Music promoted by Audio Library https://youtu.be/cx0IXLArwtE
+––––––––––––––––––––––––––––––"
+14,7J8pgyMJw8I,Las Cataratas de Monday! - un dia increible!,44,7,0.0,0,2020-12-17,06:17:04,3,morning,22564,2439,13,0,275,6.25,hd,false,True,https://i.ytimg.com/vi/7J8pgyMJw8I/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"Nos fuimos a Ciudad del Este para poder ver la majestuosa catarata de Monday.  Este lugar es mágico la verdad.  Y te dejan acercarte mucho a la catarata. Eso es algo que en muchos otros lugares no te dejan entonces es una oportunidad increíble. 
+
+musica: 
+
+Song: Fredji - Blue Sky (Vlog No Copyright Music)
+Music provided by Vlog No Copyright Music.
+Video Link: https://youtu.be/Hf6vHY0lQTI"
+15,GUBBvyRUNIw,El Gringo Se Gusta de Ti??? - (como puedes saber),49,9,0.0,0,2021-01-21,08:30:02,3,morning,21407,1981,15,0,452,10.433333333333334,hd,false,True,https://i.ytimg.com/vi/GUBBvyRUNIw/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,Les estoy compartiendo algunos de los secretos importantes de poder averiguar si el gringo que te gusta esta interesado en ti.  Hay que aprovechar de esta información valiosa.
+16,VkGFvzeB0wo,Explorando Mercado 4 - día numero tres,38,6,0.0,0,2020-12-09,08:00:11,2,morning,20699,2611,9,0,314,6.1,hd,false,True,https://i.ytimg.com/vi/VkGFvzeB0wo/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"Hoy nos fuimos al mercado para comprar un nuevo equipo del tereré porque mi hermano nunca ha tenido uno.  También era feriado. Y también visité a la familia Ojeda cuál es una familia muy querida para mi. 
+
+Musica: 
+
+––––––––––––––––––––––––––––––
+30 Million Times (instrumental) by RYYZN https://soundcloud.com/ryyzn
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0
+Free Download / Stream: http://bit.ly/-30-million-times
+Music promoted by Audio Library https://youtu.be/IpVOhMdN_9w
+––––––––––––––––––––––––––––––"
+17,NOtfLbNrqfU,Mi cumpleaños en Paraguay - un día muy Kaigue,45,8,0.0,0,2020-12-11,08:00:05,4,morning,20449,2630,6,0,503,8.333333333333334,hd,false,True,https://i.ytimg.com/vi/NOtfLbNrqfU/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Pasé mi cumple acá en Paraguay y fue un dia perfecto para relajar y no hacer mucho.  Gracias por todos los mensajes y cosas positivas que me han enviado! les quiero mucho
+
+Musica:
+
+––––––––––––––––––––––––––––––
+Mrs. Zazzara by Loxbeats https://soundcloud.com/loxbeats
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+Free Download / Stream: http://bit.ly/2TR3f1A
+Music promoted by Audio Library https://youtu.be/Ct2MXTilkdk
+––––––––––––––––––––––––––––"
+18,5m_GqAQiDwE,a Gringo with the Paî Tavyterá tribe in Paraguay - Hablando en Guarani,70,12,0.0,0,2021-05-22,15:38:45,5,afternoon,20274,1806,6,0,266,13.8,hd,false,True,https://i.ytimg.com/vi/5m_GqAQiDwE/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Con Jaikuaa Paraguay el grupo que hace ayuda social con los indigenas, me fui a conocer este lugar increíble en Amambay y también ayudar entregar las donaciones que uds han dado.  Espero que en el futuro podamos seguir con esto y seguir recibiendo donaciones para ayudarles.  Si quieres ayudar favor de contactar con @Jaikuaaparaguay en instagram."
+19,M9wbV3-z-54,La Mujer Latina es la Más Bella! - según un gringo,50,10,0.0,0,2020-12-02,08:00:06,2,morning,20031,2163,19,0,497,8.616666666666667,hd,false,True,https://i.ytimg.com/vi/M9wbV3-z-54/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Health', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,"Yo creo que la mujer latina es la mujer más bella en todo el mundo y en todos sentidos.  Este video no es para hablar mal de nadie solo para apreciar lo que es la belleza latina.  También quiero recordarlas, belleza interior es la belleza importante.  No sirve ser bello por afuera si estas podrido por adentro.  
+
+Musica: 
+
+––––––––––––––––––––––––––––––
+You & I by Soyb & Amine Maxwell
+https://soundcloud.com/soybmusic
+https://soundcloud.com/aminemaxwell
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: http://bit.ly/l-you-and-i
+Music promoted by Audio Library https://youtu.be/NS71HLgd9q4
+––––––––––––––––––––––––––––––"
+20,3opnp7BMW8A,Cocinando Tortilla Paraguaya para mi hermano!,45,6,0.0,0,2020-10-20,14:54:54,1,afternoon,19094,2025,3,0,304,4.4,hd,false,True,https://i.ytimg.com/vi/3opnp7BMW8A/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,"Mi hermano Zach queria probar comida paraguaya entonces le hice tortilla paraguaya para ver si le gusta. Mira para comparar tu receta con la mía. 
+
+Musica:
+
+––––––––––––––––––––––––––––––
+Riviera by Smith The Mister https://smiththemister.bandcamp.com 
+Smith The Mister https://bit.ly/Smith-The-Mister-YT 
+Free Download / Stream: https://bit.ly/al-riviera
+Music promoted by Audio Library https://youtu.be/qonPqql2sP0
+––––––––––––––––––––––––––––––"
+21,dCBd23z-1_c,Jardín Botanico en Asunción! - día numero dos,45,7,0.0,0,2020-12-08,08:00:20,1,morning,17521,2229,3,0,236,5.416666666666667,hd,false,True,https://i.ytimg.com/vi/dCBd23z-1_c/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Pasamos el dia recorriendo el jardín botánico tomando fotos y apreciando la belleza que hay adentro! 
+Musica:
+––––––––––––––––––––––––––––––
+Trust Me (instrumental) by RYYZN https://soundcloud.com/ryyzn
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0
+Free Download / Stream: https://bit.ly/trust-me-instrumental
+Music promoted by Audio Library https://youtu.be/KZoaU3rjIZo
+––––––––––––––––––––––––––––––"
+22,z_cwhmuqG-g,50 Cosas Sobre Mi!,18,4,0.0,0,2021-01-17,13:36:05,6,afternoon,16381,2176,3,0,553,15.166666666666666,hd,false,True,https://i.ytimg.com/vi/z_cwhmuqG-g/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Health', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,Aca quiero que uds puedan conocerme un poco mejor!  Les doy 50 cosas sobre mi para que sepan como soy realmente y quien realmente es Nathan Seastrand
+23,DyyZ6ZrzPhY,Jacob tiene Novia Paraguaya? y la Beca de Guaraní? - unos anuncios,66,11,0.0,0,2021-03-26,16:00:03,4,afternoon,14897,1580,9,0,374,9.2,hd,false,True,https://i.ytimg.com/vi/DyyZ6ZrzPhY/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,Este video es para decirlos lo que esta pasando en mi vida ahorita y cuales son las metas para los meses siguientes.  Cosas super lindas están por venir.  LES AMO A TODOS!
+24,poVTpHB-KGE,Una Navidad con regalos Paraguayos! - navidad en gringolandia,61,8,0.0,0,2020-12-26,15:23:23,5,afternoon,13989,1687,7,0,202,6.883333333333333,hd,false,True,https://i.ytimg.com/vi/poVTpHB-KGE/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Queria compartir mi navidad con uds.  Mi hermano y yo compramos algunos regalitos de Paraguayitamia, una tienda en Asuncion, para dar a nuestra familia. Feliz Navidad para todos."
+25,QXW5AAQwMmI,Gringo Hace Mbeju! y su Familia Gringa lo prueba,48,9,0.0,0,2020-08-07,13:38:16,4,afternoon,13836,1572,0,0,101,3.8,hd,false,True,https://i.ytimg.com/vi/QXW5AAQwMmI/hqdefault.jpg,480,360,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,Yo cocino Mbeju para mi familia y les dejo probar por primera vez esta rica comida tradicional de Paraguay
+26,ULLtZZoQd-4,Como Conquistar a Una Latina! - según las latinas en Tik Tok,60,11,0.0,0,2021-01-07,08:30:06,3,morning,13347,1236,13,0,587,10.9,hd,false,True,https://i.ytimg.com/vi/ULLtZZoQd-4/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,Uds me dieron muchas respuestas buenas en Tik Tok de como los gringos deberían portarse para tener mejor suerte con mujeres latinas.  Acá los leo y doy mi reacción.
+27,k077ATLqPFc,El Celeste más Río en el Mundo! - Costa Rica,44,9,0.0,0,2021-03-09,09:30:04,1,morning,13090,957,12,0,218,7.166666666666667,hd,false,True,https://i.ytimg.com/vi/k077ATLqPFc/maxresdefault.jpg,1280,720,"['Guarani', 'paraguay', 'Asuncion', 'paraguayo', 'jopara', 'español']",6,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,Celeste el Rio.  el Rio Celeste. Que Excelente.
+28,ApwxHmw03uE,Vimos Monos!! 🐒 y Playa del Paraíso! 🏖️,39,6,0.0,0,2021-03-02,09:30:00,1,morning,13049,844,7,0,176,9.7,hd,false,True,https://i.ytimg.com/vi/ApwxHmw03uE/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,es-419,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"Mi hermano Zach y yo pasamos el dia en Manuel Antonio, un parque nacional de Costa Rica, acá puedes ver como pasamos."
+29,s9iudt_o1Ao,Sopa Paraguaya VS. Chipa Guazu! - Hecho por el Yankiguayo,57,9,0.1111111111111111,0,2021-01-25,08:30:09,0,morning,12492,1745,3,0,367,13.716666666666667,hd,false,True,https://i.ytimg.com/vi/s9iudt_o1Ao/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,"En Paraguay hay una gran rivalidad entre dos de las comidas típicas del país.  Todos siempre te preguntan, cual te gusta mas? Chipa Guazu? o Chipa Paraguaya? quería hacerlas en mi casa para que mi familia pruebe, y alli vemos entre unos gringos, cual les gusta mas!"
+30,sPRjKQmRdbg,Salto Cristal! - El Símbolo de Paraguay,39,6,0.0,0,2020-12-23,13:06:23,2,afternoon,12264,1334,6,0,111,5.783333333333333,hd,false,True,https://i.ytimg.com/vi/sPRjKQmRdbg/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"Cumplí un sueño mío, para conocer la belleza que es Salto Cristal.  Estuvo aún más hermoso de lo que esperaba.  Que lugar tan maravilloso! Esto es Paraguay!
+
+Musica:
+
+––––––––––––––––––––––––––––––
+Track: Rainforest — Vendredi [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/8s2gIOsxMok
+Free Download / Stream: https://alplus.io/rainforest
+––––––––––––––––––––––––––––––"
+31,Zeg5uZnO_iY,Vimos un serpiente venenoso! - Cerro Santo Tomás,48,7,0.0,0,2021-05-13,07:00:27,3,morning,11831,1420,3,0,232,8.633333333333333,hd,false,True,https://i.ytimg.com/vi/Zeg5uZnO_iY/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,Subimos el cerro santo tomas en Paraguari.  Fue super super divertido.
+32,iqr40wGcTaw,Las Ruinas Jesuiticas! y El Río Paraná!,39,7,0.0,0,2020-12-19,12:19:46,5,afternoon,11349,1271,4,0,239,6.233333333333333,hd,false,True,https://i.ytimg.com/vi/iqr40wGcTaw/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"M amiga Gloria Endler nos invitó a conocer su ciudad y las ruinas que están por alla.  El Sur de Paraguay es divino.
+
+musica:
+
+––––––––––––––––––––––––––––––
+Secrets (instrumental) by RYYZN https://soundcloud.com/ryyzn
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0
+Free Download / Stream: https://bit.ly/secrets-i
+Music promoted by Audio Library https://youtu.be/8OrmpZtRl_U
+––––––––––––––––––––––––––––––"
+33,d0-fDJIz5tg,VOY A PARAGUAY!,15,3,1.0,0,2020-10-25,14:29:06,6,afternoon,10913,1400,6,0,190,3.9166666666666665,hd,false,True,https://i.ytimg.com/vi/d0-fDJIz5tg/hqdefault.jpg,480,360,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Pues estoy super emocionado para anunciar que compré mi vuelo a Paraguay! Estaré yendo con mi hermano en Diciembre.  Solo podremos estar alla por dos semanas pero disfrutaremos el tiempo al maximo.  Yo se que es poco tiempo pero es que la situacion de familia y cosas asi no permite ahora que sea mas largo el viaje.  Pero, uds ya saben que Paraguay será una gran parte de mi futuro y estaré volviendo muy pronto otra vez!! y esa vez me quedaré mucho mas tiempo.
+musica:
+––––––––––––––––––––––––––––––
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing
+––––––––––––––––––––––––––––––"
+34,mDq3td6atzY,Preguntas Muy Muy Incomodas!  - mucha vergüenza,47,6,0.0,0,2021-01-12,09:00:30,1,morning,10699,1054,12,0,394,10.633333333333333,hd,false,True,https://i.ytimg.com/vi/mDq3td6atzY/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,Les prometi que les iba a contestar sus preguntas mas locas de Instagram.  Uds me enviaron preguntas aun mas incomodas de lo que esperaba jaja pero igual voy a contestarlas.
+35,-3wA-rWkHjw,Primera Vez en Costa Rica!,26,5,0.0,0,2021-02-22,09:45:00,0,morning,10064,846,4,0,182,6.8,hd,false,True,https://i.ytimg.com/vi/-3wA-rWkHjw/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"Yo soy el yankiguayo, o sea, el gringo paraguayo, y Zach mi hermano me invitó a ir a Costa Rica con el para conocer mejor el país.  Entonces acá estamos y estamos divirtiéndonos. Pura Vida!  me han dicho esta frase ya como 10000000000 veces. jaja"
+36,fckn_LqAqJ0,No Hagas Esto en Paraguay! - según unos extranjeros,51,8,0.0,0,2021-04-18,13:00:17,6,afternoon,9923,1117,9,0,234,18.3,hd,false,True,https://i.ytimg.com/vi/fckn_LqAqJ0/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Encontre un video interesante hablando de cosas que uno no debería hacer si están en Paraguay.  Yo quería ver cuánto razón tenían en sus puntos 
+
+aca esta el video original si quieren verlo:
+
+https://www.youtube.com/watch?v=j-HDAKHnZYY"
+37,knOHhD3E0Qg,Paraíso Paraguayo Imposible de Encontrar - el ojo del mar,57,9,0.0,0,2021-06-15,09:00:26,1,morning,9702,1120,2,0,166,10.1,hd,false,True,https://i.ytimg.com/vi/knOHhD3E0Qg/hqdefault.jpg,480,360,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,Nos fuimos lejos para encontrar y llegar a un punto super aislado y difícil de encontrar.  Lo que encontramos es una belleza natural espectacular.
+38,cnOtQbnK48I,La Heroica Mujer Paraguaya 🇵🇾 - una carta de amor,49,8,0.0,0,2021-02-24,08:45:01,2,morning,9248,1278,3,0,146,6.116666666666666,hd,false,True,https://i.ytimg.com/vi/cnOtQbnK48I/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,Hoy es día de la mujer paraguaya! así que quería compartir algunos de mis sentimientos en cuanto de eso.  Feliz Día!
+39,tGa8oG5Bkn0,Empanadas Gringas y Mate Dulce!,31,5,0.0,0,2020-11-22,14:00:08,6,afternoon,8354,1107,4,0,278,5.066666666666666,hd,false,True,https://i.ytimg.com/vi/tGa8oG5Bkn0/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,"Chef Seastrand está de vuelta en la cocina.  Soy amante de la comida y queiro compartir mis métodos con uds! 
+
+––––––––––––––––––––––––––––––
+Wings Of Norway by Scandinavianz https://soundcloud.com/scandinavianz
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+Free Download / Stream: https://bit.ly/wings-of-norway
+Music promoted by Audio Library https://youtu.be/71enqnxhJZI
+––––––––––––––––––––––––––––––"
+40,--OAyxA_EHE,Gringo Tarzan Exploring Paraguayan Jungle!,42,5,0.0,0,2021-06-08,09:00:00,1,morning,8022,847,2,0,181,14.733333333333333,hd,false,True,https://i.ytimg.com/vi/--OAyxA_EHE/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"English Below- 
+
+El bosque Paraguayo es un lugar lleno de riqueza acuática y cultura indígena.  Me fui a la ciudad de Yby Yau para verlo con mis ojos y para seguir siendo el Tarzan Paraguayo.
+
+The Paraguayan jungle is a place field with beautiful waterfalls and indigenous cultures.  I went to the city of Yby Yau to see it with my own eyes and to continue being the Paraguayan Tarzan."
+41,6zukBHyGCjE,Gringo Speaking Guaraní - un gringo hablando en guaraní,55,8,0.0,0,2021-06-03,09:00:05,3,morning,7901,1148,3,0,339,5.483333333333333,hd,false,True,https://i.ytimg.com/vi/6zukBHyGCjE/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Español abajo- 
+-I have lived in Paraguay on and off since 2014 and I love this country.  Paraguay is the only country in the world with two official national languages.  Those being Guaraní and Spanish.  Guaraní is the indigenous language of the Paraguay region and it has persisted to this day.  I am currently on a scholarship from my university to learn this beautiful language.  
+
+-He vivido en Paraguay de forma intermitente desde 2014 y amo este país. Paraguay es el único país del mundo con dos idiomas nacionales oficiales. El Guaraní y el Español. El guaraní es la lengua indígena de la región de Paraguay y ha persistido hasta el día de hoy. Actualmente estoy con una beca de mi universidad para aprender este hermoso idioma."
+42,KrqGa7AqeL8,Gringos Juegan Piki Voley!,26,4,0.0,0,2020-07-09,00:37:56,3,late_night,7218,759,2,0,63,4.633333333333333,hd,false,True,https://i.ytimg.com/vi/KrqGa7AqeL8/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Tres gringos jugando un torneo del deporte paraguayo, Piki Voley. Espero que disfruten nuestro increible talento. O sea, el talento que no tenemos."
+43,m0TrQVmcW7c,Como es Halloween en Los Estados Unidos? - Vlog #6,50,9,0.0,0,2020-11-02,11:30:03,0,afternoon,7073,738,2,0,112,7.216666666666667,hd,false,True,https://i.ytimg.com/vi/m0TrQVmcW7c/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Hice este video para mostrarles a uds exactamente como es un Halloween estadounidense.  Yo no juzgo a nadie por sus opiniones de Halloween pero solo queria mostrar y aclarar como es en mi pais para que algunos puedan entenderlo mejor.  
+
+musica: 
+
+––––––––––––––––––––––––––––––
+Mystery by GoSoundtrack http://www.gosoundtrack.com/
+Creative Commons — Attribution 4.0 International — CC BY 4.0
+Free Download / Stream: http://bit.ly/mystery-gosoundtrack
+Music promoted by Audio Library https://youtu.be/8TKy9bzrk24
+––––––––––––––––––––––––––––––
+Track: SkyHigh — Enine [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/q-lf6x9cVXw
+Free Download / Stream: https://alplus.io/skyhigh
+––––––––––––––––––––––––––––––"
+44,TIMtu5yGzHo,"Tereré, Hamaca, y Montañas - Vlog #2",36,6,0.0,0,2020-08-19,15:58:15,2,afternoon,6956,730,1,0,52,5.4,hd,false,True,https://i.ytimg.com/vi/TIMtu5yGzHo/hqdefault.jpg,480,360,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,"Hice un viaje chiquito para probar la nueva hamaca que compré de Kyha Mundore.  Fue super lindo el día y quería compartirlo con Uds! 
+
+Musica:
+
+––––––––––––––––––––––––––––––
+When I Was A Boy by Tokyo Music Walker 
+https://soundcloud.com/user-356546060
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+Free Download / Stream: https://bit.ly/when-i-was-a-boy
+Music promoted by Audio Library https://youtu.be/04yvWXw5Szk
+––––––––––––––––––––––––––––––"
+45,t8kJrWzmKQs,La Latina Te Quiere? 🤔 es Posible Que NO 😓 - te muestro como saber,66,12,0.08333333333333333,1,2021-02-14,08:30:04,6,morning,6613,718,6,0,205,9.183333333333334,hd,false,True,https://i.ytimg.com/vi/t8kJrWzmKQs/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Feliz Dia de San Valentin!!!  aca estoy compartiendo los secretos de las mujeres y como ellos muestran que no tienen interés atraves de sus respuestas.  
+
+Si te gusta el video denle like y suscríbanse!"
+46,XdfEPSeVc0E,Mis aventuras en California! - Vlog #1,38,6,0.0,0,2020-08-16,16:41:12,6,afternoon,6449,666,0,0,105,14.833333333333334,hd,false,True,https://i.ytimg.com/vi/XdfEPSeVc0E/hqdefault.jpg,480,360,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,"Quiero que me acompañen en mis aventuras en California. Me divertí mucho en este viaje y quiero compartirlo con todos ustedes. Hice este video especialmente para que todos sintieran que estaban conmigo en California.
+
+Music:
+
+Buddha by Kontekst https://soundcloud.com/kontekstmusic
+Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0
+Free Download / Stream: http://bit.ly/2Pe7mBN
+Music promoted by Audio Library https://youtu.be/b6jK2t3lcRs
+
+California by Soyb & Amine Maxwell
+https://soundcloud.com/soybmusic
+https://soundcloud.com/aminemaxwell
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: https://bit.ly/syb-amine-california
+Music promoted by Audio Library https://youtu.be/aXCwXsa2T4E
+
+Sunshine by urpleactus https://soundcloud.com/urpleactus
+Creative Commons — Attribution-NonCommercial-ShareAlike 3.0 Unported — CC BY-NC-SA 3.0
+Free Download / Stream: https://bit.ly/sunshine-urpleactus
+Music promoted by Audio Library https://youtu.be/wARJp5YOUUo
+
+Music: Spark - ALBIS https://youtu.be/YSsIM2JR5gI
+
+Scandinavianz- Vacation (Vlog) D-L by Scandinavianz https://soundcloud.com/scandinavianz
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+Free Download / Stream: https://bit.ly/_vacation
+Music promoted by Audio Library https://youtu.be/7dswC8QFiwU
+
+A Little High by GoSoundtrack http://www.gosoundtrack.com
+Creative Commons — Attribution 4.0 International — CC BY 4.0
+Free Download / Stream: http://bit.ly/a-little-high
+Music promoted by Audio Library https://youtu.be/GG7qzAOfWCI"
+47,5nNE__9_TKA,Gringo aprende Guaraní - (como van las clases?),47,7,0.0,0,2021-02-10,08:30:00,2,morning,6421,924,1,0,196,13.066666666666666,hd,false,True,https://i.ytimg.com/vi/5nNE__9_TKA/maxresdefault.jpg,1280,720,"['Costa Rica', 'playa', 'viaje', 'viajero', 'vlog', 'gringo', 'turismo', 'vacaciones', 'paraguay']",9,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,Quiero mostrarles como va mi progreso aprendiendo el bello idioma de Paraguay! Guaraní!
+48,7i4rSGbjxmc,Gringos Reaccionando a Telenovelas! - las escenas más locas,59,8,0.0,0,2021-02-01,08:30:01,0,morning,6416,640,9,0,162,17.1,hd,false,False,https://i.ytimg.com/vi/7i4rSGbjxmc/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Television_program']",Nathan Seastrand,43100,1929473,59,Mi hermano Jacob y yo damos nuestra reacción a las escenas más locas en las telenovelas latinas .
+49,TcshpGvbk9M,"El  Yankiguayo en Tulum, Mexico - Vlog #3",41,7,0.0,0,2020-09-05,13:00:04,5,afternoon,6312,571,1,0,67,12.516666666666667,hd,false,False,https://i.ytimg.com/vi/TcshpGvbk9M/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Nathan Seastrand,43100,1929473,59,Me fui con mis amigo Nate y Mason a Tulum y hicimos muchas cosas geniales.  Este viaje fue interesante porque lo hicimos durante la epoca de COVID-19 y no pense que ibamos a poder lograr viajar.  Mira para ver todos los lugares que vimos.
+50,glR84IDNqxo,Dia de Gracias (Thanksgiving) en Gringolandia!,46,6,0.0,0,2020-11-27,17:48:00,4,afternoon,6165,769,1,0,120,4.716666666666667,hd,false,True,https://i.ytimg.com/vi/glR84IDNqxo/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Quiero compartir mi dia de gracias con uds.  Quiero que vean como es la tradición acá en los Estados Unidos. 
+
+Musica: 
+
+––––––––––––––––––––––––––––––
+Ordinary Days by Tokyo Music Walker https://soundcloud.com/user-356546060 
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0 
+Free Download / Stream: https://bit.ly/-ordinary-days
+Music promoted by Audio Library https://youtu.be/P08Flc5-B68
+––––––––––––––––––––––––––––––"
+51,s9lTSSzvkDU,Mi Chipa No Me Salió Bien 😂,27,6,0.0,1,2021-04-03,16:15:01,5,afternoon,5299,908,5,0,245,5.816666666666666,hd,false,True,https://i.ytimg.com/vi/s9lTSSzvkDU/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,Es Semana Santa entonces quise hacer una comida tradicional de Paraguay que se llama chipa.  Pero parece que necesito practicar un poco más jaja.
+52,dBi9grT9RGw,Cocinando Mbeju en el Bosque!,29,5,0.0,0,2020-10-13,13:13:18,1,afternoon,4990,602,3,0,61,3.55,hd,false,True,https://i.ytimg.com/vi/dBi9grT9RGw/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,"con dos de mis amigos fui a las montañas y cociné mbeju y cocido quemado. estaba muy delicioso
+
+musica:
+
+
+––––––––––––––––––––––––––––––
+Track: Introspection — Mona Wonderlick [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/UZzuVt7nKOA
+Free Download / Stream: http://alplus.io/Introspection
+––––––––––––––––––––––––––––––"
+53,qwnlicefEF4,Guarani y Colores del Otoño - Vlog #5,37,7,0.0,0,2020-10-06,11:38:38,1,afternoon,4954,573,3,0,62,4.133333333333334,hd,false,True,https://i.ytimg.com/vi/qwnlicefEF4/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,"Mi hermana, su esposo, y yo nos fuimos a la montaña para ver los hermosos colores que hay en el Otoño en Utah.  Las hojas son divinas.  También, aproveché el tiempo para estudiar mas de mi Guaraní!
+
+Musica: 
+
+Summertime by Tokyo Music Walker https://soundcloud.com/user-356546060 
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0 
+Free Download / Stream: https://bit.ly/al-summertime
+Music promoted by Audio Library https://youtu.be/NLSaDjwnX9E"
+54,X8-dY0mt1io,Esquiar en las Montañas Conmigo - una aventura en la nieve,58,10,0.0,0,2021-01-02,08:00:07,5,morning,4389,607,1,0,124,6.85,hd,false,True,https://i.ytimg.com/vi/X8-dY0mt1io/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,Quiero que uds puedan tener la experiencia de un dia esquiando en las montañas de Utah!
+55,9iJ2MQa-1ik,el Bosque Secreto y Olvidado de Asuncion - y el museo indigena,62,11,0.0,0,2021-06-27,10:00:02,6,morning,3939,528,2,0,130,9.283333333333333,hd,false,True,https://i.ytimg.com/vi/9iJ2MQa-1ik/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,en Asuncion mismo hay un bosque que muchas personas nunca entran ni visitan y un museo alli entonces quería mostrar eso al mundo
+56,hZ9_njxBTYY,VAMOS A LAS VEGAS CON MI PAPÁ - la ciudad del pecado,52,11,0.6363636363636364,0,2021-05-01,13:00:26,5,afternoon,3269,410,0,0,95,12.816666666666666,hd,false,True,https://i.ytimg.com/vi/hZ9_njxBTYY/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Nathan Seastrand,43100,1929473,59,Rumbo a Las Vegas con mi papá para visitar a mi hermano.  Yo quería mostrarles que Las Vegas no es tanto lo que se ve en las películas.  Hay mucho más que los casinos y strippers.
+57,FWLrp6FpaqM,Haciendo una Tirolesa loca! - Vlog #4,37,6,0.0,0,2020-09-13,12:03:31,6,afternoon,2871,236,1,0,24,3.1333333333333333,hd,false,True,https://i.ytimg.com/vi/FWLrp6FpaqM/maxresdefault.jpg,1280,720,"['telenovela', 'reaction', 'react', 'gringo', 'chistoso', 'comedia']",6,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Nathan Seastrand,43100,1929473,59,"Me encanta tirarme en el agua y si hay una tirolesa, tanto mejor.  Mira para ver como estoy disfrutando mis ultimos dias del verano.  
+
+musica:
+––––––––––––––––––––––––––––––
+Track: Good Evening — Amine Maxwell [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/2BEJUXf_U38
+Free Download / Stream: https://alplus.io/good-evening
+––––––––––––––––––––––––––––––"

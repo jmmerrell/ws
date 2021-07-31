@@ -1,0 +1,976 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,o2-ftYNOWts,El Guerito REACCIONA a NO SE ACEPTAN DEVOLUCIONES,49,8,0.625,0,2021-03-26,16:15:01,4,afternoon,1203,82,0,0,22,14.5,hd,false,False,https://i.ytimg.com/vi/o2-ftYNOWts/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'no se aceptan devoluciones', 'reacciones', 'eugenio derbez', 'gringo reacciona', 'gringa reacciona', 'el guerito reacciona', 'reaccionando a un gringo en mexico', 'rusos reaccionan', 'rusos reaccionan a musica mexicana', 'ford quarterman', 'los gringo tv', 'los gringo tv en despierta america', 'instructions not included']",24,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"Reacciono a No Se Aceptan Devoluciones por primera vez! Estuvo bonita esta película. 
+
+El Guerito REACCIONA a NO SE ACEPTAN DEVOLUCIONES
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+1,UXPJzgquF5k,Amigo Mexicano ¿Cuánto Sabes? - El Güerito Aprende,50,7,0.0,0,2021-02-12,18:15:00,4,night,204,23,0,0,11,8.166666666666666,hd,false,False,https://i.ytimg.com/vi/UXPJzgquF5k/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', '¿Cuánto Sabes?', 'cuanto sabes de geografia', 'cuanto sabes de cultura general', 'datos curiosos', 'datos de mexico', 'omegle', 'trivia preguntas', 'trivia preguntas y respuestas', 'el güerito aprende', 'curiosidades del mundo', 'curiosidades de mexico']",22,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Hago preguntas sobre el país de México a personas desconocidas. ¿Cuantas sabes tu?  
+
+Amigo Mexicano ¿Cuánto Sabes? - El Güerito Aprende
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+2,1ghPWlwd0o4,Amigo Colombiano ¿Cuánto Sabes? - El Güerito Aprende,52,7,0.0,0,2021-02-19,17:15:15,4,afternoon,192,23,0,0,25,8.383333333333333,hd,false,False,https://i.ytimg.com/vi/1ghPWlwd0o4/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'omegle', 'reacciones por omegle', 'curiosidades de colombia', 'cuanto sabes de geografia', 'amigo colobiano ¿cuanto sabes?', 'el güerito aprende', 'preguntas de colombia cultura general', 'preguntas de colombia', 'argentina contra colombia', 'argentinas', 'colombiana', 'colombia']",23,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Hago preguntas del de Colombia a la gente, el ganador te va a sorprender... 
+
+Amigo Colombiano ¿Cuánto Sabes? - El Güerito Aprende
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+3,B4g4XB3TcLA,GRINGO REACCIONA a 15 cosas que MÉXICO tiene y OTROS PAÍSES NO,62,12,0.5,0,2021-06-11,18:45:00,4,night,180,27,0,0,18,9.466666666666667,hd,false,False,https://i.ytimg.com/vi/B4g4XB3TcLA/hqdefault.jpg,480,360,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español']",11,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Supiste estas cosas únicas sobre Mexico?
+
+GRINGO REACCIONA a 15 cosas que MÉXICO tiene y OTROS PAÍSES NO
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+4,-vyTmvVRZ-A,El Güerito Canta - Me Gusta Todo Ti,35,7,0.0,0,2020-12-25,16:45:00,4,afternoon,160,26,0,0,6,3.5,hd,false,False,https://i.ytimg.com/vi/-vyTmvVRZ-A/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'la banda el recodo', 'el recodo', 'banda', 'el guerito canta', 'el güerito canta', 'me gusta todo de ti', 'cantar', 'canciones', 'mujeres hermosas', 'modelo', 'modelo bonita', 'mujer hermosa', 'banda el recodo', 'gringo show', 'mexico', 'todo de ti']",22,24,none,es-MX,"['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Music_of_Latin_America']",El Güerito,226,3833,31,"Un amigo mio me pidió que hiciera este video. Fue muy divertido hacer, aunque me falta mucho para cantar bien. jaja
+
+El Güerito Canta - Me Gusta Todo Ti
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+5,vMvG5v4ka5A,El Guerito REACCIONA a NO MANCHES FRIDA,39,7,0.5714285714285714,0,2021-04-02,23:51:00,4,late_night,146,11,0,0,0,1.5666666666666667,hd,false,False,https://i.ytimg.com/vi/vMvG5v4ka5A/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'no manches frida', 'omar chaparro', 'martha higareda', 'El Guerito REACCIONA a NO MANCHES FRIDA', 'reaccionando a un gringo en mexico', 'peliculas mexicanas 2020', 'el guerito reacciona', 'gringo reacciona a', 'peliculas chistosas', 'gringo aprende español', 'conoce al gringo']",22,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"Soy un gringo conociendo a la cultura Mexicana. Me pidieron ver No Manches Frida, entonces lo hice :) Y disculpe si estabas mirando al live stream porque lo quitaron! Pero aquí esta el video completo! 
+
+El Guerito REACCIONA a NO MANCHES FRIDA
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+6,8tdJ5DnLOfw,Güerito Habla Como SINALOENSE - El Güerito Imita,48,7,0.14285714285714285,0,2021-01-15,16:45:01,4,afternoon,125,13,0,0,14,5.633333333333333,hd,false,False,https://i.ytimg.com/vi/8tdJ5DnLOfw/maxresdefault.jpg,1280,720,"['el güerito imita', 'güerito habla como sinaloense', 'el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo habla', 'gringo hablando español', 'americano hablando español', 'guero hablando español', 'reacciones', 'gringo habla como mexicano', 'acentos mexicanos', 'acento de sinaloa', 'acento sinaloense', 'Sinaloa', 'omegle', 'reacciones de omegle', 'el guerito ojos azules']",23,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Un Americano imita el acento de Sinaloa, México.. le salió bien o no?
+
+Güerito Habla Como SINALOENSE - El Güerito Imita
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+7,JgIcy1Vp-ZU,¿Cuál es la MEJOR Película Mexicana? - El Güerito Reacciona,59,9,0.1111111111111111,0,2021-03-19,16:15:00,4,afternoon,120,20,1,0,25,7.25,hd,false,False,https://i.ytimg.com/vi/JgIcy1Vp-ZU/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'pelicula mexicana', 'cine mexicano', 'cine méxico', 'cual es la mejor pelicula mexicana de todos los tiempos', '¿Cuál es la MEJOR Película Mexicana?', 'reacciones a peliculas', 'la mejor pelicula mexicana', 'eugenio derbez', 'pedro infante', 'omar chaparro', 'no manches frida', 'no se aceptan devoluciones']",23,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Pregunto a la gente cual película Mexicana es la mas chida, la mas padre. ¿Que opinas?
+
+¿Cuál es la MEJOR Película Mexicana? - El Güerito Reacciona
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+8,IP7msF60v3Q,Amigo Argentino ¿Cuánto Sabes? - El Güerito Aprende,51,7,0.0,0,2021-02-26,17:15:14,4,afternoon,108,23,0,0,21,8.35,hd,false,False,https://i.ytimg.com/vi/IP7msF60v3Q/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'buenos aires', 'argentina', 'Amigo Argentino ¿Cuánto Sabes?', '¿Cuánto Sabes?', 'El Güerito Aprende', 'curiosidades de argentina', 'datos de argentina', 'datos interesantes de argentina', 'prueba de conocimiento', 'prueba de conocimiento general', 'juego de preguntas y respuestas', 'preguntas de argentina', 'preguntas de argentina a extranjeros']",24,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"¿Cuánto sabes del país de Argentina? Veremos ;)
+
+Amigo Argentino ¿Cuánto Sabes? - El Güerito Aprende
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+9,rKPAHD3oamk,Trabalenguas Gringo v  Latinos  El Güerito Aprende,50,7,0.0,0,2021-01-08,16:00:26,4,afternoon,104,16,0,0,14,8.05,hd,false,False,https://i.ytimg.com/vi/rKPAHD3oamk/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo loco', 'gringo mexicano', 'learn spanish', 'trabalenguas', 'trabalenguas mexicanos', 'trabalenguas para niños', 'americano hablando español', 'gringo hablando español', 'cuando cuentas cuentos cuenta cuantos cuentos cuentas', 'cuando cuentes cuentos', 'tres tristes tigres', 'chile', 'colombia', 'argentina', 'el güerito aprende', 'El guerito aprende', 'estadounidense aprendiendo español', 'gringos aprendiendo español']",26,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Yo batallo contra personas latinas en una guerra de trabalenguas. Quien va a ganar??...
+
+Trabalenguas Gringo v  Latinos  El Güerito Aprende
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+10,XzbDYO4mPs0,¿Que Opinan Los LATINOS de los GUEROS?,38,7,0.2857142857142857,0,2021-02-05,21:45:00,4,night,95,19,0,0,21,8.1,hd,false,False,https://i.ytimg.com/vi/XzbDYO4mPs0/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', '¿que opinan los latinos de los gueros?', 'que opinan los latinos de los gueros', 'que piensan los latinos de los gringos', 'latinos quieren a los gringos', 'omegle', 'reacciones', 'reacciones omegle', 'que piensas', 'estados unidos', 'guerito ojos azules', 'quieres salir con un gringo', 'quieres salir', 'quieres salir conmigo']",24,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"¿Que opinas de los gringos? Vea lo que opinan las personas de YouTube.
+
+¿Que Opinan Los LATINOS de los GUEROS?
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+11,FadjdGA8c2I,Cuales Son Los Mejores DULCES Mexicanos - El Güerito Aprende,60,9,0.1111111111111111,0,2021-05-14,19:15:00,4,night,91,13,0,0,27,5.2,hd,false,False,https://i.ytimg.com/vi/FadjdGA8c2I/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'Cuales Son Los Mejores DULCES Mexicanos', 'el guerito aprende', 'gringo come dulces mexicanos', 'dulces mexicanos', 'dulces mexicanos tradicionales', 'mazapan', 'pelon pelo rico', 'cocadas de coco rallado', 'un gringo en mexico', 'gringo ama a mexico', 'probando dulces mexicanos']",22,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Quiero comer los mejores dulces Mexicanos.. cuales son?
+
+Cuales Son Los Mejores DULCES Mexicanos - El Güerito Aprende
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+12,r86YRiQjuLc,Me Enchile y LLORE - El Güerito Reacciona,41,7,0.14285714285714285,0,2021-01-01,16:30:01,4,afternoon,82,20,0,0,6,5.766666666666667,hd,false,False,https://i.ytimg.com/vi/r86YRiQjuLc/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'one chip challenge 2020', 'one chip challenge🔥', 'one chip challenge gone wrong', 'me enchile', 'gringo come chile', 'carolina reaper', 'comida picante', 'comida picosa', 'spicy chip challenge', 'spicy chips', 'spicy chip changelleges', 'gringo llora', 'chiles picantes', 'chiles picantes del mundo', 'comiendo un habanero', 'comiendo un chile habanero', 'comiendo salsa picante', 'chile habanero', 'gringo hablando el español']",27,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Me gusta comer lo picante... pero esto fue DEMÁS!!!
+
+Me Enchile y LLORE - El Güerito Reacciona
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+13,ScnNh-M-ILM,GRINGO Reacciona a ¿POR QUÉ MÉXICO? EXPLICADO POR UN GRINGO,59,10,0.8,0,2021-06-18,18:45:00,4,night,79,16,0,0,6,10.4,hd,false,False,https://i.ytimg.com/vi/ScnNh-M-ILM/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'reaccion a méxico', 'reaccion a mexico', 'ford quarterman', 'GRINGO Reacciona', '¿POR QUÉ MÉXICO? EXPLICADO POR UN GRINGO', 'porque mexico', 'gringo mexicano ford', 'un guero en mexico']",19,24,none,es-MX,,El Güerito,226,3833,31,"Reacciono a las experiencias que tiene otro gringo en dejar los estados unidos, para vivir en Mexico.
+
+GRINGO Reacciona a ¿POR QUÉ MÉXICO? EXPLICADO POR UN GRINGO
+
+Si te gustó este video, dale un like, suscríbete, activa la campana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+14,M_UFENYNz2M,GRINGO REACCIONA a 50 COSAS RARAS QUE SÓLO PASAN EN MÉXICO - El Güerito Reacciona,81,14,0.6428571428571429,0,2021-05-21,22:45:29,4,night,76,16,0,0,13,12.633333333333333,hd,false,False,https://i.ytimg.com/vi/M_UFENYNz2M/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'reaccion a méxico', 'extranjeros en méxico', 'rusos reaccionan', 'GRINGO REACCIONA a 50 COSAS RARAS QUE SÓLO PASAN EN MÉXICO', '50 COSAS RARAS QUE SÓLO PASAN EN MÉXICO', 'cosas raras de mexico', 'cosas raras de mexico segun los extranjeros', 'reacciones a mexico', 'comida mexicana']",20,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Si te gustó este video, dale un like, suscríbete, activa la campana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+15,UiVfVYrlEh4,Amigo Dominicano ¿Cuánto Sabes? - El Güerito Aprende,52,7,0.0,0,2021-03-12,16:45:17,4,afternoon,71,16,0,0,8,7.05,hd,false,False,https://i.ytimg.com/vi/UiVfVYrlEh4/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', '¿Cuánto Sabes?', 'El Güerito Aprende', 'prueba de conocimiento', 'prueba de conocimiento general', 'juego de preguntas y respuestas', 'preguntas y respuestas', '¿cuánto sabes?', 'la republica dominicana', 'amigo dominicano', 'curiosidades de la republica dominicana', 'datos de la republica dominicana']",22,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"¿Cuánto conoces de la República Dominicana? Contesta todas las preguntas...
+
+Amigo Dominicano ¿Cuánto Sabes? - El Güerito Aprende
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+16,vIPJp15WyQ4,Kermit Busca NOVIA LATINA - El Güerito Imita,44,7,0.2857142857142857,0,2021-05-07,20:00:08,4,night,70,17,0,0,6,6.3,hd,false,False,https://i.ytimg.com/vi/vIPJp15WyQ4/maxresdefault.jpg,1280,720,"['Kermit Busca NOVIA LATINA - El Güerito Imita', 'el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'got talent', 'got talent españa', 'omegle', 'imitaciones de voces', 'imitaciones de caricaturas', 'mickey mouse', 'reacciones por omegle', 'reacciones', 'imitando reacciones', 'reacciones a imitadores', 'kermit busca novia', 'kermit por omegle']",24,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Kermit quiere encontrar un novia latina. Seras tu?
+
+Kermit Busca NOVIA LATINA - El Güerito Imita
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+17,KwoIJlznjvI,Un GUERO IMITA Voces - El Güerito Imita,39,7,0.2857142857142857,0,2021-01-22,16:45:02,4,afternoon,65,16,0,0,5,5.816666666666666,hd,false,False,https://i.ytimg.com/vi/KwoIJlznjvI/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'got talent', 'got talent españa', 'omegle', 'imitaciones de voces', 'imitaciones de caricaturas', 'mickey mouse', 'omero sin son', 'homero', 'homero simpson', 'bob esponja', 'patricio', 'reacciones por omegle', 'reacciones', 'imitando reacciones', 'reacciones a imitadores']",26,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"Alguien por YouTube me pidió hacer un video de imitaciones.. mira las reacciones de las personas que escucharon mis imitaciones :) 
+
+Un GUERO IMITA Voces - El Güerito Imita
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+18,TqtHf_dpm8s,Que Dijo? JUEGO con El Güerito - El Güerito Reacciona,53,9,0.1111111111111111,0,2021-01-30,00:00:05,5,late_night,59,11,0,0,3,7.75,hd,false,False,https://i.ytimg.com/vi/TqtHf_dpm8s/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'omegle', 'reacciones', 'reacciones por omegle', 'el guerito reacciona', 'el güerito reacciona', 'no entiendo', 'que dijo', 'acento americano', 'acento americano en español', 'reirse', 'juego de palabras', 'reto', 'desafio', 'ganadores', 'gringo show']",26,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Digo palabras en el Español con un acento Americano, veremos si las personas entienden...
+
+Que Dijo? JUEGO con El Güerito - El Güerito Reacciona
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+19,jOVXtY0DWx8,El Guerito REACCIONA a Los MILAGROS del Cielo,45,8,0.25,0,2021-04-16,15:15:01,4,afternoon,56,8,0,0,4,14.983333333333333,hd,false,False,https://i.ytimg.com/vi/jOVXtY0DWx8/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'El Guerito REACCIONA a Los MILAGROS del Cielo', 'el güerito reacciona', 'miracles from heaven', 'los milagros del cielo', 'reaccionando a un gringo en mexico', 'un gringo reacciona', 'rusos reaccionan', 'russo reacts', 'la gringa reacciona', 'gringa reacciona', 'gringo reacciona']",22,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"Crees en milagros? Veremos... fue una película bonita 
+
+El Guerito REACCIONA a Los MILAGROS del Cielo
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+20,uRCLxo5W0Wo,Americano Come DULCES MEXICANOS - El Güerito Reacciona,54,7,0.2857142857142857,0,2021-06-04,18:45:01,4,night,47,11,0,0,12,6.216666666666667,hd,false,False,https://i.ytimg.com/vi/uRCLxo5W0Wo/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'dulces mexicanos', 'probando dulces mexicanos', 'Americano Come DULCES MEXICANOS', 'El Güerito Reacciona', 'comiendo dulces mexicanos', 'un americano come dulces', 'pelon pelo rico', 'lucas muecas candy', 'duvalin', 'comida mexicana', 'mexican food']",22,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Por primera vez pruebo a los mejores dulces Mexicanos. Cuales te gustan?
+
+Americano Come DULCES MEXICANOS - El Güerito Reacciona
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+21,J-CeOvTen-4,Amigo Peruano ¿Cuánto Sabes? - El Güerito Aprende,49,7,0.0,0,2021-03-05,16:15:14,4,afternoon,46,11,0,0,7,6.116666666666666,hd,false,False,https://i.ytimg.com/vi/J-CeOvTen-4/maxresdefault.jpg,1280,720,"['Amigo Peruano ¿Cuánto Sabes?', 'El Güerito Aprende', 'el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', '¿Cuánto Sabes?', 'prueba de conocimiento', 'prueba de conocimiento general', 'juego de preguntas y respuestas', 'datos de peru', 'curiosidades de peru', 'peru', 'preguntas y respuestas', '¿cuánto sabes?', 'peruanos hablando', 'Cuanto sabes de geografia']",24,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"¿Cuánto tanto conoces de Perú? Contesta todas las preguntas...
+
+Amigo Peruano ¿Cuánto Sabes? - El Güerito Aprende
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+22,Rji_c54YK7k,Como Son Los TACOS en Los Estados Unidos - El Güerito Reacciona,63,11,0.09090909090909091,0,2021-04-30,21:03:26,4,night,36,10,0,0,2,6.716666666666667,hd,false,False,https://i.ytimg.com/vi/Rji_c54YK7k/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'el güerito reacciona', 'un gringo reacciona', 'rusos reaccionan', 'russo reacts', 'gringa reacciona', 'gringo reacciona', 'como son los tacos en los estados unidos', 'tacos en los estados unidos', 'gringos comen tacos', 'taco bell', 'yo quiero taco bell', 'gringo come comida mexicana', 'comida mexicana', 'tacos en estados unidos', 'estados unidos']",26,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Food']",El Güerito,226,3833,31,"Has comido tacos en los Estados Unidos? Tal vez no son tacos reales, pero saben ricos.
+
+Como Son Los TACOS en Los Estados Unidos - El Güerito Reacciona
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+23,MtV9Jviw6nU,El Guerito REACCIONA a NO MANCHES FRIDA #Shorts,47,8,0.5,0,2021-04-11,14:00:04,6,afternoon,32,3,0,0,0,0.6166666666666667,hd,false,False,https://i.ytimg.com/vi/MtV9Jviw6nU/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'no manches frida', 'omar chaparro', 'martha higareda', 'El Guerito REACCIONA a NO MANCHES FRIDA', 'reaccionando a un gringo en mexico', 'peliculas mexicanas 2020', 'el guerito reacciona', 'gringo reacciona a', 'peliculas chistosas', 'gringo aprende español', 'Conoce al gringo']",22,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"Aqui esta el video completo!
+https://youtu.be/vMvG5v4ka5A
+
+El Guerito REACCIONA a NO MANCHES FRIDA #Shorts
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito #shorts"
+24,CGivO5FbJqE,El Guerito REACCIONA a La CORTE MALANDRA,40,7,0.42857142857142855,0,2021-04-23,17:26:48,4,afternoon,31,7,0,0,4,11.883333333333333,hd,false,False,https://i.ytimg.com/vi/CGivO5FbJqE/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'el güerito reacciona', 'reaccionando a un gringo en mexico', 'un gringo reacciona', 'rusos reaccionan', 'russo reacts', 'la gringa reacciona', 'gringa reacciona', 'gringo reacciona', 'la corte malandra', 'peliculas venezolanas', 'películas de Venezuela', 'El Guerito REACCIONA a La CORTE MALANDRA', 'jackson gutierrez', 'corte malandra']",25,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"Aprendo una leccion importante de esta película pesada!
+
+El Guerito REACCIONA a La CORTE MALANDRA
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+25,o3yNOjR3EA4,TRABALENGUAS Dificiles con GRINGOS - El Güerito Aprende,55,7,0.2857142857142857,0,2021-06-25,18:45:00,4,night,29,8,0,0,7,5.016666666666667,hd,false,False,https://i.ytimg.com/vi/o3yNOjR3EA4/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'TRABALENGUAS Dificiles con GRINGOS', 'El Güerito Aprende', 'tongue twisters', 'trabalenguas para niños', 'trabalenguas', 'reto de trabalenguas', 'los peores trabalenguas', 'palabras que gringos no pueden pronunicar', 'americanos hablando español chistoso', 'americanos hablando español']",21,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Gringos no saben pronunciar palabras en el Español! Puedes decir estas trabalenguas?
+
+TRABALENGUAS Dificiles con GRINGOS - El Güerito Aprende
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+26,i8LOh91bluY,Gringo Se ENCHILA y LLORA Parte 3 #Shorts,41,8,0.25,0,2021-02-17,12:45:01,2,afternoon,27,2,0,0,0,0.31666666666666665,hd,false,False,https://i.ytimg.com/vi/i8LOh91bluY/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'chile habanero', 'one chip challenge', 'one chip challenge 2020', 'gringo come chile', 'chiles picantes', 'chiles picosos de mexico', 'chiles picosos', 'se enchila y llora', 'se enchila con habanero', 'carolina reaper', 'gringo se enchila y llora', '#shorts', 'youtube shorts']",24,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"Gringo Se ENCHILA y LLORA Parte 3 #Shorts
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+27,HsjF472tkRU,Gringo Se ENCHILA y LLORA Parte 2 #Shorts,41,8,0.25,0,2021-02-17,12:30:03,2,afternoon,14,1,0,0,0,0.4666666666666667,hd,false,False,https://i.ytimg.com/vi/HsjF472tkRU/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'chile habanero', 'one chip challenge', 'one chip challenge 2020', 'gringo come chile', 'chiles picantes', 'chiles picosos de mexico', 'chiles picosos', 'se enchila y llora', 'se enchila con habanero', 'carolina reaper', 'gringo se enchila y llora', '#shorts', 'youtube shorts']",24,24,none,es-MX,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",El Güerito,226,3833,31,"Gringo Se ENCHILA y LLORA Parte 2 #Shorts
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+28,YU3oYFnSw-g,Gringo Se ENCHILA y LLORA Parte 4 #Shorts,41,8,0.25,0,2021-02-17,11:45:01,2,afternoon,12,3,0,0,0,0.9833333333333333,hd,false,False,https://i.ytimg.com/vi/YU3oYFnSw-g/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'chile habanero', 'one chip challenge', 'one chip challenge 2020', 'gringo come chile', 'chiles picantes', 'chiles picosos de mexico', 'chiles picosos', 'se enchila y llora', 'se enchila con habanero', 'carolina reaper', 'gringo se enchila y llora', '#shorts', 'youtube shorts']",24,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Gringo Se ENCHILA y LLORA Parte 4 #Shorts
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
+29,YE5rn1xo4Vw,Gringo Se ENCHILA y LLORA Parte 1 #Shorts,41,8,0.25,0,2021-02-16,12:15:00,1,afternoon,8,1,0,0,0,0.25,hd,false,False,https://i.ytimg.com/vi/YE5rn1xo4Vw/maxresdefault.jpg,1280,720,"['el güerito', 'el güero', 'gringo', 'amerciano', 'guero', 'guerito', 'el guerito', 'mexico', 'gringo hablando el español', 'americano hablando el español', 'guero hablando el español', 'chile habanero', 'one chip challenge', 'one chip challenge 2020', 'gringo come chile', 'chiles picantes', 'chiles picosos de mexico', 'chiles picosos', 'se enchila y llora', 'se enchila con habanero', 'carolina reaper', 'gringo se enchila y llora', '#shorts', 'youtube shorts']",24,24,none,es-MX,['https://en.wikipedia.org/wiki/Entertainment'],El Güerito,226,3833,31,"Gringo Se ENCHILA y LLORA Parte 1 #Shorts
+
+Si te gustó este video, dale un like, suscríbete, activa la camapana de notificaciones, y lo más importante, comparte los videos con tus amigos. Muchas thank you :)
+
+✅ Suscríbete para mas videos chidos!!: https://youtube.com/channel/UCqPYUMNbVeEhyTBIZCDO_VQ?sub_confirmation=1
+
+🛑Mira estes series de videos también!
+
+El Güerito:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x2elidPa1AbwW4HxsOBcTx
+
+El Güerito Canta:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zjCe_KAeiMbfKTGL-ayDXg
+
+El Güerito Viaja:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_ySAb4yZHPWpGX1mxRl0df8
+
+El Güerito Reacciona:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_zuW_cYEGuI3XDz50r3hQGM
+
+El Güerito Aprende:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_xNOGlVwJPZ30u8_iuqHFuw
+
+El Güerito Imita:
+https://www.youtube.com/playlist?list=PLH8iGvCCBF_x5lKxDJKal00P6RHQ0v_Lo
+
+Nuevos videos cada Viernes por la tarde! 
+
+Envíame un correo si prefieres: elguerito667@gmail.com
+ 
+#elgüerito #elguerito"
