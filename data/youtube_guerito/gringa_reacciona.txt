@@ -1,0 +1,1157 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,FcoYSo6G-0U,🇺🇸 GRINGA REACCIONA A EL CORRIDO DE JUANITO - Calibre 50,56,9,0.7777777777777778,0,2020-11-13,22:00:03,4,night,1944126,76469,1555,0,2715,6.416666666666667,hd,false,True,https://i.ytimg.com/vi/FcoYSo6G-0U/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a corridos', 'gringa reacciona a corrido de juanito', 'gringa reaccina a calibre 50', 'calibre 50 reaccion', 'el corrido de juanito reaccion', 'americana reacciona a corridos', 'americana reacciona a calibre 50', 'gringa reacts', 'gringa reacciona a musica mexicana', 'gringa reacciona a musica de banda', 'gringa reacciona a musica', 'wera reacciona', 'guera reacciona', 'blanca reacciona a corridos', 'mujer reacciona a corridos', 'estadounidense reacciona a musica mexicana']",17,24,none,,"['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Music_of_Latin_America']",Gringa Reacciona,91000,6275114,82,"Amigos gracias a todos por el apoyo y por ver los videos, ya somos 13,000 subscriptores. Muchisimas gracias a todos. COMENTA Y DEJA TU LIKE GRACIAS!!
+.
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/
+Facebook: https://www.facebook.com/gringareacciona
+.
+.
+.
+#gringareacciona #musicamexicana #gringareacts
+.
+.
+gringa reacciona a musica mexicana
+gringa reacciona a corridos
+gringa reacciona a la cultura mexicana
+gringa reacts to mexican music 
+gringa reacts to corridos"
+1,T3Fa1MiPNWA,🇺🇸 GRINGA PRUEBA TACOS MEXICANOS POR PRIMERA VEZ en MEXICO | Gringa en Mexico,77,12,0.6666666666666666,0,2021-02-19,21:16:08,4,night,462344,16488,306,0,1465,10.316666666666666,hd,false,True,https://i.ytimg.com/vi/T3Fa1MiPNWA/maxresdefault.jpg,1280,720,"['tacos', 'taco', 'gringa reacciona', 'gringa prueba tacos', 'gringa en mexico', 'gringa reacts', 'gringa tacos', 'gringa trying tacos en mexico', 'tacos mexicanos', 'gringa prueba tacos por primera vez', 'gringa eats mexican tacos', 'mexican tacos', 'gringa reacciona tacos', 'gringa reacts to tacos', 'gringa prueba tacos de; pastor', 'gringa vlog en mexico', 'gringa in mexico', 'gringa trying mexican food', 'comida mexicana callejera', 'tacos callejeros en mexico', 'mex', 'trying tacos in california', 'mexico tacos', 'mexico']",24,24,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Gringa Reacciona,91000,6275114,82,"Hola amigos en este video probamos lo tacos en Mexico. Espero y les guste el video. No olviden de dejar su like y subscribirte.  
+
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+.
+gringa prueba tacos en mexic"
+2,eLUv0_AibWo,🇺🇸 GRINGA REACCIONA A CORRIDOS MEXICANOS,40,5,1.0,0,2020-10-13,22:19:52,1,night,385361,14940,491,0,1312,6.016666666666667,hd,false,False,https://i.ytimg.com/vi/eLUv0_AibWo/maxresdefault.jpg,1280,720,"['gringa reacciona a musica mexicana', 'gringo reacciona a musica mexicana', 'gringa reacciona a corridos', 'gringa reacciona a tamboraso', 'americana reacciona a musica de mexico', 'americana reacciona a corridos', 'gringa reacciona a mexico', 'gringa reacciona a corridos tumbados', 'musica mexicana reaccion', 'extranjera reacciona a musica mexicana', 'gringa reacciona a corridos de mexico', 'corridos mexicanos', 'gringa reacciona a banda', 'banda', 'musica de banda', 'musica en mexico', 'musica tipica', 'mexico']",18,22,none,,"['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Music_of_Latin_America']",Gringa Reacciona,91000,6275114,82,"Amigos gracias por todo el apoyo que le estan dando al canal :)
+Hoy les traigo un video de gringa reacciona a corridos. Espero y les guste :)
+.
+.
+Aqui mi Instagram:
+https://www.instagram.com/gringareacciona/
+.
+.
+#corridos #gringareacciona #musicamexicana
+.
+.
+.
+gringa reacciona a musica mexicana
+gringa reacciona a corridos
+gringa reacciona a tamboraso"
+3,_Jt1mbVoDws,TACOS MEXICANOS v.s TACOS AMERICANOS - Gringa Reacciona,55,8,0.5,0,2021-01-06,23:06:55,2,late_night,369119,15726,255,0,1603,7.15,hd,false,True,https://i.ytimg.com/vi/_Jt1mbVoDws/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa', 'gringa prueba comida mexicana', 'gringa prueba tacos mexicanos', 'gringa reacts to mexican food', 'gringa reacts to tacos', 'tacos mexicanos v', 'tacos mexicanos vs tacos americanos', 'extranjeros prueban tacos', 'extranjeros prueban comida mexicana', 'comida mexicana en usa', 'tacos vs', 'los mejores tacos', 'gringa tacos', 'tacos en mexico', 'tacos en estados unidos', 'taco bell vs', 'tacos de carne asada', 'taco documental', 'gringa hablando en español', 'gringo reacciona', 'mexico', 'usa']",23,24,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Gringa Reacciona,91000,6275114,82,"Girnga prueba tacos mexicanos por primera vez. Espero y les guste el video
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+4,LxKBppUXYnE,Gringa trabajando en PANADERIA MEXICANA 🇺🇸  | Gringa en Mexico,62,8,0.25,0,2021-02-13,21:30:43,5,night,331403,10079,109,0,1081,11.466666666666667,hd,false,True,https://i.ytimg.com/vi/LxKBppUXYnE/maxresdefault.jpg,1280,720,"['curso de panaderia', 'pan', 'gringa reacciona', 'gringa reacts', 'gringa en panaderia', 'gringa in panaderia', 'gringa making bread', 'gringa haciendo pan', 'gringa haciendo empanada', 'gringa cocina', 'gringa en mexico', 'pan mexicano', 'panaderia mexicana', 'gringa works in mexico', 'gringa trabajando en panaderia', 'gringa trabajando', 'gringa making pozole', 'panaderia', 'gringa working in bakery', 'mexican bakery', 'mexican bread', 'panaderias en mexico', 'bakery', 'como hacer pan', 'pan casero', 'gringa in mexico city']",26,24,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Gringa Reacciona,91000,6275114,82,"Hola amigos en este video trabajamos por un dia en una panaderia en mexico. Espero y les guste el video. No olvides de subscribirte y dejar tu like. Ya casi somos 60,000 muchas gracias 
+
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringaenmexico #gringamexicana #mexican
+.
+.
+.
+.
+gringa works in bakery 
+gringa en panaderia 
+gringa en mexico
+gringa trabaja en mexico"
+5,U1UujpbfV7s,🇺🇸 GRINGA REACCIONA A PELICULA MEXICANA - El Infierno,53,7,0.7142857142857143,0,2020-10-23,20:45:47,4,night,250894,9235,226,0,1153,16.35,hd,false,False,https://i.ytimg.com/vi/U1UujpbfV7s/maxresdefault.jpg,1280,720,"['gringa reacciona a peliculas mexicana', 'gringa reacciona a pelicula de mexico', 'gringa reacciona al infierno', 'el infierno pelicula mexicana reaccion', 'americana reacciona', 'gringo reacciona', 'gringas', 'mexicanos', 'méxico', 'pelicula mexicana reaccion', 'gringa reacciona a el infierno', 'americana reacciona a peliculas mexicanas', 'americana reacciona a mexico', 'gringa reacciona a mexico peliculas', 'peliculas mexicanas', 'el infierno video reaccion', 'video reaccion de gringa', 'reacciones', 'gringa y', 'america']",20,22,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Gringa Reacciona,91000,6275114,82,"Amigos gracias a todos por el apoyo. Ya mero llegamos a 3,000 suscriptores. MUCHISIMAS GREACIAS!!
+.
+.
+.
+MIS REDES: gringa reacciona
+.
+.
+.
+.
+#gringareacciona #americanoreacciona #peliculasmexicanas
+.
+.
+.
+gringa reacciona a el infierno
+americana reaccciona a pelicula mexicana
+americano reacciona a el infierno 
+gringo reacciona a el infierno 
+mujer reacciona"
+6,i7g1HnZKa2E,🇺🇸 GRINGA REACCIONA A CORRIDOS - VIRUS ANTRAX,45,6,1.0,0,2021-04-05,21:07:28,0,night,134958,6285,193,0,425,3.75,hd,false,False,https://i.ytimg.com/vi/i7g1HnZKa2E/maxresdefault.jpg,1280,720,"['gringa reacciona a corridos mexicanos', 'gringa reacciona a corridos tumbados', 'gringa reacciona', 'gringa reacts', 'gringa reacciona a mexico', 'gringa reacciona a virus antrax', 'gringa reacciona corridos', 'la escuela de virus antrax', 'la escuela del viruz antrax calibre 50', 'la escuela del virus antrax reaccion', 'gringa reacts to corridos', 'la gringa reacciona', 'gringa', 'gringa reacciona a corridos de mexico', 'gringa reacciona a musica mexicana', 'reacting to mexican music', 'gringa mexico']",17,24,none,,,Gringa Reacciona,91000,6275114,82,"Gringa Reacciona a la escuela del virus antrax. Espero y les guste el video. No olviden de dejar su like y de subcribirse a este canal de gringa reacciona muchisimas gracias. 
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/?hl=en
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringa #gringareacciona #gringareacts"
+7,QjTyGSTIJZ8,🇺🇸 GRINGA REACCIONA A RAP MEXICANO - Cartel de Santa,52,8,0.625,0,2020-10-12,22:20:12,0,night,130303,6289,145,0,673,5.1,hd,false,False,https://i.ytimg.com/vi/QjTyGSTIJZ8/maxresdefault.jpg,1280,720,"['americana reacciona a rap mexicano', 'americana reacciona a cartel de santa', 'gringa reacciona a rap mexicano', 'rap mexicano', 'cartel de santa reaccion', 'reaccionando a cartel de santa', 'reaccionando a rap de mexico', 'gringo reacciona a rap mexicano', 'gringa reacciona', 'americana reacciona', 'cartel de santa si te vienen a contar', 'reaccionando a cartel de santa 2020', 'guera reacciona', 'guera reacciona a rap de mexico', 'reaccionando a hip hop mexicano', 'hip hop mexicano', 'extranjera reacciona']",17,22,none,,"['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music']",Gringa Reacciona,91000,6275114,82,"En esta occasion les traigo el video de reaccionando a Rap Mexicano. Cartel de santa. Espero y les guste amigos :) No olviden dejar su like y suscribirse me ayudarian muchisimo.
+.
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/
+.
+.
+.
+#rap #rapmexicano #carteldesanta #gringareacciona"
+8,5DgGshKSpRA,GRINGA REACCIONA A MUSICA MEXICANA POR PRIMERA VEZ ❤️🇲🇽,55,8,1.0,0,2020-09-12,16:43:04,5,afternoon,123657,4520,60,0,382,3.5833333333333335,hd,false,False,https://i.ytimg.com/vi/5DgGshKSpRA/maxresdefault.jpg,1280,720,"['gringa reacciona a mexico', 'gringo reacciona a mexico', 'gringa reacciona', 'gringa', 'gringa reacciona a musica mexicana', 'musica mexicana', 'americana reacciona a mexico', 'americano reacciona a mexico', 'gringa reacciona a canciones de banda', 'gringa vs mexico', 'mexico vs usa', 'guera reacciona de mexico', 'gringa habla de mexico', 'americana habla sobre mexico', 'gringa reacts', 'gringa reacciona a musica', 'guera', 'guera reacciona', 'gruera reacciona a mexico', 'guera vs mexico', 'gringa vs', 'gringa loca']",22,22,none,,['https://en.wikipedia.org/wiki/Music_of_Latin_America'],Gringa Reacciona,91000,6275114,82,"Amigos gracias a todos por ver los videos y espero y les gusten y nos dejen su like. 
+
+Porfavor siguenme en instagram 
+
+https://www.instagram.com/gringareacciona/?hl=en
+.
+.
+.
+.
+.
+.
+#mexico
+#gringareacciona
+#musicadebanda"
+9,--MPWAhH4rM,🇺🇸GRINGA VISITA MEXICO POR PRIMERA VEZ,38,6,1.0,0,2021-01-27,20:56:34,2,night,119141,7336,218,0,1273,2.6166666666666667,hd,false,True,https://i.ytimg.com/vi/--MPWAhH4rM/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa en mexico', 'gringa visita mexico', 'gringa reacts', 'gringa visits mexico', 'gringa is on mexcio', 'gringa', 'gringa visita a mexico', 'gringa reacciona a mexcio', 'gringa en mexico city', 'gringa visita mexico por primera vez', 'gringo en mexico', 'gringos en mexico', 'gringas en mexico', 'que opinan los gringos de mexico', 'white girl in mexico', 'guera en mexico', 'estado unidense visita mexico', 'americana visita mexcio']",19,24,none,,,Gringa Reacciona,91000,6275114,82,Amigos nos encontramos en mexico. Ya tenia muchas ganas de estar aquí. Voy a grabar muchísimos videos y espero y les guste.
+10,whhoOjRFwBw,ESTE TRABAJO ES MUY DIFICIL😭 🇺🇸 | Gringa en Mexico #3,53,9,0.5555555555555556,1,2021-02-23,21:44:34,1,night,114298,5224,45,0,629,6.25,hd,false,True,https://i.ytimg.com/vi/whhoOjRFwBw/maxresdefault.jpg,1280,720,"['una gringa en huancayo', 'gringa en mexico', 'gringa', 'gringa reacciona', 'gringa in mexico', 'gringa en el campo', 'un dia trabajando en el campo', 'gringa en el monte', 'pelicula una gringa en mexico', 'gringa en el rancho', 'gringa moves to mexico', 'gringa hablando en español', 'gringa viaja a mexico', 'gringa latina', 'gringa mexicana', 'gringa visits mexico', 'gringa visits el rancho', 'trabajo de campo', 'extranjera en mexico', 'working in mexico', 'agricultura en mexico', 'mex', 'mexican', 'mexican jobs', 'mexico', 'mx']",26,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Amigos en este video visitamos el monte en mexico. Espero y les guste el video. No olviden de dejar su like y subscribirse. Gracias a todos porque ya somos 63,000 muchisimas gracias. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringaenmexico
+.
+.
+gringa in mexico
+gringa works in mexico 
+gringa moves to mexico
+gringa trabajando en mexico
+gringa en el campo"
+11,ZsFGh96a-Qk,🇺🇸 GRINGA PRUEBA CERVEZAS MEXICANAS,35,4,1.0,0,2020-11-09,21:05:00,0,night,109632,6596,90,0,1001,5.483333333333333,hd,false,True,https://i.ytimg.com/vi/ZsFGh96a-Qk/maxresdefault.jpg,1280,720,"['gringa reacciona a bebidas mexicanas', 'gringa reacciona a cerveza mexicana', 'cerveza mexicana', 'gringa prueba bebidas mexicanas', 'gringa reacciona a bebidas mexicanas por primera vez', 'gringa prueba tecate', 'gringa prueba bebidas', 'americana prueba cerveza', 'cerveza victoria reaccion', 'gringa prueba cerveza por primera vez', 'americana prueba cerveza de mexico', 'gringa reacciona a cerveza de mexico', 'gringa cerveza', 'gringa reacts to mexican drinks', 'gringa reacts to mexican beer', 'cerveza', 'react']",17,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Hola amigos gracias a todos por el apoyo, ya llegamos a 11,000 suscriptores. Muchisimas gracias a todos. Espero y les guste el video de gringa prueba cerveza mexicana por primera vez.
+.
+.
+.
+.
+Facebook: https://www.facebook.com/gringareacciona
+Instagram: https://www.instagram.com/gringareacciona/
+.
+.
+.
+.
+#gringareacciona #americanareacciona #guerareacciona"
+12,ed37PcUd8g4,🇺🇸 GRINGA REACCIONA A CORRIDOS TUMBADOS,39,5,1.0,0,2020-10-19,17:24:32,0,afternoon,97837,5232,340,0,567,3.8833333333333333,hd,false,False,https://i.ytimg.com/vi/ed37PcUd8g4/maxresdefault.jpg,1280,720,"['gringa reacciona a corridos tumbados', 'corridos tumbados reaccion', 'gringa reacciona a natanael cano', 'natanael cano el drip reaccion', 'mi novia reacciona a natanael cano', 'corridos', 'reaction', 'corridos reaction', 'gringa reacts to mexican music', 'mexican music reaction', 'gringa reacciona a corridos tumbados 2020', 'americana reacciona a corridos tumbados', 'corridos reaccion', 'banda music reaction', 'banda reaction', 'banda reaccion', 'americana reacts', 'natanael cano reaccion', 'natanael cano reaction']",19,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Gracias a todos por el apoyo al canal y por suscribirse y dejar su like. Espero y les guste este video de americana reacciona a corridos tumbados.
+.
+Sigueneme en mis redes para ver mas contenido: 
+  Facebook: https://www.facebook.com/gringareacciona
+.
+.
+.
+#corridostumbados #gringareacciona #musicamexicanareaccion
+.
+.
+gringa reacciona a corridos
+americana reacciona a corridos tumbados
+gringa reacciona a natanael cano 
+gringa reacts to natanael cano"
+13,Qx2FuOhWYxI,🇺🇸 GRINGA REACCIONA A SANGRE POR SANGRE,39,6,1.0,0,2020-12-15,20:17:32,1,night,91122,4476,130,0,422,13.7,hd,false,True,https://i.ytimg.com/vi/Qx2FuOhWYxI/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'gringa reacciona a película mexicana', 'gringa reacciona a mexico', 'gringa reacciona a películas', 'gringa reacciona a sangre por sangre', 'sangre por sangre película reaccion', 'sangre por sangre fedelobo', 'gringo reacciona a sangre por sangre', 'gringa reacts to blood in blood out', 'gringa reacts to Mexican movies', 'gringo reacts', 'gringa reacciona a peliculas', 'películas mexicanas reaccion', 'gringa reacts to mexico', 'gringa reacciona a sangre x sangre', 'girnga', 'mx']",18,24,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Gringa Reacciona,91000,6275114,82,"Hola amigos en esta ocasión reaccionamos a la película de sangre por sangre. Espero y les guste. Gracias porque ya somos 40,000. Muchísimas gracias.
+.
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+.
+gringa reacciona
+gringa reacciona a película mexicana
+gringo reacciona 
+gringo reacciona a película mexicana"
+14,oRUMCLEZmzA,🇺🇸 GRINGA VISITA MEXICO POR PRIMERA VEZ #2 | Gringa en Mexico,61,10,0.6,0,2021-02-16,22:10:25,1,night,83611,5397,45,0,612,7.333333333333333,hd,false,True,https://i.ytimg.com/vi/oRUMCLEZmzA/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'gringa reacciona a mexico', 'gringa visita mexico', 'gringa en mexico por primera vez', 'gringa visita mexico por primera vez', 'gringa viaja a mexico', 'gringa en mexico', 'gringa visita la ciudad de mexico', 'gringa visits mexico', 'estadouinidense en mexico', 'estadounidense visita mexico por primera vez', 'extranjera visita mexico', 'mi primera vez en mexico', 'viajando a mexico', 'probando comida en mexico', 'mexico vlog', 'gringa vlog en mexico', 'tierras mexicanas', 'mex']",20,24,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",Gringa Reacciona,91000,6275114,82,"Hola amigos este video es mi primera vez en mexico vlog. gracias a todos por el apoyo al canal, ya casi somos 60,000 subscriptores. Muchisimas gracias 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+15,Vyz_mYLPsRE,🇺🇸 GRINGA REACCIONA A EL SUEÑO AMERICANO,40,6,1.0,0,2020-12-21,21:32:33,0,night,83598,4848,90,0,533,18.633333333333333,hd,false,True,https://i.ytimg.com/vi/Vyz_mYLPsRE/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a inmigrantes', 'gringa reacciona a los inmigrantes', 'gringa reacciona al sueño americano', 'gringa reacciona a yulay', 'gringa reacciona a la bestia', 'gringa reacciona a yuyal la bestia', 'el sueño americano', 'sueno americano', 'gringa reacciona a mexico', 'gringa reacciona a los latinos', 'gringa reacts to the American dream', 'gringa reacts to the immigrants', 'gringa reacts', 'gringa reacciona a imigracion', 'gringa reacciona a documental inmigrante', 'yulay', 'gringa', 'mx']",19,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en esta ocasión reaccionamos a lo que tienen que vivir los inmigrantes para cumplir el sueno americano. Muchísimas gracias por el apoyo. Espero y les guste. :)
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+.
+gringa reacciona a immigrantes
+gringa reacciona a la bestia 
+gringa reacciona 
+gringa reacciona a mexico
+gringa reacciona al sueño americano
+gringa reacciona a yulay
+gringa reacts"
+16,Zxe-lmYm3Xs,🇺🇸 AMERICANA REACCIONA A TIK TOKS MEXICANOS 🇲🇽,46,6,1.0,0,2020-09-26,23:39:13,5,late_night,75511,3336,64,0,138,10.433333333333334,hd,false,False,https://i.ytimg.com/vi/Zxe-lmYm3Xs/maxresdefault.jpg,1280,720,"['tik tok', 'reaccion', 'reaccionando', 'americana reacciona a tiktoks mexicanos', 'tiktoks mexicanos', 'tik tok graciosos', 'americana reacciona a memes mexicanos', 'tik tok mexico reaccion', 'los mejores tik toks de mexico', 'tik toks mexicanos bailes', 'tik toks mexicanos reaccion', 'gringa reacciona', 'humor mexicano', 'american', 'si te ries pierdes', 'puro humor mexicano', 'tik toks', 'tiktok', 'tik tok español']",19,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Amigos en esta occasion les traigo un video de gringa reacciona a tiktoks mexicanos. Si te gusta este tipo de videos no olvides dejar tu like y suscribirse :)
+.
+.
+Mis Redes:
+ INSTAGRAM: https://www.instagram.com/gringareacciona/
+.
+.
+#tiktok
+#tiktokmexico
+#tiktokusa"
+17,oPL2l-Scd4c,Este es el BARRIO mas PELIGROSO de ESTADOS UNIDOS!🇺🇸😱,53,9,0.4444444444444444,1,2021-02-27,19:29:17,5,night,74598,3462,49,0,463,10.183333333333334,hd,false,True,https://i.ytimg.com/vi/oPL2l-Scd4c/maxresdefault.jpg,1280,720,"['estados unidos', 'documental', 'noticias', 'gringa reacciona', 'gringa reacts', 'gringa vlogs', 'gringa visita el barrio mas peligroso de estados unidos', 'gringa en barrio peligroso', 'los barrios mas peligrosos de estados unidos', 'visitando los barrios peligroso en estados unidos', 'pandillas en estados unidos', 'cuales son las pandillas mas peligrosas de mexico', 'the most dangerous neighborhood in america', 'visiting the hood', 'the worst neighborhoods in new york', 'poverty in america', 'mex', 'mexican street']",18,24,none,,,Gringa Reacciona,91000,6275114,82,"Hola amigos en este video visitamos uno de los barrios mas peligrosos de estados unidos. Espero y les guste el vide. No olviden de dejar su like y subscribirse me ayudarias munchisimo. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringaenmexico #gringavlogs
+.
+.
+.
+.
+gringa visita barrios en estados unidos 
+calles en estados unidos 
+gringa en mexico"
+18,IEJxtuddbhs,🇺🇸 GRINGA REACCIONA A B4LACER4S EN MEXICO,41,6,1.0,0,2020-11-04,21:31:14,2,night,74022,4205,116,0,479,5.716666666666667,hd,false,True,https://i.ytimg.com/vi/IEJxtuddbhs/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a mexico', 'gringa reacciona a musica mexicana', 'gringa reacciona a mexico 2020', 'americana reacciona a mexico', 'mexico reaccion', 'que piensan los gringos de mexico', 'gringos en mexico', 'mexicano vs gringo', 'gringa reacciona a latino america', 'guera reacciona', 'guera reacciona a mexico', 'wera reacciona a mexico', 'como es mexico', 'gringa hablando en español', 'reacciones gringa', 'gringa reacciona en espanol', 'gringa reacts to mexico', 'gringa reacts', 'youtuber', 'usa']",21,22,none,,,Gringa Reacciona,91000,6275114,82,"Amigos gracias por el apoyo y por segurme ya casi llegamos a 9,000 suscriptores. No olviden suscribirse y dejar su like porfavor. Comenta cual videos quieren que suba. Muchas gracias a todos. Comparte con tus amigos y familiares. 
+.
+.
+.
+.
+Aqui mis redes: 
+   Instagram: https://www.instagram.com/gringareacciona/
+   Facebook: https://www.facebook.com/gringareacciona
+.
+.
+.
+#gringareacciona #noticias #estadosunidos #mexico"
+19,t0Ea6_m_DoE,🇺🇸 GRINGA REACCIONA A ARIEL CAMACHO,35,5,1.0,0,2021-03-29,20:46:17,0,night,67974,4649,53,0,362,4.583333333333333,hd,false,False,https://i.ytimg.com/vi/t0Ea6_m_DoE/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'gringa reacciona a corridos', 'gringa reacciona a ariel camacho', 'gringa reacciona a el karma', 'ariel camacho el karma', 'gringa reacts to ariel camacho', 'gringa reacciona a mexico', 'el karma', 'el karma ariel camacho', 'mexico reaccion', 'ariel camacho reaccion', 'reaccion a ariel camacho', 'americana reacciona', 'extranjeros reaccionan ariel camacho', 'gringa reacciona a corridos mexicanos', 'corridos reaccion', 'corridos mexicanos', 'gringa', 'gringa ariel camacho']",20,24,none,,['https://en.wikipedia.org/wiki/Music'],Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a ariel camacho el karma. Espero y les guste el video. Muchas gracias a todos por ver el video!!
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+20,oPcpiHyNAYQ,🇺🇸 GRINGA REACCIONA A VICENTE FERNANDEZ,39,5,1.0,0,2020-10-30,20:40:08,4,night,67835,3225,42,0,300,7.366666666666666,hd,false,True,https://i.ytimg.com/vi/oPcpiHyNAYQ/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a vicente fernandez', 'gringa reacciona a mexico', 'gringa reacciona a musica mexicana', 'gringa reacciona a mariachi', 'gringa reacciona a chente fernandez', 'americana reacciona a mariachi', 'extranjera reacciona a mariachi', 'guera reacciona a mariachi', 'vicente fernandez gringa reacciona', 'gringa reacciona a musica tradicional mexicana', 'reaccionando a vicente fernandez el rey', 'vicente fernandez en ingles', 'gringa reacts to mariachi', 'mariachi', 'vicente fernande']",16,22,none,,"['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Music_of_Latin_America']",Gringa Reacciona,91000,6275114,82,"Amigos gracias por el apoyo ya somos 6,000 suscriptores. Muchisimas gracias. Comparte el video con tus amigos y suscribete porvafor :).
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/
+.
+.
+.
+.
+#gringareacciona #gringareaccionaamariachi #vicentefernandez
+.
+.
+.
+.
+.
+girnga reacciona a mariachi
+gringo reacciona a mariachi
+gringa reacciona a vicente fernandez volver volver
+gringa reacciona a musica mexicana
+gringa reacciona a musica tradicional mexicana
+gringa reacciona a mexico
+gringa reaccciona
+gringa habla espanol
+gringa reacciona en espanol
+la gringa reacciona
+reacciones de gringas"
+21,icd_pzSxtmk,🇺🇸 GRINGA REACCIONA A EJERCITO MEXICANO,39,5,1.0,0,2020-11-20,18:08:59,4,night,66826,4115,130,0,441,16.566666666666666,hd,false,True,https://i.ytimg.com/vi/icd_pzSxtmk/hqdefault.jpg,480,360,"['gringa reacciona', 'gringa reacciona a el ejercito mexicano', 'ejercito mexicano reaccion', 'gringa reacciona a mexico', 'gringa reacciona a el entrenamiento del ejercito mexicano', 'americana reacciona', 'gringa reacciona soldados', 'soldados mexicanos reaccion', 'reaccion a soldados mexicanos', 'gringa reacciona a militares mexicanos', 'gringa reacciona a la militar mexicana', 'militares mexicanos reaccion', 'gringa reacts', 'gringa reacts to mexican army', 'mexican army reaction', 'gringa reaccion a mexor']",16,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en esta ocaciones reaccionamos a el ejercito mexicano tambien colaboramos con el Sargento 43. Si les gusto dejen su like y comenten. Gracias a todos por los 17,000 suscriptores. 
+.
+.
+Sargento 43 : https://www.youtube.com/channel/UCI8vjjM_yHC-41llErIRogA
+.
+.
+Instaram: gringareacciona
+.
+.
+#gringareacciona #ejercitomexicano #americanareacciona"
+22,hDAgxklvrP4,🇺🇸 GRINGA REACCIONA A CUMBIAS,29,4,1.0,0,2021-01-01,19:45:22,4,night,64705,3535,68,0,489,6.216666666666667,hd,false,False,https://i.ytimg.com/vi/hDAgxklvrP4/maxresdefault.jpg,1280,720,"['gringa', 'gringa reacts', 'gringa reacts to cumbias', 'gringa reacciona a cumbias', 'gringa reacciona', 'gringa reaccion a musica mexicana', 'girnga reacciona a mexico', 'gringa reacts to mexican music', 'gringa reacts to cholos', 'gringa reacciona a cholos', 'gringa reacciona a cholos bailando cumbia', 'gringa reacciona a gente bailando cumbia', 'gringa escucha cumbias', 'gringa reacciona a la sonora dinamita', 'la sonora dinamita', 'girnga reacciona 2021', 'gringa reacciona a mexico', 'gringa reacts to mexico']",18,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"GRINGA REACTS TO CUMBIAS. Hola amigos espero y les guste este video. Felices fiestas y espero que tengan un buen dia :)
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+23,KhfTkgAxHto,🇺🇸 GRINGA EN ABASTOS,20,3,1.0,0,2021-02-01,19:00:03,0,night,63955,4516,41,0,638,9.083333333333334,hd,false,True,https://i.ytimg.com/vi/KhfTkgAxHto/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'gringa in Mexico', 'gringa visit mexico', 'gringa visits mexico', 'gringa en abastos', 'gringa visita abastos', 'gringa reacciona a abastos', 'gringa in abastos', 'gringa works on Mexican store', 'gringa trabaja en frutería', 'trabajando en abastos por un día', 'Así trabajan en abastos', 'gringa reacts to Mexico', 'gringa visits Mexico City', 'gringa reacciona a haci trabajan en abastos', 'abastos mexico']",17,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en esta ocasión visitamos la central de abastos en torreon coahuila mexico, espero y les guste el video. Gracias por los 54,000 subscriptores :). 
+
+gringa en mexico 
+gringa visita abastos 
+gringa abastos"
+24,NABzzRIJKcM,🇺🇸 GRINGA REACCIONA AL ESCAPE DEL CHAPO GUZMAN,46,7,1.0,0,2020-12-02,22:16:24,2,night,57298,3400,51,0,390,7.716666666666667,hd,false,False,https://i.ytimg.com/vi/NABzzRIJKcM/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a el chapo', 'gringa reacciona a el chapo guzman', 'gringa reacts to el chapo', 'el chapo reacciona', 'el chapo reacts', 'gringa reacciona a corridos', 'el corrido del chapo', 'gringa reacciona a mexico', 'gringa reacciona a la captura del chapo', 'gringo reacciona a el chapo', 'gringa reacts to mexico', 'gringa reaciona a', 'gringa reacciona a musica mexicana', 'gringa reacciona a corridos mexicanos', 'gringa react to corridos', 'mujer reacciona', 'el chapo guzman reaccion']",18,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Amigos graicas por apoyar el canal. Ya somos 33,000 subscriptores. Muchisimas gracias a todos por el apoyo.
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+25,y0PYx1tYjbc,🇺🇸 GRINGA REACCIONA A VALENTIN ELIZALDE,39,5,1.0,0,2020-12-08,23:08:06,1,late_night,55250,3613,40,0,413,11.266666666666667,hd,false,False,https://i.ytimg.com/vi/y0PYx1tYjbc/maxresdefault.jpg,1280,720,"['gringa reacciona a musica mexicana', 'gringa reacciona a mexico', 'gringa reacciona a corridos', 'gringa reacciona a valentin elizalde', 'gringa reacciona', 'gringa reacciona a mis enemigos', 'gringa reacciona amusica latina', 'valentin elizalde video reaccion', 'reaccionando a valentin elizalde', 'gringa reacts', 'gringa reacts to mexican music', 'gringa reacciona al gallo de oro', 'el gallo de oro reaccion', 'valentin elizalde el gallo de oro', 'gringo reacciona a valentin elizalde', 'valentin reaccion', 'mex']",17,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Amigos muchisimas gracias por ver el video. Ya somos 38,000 subscriptores. Muchisimas gracias a todos es pero y les guste. En esta ocacion reaccionaremos a valentin elizalde 
+
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+.
+.
+gringa reacciona
+gringa reacciona a musica mexicana 2021
+gringa reacciona a corridos"
+26,sKMU5gPBZhg,🇺🇸 GRINGA VISITA CEMENTERIO MEXICANO,36,4,1.0,0,2021-02-11,20:34:27,3,night,43646,2870,40,0,316,4.583333333333333,hd,false,True,https://i.ytimg.com/vi/sKMU5gPBZhg/maxresdefault.jpg,1280,720,"['cementerio', 'gringa reacciona', 'gringa en mexico', 'gringa visita mexico', 'gringa reacts', 'gringa visits mexico', 'gringa visits cemetery', 'mexican cemetery', 'gringa in mexico', 'visitando cementerios', 'gringa visitando cementerio', 'visitando cementerios de noche', 'gringa visita cementerio en mexico', 'cementerios en mexico', 'gringa visits mexican cemetery', 'cemetery', 'gringa visita panteon', 'gringa visita panteon en mexico', 'panteon mexicano', 'tumbas en mexico', 'panteon de noche']",21,24,none,,,Gringa Reacciona,91000,6275114,82,"Hola amigos, en esta video visitamos un cementerio en mexico. Espero y les guste el video y recomiendenme otros videos :)
+
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+.
+.
+gringa visita panteon en mexico
+gringa visita cementerio en mexico
+gringa visits panteon 
+gringa visits cemetery in mexico
+gringa in cemetery in mexico"
+27,Ab5yElcuJSk,GRINGA REACCIONA a ACZINO v.s WOS 🔥🔥,36,7,0.5714285714285714,0,2020-09-08,17:15:40,1,afternoon,39931,1492,34,0,258,12.433333333333334,hd,false,True,https://i.ytimg.com/vi/Ab5yElcuJSk/maxresdefault.jpg,1280,720,"['aczino vs', 'wos vs aczino', 'aczino vs wos', 'wos', 'aczino', 'aczino vs wos 2019', 'wos y aczino', 'aczino vs wos redbull', 'gringa react', 'gringa reacciona a aczino', 'americana reacciona', 'wos vs aczino redbull batalla de los gallos', 'wos vs aczino reaccion', 'gringa reacciona a wos', 'aczino vs wos argentina', 'gringa reacciona a batallas de rap', 'ACZINO vs WOS', 'WOS vs ACZINO', 'ACZINO v.s WOS 4x4', 'aczino y wos 2020', 'aczino vs wos reaccion', 'americana reacciona a aczino', 'model reacciona']",23,22,none,,['https://en.wikipedia.org/wiki/Hip_hop_music'],Gringa Reacciona,91000,6275114,82,"Amigos gracias por apoyar el canal. Suscríbete y like para un saludo ❤️.
+.
+.
+.
+.
+.
+.
+.
+#redbull
+#wos
+#aczino
+#reacciones
+#rap"
+28,UBnGxt5yc2Q,La CANCION mas HERMOSA de MEXICO 🇲🇽│Gringa Reacciona a Juan Gabriel,67,11,0.2727272727272727,0,2021-05-07,20:56:15,4,night,38648,1840,29,0,142,5.716666666666667,hd,false,False,https://i.ytimg.com/vi/UBnGxt5yc2Q/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a musica mexicana', 'gringa reacciona a canciones mexicanas', 'gringa reacciona a mexico', 'gringa reacciona a juan gabriel', 'gringa reacciona a amor eterno', 'gringa reacciona a musica de mexico', 'Juan Gabriel amor eterno reaccion', 'gringareacciona', 'gringareaciona', 'gringa reasiona', 'gringa mexico', 'mexico reaccion', 'gringa reacciona a musica en mexico', 'gringa reacciona mexico', 'amor eterno gringa reacciona', 'Juan Gabriel reaccion']",17,24,none,,['https://en.wikipedia.org/wiki/Music_of_Latin_America'],Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a juan Gabriel amor eterno. Espero y les guste el video amigos.
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+29,f1QSQadZKIc,🇺🇸 GRINGA PRUEBA CHILES JALAPEÑOS,33,4,1.0,0,2020-11-24,21:41:50,1,night,35625,3524,28,0,545,10.016666666666667,hd,false,True,https://i.ytimg.com/vi/f1QSQadZKIc/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringos comiendo chiles jalapenos', 'gringa prueba comida picosa', 'gringos comiendo cosas picosas', 'gringa comiendo papitas picosas', 'gringa prueba dulces mexicanos', 'extranjeros comiendo chiles mexicanos', 'reto de chiles jalapenos', 'gringa come picante', 'extranjeros comiendo picante', 'gringa reacts', 'gringa try mexican food', 'comida picosa reaccion', 'americana comiendo chile jalapeno', 'guera reacciona', 'probando comida picante', 'comida picante mexicana', 'gringa reacciona a m']",18,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en esta ocacion probamos comida picosa de Mexico, espero y les guste. No olviden dejar su like y compartir con sus amigos. Gracias por los 22,000 subscriptores. Muchas gracias :)
+.
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/?hl=en
+Facebook: https://www.facebook.com/pg/gringareacciona/photos/
+.
+.
+.
+#gringareacciona #jalapenochallenge #comidamexicana"
+30,sPftSMDkz9o,🇺🇸 AMERICANA PRUEBA DULCES MEXICANOS POR PRIMERA VEZ,52,7,1.0,0,2020-09-30,10:50:19,2,afternoon,34653,2636,21,0,232,5.366666666666666,hd,false,True,https://i.ytimg.com/vi/sPftSMDkz9o/maxresdefault.jpg,1280,720,"['gringa reacciona a dulces mexicanos', 'probando dulces mexicanos por primera vez', 'probando dulces mexicanos', 'dulces mexicanos', 'probando dulces', 'dulces', 'americana prueba dulces mexicanos', 'reaccionando a dulce mexicanos', 'estadounidense prueba dulces mexicanos', 'extranjeros prueban dulces mexicanos', 'gringa prueba dulces mexicanos', 'gringa reacciona', 'americana reacciona', 'probando dulces mexicanos picosos', 'gringa prueba dulces mexicanos por primera vez', 'americana reacciona a mexico', 'Mexico']",17,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Gringa Reacciona,91000,6275114,82,"Amigos en esta ocacion les traigo un video de gringa reacciona a dulces mexicanos. Espero y les guste el video. Gracias a todos por el apoyo y no olviden dejar su like y suscribirse. 
+.
+.
+.
+Instagram: gringareacciona https://www.instagram.com/gringareacciona/
+.
+.
+.
+#gringareacciona #Mexico #dulcesmexicanos"
+31,o2Gcx9o2NFA,CEMENTERIOS EN MEXICO v.s CEMENTERIOS EN ESTADOS UNIDOS,55,9,0.7777777777777778,0,2021-03-02,20:51:18,1,night,32604,1675,16,0,230,12.516666666666667,hd,false,True,https://i.ytimg.com/vi/o2Gcx9o2NFA/maxresdefault.jpg,1280,720,"['fantasmas', 'gringa reacciona', 'gringa reacts', 'cementerio mexicano vs cementerio en estados unidos', 'cementerios en mexico', 'cementerios en estados unidos', 'cementerios en mexico vs en estados unidos', 'mexican cementery', 'visiting the cementery', 'el mejor cementerio de mexico', 'visitando un cementerio', 'explorando un cementerio', 'mexican vs american', 'panteon mexicano', 'panteon en mexico', 'mexican graveyards', 'gringa vlogs', 'gringa visits graveyard', 'gringa in mexico', 'gringa visits ce']",20,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en este video comparamos un cementerio en Estados Unido con un cementerio en Mexico. Espero y les guste. No olviden dejar su like y subscribirse me ayudarias muchisimo. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringavlogs #gringareacts #cementery
+,
+,
+panteon mexicano vs panteon estado unidense 
+panteon en mexico vs usa
+cementerios en estados unidos 
+cementerio en mexico vs estados unidos 
+gringa visita panteon 
+gringa panteon 
+gringa cementerio 
+gringa graveyard
+gringa cemetery"
+32,fslzPO6c7Mo,🇺🇸 GRINGA REACCIONA A PERSONAS RACIST4S,39,5,1.0,0,2020-10-07,20:55:56,2,night,28707,2224,16,0,133,5.083333333333333,hd,false,False,https://i.ytimg.com/vi/fslzPO6c7Mo/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a personas racistas', 'americana reacciona', 'personas racistas', 'ataques racistas', 'ataques racistas a hispanos', 'ataques racista en estados unidos', 'gringa reacciona a atques racistas', 'gringos racistas', 'episodios racistas reaccion', 'gente racista', 'videos de personas racistas', 'racismo', 'racista', 'noticias', 'reaccionando al racismo', 'como es el racismo en usa', 'racismo de trump', 'trump', 'presidente trump video reaccion']",20,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Gracias a todos los que ven los videos. Los aprecio muchisimos!! YA SOMOS 1,000 PERSONAS!! MUCHISIMAS GRACIAS. :)
+.
+.
+.
+Mis Redes Sociales:
+ Instagram: https://www.instagram.com/gringareacciona/
+.
+.
+#gringareacciona
+#gringosracistas
+#americanareacciona"
+33,t5Lo5JnxciU,🇺🇸 AMERICANA REACCIONA A FRANCO ESCAMILLA POR PRIMERA VEZ,57,8,1.0,0,2020-09-22,13:00:20,1,afternoon,27141,1884,20,0,122,11.233333333333333,hd,false,True,https://i.ytimg.com/vi/t5Lo5JnxciU/maxresdefault.jpg,1280,720,"['reaccion', 'méxico', 'franco escamilla', 'reaccionando a franco escamilla', 'reaccionando a franco escamilla por primera vez', 'gringa reacciona', 'americana reacciona a franco escamilla', 'franco escamilla rpm', 'americana reacciona', 'americana reacciona a mexico', 'americano reacciona a mexico', 'gringos reaccionan a franco escamilla', 'extranjeros reaccionan a franco escamilla', 'espanoles reaccion', 'españoles reaccionan a franco escamilla', 'españoles reaccionan a mexico', 'humor mexicano', 'humor de mexico']",18,22,none,es-US,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"amigos gracias por ver el video. Espero y les guste no olviden. No olviden de suscribirse y dejar su like.
+.
+.
+.
+MIS REDES:
+---INSTAGRAM: https://www.instagram.com/gringareacciona/
+.
+.
+.
+.
+.
+#francoescamilla #franco #francoescamillatiktok"
+34,qTUzavJWPcY,🇺🇸 GRINGA REACCIONA A CHALINO SANCHEZ,37,5,1.0,0,2021-03-27,21:38:26,5,night,25970,2333,24,0,367,5.216666666666667,hd,false,False,https://i.ytimg.com/vi/qTUzavJWPcY/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a corridos', 'gringa reacciona al corrido de juanito', 'gringa reacciona a cha', 'chalino sanchez reaccion', 'gringa reacciona a chalino sanchez', 'chalino sanches', 'gringa reacciona a nieves de enero', 'gringa reacciona a corridos mexicanos', 'gringa reacciona a mexico', 'chalino sanchez', 'extranjera reacciona a corridos', 'nieves de enero reaccion', 'nieves de enero chalino sanchez', 'gringa reacts', 'gringa', 'musica mexicana', 'mexican music', 'reaccion', 'mujer reacciona']",20,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a el rey de los corridos. Chalino Sanchez. Espero y les guste y no olviden dejar su like y subscribirse. Muchisimas gracias a todos. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+gringa reacciona"
+35,w_9L2OZzE3M,🇺🇸 GRINGA REACCIONA A CORRIDOS TUMBADOS RELIGIOSOS,50,6,1.0,0,2020-12-01,20:00:05,1,night,23894,2048,77,0,289,5.866666666666667,hd,false,False,https://i.ytimg.com/vi/w_9L2OZzE3M/hqdefault.jpg,480,360,"['corridos tumbados', 'reaccionando a corridos tumbados', 'gringa reacciona', 'gringo reacciona', 'gringa reacts', 'gringa reacciona a corridos tumbados', 'gringa reacciona a corridos mexicanos', 'gringa reacciona a corridos', 'gringa reacciona a musica mexicana', 'corridos mexicanos', 'gringa reacciona a corridos tumbados religiosos', 'corridos tumbados religiosos', 'americana reacciona', 'gringa reacts to corridos tumbados', 'apostol del rap reaccion', 'gringa reacciona al apostol del rap', 'mexican corridos']",17,24,none,,"['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music']",Gringa Reacciona,91000,6275114,82,"Amigos en esta ocacion reaccionamos a corridos tumbados religosos del canal de https://www.youtube.com/user/LosApostolesDelRap (apostol del rap) espero y les guste. Gracias a todos porque ya somos 31,000 seguidores. Muchisimas gracias 
+
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts #corridostumbados
+.
+.
+.
+.
+.
+Corridos tumbados reaccion
+gringa reacciona a corridos
+gringa reacciona a corridos tumbados 
+gringa reacts to corridos tumbados
+corridos tumbados reacts
+kids react to corridos tumbados
+kids react to corridos"
+36,YYVZNa5IkHw,🇺🇸 Gringa Aprende a BAILAR musica BANDA MEXICANA,48,7,0.42857142857142855,0,2021-04-27,19:27:54,1,night,21283,1570,27,0,199,7.8,hd,false,True,https://i.ytimg.com/vi/YYVZNa5IkHw/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa aprende a bailar musica mexicana', 'como bailar musica banda', 'como bailar banda', 'gringa bailando banda', 'gringa reacts', 'gringa reacciona a musica mexicana', 'gringa aprende a bailar banda', 'gringa bailando musica mexicana', 'gringa bailando', 'gringa bailando mexicano', 'gringa dancing banda', 'gringa dancing Mexican music', 'gringa aprende a bailar', 'musica banda', 'como bailar musica mexicana', 'gringa aprendiendo a bailar', 'gringa reacciona a mexico', 'gringa mexico', 'mex']",20,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en este video aprendemos a bailar música banda mexicana. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringareacts #musicamexicana"
+37,qcncsk6aHX0,🇺🇸 GRINGA REACCIONA A LOS DOS CARNALES,38,6,1.0,0,2021-06-29,20:00:08,1,night,20801,1114,12,0,113,4.5,hd,false,False,https://i.ytimg.com/vi/qcncsk6aHX0/maxresdefault.jpg,1280,720,"['los dos carnales', 'corridos', 'los dos carnales el envidioso', 'el envidioso los dos carnales', 'los 2 carnales', 'dos carnales', '2 carnales', 'gringa reacciona', 'gringa reacciona a corridos', 'gringa reacciona a los dos carnales', 'el chavo y quico los dos carnales', 'el envidioso reaccion', 'americana reacciona', 'los dos carnales reaccion', 'gringareacciona', 'los dos hermanos', 'los dos carnales el chavo', 'reaccionando a los dos carnales', 'americana reacciona a los dos carnales', 'guera reacciona', 'carnales']",21,24,none,,['https://en.wikipedia.org/wiki/Music'],Gringa Reacciona,91000,6275114,82,"Gringa Reacciona a Los 2 Carnales 
+-
+-
+-
+Instagram: Gringa Reacciona
+TikTok: gringareacciona1
+Facebook: Gringa Reacciona"
+38,V9NQdqOyJ-Y,🇺🇸 GRINGA REACCIONA AL HIMNO MEXICANO,37,5,1.0,0,2020-12-28,22:07:43,0,night,20429,1866,28,0,296,10.533333333333333,hd,false,True,https://i.ytimg.com/vi/V9NQdqOyJ-Y/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'gringo reacciona', 'gringa reacciona a himno mexicano', 'gringa reacciona a mexico', 'gringa reacciona a himno nacional mexicano', 'gringa reacts to mexico', 'gringa', 'gringa reacciona a musica mexicana', 'gringa reacciona a himno', 'himno mexicano reaccion', 'el himno mexicano', 'gringa reacciona a viva mexico', 'gringa reacciona a la bandera mexicana', 'gringa reacciona al grito de guerra', 'gringa canta en espanol', 'gringa dice himno mexicano', 'gringas habla espanol', 'mex']",19,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos gracias por ver el video. Espero y tengan un lindo Año Nuevo. :) No olvides de seguirme en mis redes como gringareacciona
+
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+39,cEDA0UiSkeA,PASAPORTE MEXICANO v.s ESTADOUNIDENSE,37,5,0.6,0,2021-01-18,19:37:46,0,night,20261,1446,30,0,142,4.766666666666667,hd,false,True,https://i.ytimg.com/vi/cEDA0UiSkeA/maxresdefault.jpg,1280,720,"['passaporte', 'gringa reacciona', 'gringa reacts', 'pasaporte mexicano en estados unidos', 'pasaporte', 'pasaporte mexicano vs americano', 'pasaporte estadounidense', 'mexico vs usa', 'pasaporte mexicano 2021', 'pasaporte de mexico y estados unidos', 'pasaporte americano', 'gringa compara', 'gringa comparaciones', 'mexico vs america', 'cual pasaporte es mejor', 'el mejor pasaporte', 'mexican passport', 'us passport', 'usa passaports vs mexican', 'mexican passaport vs']",20,24,none,,,Gringa Reacciona,91000,6275114,82,"Hola amigos este video es una comparasion de el pasaporte de mexico y el pasaporte de estados unidos. Espero y les guste. Gracias a todos por los 48,000 subscriptores.
+
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+40,gIZIcHquNVM,🇲🇽PRODUCTOS MEXICANOS v.s 🇺🇸ESTADO UNIDENSES,44,6,0.6666666666666666,0,2021-03-07,20:52:56,6,night,19524,1487,20,0,209,18.316666666666666,hd,false,True,https://i.ytimg.com/vi/gIZIcHquNVM/hqdefault.jpg,480,360,"['gringa reacciona', 'gringa hablando en español', 'gringa reacts', 'productos mexicanos vs', 'productos mexicanos vs estadounidenses', 'mexico vs usa', 'tiendas en estados unidos', 'tiendas en estados unidos vs mexico', 'visitando una tienda en mexico', 'tienda mexicana', 'supermercado en mexico', 'supermercado en estados unidos', 'visiting a store in mexico', 'mexican products vs usa', 'mexico vs estados unidos', 'mex vs usa', 'mexican', 'usa vs mexico', 'mexico vs', 'usa vs', 'MEXICO vs USA', 'mx vs us', 'supermarket']",23,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en estos video comparamos productos mexicanos con productos americanos. Espero y les guste y muchas gracias porque ya casi llegamos a 70,000 subscriptores. Gracias por el apoyo. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringablogs #tienda
+.
+.
+.
+.
+gringa visita tienda en mexico
+supermercado en estados unidos 
+estados unidos vs mexico 
+mexico vs estados unidos 
+estados unidos y mexico"
+41,71G4l9HtsE8,🇺🇸 GRINGA REACCIONA A EL INMIGRANTE - Calibre 50,48,7,0.7142857142857143,0,2020-11-30,18:02:39,0,night,18822,1834,31,0,172,5.516666666666667,hd,false,True,https://i.ytimg.com/vi/71G4l9HtsE8/maxresdefault.jpg,1280,720,"['gringareacciona', 'gringa reacciona', 'gringa reacts', 'americana reacciona', 'gringa reacciona a corridos', 'gringa reacciona a el immigrante', 'gringa reacciona a immigrantes', 'gringa reacciona a musica mexicana', 'musica mexicana reaccion', 'extranera reacciona a musica mexicana', 'el immigrante calibre 50 reaccion', 'gringa reacciona a el inmigrante', 'el inmigrante reaccion', 'calibre 50 reaccion', 'guera reacciona a musica mexicana', 'gringa', 'gringa hablando espanol', 'gringa reacts to inmigrante', 'mexico']",19,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos gracias a todos por los 30,000 subscriptores. Espero y les guste el video. No olvides seguirme en mis redes sociales. Muchisimas gracias!
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/?hl=en
+Facebook: https://www.facebook.com/pg/gringareacciona/photos/
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+.
+.
+.
+gringo reacciona"
+42,qI18tBhYxIg,🇺🇸 GRINGA REACCIONA A EL MENCHO,31,5,1.0,0,2021-05-15,19:40:09,5,night,17909,1335,34,0,263,6.616666666666667,hd,false,True,https://i.ytimg.com/vi/qI18tBhYxIg/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a el mencho', 'el mencho reaccion', 'gringa reacciona a cjng', 'gringa reacts to el mencho', 'gringa reacciona a corridos', 'gringa reacciona a cartel', 'gringareacciona', 'gringa reacts to corridos', 'gringa reacciona a el cjng', 'gringa reacciona a narcos', 'gringa reacciona a narcos el mencho', 'el mencho gringa', 'gringareacts', 'gringa reacciona a', 'gringa reacciona a mencho', 'gringa reacciona al mensho', 'gringa reaction', 'gringa racciona', 'gringa reacciones', 'reaccion']",21,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"AMIGOS EN ESTE VIDEO REACCIONAMOS A CJNG EL MENCHO. ESPERO Y LES GUSTE EL VIDEO. 
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#MEXICO #GRINGAREACCIONA #SUBCRIBITE"
+43,ym4pJooqpB4,🇺🇸 GRINGA REACCIONA A CARTELES UNIDOS - El Komander,51,7,0.7142857142857143,0,2021-05-03,19:00:21,0,night,17809,1216,23,0,156,3.7333333333333334,hd,false,False,https://i.ytimg.com/vi/ym4pJooqpB4/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a corridos', 'gringa reacciona al corrido de juanito', 'gringa reacciona corridos mexicanos', 'gringa reacciona a musica mexicana', 'gringa reacciona a movimiento alterado', 'gringa reacts to movimiento alterado', 'gringa reacts to mexican music', 'gringa en mexico', 'gringa reacciona al corrido del m1', 'gringa', 'gringareacciona', 'gringa reaction', 'corridos mexicanos', 'gringa reacciona a mexico', 'gringa reacts to mexico', 'gringa reacts', 'mexico', 'musica mexicana', 'corridos']",20,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a movimiento alterado el M1. Espero y les guste el vide. 
+.
+.
+.
+https://www.instagram.com/gringareacciona/?hl=en
+https://www.facebook.com/gringareacciona/photos/
+https://www.tiktok.com/@gringareacciona?lang=en
+.
+.
+.
+#gringareacciona #corridos #mexico 
+.
+gringa reacciona a corridos 
+gringa reacciona a musica mexicana"
+44,nCpXuIqT5Y8,🇺🇸 Gringa Aprende a HABLAR MEXICANO - Gringa Reacciona,54,7,0.2857142857142857,0,2021-04-13,19:07:42,1,night,17764,1778,17,0,225,6.283333333333333,hd,false,True,https://i.ytimg.com/vi/nCpXuIqT5Y8/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa habla mexicano', 'gringa reacciona a mexico', 'gringa hablando espanol', 'gringa hablando mexicano', 'como hablar mexicano', 'gringa talking mexican', 'aprender palabras mexicanas', 'extranjeros hablan mexicano', 'gringa reacts to mexico', 'gringa hablando espanol mexicano', 'gringa hablando espanol latino', 'diccionario mexicano', 'palabras mexicanas', 'gringa mexico', 'mexico reaccion', 'gringa reacciona a mex', 'gringa talks mexican', 'gringa reacciona a diccionario mexicano']",19,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en este video aprendemos a hablar mexicano. Espero y les guste el video. No olviden de dejar su like y de subcribirse muchas gracias. 
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/?hl=en
+Facebook: https://www.facebook.com/pg/gringareacciona/photos/
+TikTok: https://www.tiktok.com/@gringareacciona?lang=en
+.
+.
+.
+.
+#gringareacciona #gringaenmexico #gringareacts"
+45,dJFYlrZnm8A,🇺🇸 GRINGA VISITA TIENDA EN MEXICO | Gringa en Mexico #4,55,9,0.5555555555555556,0,2021-03-13,20:20:14,5,night,17266,1279,9,0,192,5.016666666666667,hd,false,True,https://i.ytimg.com/vi/dJFYlrZnm8A/maxresdefault.jpg,1280,720,"['cdmx', 'gringa reacciona', 'gringa en mexico', 'gringa visita mexico', 'gringa visita tienda mexicana', 'la tiendita', 'gringa visits mexican store', 'gringa in mexico', 'gringa viviendo en mexico', 'mi primer vez en mexico', 'visitando mexico', 'tienda mexicana', 'tiendas en mexico', 'mercado en mexico', 'visitando el mercado en mexico', 'mexico', 'mex', 'girnga en mex', 'supermercados en mexico', 'compras', 'mx', 'mexican', 'miscellaneous', 'store in mexico', 'mexican store', 'tienda en mexico', 'gringa blog en mexico', 'buying']",28,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Amigos este es el ultimo video que grabe antes venirme de mexico. Espero y les guste no olviden de dejar su like y subscribirse. Muchas gracias por el apoyo. Ya somos 70K sucriptores 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringaenmexico #gringareacts #mexico 
+.
+.
+gringa visita mexico por primera vez
+gringa en mexico por primera vez
+gringa viaja a mexico por primera vez
+mi primera vez en mexico 
+girnga blog en mexico 
+girnga visita mexico
+gringa en la ciudad de mexico"
+46,hC6Ghr-5ii4,ESTA CIUDAD ESTABA BAJO EL AGUA🇺🇸😮| Gringa Blogs #1,51,9,0.6666666666666666,1,2021-03-10,21:17:15,2,night,17152,1160,16,0,167,10.916666666666666,hd,false,True,https://i.ytimg.com/vi/hC6Ghr-5ii4/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'luisito comunica en el salvador', 'esta ciudad estaba debajo del agua', 'ciudad bajo el agua', 'visitando ciudad bajo el agua', 'ciudad que se inundo', 'gringa viaja', 'gringa ciudad bajo el agua', 'gringa videos', 'ciudades bajo el agua', 'ciudades abandonadas', 'ciudades bajo el mar', 'ciudad en el rio', 'ciudad gringa', 'gringa ciudades', 'gringa en comunica', 'este lugar es magico', 'la mejor ciudad del mundo', 'videovlog gringa', 'gringa español', 'bajo el oceano', 'agua']",23,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Amigos gracias a todos por ver el video. En esta ocacion les traigo un videovlog de la ciudad que estuvo bajo el agua. Espero y les guste. Gracias a todos porque ya casi somos 70,000 subcriptores. Muchisimas gracias a todos.
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+47,16tDIPIYyoE,🇺🇸 TODO EN ESTA TIENDA ES UN DOLAR! | GRINGA VISITANDO TIENDA DE DOLAR,70,12,1.0,0,2021-02-21,21:34:50,6,night,16267,1164,17,0,178,10.666666666666666,hd,false,True,https://i.ytimg.com/vi/16tDIPIYyoE/hqdefault.jpg,480,360,"['dollar tree', 'tienda de dolar $1 en estados unidos', 'gringa reacciona', 'gringa reacts', 'visitando tienda de dolar', 'gringa visita tienda de dolar', 'gringa visita tienda', 'visiting dollar tree', 'gringa visits dollar tree', 'tienda normal vs', 'estados unidos', 'todo cuesta 1 dolar', 'todo por el valor de 1 dolar', 'tienda de 1 dolar', 'visitando tienda de 1 dolar', 'tienda de todo 1 dolar', 'todo por 1 dolar', 'tienda dollar tree', 'everything for 1 dollar', 'dollar store', 'tiendas baratas', 'cheap store']",22,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Amigos en este video visitamos la tienda de todo por un dolar en estados unidos. Espero y les guste este video. No olvides de dejar tu like y de subscribirte. Gracias a todos porque ya somos 62,000 muchas gracias a todos
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+,
+,
+gringa visitando tienda de todo por un dolar
+gringa visita la tienda de un dolar 
+gringa visits dollar tree
+dollar tree blog"
+48,raGZZ0twhAo,Mujer Hondureña Insulta a MEXICO - Gringa Reacciona,51,7,0.14285714285714285,0,2021-04-09,19:00:15,4,night,15641,1513,29,0,397,10.483333333333333,hd,false,True,https://i.ytimg.com/vi/raGZZ0twhAo/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'reacciona gringa', 'gringa reacciona a hondureña habla mal de mexico', 'habla mal de mexico', 'hondureños hablan mal de mexico', 'mujer habla mal de mexico', 'gringa reacciona a mexico', 'hombre habla mal de mexico', 'honduras vs mexico reaccion', 'mujer insulta mexico', 'mujer de honduras insulta mexico', 'personas hablan mal de mexico', 'critican a mexico', 'gringa reacciona a personas insultando a mexico', 'mujer insulta a mexicanos', 'insultan a mexico tiktok', 'mexico', 'vs']",19,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Amigos espero y les guste este video. En esta ocasión reaccionamos a personas hondureñas insultando a mexico. Espero y les guste el video. No olviden de dejar su like y de subscribirse 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringareacts #mexico"
+49,GtGus5FtR2c,🇺🇸 Gringa Reacciona a el barrio MAS PELIGROSO de MEXICO,55,9,0.3333333333333333,0,2021-04-18,19:21:50,6,night,13600,1092,21,0,141,22.35,hd,false,True,https://i.ytimg.com/vi/GtGus5FtR2c/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'gringa reacciona a tepito', 'gringa reacciona a Mexico', 'gringa en Mexico', 'tepito reacciona', 'el barrio mas peligroso de Mexico', 'gringa reacciona a yulay', 'gringa reacciona a barrios de mexico', 'gringa mexico', 'gringa reacts to mexico', 'gringa reacts to tepito', 'el barrio mas peligroso de mexico', 'mexico', 'gringa', 'gringas reacciona', 'reaccionando a pandillas mexicanas', 'gringa reacciona a pandillas mexicanas', 'los barrios mas peligrosos del mundo', 'gringa reacc']",20,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a el barrio mas peligrosos de Mexico. Tepito. Espero y les guste el video. Aquí le voy a dejar el canal de yuyal para que miren el video original https://www.youtube.com/watch?v=U3qEGUX6p2g
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/?hl=en
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringareacts #gringaenmexcio 
+.
+.
+gringa reacciona al barrio mas peligrosos del mundo 
+gringa reacciona a tepito 
+gringa reacciona a mexico 
+gringa reacciona a yulay
+gringa reacciona a mexico 
+gringa reacciona"
+50,VjH7w9LQPk0,🇺🇸 Gringa APRENDE a Cantar RANCHERAS,36,5,0.4,0,2021-04-21,20:51:24,2,night,12569,1185,10,0,156,8.5,hd,false,True,https://i.ytimg.com/vi/VjH7w9LQPk0/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'gringa cantando mexicano', 'gringa canta mexicano', 'gringa cantando en español', 'gringa cantando rancheras', 'gringa reacciona canta rancheras', 'gringa reacciona a rancheras', 'rancheras mexicanas', 'gringa reacciona a rancheras mexicanas', 'gringa singing in Spanish', 'gringa', 'gringa en Mexico', 'gringa hablando mexicano', 'gringa Mexico', 'gringa reacciona mexico', 'gringa reacciona a mexico', 'gringas', 'como cantar rancheras', 'como cantar mexicano', 'gringa cantando', 'mex']",22,24,none,,,Gringa Reacciona,91000,6275114,82,"hola amigos en este video aprendemos a cantar música mexicana. Espero y les guste el video. Gracias a todos por ver el video. Aquí el link a OnlyFans de Rostros: https://onlyfans.com/latinas1
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringareacts #gringaenmexico 
+.
+.
+.
+gringa reacciona a Mexico 
+gringa canta mexicano"
+51,Ng-WUPCg5Ps,Qué Silvestre Eres - AMERICANA REACCIONA A FRANCO ESCAMILLA 🇺🇸,62,8,0.625,0,2020-10-04,18:42:14,6,night,12317,1057,18,0,85,4.7,hd,false,True,https://i.ytimg.com/vi/Ng-WUPCg5Ps/maxresdefault.jpg,1280,720,"['reaccionando a franco escamilla rpm', 'gringo reacciona a mexico', 'franco escamilla', 'franco escamilla rpm', 'reaccionando a franco escamilla', 'franco escamilla que silvestre eres', 'americana reacciona a franco escamilla', 'gringa reacciona', 'americana reacciona', 'mujer reacciona a franco escamilla', 'reaccionando a franco escamilla por primera', 'franco escamilla que silvestre reaccion', 'franco escamilla reacciona', 'americana reacciona a mexico', 'gringa reacciona a mexico', 'reaccionando a franco']",16,22,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Gringa Reacciona,91000,6275114,82,"Amigos en esta occasion les traigo el video de gringa reacciona a franco escamilla que silvestre. Espero y les guste este vide y dejen su like y suscribanse para creccer esta comunidad. 
+.
+.
+.
+#francoescamilla #reaccionandoafrancoescamilla #gringareacciona
+.
+.
+.
+.
+.
+americana reacciona a franco escamilla
+gringa reacciona a franco escamilla
+estadounidense reacciona a franco escamilla
+gringo reacciona a franco escamilla"
+52,wYNUk0f0jVk,🇺🇸 GRINGA REACCIONA AL DIA DE LOS MUERTOS,41,7,1.0,0,2020-11-02,07:00:13,0,morning,12166,1014,13,0,156,5.966666666666667,hd,false,True,https://i.ytimg.com/vi/wYNUk0f0jVk/maxresdefault.jpg,1280,720,"['gringa reacciona a dia de los muertos', 'dia de los muertos reaccion', 'gringa reacciona', 'gringo reacciona', 'dia de los muertos gringa reacciona', 'méxico', 'reaccion a méxico', 'gringa reacciona al dia de los muertos', 'dia de los muertos en mexico', 'americanos reaccionan a dia de los muertos', 'gringa reacciona a tradiciones mexicanas', 'tradiciones mexicanas', 'gringa reacciona a noviembre 2', 'dia de los muertos en ingles', 'day of the dead reaction', 'day of the death', 'day of the dead in mexico city']",17,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"Amigos gracias por todo el apoyo, y gracias por suscribirte y gracias por ayudarme a llegar a 7,000 suscriptores. Muchisimas gracias.
+.
+.
+Instagram: https://www.instagram.com/direct/inbox/
+.
+.
+.
+#diadelosmuertos #gringareacciona #noviembre2"
+53,Fb4PeOaOd90,COMIDA MEXICANA v.s CENTROAMERICA - Gringa Reacciona,52,7,0.42857142857142855,0,2021-04-01,21:01:15,3,night,12158,1001,21,0,302,10.166666666666666,hd,false,True,https://i.ytimg.com/vi/Fb4PeOaOd90/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'mexico vs honduras', 'mexico vs el salvador', 'hondureno habla mal de mexico', 'insulto a mexico en tiktok', 'gringa en mexico', 'gringa reacciona a mexico', 'comida mexicana vs comida salvadorena', 'gringa prueba comida de honduras', 'mexico vs honduras tiktok', 'gringa reacciona a insulto a mexico', 'gringa reacciona a mexico tiktok', 'gringa', 'gringa vlogs', 'gringa prueba comida mexicana', 'el salvador vs mexico comida']",17,24,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Gringa Reacciona,91000,6275114,82,"Amigos en esta ocacion comparamos comida de mexico con comida de honduras y el salvador. Espero y les guste el video. No olviden de dejar su like y subscribirse 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringareacts #mexicovshonduras"
+54,Xukqjmb6P6U,🇺🇸 GRINGA COCINANDO TACOS POR PRIMERA VEZ,41,6,1.0,0,2021-03-18,19:24:20,3,night,11964,1250,10,0,211,10.516666666666667,hd,false,True,https://i.ytimg.com/vi/Xukqjmb6P6U/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa cocinando tacos', 'gringa cocinando comida mexicana', 'gringa cocinando', 'gringa cocinando pozole', 'gringa cocinando tacos en mexico', 'gringa haciendo tacos', 'gringa making tacos', 'girnga cooking tacos', 'gringa cooking mexican food', 'gringa prueba comida mexicana', 'gringa prueba tacos', 'tacos mexicanos', 'como hacer tacos', 'como cocinar tacos', 'probando tacos de carne asada', 'probando tacos por primera vez', 'taqueria mexico', 'tacos en mexico', 'mexican tacos', 'tacos']",21,24,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Gringa Reacciona,91000,6275114,82,"En este video cocinamos tacos por primera vez con mi amiga @uh lellie. Espero y les guste el video si quieren mas videos de cocina comenta cual comida. Espero y les guste. :)
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #tacos #mexicantacos #mexico"
+55,ADTLjLecCvU,🇺🇸 GRINGA REACCIONA A RACISMO EN MEXICO,39,6,1.0,0,2021-03-24,21:08:55,2,night,11825,993,18,0,189,7.133333333333334,hd,false,True,https://i.ytimg.com/vi/ADTLjLecCvU/hqdefault.jpg,480,360,"['gringa reacciona', 'gringa reacts', 'gringa reacciona a mexico', 'racismo en Mexico', 'gringa reacciona a racismo en Mexico', 'gringa reacts to Mexico', 'gringa reacciona a lady frijoles', 'gringa racismo', 'gringa en Mexico', 'gringa en mexico']",10,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a el racismo en Mexico. Espero y les guste el video. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringareacts #mexico 
+.
+.
+gringa reacciona a racismo en Mexico 
+gringa reacciona a Mexico 
+gringa reacciona a lady frijoles"
+56,MFchKKA9aMY,MI EXPERIENCIA EN MEXICO 🇲🇽,27,4,1.0,0,2021-03-11,20:36:25,3,night,11497,1083,5,0,217,29.5,hd,false,True,https://i.ytimg.com/vi/MFchKKA9aMY/maxresdefault.jpg,1280,720,"['Gringa en Mexico', 'Gringa Story Time', 'Gringa Live', 'Gringa hablando', 'Gringa Reacciona', 'Gringa Reacts', 'Mexico', 'Gringa reacciona a mexico', 'Gringa reacts to Mexico', 'Gringa Story time', 'gringa reacciona a mexico', 'Gringa Reacts to Mexico', 'gringa en mexico blog', 'Gringa Reacts to Mex', 'Mexico video reaction']",15,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,".
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+57,8cx1vdhLadU,🇺🇸GRINGA REACCIONA A PELICULA MEXICANA | La Ley de Herodes,58,9,0.5555555555555556,0,2021-03-20,20:02:28,5,night,10582,811,14,0,128,9.066666666666666,hd,false,True,https://i.ytimg.com/vi/8cx1vdhLadU/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacts', 'gringa reacciona a películas mexicana', 'gringa reacciona a la ley de Herodes', 'gringa reacciona a Mexico', 'gringa reacciona a película mexicana', 'gringa reacts to mexican movie', 'gringa reacciona a películas', 'la ley de herodes', 'la ley de herodes reaccion', 'americana reacciona a la ley de herodes', 'gringa reacciona a fedewolf', 'peliculas mexicanas', 'gringa reacciona a', 'gringo reacciona a la ley de Herodes', 'gringa Mexico', 'gringa reacts to Mexico', 'peliculas']",18,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en esta ocasión reaccionamos a la película de la ley de Herodes por el canal de fedewolf. Espero y les guste. No olviden de dejar su like y de subscribirse. También comenten que otro video quieren en el canal. Muchas gracias 
+.
+Aqui el video original del canal de fedewolf: https://www.youtube.com/watch?v=bRm0lh99fsU
+.
+.
+.
+.
+.
+.
+.
+.
+.
+#gringareacciona #gringareacts #gringa"
+58,tKs7_caZjP4,🇺🇸 AMERICANA REACCIONA A TIK TOKS MEXICANOS | #2,48,7,0.8571428571428571,0,2021-06-21,20:15:42,0,night,7908,745,13,0,71,12.333333333333334,hd,false,True,https://i.ytimg.com/vi/tKs7_caZjP4/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa hablando en español', 'gringa en mexico', 'gringa reacciona a tik toks mexicanos', 'gringa reacciona a humor mexicano', 'gringareacciona', 'americana reacciona a mexico', 'los mejores tiktoks de mexico', 'tik tok mexico', 'los mejores tik tok mexicanos', 'best mexican tik toks', 'mexican tik toks', 'humor mexicano reaccion', 'mexican tik toks reaction', 'tik tok rection', 'reacting to tik tok from mexico', 'mamas mexicanas tik tok', 'mexico tik tok', 'humor mexicano', 'mexican reaction']",20,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"gringa reacciona a tik toks mexicanos parte 2 - mamas mexicanas tiktok .
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+59,k1r3i0Ep3Kw,GRINGA REACCIONA A KODIGO POR PRIMERA VEZ 😲 🔥,45,7,1.0,1,2020-09-15,12:01:33,1,afternoon,6986,294,6,0,44,3.0,hd,false,True,https://i.ytimg.com/vi/k1r3i0Ep3Kw/maxresdefault.jpg,1280,720,"['fms', 'wos', 'aczino', 'kodigo', 'lo mejor de kodigo', 'los mejores doble tempo', 'los mejores doble tempo de kodigo', 'gringa reacciona', 'gringa reacciona a kodigo', 'reaccionando a kodigo por primera vez', 'reaccionando a kodigo', 'kodigo 2020', 'kodigo vs', 'vs kodigo', 'kodigo mc', 'freestyle de kodigo', 'rap de kodigo', 'kodigo red bull', 'kodigo argentina', 'argentina kodigo', 'lo mejor de kodigo argentina', 'argentina', 'eminem argentino', 'kodigo rap doble tempo', 'rapeo rapido', 'kodigo reaccion', 'reaccion de kodigo']",27,22,none,,['https://en.wikipedia.org/wiki/Hip_hop_music'],Gringa Reacciona,91000,6275114,82,"Amigos muchisimas gracias por el apoyo. Ya casi llegamos a los 300 suscriptores. Muchisimas gracias a todos. No olvides suscribirte y dejar tu like me ayudarias mucho :)
+.
+.
+.
+No olvides de seguirme en mis redes sociales -------
+.
+.
+.
+Instagram: gringareacciona 
+facebook: gringareacciona 
+.
+.
+.
+.
+#kodigo #gringareacciona #dobletempo 
+.
+.
+.
+.
+Kodigo 
+lo mejor de kodigo
+reaccionando a kodigo 
+gringa reacciona
+los mejores doble tempo de kodigo 
+reaccionando a kodigo por primera vez"
+60,-W7fD6sBu24,🇺🇸 Visitando un PUEBLO FANTASMA de 1880 en ESTADOS UNIDOS︱Gringa Reacciona,74,11,0.36363636363636365,0,2021-05-19,21:33:39,2,night,6721,630,6,0,120,12.516666666666667,hd,false,True,https://i.ytimg.com/vi/-W7fD6sBu24/hqdefault.jpg,480,360,"['gringa reacciona', 'gringareacciona', 'gringa en mexico', 'gringa visita pueblo fantasma', 'pueblo fantasma en estados unidos', 'gringa visita pueblo abandonado', 'gringa vlogs', 'gringa visita pueblo en estados unidos', 'gringa reacciona a', 'plantaciones en estados unidos', 'girnga visita pueblo abandonado', 'explorando pueblo abandonado', 'gringa reacciona a mexico', 'gringa en pueblo de mexico', 'gringas reacciona', 'guera reacciona', 'guera reacts', 'guera', 'gringa habla espanol', 'gringa reacciona a corridos']",20,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"En este video visitamos un pueblo fantasma en estados unidos de 1880. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringa #gringareacciona #gringas"
+61,EvUQKGYZ550,Mexican Tik Toks That Would Make You Cry,40,8,0.0,0,2021-06-25,19:45:00,4,night,6424,645,3,0,43,11.95,hd,false,True,https://i.ytimg.com/vi/EvUQKGYZ550/maxresdefault.jpg,1280,720,"['mexican tik tok', 'tik tok compilations', 'tik tok', 'gringa reacciona a tik toks', 'gringa reacciona', 'gringa reacciona a tik tok mexicanos', 'mexican tik toks reaction', 'reacting to mexican tik toks', 'reacting to mexican tiktoks', 'reaccionando a tik toks mexicanos', 'humor mexicano', 'reaccionando a humor mexicano', 'reacting to tiktok', 'reacting to tiktoks in spanish', 'gringa reacts to mexican tik toks', 'mexican tik toks', 'tik toks mexicanos', 'tik tok mexico', 'best mexican tik toks', 'tiktok mexico']",20,24,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Gringa Reacciona,91000,6275114,82,"Gringa Reacciona a tik toks mexicanos 
+-
+-
+-
+#mexicantiktoks #humormexicano #gringareacciona
+-
+-
+gringa reacciona
+gringareacts
+gringareacciona"
+62,kmWA9yrU1rE,🇺🇸 GRINGA REACCIONA A RAP MEXICANO,34,5,1.0,0,2021-06-11,19:32:57,4,night,6327,635,10,0,77,5.65,hd,false,True,https://i.ytimg.com/vi/kmWA9yrU1rE/hqdefault.jpg,480,360,"['gringa reacciona', 'gringa reacciona a mexico', 'gringa reacciona a rap mexicano', 'gringa reacciona a rap', 'gringa reacciona a musica mexicana', 'gringa reacciona a corridos', 'gringa reacciona a mexor', 'gringa reacciona a mexor grito de guerra', 'gringa reacciona a grito de guerra', 'gringa reacciona a ra', 'gringa reacciona a mexico rap', 'gringa reacts to mexican rap', 'gringa reacts to rap', 'rap mexicano', 'rap mexicano reaccion', 'rap mexico', 'gringa banda']",17,24,none,,"['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Gringa Reacciona,91000,6275114,82,"AMIGOS GRACOAS POR VER EL VIDEO Y NO OLVIDES SEGUIRME EN MI SEGUNDO CANAL. ESPERO Y LES GUSTE 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+#gringa #rapmexicano #gringareacciona"
+63,JZZEqvfNTGI,GRINGA REACCIONA a ACZINO v.s ERRECE 🔥,38,7,0.5714285714285714,0,2020-09-06,15:33:41,6,afternoon,6263,278,12,0,25,3.6333333333333333,hd,false,True,https://i.ytimg.com/vi/JZZEqvfNTGI/maxresdefault.jpg,1280,720,"['aczino vs errece', 'errece vs aczino', 'aczino', 'aczino vs errece 2020', 'aczino vs errece fms', 'aczino vs', 'errece vs', 'un aczino no da miedo', 'vente gory baja a la alcantarilla', 'aczino payaso', 'payaso errece', 'errece vs aczino payaso', 'payaso aczino', 'aczino vs errece 4x4', 'ACZINO v.s ERRECE 4x4', 'aczino vs errece fms internacional', 'gringa reacciona a aczino', 'gringa reacciona']",18,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Amigos gracias por el apoyo no olviden suscribirse ❤️
+.
+.
+.
+.
+.
+.
+#aczino
+#fms 
+#gringareacciona"
+64,dIV8UbKGzyM,🇺🇸 Hablando ESPAÑOL por 24 HORAS | Gringa Reacciona,51,7,0.2857142857142857,0,2021-05-12,19:00:05,2,night,6056,671,7,0,101,11.883333333333333,hd,false,True,https://i.ytimg.com/vi/dIV8UbKGzyM/hqdefault.jpg,480,360,"['gringa reacciona', 'gringa hablando en español', 'gringa habla en español por 24 horas', 'gringa hablando mexicano por 24 horas', 'hablando español 24 horas', '24 horas reto', 'hablando en español por 24 horas', 'speaking spanish for 24 hours', 'gringa habla español', 'hablando español', 'hablando', 'gringareacciona', 'gringa reacts']",13,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Gringa Reacciona,91000,6275114,82,"GRINGA HABLANDO MEXICANO POR 24 HORAS.
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+gringa hablando espanol 
+gringa hablando mexicano 
+gringa reacciona 
+reto de 24 horas 
+gringa reto 24 horas de español 
+gringa speaking spanish"
+65,mwu8tdjQvYI,🇺🇸 GRINGA REACCIONA A SANTA GRIFA,33,5,1.0,0,2021-06-16,19:30:04,2,night,4826,650,10,0,94,8.416666666666666,hd,false,True,https://i.ytimg.com/vi/mwu8tdjQvYI/hqdefault.jpg,480,360,"['gringa reacciona', 'gringa reacts', 'gringa reacciona a rap mexicano', 'gringa reacciona a santa grifa', 'santa grifa reaccion', 'gringa reacciona a rap mexicano santa grifa', 'gringa reacts to mexican rap', 'gringa reacciona a rap de mexico', 'gringa', 'gringareacciona', 'gringa reacciona a mexico', 'gringa reacciona a rap en mexico', 'santa grifa reacciona', 'santa grifa reaccion gringa', 'rap mexicano', 'santagrifa reacciona', 'santagrifa', 'gringa reacciona a santagrifa', 'musica mexicana reaccion', 'mexican music']",20,24,none,,"['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Gringa Reacciona,91000,6275114,82,"En este video reaccionamos a santa grifa espero y les guste. Munchas gracias 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #gringareacts #gringa"
+66,VvR7MmampYI,🇺🇸 GRINGA REACCIONA A JENNY RIVERA,34,5,1.0,0,2021-05-30,20:07:09,6,night,4747,522,12,0,93,5.516666666666667,hd,false,False,https://i.ytimg.com/vi/VvR7MmampYI/maxresdefault.jpg,1280,720,"['gringa reacciona a corridos', 'gringa reacciona a mexico', 'gringa reacciona a musica mexicana', 'gringa reacciona a jenni rivera', 'jenni rivera reaccion', 'gringa reacciona al corrido de juanito', 'gringa reacciona', 'gringareacciona', 'gringa reacts', 'gringa reacts to jenni rivera', 'jenni rivera reaction', 'gringa reacciona a banda', 'gringa reacciona a', 'gringa', 'gringa en mexico', 'gringa reacciona.jenni rivera', 'jenni rivera basta ya reaccion', 'gringa hablando en español', 'basta ya', 'jeny rivera']",20,24,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music_of_Latin_America']",Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a jenni rivera. Expero y les guste el video :) 
+.
+.
+Instagram: https://www.instagram.com/gringareacciona/?hl=en
+Facebook: https://www.facebook.com/gringareacciona/
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts"
+67,Dopxnv-1-5w,🇺🇸 GRINGA REACCIONA A LA CASITA - BANDA MS,42,7,1.0,0,2021-07-05,19:42:31,0,night,4480,494,3,0,76,4.533333333333333,hd,false,False,https://i.ytimg.com/vi/Dopxnv-1-5w/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a musica', 'gringa reacciona a corridos mexicanos', 'gringa reacts', 'gringa reacciona a musica mexicana', 'gringa reacciona a mexico', 'gringa reacciona al corrido de juanito', 'gringa reacciona a el karma', 'gringa reacciona a narcos', 'gringa reacciona al corrido del m1', 'reacciones', 'video reacciones', 'corridos tumbados', 'mexican corridos', 'mexico corridos', 'video reaccionar', 'banda ms la casita', 'videos banda ms', 'banda ms', 'musica de banda', 'banda']",21,24,none,,['https://en.wikipedia.org/wiki/Music'],Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a la casita por la banda ms. Espero y les guste el video. No olvides de dejar tu like y subcribirte mucnhas gracias. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+-
+-
+
+ gringa reacciona al corrido del m1 gringa reacciona a musica gringa reacciona al corrido de juanito gringa reacciona a musica mexicana"
+68,dk6Z-4fajek,GRINGA REACCIONA POR PRIMERA VEZ A TRUENO 🔥,43,7,1.0,0,2020-08-30,23:29:04,6,late_night,3844,191,14,0,28,2.183333333333333,hd,false,True,https://i.ytimg.com/vi/dk6Z-4fajek/hqdefault.jpg,480,360,"['trueno', 'trueno vs', 'vs trueno', 'nacho vs trueno minutazo', 'trueno minútazo', 'lo mejor de trueno', 'trueno fms', 'fms trueno minutazo', 'trueno 2020', 'flow de trueno', 'trueno flow', 'lo mejor de trueno en fms', 'minutazo de trueno vs nacho', 'nacho vs trueno', 'fms argentina 2019', 'fms argentina 2020', 'fms argentina jornada 1 2020', 'fms argentina 2020 trueno', 'trueno musica', 'minutazo a flow', 'los mejores flow', 'trueno en fms', 'trueno reaccion', 'reaccionando a trueno', 'gringa reacciona', 'gringa', 'reaccione']",27,22,none,,['https://en.wikipedia.org/wiki/Hip_hop_music'],Gringa Reacciona,91000,6275114,82,"Únete a la mayor comunidad de Freestyle del mundo en: 
+https://www.urbanroosters.com 
+@Urban Roosters 
+
+Disfruta de las batallas completas aquí: 
+https://www.youtube.com/playlist?list...
+
+Instrumentales:
+https://www.youtube.com/playlist?list...
+
+Beatmakers oficiales de FMS: 
+https://www.liinks.co/beatmakers.ofic...
+
+Puedes disfrutar de estas instrumentales en nuestras playlist oficiales:
+FMS Chile: http://bit.ly/2QUwxd4 
+FMS México: http://bit.ly/2DjVyXa
+FMS España: http://bit.ly/33pHuFU
+FMS Perú: https://bit.ly/36pgAkU
+FMS Internacional: https://bit.ly/2WRH4YS
+
+Redes sociales de Urban Roosters:
+Twitter: https://twitter.com/urbanroosters
+Instagram: https://www.instagram.com/urbanroosters
+Facebook: https://www.facebook.com/urbanroosters
+Compra tu entrada para la FMS: https://www.fmstickets.com/
+
+#urbanroosters
+#fmsargentina 
+#fms 
+#urbanroostersnetwork
+
+FMS ARGENTINA
+fms 
+argentina 2020
+trueno"
+69,YXlTQZ-cGgo,🇺🇸 GRINGA REACCIONA A EXTASIS - CARTEL DE SANTA,47,7,1.0,0,2021-07-05,22:00:10,0,night,2841,464,17,0,96,6.366666666666666,hd,false,False,https://i.ytimg.com/vi/YXlTQZ-cGgo/maxresdefault.jpg,1280,720,"['cartel de santa', 'reaccion', 'cartel de santa reaccion', 'gringa reacciona a rap mexicano', 'cartel de santa extasis reaccion', 'extasis millonario cartel de santa reaccion', 'cartel de santa 2021', 'cartel de santa exstasis', 'millonario', 'extasis', 'babilonia music', 'cartel', 'gringa reacciona a mexico', 'gringa en mexico', 'gringa reacts', 'gringa', 'gringareacciona', 'gringa reacciona al corrido de juanito', 'hip hop mexicano', 'rap mexicano', 'reaccion a mexico']",21,24,none,,['https://en.wikipedia.org/wiki/Hip_hop_music'],Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a cartel de santa extasis. Espero y les guste y comente que otro video les gustaria en el canal. Munchas gracias :)
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+ -
+-
+-
+cartel de santa"
+70,FOH6zNI5kEE,🇺🇸 GRINGA REACCIONA A C-KAN,27,5,1.0,0,2021-07-06,22:00:05,1,night,2746,372,6,0,71,4.2,hd,false,False,https://i.ytimg.com/vi/FOH6zNI5kEE/maxresdefault.jpg,1280,720,"['reaccionando a mexico', 'cartel de santa', 'reaccion', 'gringa reacciona a rap mexicano', 'gringa reacciona', 'gringa reacciona a c kan', 'c kan reaccion', 'c kan', 'gringa reacciona a mexico', 'rap mexicano', 'gringa reacciona a musica mexicana', 'rap mexicano reaccion', 'gringa', 'guera reacciona', 'gringa reacts to corridos', 'santa grifa reacciona', 'rap mexicano c kan', 'gringareacciona', 'ckan reaccion', 'gringa reacciona a ckan']",20,24,none,,"['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music']",Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a rap mexicano c-kan. Espero y les guste este video. No olvide dejar tu like y subcribirte. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+-
+-
+-
+reaccionando a mexico 
+cartel de santa"
+71,Fy831lbB2b0,🇺🇸 SI TE RÍES PIERDES NIVEL MEXICO,34,6,1.0,0,2021-07-09,21:00:02,4,night,2628,288,7,0,53,10.266666666666667,hd,false,True,https://i.ytimg.com/vi/Fy831lbB2b0/maxresdefault.jpg,1280,720,"['reaccion', 'gringa reacciona', 'memes mexicanos', 'humor mexicano ded', 'el roxet', 'humor de méxico', 'gringa reacciona a humor mexicano', 'gringa reacciona al roxet', 'el roxet humor mexicano', 'gringa reacciona a tik tok mexicanos', 'los mejores tik toks mexicanos', 'humor mexicano', 'reaccion a méxico', 'gringa reacts to mexico', 'gringa reacts', 'gringa reacts to humor mexicano', 'humor mexicano reaction', 'humor mexicano reaccion', 'memes mexicanos reaccion', 'tik toks mexicano', 'tiktoks mexicanos']",21,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a los mejores de humor mexicano. 
+-
+-
+Video Original: https://www.youtube.com/watch?v=qzmjtXUfQHA
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+-
+-
+-
+-
+
+humor mexicano reaccion 
+gringa reacciona al roxet 
+gringa reacciona a humor mexicano"
+72,NNMqZsh1d9o,🇺🇸 GRINGA REACCIÓNA A LA PUERTA NEGRA,37,6,1.0,0,2021-07-10,21:00:09,5,night,2545,441,1,0,126,4.8,hd,false,False,https://i.ytimg.com/vi/NNMqZsh1d9o/hqdefault.jpg,480,360,"['la puerta negra', 'los tigres del norte', 'gringa reacciona', 'gringa reacciona a corridos', 'gringa reacciona a la puerta negra', 'la puerta negra reaction', 'gringa reacts to corridos', 'gringa reacts to la puerta negra', 'the black door reaction', 'gringa reacts', 'gringareacciona', 'gringa reacciona a ariel camacho', 'gringa reacciona a el corrido de juanito', 'puerta', 'gringa reacts to mexican music', 'gringa reacts to mexico', 'gringa reacciona a musica mexicana', 'mexican music reaction', 'puertanegra', 'mexico']",20,24,none,,,Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos la puerta negra de los tigeres del norte. Espero y les guste. 
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+-
+-
+los tigres del norte
+gringa react to corridos 
+gringa reacciona a corridos
+la puerta negra los tigeres del norte reaccion
+gringa reacciona a ariel camacho
+gringa reacciona a el corrido de juanito
+ gringa reacts
+gringa reacciona a corridos 2021"
+73,-P_L0A_tGvs,🇺🇸GRINGA REACCIONA A EL ANSIOSO - GRUPO MARRANO,47,7,1.0,0,2021-07-12,21:00:01,0,night,2114,355,7,0,107,4.383333333333334,hd,false,False,https://i.ytimg.com/vi/-P_L0A_tGvs/maxresdefault.jpg,1280,720,"['gringa reacciona a mexico', 'reaccion a mexico', 'reaccion', 'reaction video', 'gringa reacciona a el ansisos', 'gringa reacciona a corridos', 'gringa reacciona a grupo marrano', 'el ansioso reaccion', 'grupo marrano el ansioso reaccion', 'grupo marrano el ansioso broma', 'grupo marrano el ansioso', 'gringa reacciona a corridos mexicanos', 'gringa reacciona', 'gringa reacts', 'gringa reacts to corridos', 'gringa reacts to mexican music', 'gringa reacciona a musica mexicana', 'gringa', 'gringa mexicana', 'marrano']",20,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Hola amigos en este video reaccionamos a la cancion del ansioso por el grupo marrano. Espero y les guste el video. No olviden de dejar su like y subcribirse. 
+-
+Video Original: https://www.youtube.com/watch?v=PuNDt6knbOo
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+-
+-
+gringa reacciona a grupo marrano
+gringa reacciona a el ansisos 
+reaction video
+reaccion a mexico"
+74,XL-2qmxkgUQ,🇲🇽 Mexico Tiene Muncho Talento - Gringa Reacciona,49,6,0.0,0,2021-07-05,21:00:03,0,night,1872,300,5,0,53,4.833333333333333,hd,false,True,https://i.ytimg.com/vi/XL-2qmxkgUQ/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a islas vlogs', 'islas vlogs', 'cual es tu talento reaccion', 'cual es tu talento islas vlogs', 'cual es tu mejor talento', 'gringareacciona', 'gringa reacciona a mexico', 'gringa reacts to mexico', 'gringa en mexico', 'gringa reacts', 'islasvlogs', 'talentos', 'islas blogs', 'famosos islas vlogs', 'islasblogs', 'que talento tienes', 'cazando talentos', 'preguntas', 'confesiones', 'tik tokers', 'tik tok', 'talentos islas']",23,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a los mejores talento de mexico. Este video es de el canal de islas vlogs. Munchas gracias por ver el video. Si te gusta este tipo de videos no olvides dejar tu like y subcribirte. Munchas gracias. 
+-
+-
+-
+Instagram: Gringa Reacciona
+Facebook: Gringa Reacciona
+Tik Tok: Gringa Reacciona 
+-
+-
+-
+-
+-
+
+mexico tiene talento"
+75,-KCTpfiTSq4,Los Mejores Tik Toks Mexicanos,30,5,0.0,0,2021-07-02,22:00:00,4,night,1660,211,4,0,28,11.116666666666667,hd,false,True,https://i.ytimg.com/vi/-KCTpfiTSq4/hqdefault.jpg,480,360,"['si te ries pierdes', 'humor mexicano', 'videos de risa', 'tik tok virales', 'videos de risa 2021', 'risa', 'ded', 'viral', 'tik tok', 'méxico', 'tiktok', 'humor', 'videos chistosos', 'si te ries pierdes 2020', 'videos divertidos', 'el pinut', 'mejores', 'los mejores tik toks', 'si te sabes el tiktok baila', 'tik tok bailes', 'bailes de tik tok', 'los mejores bailes de tiktok', 'lo mas nuevo de tik tok', 'el mejor si te ries pierdes', 'si te ries pierdes the yolo', 'gringa reacciona', 'gringa reaccion a tik toks', 'gringareacciona']",28,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Hola Amigos en Este Video Reaccionamos A Tik Toks Mexicanos
+-
+-
+-
+#humorviral #tiktoksmexicanos #humormexicano
+-
+-
+-
+Humor Mexicano
+Si te ries pierdes
+Puro Humor Mexicano
+TikTok
+ Mejores bailes de tiktok
+Mejores Tendencias de TikToks"
+76,1q3tF0EO2Ak,🇺🇸REACCIÓN A NOVIAS CELOSAS 🇲🇽NOVIAS TOXICAS,44,6,1.0,0,2021-07-12,22:00:01,0,night,1628,335,2,0,36,10.866666666666667,hd,false,True,https://i.ytimg.com/vi/1q3tF0EO2Ak/maxresdefault.jpg,1280,720,"['novias celosas tóxicas y posesivas', 'novias celosas tóxicas', 'gringa reacciona', 'gringa reacciona a tik toks mexicanos', 'gringa reacciona a novias celosas', 'mujeres celosa tóxica y posesiva', 'novia celosa tóxica', 'bromas entre parejas', 'parejas celosas', 'mujeres tóxicas', 'top novias celosas', 'mujeres celosas', 'novias celosa', 'novias celosas', 'novia celosa', 'mujeres celosas tóxicas', 'novias toxicas', 'novias tóxicas', 'mujeres enojadas', 'novias tóxicas 2021', 'entretenimiento', 'novia tóxicas', 'novias']",23,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a las novias mas celosas de mexico. Espero y les guste el video :) 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+.
+.
+novias toxicas novias tóxicas 2021 novias celosas novias celosas tóxicas y posesivas"
+77,jg1O9fSthCY,🇺🇸 AMERICANA REACCIONA A TIK TOKS MEXICANOS | #3,48,7,0.8571428571428571,0,2021-07-06,21:00:12,1,night,1515,180,7,0,29,8.416666666666666,hd,false,True,https://i.ytimg.com/vi/jg1O9fSthCY/maxresdefault.jpg,1280,720,"['humor mexicano', 'tik tok', 'reaccion', 'reaccionando', 'gringa reacciona', 'humor viral mexicano', 'tik tok mexicano', 'puro humor mexicano', 'memes mexicanos', 'memes', 'gringa reacciona a tik toks mexicanos', 'tik toks mexicanos reaccion', 'gringa reacciona a humor mexicano', 'gringa reacciona a los mejores tik toks', 'puro humor mexicano reaccion', 'los mejores tik toks', 'los mejores memes mexicanos', 'mexican tik toks', 'best mexican memes', 'gringa reacts', 'americana reacciona', 'gringa reacciona a mexico']",22,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Amigos ene este video reaccionamos a los mejores tik toks de mexico. Espero y les guste el video. Si quieren que reaccionemos a mas tik toks deja tu like y subscribete. Munchas gracias 
+-
+-
+-
+-
+#gringareacciona #humormexicano #tiktoksmexicanos 
+-
+-
+
+humor mexicano
+puro humor mexicano
+memes
+tik toks mexicanos reaccion"
+78,jw0DDUoB1cw,🇺🇸 GRINGA REACCIONA A PRANKEDY - Señor de la Tienda,51,8,0.5,0,2021-07-03,21:00:06,5,night,1349,216,7,0,35,3.75,hd,false,True,https://i.ytimg.com/vi/jw0DDUoB1cw/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa reacciona a mexico', 'gringa reacciona a prankedy', 'prankedy', 'gringa en mexico', 'gringa', 'gringa reacts to mexico', 'bromas en mexico', 'reaccionando al señor dela tienda', 'reaccionando a prankedy', 'prankedy reaccion', 'bromas pesadas', 'extranjeros reaccionan a mexico', 'bromas', 'memes mexicanos', 'mexicano', 'méxico', 'reaccion a mexico', 'señor de la tienda', 'prankedy señor dela tienda']",20,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],Gringa Reacciona,91000,6275114,82,"Cual otro video o youtuber quieres que reaccione? Munchas gracias por ver el video.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts 
+.
+.
+prankedy reaccion 
+reaccion a mexico
+reaccionando a prankedy 
+gringa reacciona
+extranjeros reaccionan a mexico"
+79,sHOG_KHcu1U,La PELÍCULA más BONITA de MEXICO | Gringa Reacciona a Roma,58,10,0.3,0,2021-07-09,22:00:20,4,night,1338,216,2,0,58,8.133333333333333,hd,false,True,https://i.ytimg.com/vi/sHOG_KHcu1U/maxresdefault.jpg,1280,720,"['reaccion', 'reacciones', 'reaccionando', 'gringa reacciona a mexico', 'gringa reacciona a roma', 'roma reaccion', 'gringa reacciona a pelicula mexicana', 'reaccion a méxico', 'peliculas mexicanas', 'mexico reaccion', 'americana reacciona a mexico', 'gringa reacciona', 'gringa reacciona a musica mexicana', 'gringa reacts', 'gringa', 'méxico', 'video reacciones', 'gringa cocina', 'gringa reacciona al corrido de juanito', 'corrido de juanito']",20,24,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Television_program']",Gringa Reacciona,91000,6275114,82,"Amigos en este video reaccionamos a una de las mejores peliculas del cine mexicano. Espero y les guste el video y no olviden de dejar su like y subcribirse. 
+-
+-
+Video Original: https://www.youtube.com/watch?v=G5v0yBpoTQM&t=9s
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+-
+-
+mexico reaccion gringa 
+reacciona a musica mexicana
+gringa reacciona al corrido de juanito 
+roma reaccion
+gringa reacciona a musica mexicana
+gringa reacciona a roma 
+gringa reacciona a la peliucla roma
+gringa reacciona a fedewolf roma"
+80,XBIvu7uZ3Pg,🇲🇽 Gringa Reacciona a Tik Toks Mexicanos,40,6,0.0,0,2021-07-03,20:00:06,5,night,942,124,0,0,23,10.633333333333333,hd,false,True,https://i.ytimg.com/vi/XBIvu7uZ3Pg/maxresdefault.jpg,1280,720,"['gringa reacciona', 'gringa en mexico', 'humor mexicano', 'gringa reacts to mexican tik toks', 'funny mexican memes', 'mexican memes', 'latino tik tok', 'tik tok compilation', 'tiktok', 'latino tik toks', 'videos de tik tok', 'humor mexicano 2020 memes', 'humor mexicano ded', 'tik tok 2021', 'mejores tik tok 2021', 'viral tik tok', 'mejores tik tok', 'tiktok mexico', 'gringa reacciona a corridos', 'gringa a tik tok mexicanos', 'gringa reacts to mexico', 'gringareacciona']",22,24,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Gringa Reacciona,91000,6275114,82,"En este video reaccionamos a tik toks mexicanos only mexican people would undestand. 
+.
+.
+Instagram: https://www.instagram.com/gringareacc...
+Facebook: https://www.facebook.com/pg/gringarea...
+TikTok: https://www.tiktok.com/@gringareacciona
+.
+.
+.
+.
+#gringareacciona #americanareacciona #gringareacts
+.
+.
+
+ humor mexicano gringa reacciona gringa en mexico"

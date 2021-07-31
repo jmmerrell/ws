@@ -1,0 +1,1270 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,pGOi6_Uq4WI,Aprende Inglés Americano con 2 Acentos de USA,45,8,0.125,0,2019-04-17,17:22:07,2,afternoon,2113187,120825,1813,0,11263,15.2,hd,true,True,https://i.ytimg.com/vi/pGOi6_Uq4WI/maxresdefault.jpg,1280,720,"['ingles', 'español', 'aprende ingles', 'aprende ingles americano', 'acentos de usa', 'acentos de estados unidos', 'ingles sureño', 'ingles sureño estados unidos', 'southern english accent', 'acento neoyorquino', 'acento de nueva york', 'acento de new york', 'neoyorquino', 'aprende ingles rapido', 'jerga de estados unidos', 'jerga en ingles', 'jerga en ingles americano', 'ingles americano', 'hablar como los americanos', 'american accent', 'american english', 'vlog güero', 'ingles estadounidense', 'American Boy']",24,22,none,es,,American Boy,296000,8824790,70,"🛑Practica Ingles o Español con mi curso de idiomas: http://bit.ly/americanboycurso   
+
+✏ ¿Necesitas una traducción? https://bit.ly/translationsnow
+
+Si estudias el inglés americano, seguro que has oído hablar de los varios acentos de EEUU. En este video, mi amigo Roberto (Vlog Güero) les enseñamos las diferencias entre nuestros acentos en inglés; el Neoyorquino y el sureño. Si alguna vez has visto una película que cuenta una historia en Nueva York, sabes que el acento neoyorquino es muy distinto. Y si alguna vez has visto una película que cuenta una historia del campo, también sabes que los acentos del sur también son distintos. 
+
+Así que en este video hablamos sobre el acento americano, nuestros acentos, vocabulario en inglés, la jerga de nuestras regiones y unos language tips.
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+🎥Suscríbete al Canal de Robert: @Vlog Güero 
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+1,eJa8udXHrn8,Como Hablan los Venezolanos,27,4,0.0,0,2017-10-29,22:50:09,6,night,1872284,55034,1552,0,4778,11.416666666666666,hd,false,True,https://i.ytimg.com/vi/eJa8udXHrn8/maxresdefault.jpg,1280,720,"['como hablan los venezolanos', 'venezolanos', 'frases venezolanas', 'acentos', 'venezuela', 'venezolano', 'español venezolano', 'español', 'hablando venezolano', 'dialecto venezolano', 'español de venezuela', 'youtuber venezolano', 'spanish', 'gringo hablando español', 'gringo', 'palabras venezolanas', 'acento venezolano', 'venezuela libre', 'venezuela libre 2019', 'youtuber venezolana']",20,22,none,,,American Boy,296000,8824790,70,"📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+Siempre me costaba entender el español de Venezuela, así que en este video, mi amiga Sonia, una youtuber venezolana, me enseña frases y palabras venezolanas : ) 
+
+Hicimos un video en el canal de Sonia: http://bit.ly/2icZQ7J
+la historia de mi acento español: https://youtu.be/CalnwLb13Ws
+
+Venezuela Libre ❤️
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+2,hxo-0FaOsSM,COMO HABLAN LOS DOMINICANOS 🇩🇴,30,4,1.0,0,2019-05-18,10:15:26,5,morning,580665,25620,484,0,4536,22.5,hd,false,True,https://i.ytimg.com/vi/hxo-0FaOsSM/maxresdefault.jpg,1280,720,"['republica dominicana', 'palabras dominicanas', 'frases dominicanas', 'youtuber dominicanos', 'acento dominicano', 'republica dominicana turismo', 'palabras dominicanas que vienen del ingles', 'frases dominicanas y su significado', 'frases dominicanas de tigueraje', 'frases dominicanas de calle', 'español dominicano', 'aprender español', 'learn spanish', 'como se habla en rd', 'language tips', 'gringo hablando español', 'como hablan los dominicanos', 'humor dominicano', 'dominicanos hablando']",19,22,none,es,['https://en.wikipedia.org/wiki/Entertainment'],American Boy,296000,8824790,70,"📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+🎥 Suscríbete al Canal de Felix: https://www.youtube.com/user/analisalaman
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Si estudias español, seguro que has oído hablar de los varios acentos del idioma, especialmente el español dominicano. Y si alguna vez has oido a un dominicano hablando, ya sabes que es un español muy distinto. Así que en este video, mi amigo Felix Baez me enseña unas palabras y frases de la República Dominicana. 
+
+Así que en este video hablamos sobre el acento dominicano, vocabulario en español, la jerga dominicana y unos language tips.
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+3,aP8loSFLsyg,¿Por Qué Se Habla Español en Estados Unidos?,45,9,0.0,0,2017-08-27,18:55:23,6,night,451958,40595,509,0,5696,4.633333333333333,hd,false,True,https://i.ytimg.com/vi/aP8loSFLsyg/maxresdefault.jpg,1280,720,"['Español en Estados Unidos', 'Español en EEUU', 'Español en USA', 'Español Americano', 'Gringo Hablando Español', 'Gringos Hablando Español', 'hablando español', 'español', 'spanish', 'spanish in the united states', 'estados unidos', 'gringos', 'how i learned spanish', 'learn spanish', 'mexicanos en estados unidos', 'racismo en españa', 'como aprender español', 'proyectos de español en estados unidos', 'enseñando español en estados unidos', 'personas hablando español en estados unidos', 'gringo hablando español']",21,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+Si estás leyendo esto, dime cuales son los idiomas que se hablan en tu país! 
+
+He hablado antes de como algo que la gente siempre quiere saber sobre mi es por qué hablo español.
+
+Pues a veces esta pregunta me da la sensación de que para muchas personas, es raro el hecho de que yo sea un estadounidense bilingüe que habla español - es como si fuera algo único, o digamos - especial. 
+
+En realidad, no es nada especial. Pero por alguna razón u otra, cuando la gente se entera de que soy de EEUU, en la mayoría de los casos, la reacción es una de asombro.
+
+Y bueno yo entiendo que a la mayoría de los estadounidenses, no les interesa aprender otro idioma, mucho menos hacer el esfuerzo para hacerlo, pero al mismo tiempo, hay muchos de nosotros a quienes les encanta el aprendizaje de idiomas - y la mayoría de estas personas deciden aprender español por la cantidad de personas en el país que lo hablan en EEUU. 
+
+De hecho, en Estados Unidos tenemos la segunda población más grande de hispanohablantes del mundo. Hay varias partes del país en que mucha gente no sabe ingles porque no es necesario saberlo porque todo el mundo habla español.
+
+¿Pero por qué se habla español en EEUU? O sea, ¿De donde viene esa conexión entre la cultura hispana y la cultura gringa? 
+
+Tras el “descubrimiento” de las Américas en 1492 por Cristóbal Colón, los Reyes Católicos de España patrocinaron varios viajes al nuevo mundo. Y uno de esos viajes terminó con el establecimiento de La Florida por Juan Ponce de León en 1513. 
+
+¿Eso significa que los españoles llegaron a Estados Unidos antes de los ingleses? 
+
+Exacto. De hecho, los Ingleses no llegaron hasta el siglo 17 con el establecimiento de la colonia de Jamestown, Virginia. 
+
+¿Y eso significa que en Estados Unidos, se hablaba español casi 100 años antes de que se hablara ingles?
+
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Exacto. Tampoco yo lo sabía.  
+
+Pero la historia no termina con la Florida porque fíjate que siempre hemos compartido frontera con México. 
+
+Antes de la guerra entre Estados Unidos y México en el siglo 19, varios territorios o estados que hoy se ubican en Estados Unidos formaban parte de México. 
+
+¿Estas diciendo que los Mexicanos vivían en Estados Unidos antes de los gringos?! 
+
+Sí. Y eso significa que la historia hispana y el idioma español tienen una presencia mucho más larga que la historia anglosajona aquí en Estados Unidos. Y con 50 millones hispanohablantes viviendo ahora en Estados Unidos, el Instituto Estadística del país estima que en 2050, Estados Unidos tendrá la población más grande de hispanohablantes del mundo. 
+
+Así que si tomamos en cuenta, se puede decir que el español forma parte de la identidad lingüística y cultural los Estados Unidos. Y por eso lo aprendí. Y así, aunque no soy latino, el español se convirtió en una parte de mi identidad.
+
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+4,KsCAvQ7-6jA,COMO APRENDER INGLÉS | 3 TIPS IMPORTANTES,41,6,0.8333333333333334,0,2018-11-06,21:50:39,1,night,265704,20483,233,0,1524,15.383333333333333,hd,false,True,https://i.ytimg.com/vi/KsCAvQ7-6jA/maxresdefault.jpg,1280,720,"['como aprender ingles', 'como aprender ingles rapido y facil', 'ingles americano', 'aprender ingles', 'curso de ingles', 'ingles basico', 'aprender ingles rápido', 'aprenda ingles', 'aprender inglés', 'how i learned spanish', 'como hablan los venezolanos', 'gringo hablando español', 'bilingüe', 'como ser bilingue rapido', 'ser bilingue', 'ser bilingue en los estados unidos', 'como hablar ingles como americano', 'ingles canadiense', 'ingles de canada', 'aprende ingles', 'acento americano', 'language tips']",22,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+Casi todo el mundo quiere aprender ingles. Pero para muchos, les resulta demasiado difícil. En este video, les doy unos language tips con 3 razones por las cuales el inglés les parece difíicil y como TU puedes superar estas dificultades para aprender más inglés, más rápido : ) 
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+
+Jerga Estadounidense/English Slang: https://youtu.be/XWWMLD-52JU
+
+Como Hablan los Venezolanos: https://youtu.be/eJa8udXHrn8
+
+Si lees esto comenta: Barbie Noble : )
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+5,PsAtMiw7d14,APRENDE INGLÉS AMERICANO CON LA MÚSICA DE MIGOS | ACENTO SUREÑO,63,10,1.0,0,2019-08-17,11:17:45,5,afternoon,260415,25873,212,0,1668,15.816666666666666,hd,false,True,https://i.ytimg.com/vi/PsAtMiw7d14/maxresdefault.jpg,1280,720,"['Migos', 'Migos English', 'acento de migos', 'Cardi B', 'ingles', 'aprende ingles', 'aprende ingles con musica', 'español', 'aprende ingles cantando', 'ingles canciones', 'jerga americana ingles', 'jerga americana', 'learn english', 'english slang', 'hip hop', 'como aprender ingles', 'language tips', 'aprender ingles', 'ingles americano', 'language learning', 'aprende ingles americano', 'atlanta', 'atlanta hip hop', 'trap en ingles', 'hip hop en ingles', 'ingles sureño', 'ingles sureño estados unidos', 'ingles acento sureño']",28,22,none,es,['https://en.wikipedia.org/wiki/Hip_hop_music'],American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/americanboycurso
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Si estudias el inglés americano, seguro que has oído mucho de la jerga de EEUU, especialmente en las canciones de Hip Hop. En este video, les enseño unas palabras y frases de jerga en inglés que se pueden oír en las canciones de Migos, el grupo de Trap en Inglés de Atlanta, Georgia. 
+
+Si alguna vez has oído una canción de ellos, sabes que cantan un acento sureño, que es uno de los acentos más conocidos del país y uno que definitivamente deberías saber si estudias inglés.
+
+Así que en este video hablamos sobre esa jerga de USA, nuestros acentos, vocabulario en inglés, y unos language tips.
+
+🎧 Audifonos: https://geni.us/audifonos
+📷 mi cámara: https://geni.us/0qnpByx
+🎥 mi lente: https://geni.us/Hu2A
+🎤 mi micrófono: https://geni.us/IAJwMnE"
+6,AdyLXa_eJgM,COMO HABLAN LOS DOMINICANOS Pt. 2 🇩🇴| Me Voy de Viaje 🛩,55,10,0.4,0,2019-07-03,07:58:43,2,morning,257908,16197,261,0,1641,15.5,hd,false,False,https://i.ytimg.com/vi/AdyLXa_eJgM/maxresdefault.jpg,1280,720,"['republica dominicana', 'palabras dominicanas', 'frases dominicanas', 'youtuber dominicanos', 'acento dominicano', 'republica dominicana turismo', 'palabras dominicanas que vienen del ingles', 'frases dominicanas y su significado', 'frases dominicanas de tigueraje', 'frases dominicanas de calle', 'español dominicano', 'aprender español', 'learn spanish', 'como se habla en rd', 'language tips', 'gringo hablando español', 'como hablan los dominicanos', 'humor dominicano', 'dominicanos hablando', 'dominican spanish']",20,22,none,es,['https://en.wikipedia.org/wiki/Entertainment'],American Boy,296000,8824790,70,"🎥 Suscríbete al Canal de Felix: https://www.youtube.com/user/analisalaman
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Si estudias español, seguro que has oído hablar de los varios acentos del idioma, especialmente el español dominicano. Y si alguna vez has oido a un dominicano hablando, ya sabes que es un español muy distinto. Así que en este video, mi amigo Felix Baez me enseña unas palabras y frases de la República Dominicana. 
+
+Así que en este video hablamos sobre el acento dominicano, vocabulario en español, la jerga dominicana y unos language tips.
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+7,XWWMLD-52JU,Inglés Americano | Jerga de EEUU | American Slang,49,7,0.14285714285714285,0,2018-01-27,08:22:52,5,morning,237943,14040,116,0,1213,15.783333333333333,hd,false,True,https://i.ytimg.com/vi/XWWMLD-52JU/maxresdefault.jpg,1280,720,"['slang estadounidense', 'jerga norteamericano', 'jerga estadounidense', 'jerga americano', 'jergas en ingles', 'ingles estadounidense', 'ingles norteamericano', 'jerga', 'roberto gerringer', 'american slang', 'slang', 'como aprender ingles', 'hablar ingles', 'aprender ingles', 'aprender ingles rapido', 'ingles americano', 'ingles', 'aprenda ingles rapido y facil', 'gringo hablando español', 'español', 'como hablan los gringos', 'english slang', 'slang americano', 'american boy', 'expresiones en ingles']",25,22,none,,,American Boy,296000,8824790,70,"Si quieres aprender el inglés americano rápido como los gringos, este video es para ti. Mi amigo Roberto Gerringer y yo les enseñamos algunas de las palabras, jerga, y expresiones en inglés mas típicas de nuestro querido Estados Unidos. 
+
+Pueden utilizar estas palabras y frases para hablar inglés norteamericano con un toque más informal. 
+
+¿Cuál fue tu favorita? ¿Quieres aprender mas jerga estadounidense? Dímelo en los comentarios : )  
+
+Ver el video en el canal de Roberto: https://youtu.be/SC4b7M-JwmQ
+
+Saber la historia de mi acento español: https://youtu.be/CalnwLb13Ws
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/"
+8,YDPF1ot4XTY,¿Cuánto Cuesta Vivir en Nueva York?,35,6,0.0,0,2017-03-31,00:58:11,4,late_night,200577,7873,528,0,737,4.65,hd,false,True,https://i.ytimg.com/vi/YDPF1ot4XTY/maxresdefault.jpg,1280,720,"['cuanto cuesta vivir en nueva york', 'nueva york', 'nyc', 'cuanto cuesta nyc', 'como mudarme a nueva york', 'apartamentos en nueva york', 'donde vivir en nueva york', 'cuanto cuesta visitar nueva york', 'how i learned spanish', 'ny', 'new york', 'live in nyc', 'spanish', 'espanol', 'español', 'hacer la mudanza', 'mudanza']",17,22,none,,,American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/cursodeinmersion
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+¿Así que quieres vivir en Nueva York? Pues te doy la bienvenida porque me encanta vivir en esta ciudad. Me mudé aquí hace 8 años para estudiar y fue la mejor decisión que había tomado en mi vida. 
+
+Es impresionante, tiene energía, tiene magia, tiene oportunidad, tiene de todo...
+
+Y como es la ciudad más famosa del mundo, casi todo el mundo quiere mudarse acá. Y bueno lo entiendo porque yo también era una de esas personas. 
+
+Pero quería hacer este video porque muchas personas que no viven acá piensan que esta ciudad es una utopía. Pero la verdad es que la realidad de Nueva York es menos bonita que la imagen que se ve en la televisión o en las películas. 
+
+Así que si estás pensando en mudarte acá, hay unas cositas que deberías saber. 
+
+Primero que nada tienes que saber que vivir en Nueva York es difícil. Para tener éxito acá tienes que ser una persona bastante fuerte que pueda aguantar toda la mierda que esta ciudad te va a tirar. 
+
+A veces literalmente. 
+
+Para darte una idea: imagínate que te despiertas a las 6 de la mañana porque la calefacción no sirve asi que te estás muriendo de frío, y los obreros de construcción acaban de empezar su día laboral justo en frente de tu apartamento así que puedes oír cada ruido de los martillos y herramientas que utilizan. Tras un intento inútil de cubrir los oídos con tu almohada, te das por vencido y te levantas para ducharte...pero como la calefacción no sirve, no tienes agua caliente así que tienes que elegir entre ir al trabajo oliendo a mierda o arriesgarte la vida con el agua helada que te va a matar de hipotermia. Luego, sales de la casa a la hora perfecta para llegar a tiempo al trabajo, pero sin darte cuenta, pisas una pila de mierda….y parece humana. 
+
+Solamente en Nueva York. 
+
+Pero lo más importante es que Nueva York es una de las ciudades más caras del mundo así que es mejor tener una cantidad suficiente de ahorros cuando te mudes. Y bueno, la cantidad exacta que vas a necesitar depende de varias cosas pero yo te voy a decir esto. 
+
+Si te vas a mudar a Nueva York y no eres millonario, no te mudes hasta que que tengas un empleo. Y yo sé que muchas personas vienen a Nueva York sin un trabajo y se quedan con un amigo... pero vamos….no quieres ser ese “amigo” que se queda en el sofá de un amigo por 3 meses sin pagar ni un centavo. A los neoyorquinos no nos gustan esas personas así que no seas como esas personas. 
+
+Si te vas a mudar tu solo, los apartamentos más baratos cuestan entre $1,500-2000 al mes. Así que si ya tienes tu empleo, te recomiendo que tengas como entre $6,000-$8000 en tu cuenta bancaria cuando llegues. Vas a gastar como $5000 para alquilar un apartamento porque te van a cobrar 2 meses de alquiler y otro mes de fianza. 
+
+Pero si vas a vivir con dos o tres roommates, cada uno va a pagar como entre $800-1000 al mes. Pero eso no incluye los gastos mensuales como el internet, electricidad, el metro, tu celular, el gimnasio, comida, y diversión.  
+
+Así que la pregunta era “¿Cuánto cuesta vivir en Nueva York?” verdad? Pues les digo que les va a costar un chingo de lana. 
+
+Y bueno si el costo de la vida no te asusta, es porque eres bastante rico, bastante loco, o quizás las dos cosas. Pero de todos modos si sigues con ganas de vivir aquí ya que sabes cuanto te va a costar, te mereces una enhorabuena porque es aún más probable que tu tengas la fuerza mental necesaria para sobrevivir en esta gran ciudad. 
+
+Pero bueno a parte de eso me encanta vivir en Nueva York en serio. Esta ciudad me ha tantas oportunidades por las cuales estoy completamente agradecido. 
+
+Y si tienen más preguntas sobre la vida en Nueva York, déjenme algo en los comentarios y allí los puedo ayudar con cualquier duda que tengan. 
+
+Y bueno si están pensando en venir de vacaciones o para vivir por un tiempo, espero verlos por acá pronto : )"
+9,p5VvKIDeIMQ,Como Hablan los Venezolanos: Parte 2,36,6,0.0,0,2018-08-26,21:18:00,6,night,185344,13189,115,0,1941,16.166666666666668,hd,false,True,https://i.ytimg.com/vi/p5VvKIDeIMQ/maxresdefault.jpg,1280,720,"['como hablan los venezolanos', 'frases venezolanas', 'venezolano', 'español venezolano', 'español', 'hablando venezolano', 'español de venezuela', 'gringo hablando español', 'palabras venezolanas', 'gringo', 'acento venezolano', 'acento venezuela', 'acento venezolano maracucho', 'acento venezolano caracas', 'venezuela', 'venezolanos', 'venezuela libre', 'venezuela libre 2019']",18,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+PARTE II 
+
+Mi amiga Sonia me enseña frases y palabras venezolanas : ) 
+
+Ver Parte I: https://youtu.be/eJa8udXHrn8
+Hicimos un video en el canal de Sonia: http://bit.ly/2icZQ7J
+la historia de mi acento español: https://youtu.be/CalnwLb13Ws
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE
+
+Venezuela Libre ❤️"
+10,PWM8GtyWxoo,Como Aprendí Español | How I Learned Spanish,44,7,0.14285714285714285,0,2017-02-20,18:14:13,0,night,168697,10421,77,0,1227,5.966666666666667,hd,false,True,https://i.ytimg.com/vi/PWM8GtyWxoo/maxresdefault.jpg,1280,720,"['como aprendí español', 'how i learned spanish', 'how to learn spanish', 'como aprendi espanol', 'i learned spanish', 'learning spanish', 'gringo hablando español', 'como aprendi español', 'learn spanish fast', 'learn spanish quick', 'aprender espanol', 'aprender otro idioma', 'spanish classes', 'language', 'español', 'spanish', 'funny', 'humor', 'funny video', 'learn spanish', 'gringo', 'gringo hablando', 'aprender english', 'spanish lessons', 'bricolaje', 'how to learn spanish quickly and fluently']",26,22,none,,,American Boy,296000,8824790,70,"📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sigueme en Instagram: https://www.instagram.com/americanboy/
+
+Hispanohablantes -- siempre me ha costado contestar la pregunta que más me hace la gente: ¿Cómo aprendiste español? Me cuesta responder por varias razones, y la respuesta siempre depende de como alguien me hace la pregunta. En la mayoría de los casos, es por pura curiosidad y me encantan estas instancias. También hay las personas que quieren unos consejos de mi parte para poder aprender otro idioma. Pero a veces, la manera en que alguien me hace la pregunta me da la sensación de que ninguna respuesta que puedo ofrecer va a poder satisfacer este deseo de conocerme -- o más bien categorizarme. 
+
+Hay una imagen bien definido del típico estadounidense -- un estereotipo. Y a veces cuando alguien me conoce por primera vez, me quiere categorizar como este estereotipo. Pero en cuanto se entere de que soy estadounidense y también hablo español, cada vez se nota en su cara un conflicto interno porque justo en ese instante, la imagen que esta persona tenía del “gringo” se quiebra. Y por una parte lo entiendo. Es más fácil vivir con estas percepciones ya definidas por los demás de quienes somos nosotros y quienes son ellos. Yo también soy culpable de esto. 
+
+Y me imagino que cuando conocemos a alguien que no es la imagen que ya sabemos, es un poco difícil de entender. Pero hoy, quiero que nos entendamos un poco mejor. Así que si alguna vez me has preguntado “¿Cómo aprendiste español?” o te interesa saberlo, aquí te va la historia."
+11,2fiGZWjjVVU,La Verdad Sobre la República Dominicana | ¿Qué Pienso? 🇩🇴,57,8,0.0,0,2019-07-27,15:09:51,5,afternoon,152599,11846,165,0,1945,17.933333333333334,hd,false,True,https://i.ytimg.com/vi/2fiGZWjjVVU/maxresdefault.jpg,1280,720,"['republica dominicana', 'dominican republic', 'palabras dominicanas', 'frases dominicanas', 'acento dominicano', 'turismo republica dominicana', 'turismo', 'republica dominicana turismo', 'español dominicano', 'aprender español', 'gringo hablando español', 'como hablan los dominicanos', 'dominican spanish', 'viajar a la republica dominicana', 'idiomas', 'aprendizaje de idiomas', 'viajar al extranjero', 'learn spanish abroad', 'viajar al extranjero por primera vez', 'us tourists dominican', 'dominican republic deaths']",21,22,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"🏡Para alquilar mi alojamiento en RD: https://www.airbnb.com/rooms/31922296?source_impression_id=p3_1563410298_Rh761LTeDD9uLBHc
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Por fin, fui a la República Dominicana por primera vez así que decidí compartir un poco de esa experiencia. En este momento, muchas personas se están preguntando si es peligroso o no viajar a la República Dominicana mientas los medios internacionales están diciendo que es un país peligroso. Así que quería compartir una perspectiva más positiva para aportar una imagen auténtica del país que yo vi. 
+
+Porque al final de cuentas, la meta de este canal es motivarte a descubrir el mundo a través del aprendizaje de idiomas igual que viajes al extranjero. 
+
+Así que si quieres aprender español dominicano o viajar al extranjero por primera vez, La República Dominicana tiene que estar en tu lista de destinos.
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+12,i_V-oTeAcnA,¿Cómo se Habla en Puerto Rico? | Puerto Rico Travel Vlog,56,10,0.0,0,2018-03-22,19:00:46,3,night,129440,3047,128,0,878,12.166666666666666,hd,false,False,https://i.ytimg.com/vi/i_V-oTeAcnA/maxresdefault.jpg,1280,720,"['Puerto Rico', 'Puerto Rico Travel Vlog', 'Travel', 'Travel Vlog', 'español puertorriqueño', 'San Juan', 'Playas en Puerto Rico', 'español boricua', 'como hablan los boricuas', 'como hablan los puertorriqueños', 'vlog', 'como hablan los venezolanos', 'gringo hablando español', 'español en estados unidos', 'hablando español en estados unidos', 'puerto rico estados unidos', 'puerto rico independence', 'como se habla en puerto rico', 'puerto rico travel', 'puerto rico vlog', 'living in puerto rico']",21,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE
+
+¡Mi primer travel vlog! Se te gustaría ver mas videos así, dame un like en este clip por fa please : ) 
+
+Muchas gracias a Coco el malabarista por haber compartido sus talentos con nosotros : ) 
+
+Si estás leyendo esto, dime en los comentarios si dices medias o calcetines. Yo digo calcetines jaja. 
+
+Como Aprendí Español: https://youtu.be/PWM8GtyWxoo
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/"
+13,oALQGM3ELXM,APRENDE INGLÉS CON LA MÚSICA DE KENDRICK LAMAR,46,8,1.0,0,2019-11-14,18:47:33,3,night,127424,13230,75,0,571,6.95,hd,true,True,https://i.ytimg.com/vi/oALQGM3ELXM/maxresdefault.jpg,1280,720,"['kendrick lamar', 'kendrick lamar english', 'acento de kendrick lamar', 'kendrick lamar dna', 'Migos English', 'acento de migos', 'ingles', 'aprende ingles', 'aprende ingles con musica', 'jerga americana ingles', 'como aprender ingles', 'aprender ingles', 'ingles americano', 'aprende ingles americano', 'hip hop en ingles', 'ingles basico', 'verbo to have', 'verbo to get', 'verbo run en ingles', 'cultura de estados unidos', 'verbo win', 'kendrick lamar element', 'kendrick lamar king kunta', 'kunta kinte', 'roots']",25,22,none,es,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Hip_hop_music']",American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/americanboycurso
+
+Kendrick Lamar es definitivamente uno de los artistas más importantes del momento porque usa su don musical para iluminar temas que reflejan la experiencia humana: Temas como la lealtad, el ego, la espiritualidad, y el amor.
+
+Y mientras me encanta todo tipo de música, yo creo que es importante dar prioridad a la música y al contenido que pueda enriquecer tu mente, así que en este video, te voy a enseñar cómo puedes usar la música de Kendrick Lamar para mejorar tu inglés y tu conocimiento de la cultura de Estados Unidos.
+
+¿Qué te parece el acento de Kendrick Lamar? 
+
+1. VERBO TO GET
+2. VERBO TO HAVE
+4. VERBO TO RUN
+3. VERBO TO WIN + LANDSLIDE
+
+Canciones: 
+
+Kendrick Lamar DNA
+Kendrick Lamar King Kunta 
+Kendrick Lamar Element
+
+📕 ""Raices"" de Alex Haley: https://geni.us/HBV61Z
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/"
+14,3-8U84X0B6c,Errores Mas Comunes al Estudiar Inglés | 3 LANGUAGE TIPS,56,9,0.2222222222222222,0,2019-06-29,12:15:58,5,afternoon,126081,9055,223,0,1087,16.8,hd,false,True,https://i.ytimg.com/vi/3-8U84X0B6c/maxresdefault.jpg,1280,720,"['errores mas comunes en ingles', 'errores en ingles', 'errores tipicos en ingles', 'errores mas comunes al hablar ingles', 'language tips', 'aprende ingles', 'aprender ingles', 'ser bilingue', 'como ser bilingue', 'como ser bilingue en ingles', 'american boy', 'american boy spanish', 'american boy english', 'como aprender idiomas', 'aprender ingles americano', 'aprender ingles britanico', 'ingles britanico', 'ingles estadounidense', 'errores gramaticales inglés', 'errores que cometemos en inglés', 'estudia ingles']",21,27,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"🛑Reclama tu clase particular gratuita: http://bit.ly/americanboy-2019
+
+ Código: AMERICANBOY
+
+📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Tras una conversación con un estudiante argentino que esta aprendiendo el inglés británico y estadounidense, me di cuenta que en muchos casos, nuestra mentalidad a la hora de aprender inglés o  español no nos sirve. El deseo de llegar a ser bilingüe  en ingles, español, o cualquier idioma es un anhelo natural que provoca nuestro deseo como seres humanos de poder unirnos y conectar con los demás. Pero cuando no vemos los resultados según nuestra cronología, nuestras expectativas nos desilusionan. 
+
+Y luego empecé a pensar en mas errores que cometemos en ingles o en otros idiomas, errores parecidos que yo he visto en mis conversaciones con estudiantes en mi vida personal y en mis propias clases de ingles cuando enseñaba en España. Me refiero a errores que no tienen mucho que ver con los aspectos técnicos de los idiomas, como los errores gramaticales por ejemplo. 
+
+Y me di cuanta que si hubiera tenido esta información cuando estudiaba español en el colegio en Estados Unidos, habría llegado a ser bilingüe en mucho menos tiempo, pero aun mas importante, habría disfrutado del proceso más. 
+
+Así que espero compartir esos conocimientos con todos ustedes para mejor facilitar su aprendizaje del inglés. 
+
+Espero que les guste. Espero que les sirva  🙏🏾❤️
+
+Esteban"
+15,j_VLxklYinQ,Cómo Entender el Hip Hop en Inglés,34,7,0.0,0,2019-12-04,20:00:10,2,night,116566,9715,108,0,624,8.75,hd,false,True,https://i.ytimg.com/vi/j_VLxklYinQ/maxresdefault.jpg,1280,720,"['hip hop en ingles', 'Travis Scott', 'Travis Scott Ingles', 'canciones en ingles', 'modismos en ingles', 'modismos en ingles americano', 'kendrick lamar english', 'ingles', 'aprende ingles', 'aprende ingles con musica', 'jerga americana ingles', 'como aprender ingles', 'aprender ingles', 'ingles americano', 'aprende ingles americano', 'ingles basico', 'cultura de estados unidos', 'modismos comunes en ingles', 'american boy ingles', 'ganar mas dinero', 'consejos financieros', 'aprender ingles rapido', 'hip hop 2019']",23,22,none,es,['https://en.wikipedia.org/wiki/Hip_hop_music'],American Boy,296000,8824790,70,"🛑Reclama tu clase gratuita con Cambly: http://bit.ly/americanboy-2019
+
+Código: AMERICANBOY
+
+Escuchar música es una de las maneras más eficientes para practicar y aprender un nuevo idioma, y dado que yo aprendí hablar en español usando la música, en este video quiero darles tres consejos para usar las canciones en ingles para entender mejor el hip hop en ingles. 
+
+Así que dale like, suscríbete, haz click en la campanita para recibir notificaciones cada vez que yo subo un nuevo video.
+
+Y como siempre, dime en los comentarios cual artista quieres analizar para la próxima!
+
+1. Familiarizarte con los modismos en ingles americano 
+2. Escuchar o ver entrevistas de tus artistas favoritos 
+3. Cultiva la curiosidad para aprender ingles rapido
+
+🎧 Recibe 2 Audiolibros GRATIS: https://geni.us/audiolibrosgratis
+
+🇺🇸Empezar con el inglés gratis con mi guía: http://bit.ly/inglesymas
+
+🎶 Sígueme en Spotify: http://bit.ly/americanboyspotify
+
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/"
+16,D1Rq9ORQ-cA,APRENDE INGLÉS CON LA MÚSICA DE CARDI B,39,8,1.0,0,2019-05-04,08:12:07,5,morning,102121,9718,130,0,821,10.566666666666666,hd,false,True,https://i.ytimg.com/vi/D1Rq9ORQ-cA/maxresdefault.jpg,1280,720,"['Cardi B', 'Cardi', 'Cardi B English', 'acento de Cardi B', 'analizando el ingles de cardi b', 'ingles', 'aprende ingles', 'aprende ingles con musica', 'jerga de estados unidos', 'jerga en ingles', 'español', 'aprende ingles cantando', 'ingles canciones', 'jerga americana ingles', 'jerga americana', 'learn english', 'english slang', 'hip hop', 'new york', 'como aprender ingles', 'language tips', 'aprender ingles', 'ingles americano', 'ingles estadounidense', 'language learning', 'aprende ingles americano']",26,22,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/americanboycurso
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Si estudias el inglés americano, seguro que has oído mucho de la jerga de EEUU, especialmente en las canciones de Hip Hop. En este video, les enseño 7 palabras y frases de jerga en inglés que se pueden oír en las canciones de Cardi B, otra persona con un acento americano muy Neoyorquino. 
+
+Si alguna vez has oído una canción de ella, sabes que el acento de Cardi B, el neoyorquino, es muy distinto y que usa mucha jerga en sus letras. 
+
+Así que en este video hablamos sobre esa jerga de USA, nuestros acentos, vocabulario en inglés, y unos language tips."
+17,v_alAV9n8bI,Cosas Que Dicen los Gringos: América es un País,48,10,0.0,0,2017-03-01,21:53:00,2,night,101560,5120,581,0,2407,4.683333333333334,hd,false,True,https://i.ytimg.com/vi/v_alAV9n8bI/maxresdefault.jpg,1280,720,"['América', 'America', 'Merica', 'Estados Unidos', 'Latin America', 'Geography', 'Geografía', 'Murica', 'Debate', 'País', 'Continente', 'américa es un continente', 'americanos', 'los gringos son', 'cosas que dicen los americanos', 'cosas que dicen los gringos', 'que piensan los gringos', 'que piensan los americanos', 'gringos', 'spanish', 'yanquis', 'linguistics', 'pragmatics', 'semantics', 'lingüística', 'pragmática', 'semántica', '7 continents']",28,22,none,,,American Boy,296000,8824790,70,"Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Según el diccionario inglés, la palabra “American” quiere decir lo siguiente:
+
+1. Una persona nacida, crecida, o que vive en EEUU. 
+2. Una persona nacida, crecida, o que vive en Norteamérica o Suramérica. 
+
+Y según el diccionario Español, la palabra “Americano” quiere decir lo siguiente:
+ 
+1. Algo de América o relativo a este continente.
+2. Suele aplicarse restrictivamente a los naturales de Estados Unidos y a todo lo relativo a este país. 
+
+Así que mi pregunta es la siguiente: ¿Es América un país o un continente?"
+18,5fu-tYJ3te4,Inglés Australiano: Jerga | Australian Slang,44,5,0.0,0,2018-05-28,22:00:55,0,night,99960,4449,51,0,379,12.783333333333333,hd,false,True,https://i.ytimg.com/vi/5fu-tYJ3te4/maxresdefault.jpg,1280,720,"['jerga australiana', 'jerga', 'jerga inglesa', 'ingles estadounidense', 'aprender ingles', 'ingles australiano', 'australia slang', 'aprender ingles rapido', 'expresiones en ingles', 'como aprender ingles', 'español', 'estados unidos', 'como hablan los gringos', 'como hablan los australianos', 'los australianos', 'acentos', 'como aprender ingles durmiendo', 'australian slang', 'gringo hablando español', 'acento australiano', 'australia sin ingles', 'trabajar en australia', 'vivir en australia', 'estudiar en australia']",24,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/cursodeinmersion
+
+¿Quieres estudiar en Australia? ¿Quieres aprender inglés rápido como los Australianos o poder entender mejor el acento Australiano? O puede que estes en Australia sin ingles. Pues este video es para ti. 
+
+Mi amigo Murray y yo les enseñamos algunas de las palabras, jerga, y expresiones en inglés mas típicas de la tierra ""Down Under,"" Australia. 
+
+Si vas a vivir en Australia, puedes utilizar estas palabras y frases para hablar inglés Australiano con un toque más informal. Si estas aprendiendo un idioma, es muy importante poder distinguir entre varios acentos. Como Murray es de Australia, espero que este video les ayude practicar entender como hablan los Australianos. 
+
+¿Cuál fue tu favorita? ¿Quieres aprender mas jerga en inglés? Dímelo en los comentarios : )  
+
+Saber la historia de mi acento español: https://youtu.be/CalnwLb13Ws
+
+Video que hicimos en el canal de Murray: http://bit.ly/2L63sFj
+
+Si estas pensando en trabajar en Australia y estas buscando consejos, déjame un comentario a ver si Murray y yo hacemos otro video hablando de como se puede conseguir un empleo allá. 
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+19,XjBgmy9Tq_E,ANALIZANDO EL ESPAÑOL  DE WILL SMITH,36,6,1.0,0,2019-06-01,11:48:33,5,afternoon,88870,6806,102,0,715,14.066666666666666,hd,false,False,https://i.ytimg.com/vi/XjBgmy9Tq_E/maxresdefault.jpg,1280,720,"['Will Smith', 'will smith hablando español', 'will smith hablando en español', 'gringos hablando español', 'lala milan', 'lala milan hablando español', 'aprende español', 'celebridades bilingues', 'famosos hablando español', 'language tips', 'learn spanish', 'spanish', 'español', 'will smith nicky jam', 'will smith cantando en español', 'analizando el español', 'analizando el español de will smith', 'american boy', 'how i learned spanish', 'como aprendi español', 'hablando español en estados unidos']",21,22,none,es,,American Boy,296000,8824790,70,"📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Muchas personas piensan que los Estadounidenses no saben de otras culturas y otros idiomas, así que en este video, voy a demostrar que eso no es la verdad completa, porque hay muchos gringos que hablan español y otros idiomas. Así que en este video, vamos a analizar a Will Smith hablando en español. 
+
+Tras una discusión corta de la historia del bilingüismo en Estados Unidos, hago un análisis del español de Will Smith, y yo les iré contando unas cosas que yo veo en su forma de hablar el español que a mí me parecen útiles para personas que están aprendiendo otro idioma.  
+
+Espero que estos language tips les ayuden! 
+
+¿Qué piensan del español de Will Smith???
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+20,iI7y_-sP2V4,Black in Spain | Racismo en España,34,6,0.0,0,2017-05-01,00:40:42,0,late_night,86120,3870,741,0,1774,4.533333333333333,hd,true,True,https://i.ytimg.com/vi/iI7y_-sP2V4/maxresdefault.jpg,1280,720,"['black in spain', 'racismo en españa', 'racism in europe', 'racismo en europa', 'ser negro en españa', 'negros en españa', 'racismo', 'españa racista', 'es españa racista', 'is spain racist', 'being black in spain', 'travel', 'travel vlog', 'racism in spain', 'traveling while black', 'racistas', 'racism', 'viajes', 'black', 'spain', 'spanish', 'bullying', 'black abroad', 'madrid', 'estados unidos', 'donald trump', 'black lives matter', 'trujillo', 'hitler', 'how i learned spanish', 'como aprendi español']",31,22,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"***CLICK CC FOR ENGLSH SUBTITLES***
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Hace unos años me mudé a España para estudiar por unos meses y cuando regresé a Nueva York, terminé mis estudios universitarios y regresé a Madrid por un año como profesor de inglés. 
+
+Y como el racismo anti negro es tan fuerte en EEUU, cuando alguien de mi país se entera de que viví en España, alguna de las cosas que quiere saber es si yo veía algún tipo de racismo en España. Y lamentablemente les tengo que decir que si, lo veía con bastante frecuencia. 
+
+Pero antes de explicarlo, debería aclarar la definición moderna del racismo porque hoy en día hay un debate sobre el significado del concepto. Por ejemplo, muchas personas que he conocido, especialmente los españoles que he conocido, piensan que el racismo es esto:
+
+""Oye negro de mierda. Regresa a Africa.""
+
+Pero esa no es la única clase de racismo que existe. Por ejemplo, algún día en Madrid, iba de fiesta con un grupo de amigos por la calle, y un chico aprovechando su borrachera me dijo esto:
+
+""Oye negro. Pero tú tienes la piel tan oscura. No deberías tomar el sol tanto, tío.""
+
+Si...alguien me dijo eso en España.
+
+Y en varias conversaciones con varios Españoles que conocía, esto para ellos no fue nada más que una broma. Y eso siempre me confundía porque no podía entender cómo alguien podría interpretar algo tan racista como una broma. 
+
+Y así aprendí algo sobre los españoles. Y mi intención no es declarar que todos los españoles son iguales, porque obvio cada quien es distinto, pero para muchos de ellos, el racismo es algo más directo que lleva una motivación de insultar o despreciar. 
+
+Me refiero al racismo de alguien como Hitler en Europa, Trujillo en la República Dominicana , o el presidente de Estados Unidos. Pero desde mi perspectiva, este hombre en la calle no me quería insultar, sino quería compartir conmigo algo que le parecía gracioso - una broma. Pero en un mundo lleno de verdadero racismo anti-negro, racismo directo que he visto con mis propios ojos, esa clase de humor no me parece chistoso.
+
+Un amigo mío que es Español lo describe así. 
+
+“Siendo español, para mi el racismo simplemente era algo que podría ser si ves a una persona mejor de color, coger e insultarla. Para un español, eso es el racismo nada más. Pero después de conocerte a ti tanto tiempo me he dado cuenta que el racismo va mucho más allá que simplemente un racismo activo. Sino que también hay un racismo pasivo.” 
+
+En España vi mucho del racismo pasivo. 
+
+Es cuando la gente me pedía tocarme el pelo.
+
+O cuando en el metro siempre me miraban fijamente. 
+
+O cuando alguien quería ligar conmigo porque “nunca me había acostado con un negro.” 
+
+O cuando la policía me detenía para interrogarme por - pues nada. 
+
+Lo que es difícil de entender para muchas personas es que aunque no me estés insultando con groserías, el hecho de que estés utilizando el color de mi piel para clasificarme como algo tan diferente y extranjero es igual de ofensivo. Y eso es algo que quiero que aprenda la gente de España, la gente de EEUU, y la gente de todo el mundo. 
+
+Pero como siempre, quiero que ustedes me cuenten algo al respecto. Si vives en España quiero que me digas si has visto algo parecido o algo diferente. O quizás vivas en otro sitio y has visto otros ejemplos de racismo. 
+
+Así que por favor, déjenme algo en los comentarios, dame un LIKE en este video, suscríbete si aún no lo has hecho! 
+
+Saludos : )"
+21,cRGd0lMqTHE,7 Modismos en Inglés Americano con Travis Scott,47,8,0.0,0,2019-11-20,20:14:06,2,night,83775,7226,51,0,338,7.3,hd,false,True,https://i.ytimg.com/vi/cRGd0lMqTHE/maxresdefault.jpg,1280,720,"['Travis Scott', 'Kylie Jenner', 'Travis Scott Ingles', 'Travis Scott acento', 'canciones en ingles', 'modismos en ingles', 'modismos en ingles americano', 'kendrick lamar english', 'ingles', 'aprende ingles', 'aprende ingles con musica', 'jerga americana ingles', 'como aprender ingles', 'aprender ingles', 'ingles americano', 'aprende ingles americano', 'hip hop en ingles', 'ingles basico', 'cultura de estados unidos', 'modismos comunes en ingles', 'american boy ingles', 'ganar mas dinero', 'consejos financieros']",23,22,none,es,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Hip_hop_music']",American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/cursodeinmersion
+
+📕 Padre Rico, Padre Pobre: https://geni.us/padrerico
+🎧 Recibe 2 Audiolibros GRATIS: https://geni.us/audiolibrosgratis
+
+En EEUU estamos obsesionados con el dinero, tanto que en el idioma inglés, hay más de 100 palabras y frases para hablar sobre el dinero, y si has escuchado una canción de Hip Hip, seguro que has oído varios de estos modismos en ingles, así que en este video, vamos a analizar unas canciones en ingles de Travis Scott para aprender 7 maneras de hablar sobre el dinero. 
+
+También, vamos a usar estos modismos y el ejemplo de Travis y su novia Kylie Jenner para hablar sobre unos consejos financieros generales y como ganar más dinero. 
+
+Así que dale like, suscríbete, haz click en la campanita para recibir notificaciones cada vez que yo subo un nuevo video, y con eso, arrancamos. 
+
+Y como siempre, dime en los comentarios cual artista quieres analizar para la próxima! 
+
+Travis Scott HIGHEST IN THE ROOM
+Travis Scott SICKO MODE
+Travis Scott HOT REMIX
+Travis Scott WAKE UP
+Travis Scott SKYWALKER
+Travis Scott BUTTERFLY EFFECT
+Travis Scott GOOSEBUMPS
+
+🎶 Sígueme en Spotify: http://bit.ly/americanboyspotify
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/"
+22,1RUfqkgejP8,Como Aprender Idiomas,21,3,0.0,0,2017-02-20,18:13:43,0,night,82405,5985,37,0,353,5.616666666666667,hd,false,True,https://i.ytimg.com/vi/1RUfqkgejP8/maxresdefault.jpg,1280,720,"['como aprender idiomas', 'aprender', 'como aprender ingles', 'aprender ingles', 'tips para aprender ingles', 'ingles', 'spanish', 'español', 'language tips', 'como ser bilingue', 'aprendi ingles', 'aprender ingles en otro idioma', 'aprender idiomas', 'aprende idiomas rapido', 'aprender idiomas rapido', 'aprender ingles rapido', 'aprenda ingles sigue me', 'ingles pasos', 'racismo en españa']",19,22,none,,,American Boy,296000,8824790,70,"Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sigueme en Instagram: https://www.instagram.com/americanboy/
+
+¿Quieres aprender inglés o otro idioma? Este video te ayudará con 5 pasos básicos y fáciles para aprender cualquier idioma que quieras.
+
+00:50 - Encuentra una clase para empezar. Si vas a aprender cualquier cosa, es necesario que tengas una formación fuerte. Una clase te ayudará a aprender las cosas mas básicas que necesitarás para poder tener cualquier tipo de conversación. Una buena clase es la fundación que necesitas para empezar. 
+
+01:30 - PRACTICAR. Tienes que practicar FUERA de tus clases en cualquier momento que puedas. Así, te vas acostumbrar a hablar en situaciones reales. 
+
+02:14 - Investigar. Saber hablar otro idioma es una cosa y conocer las culturas y costumbres de la gente que hable ese idioma es otra. Con un conocimiento del mundo en el que habita tu idioma, vas a poder llevar tu fluidez a un nivel mas alto. 
+ 
+03:20 - Tener Paciencia. Aprender otro idioma es un proceso bastante largo. Es necesario que tengas paciencia durante el proceso. 
+
+04:24 - Superar el miedo. A veces, la idea de hablar otro idioma en público nos da miedo, pero si vamos a lograr nuestra meta, es necesario que superemos este miedo. Si practicar te da miedo, no pasa nada. Practica con miedo."
+23,TWYlZ0pMr4k,Where Did Gringo Come From? | Origen de la palabra Gringo,57,10,0.0,0,2017-03-17,00:21:26,4,late_night,82333,3917,151,0,1486,3.8833333333333333,hd,false,True,https://i.ytimg.com/vi/TWYlZ0pMr4k/maxresdefault.jpg,1280,720,"['Gringo', 'Spanish', 'Español', 'Espanol', 'Los Gringos', 'Cosas que dicen los gringos', 'americanos', 'yanquis', 'estados unidos', 'United States', 'Mexico', 'el gringo', 'griego', 'el greco', 'greek', 'Julius Caesar', 'Shakespeare', 'Diccionario', 'Castellano', 'Origen de Gringo', 'Origen de la palabra gringo', 'origen', 'how i learned spanish', 'aprender ingles']",24,22,none,,,American Boy,296000,8824790,70,"Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Aquí en Estados Unidos existe una palabra que utilizan los latinos para describir a las personas que no son latinos: Gringo 
+
+Y aunque la palabra se utiliza normalmente para describir cualquier estadounidense, a veces la cosa se pone un poquito confusa porque las reglas que determinan quién es gringo y quien no, siempre cambian. Por ejemplo cuando yo me llamo gringo por ser estadounidense, alguien me dice que no lo soy por un par de razones.
+
+Okay. ¿Así que no soy gringo? Esta bien. Pero también hay veces cuando a un verdadero latino que nació y se crió en EEUU, le llaman gringo. 
+
+Así que mi pregunta es la siguiente: ¿Qué carajo es un gringo si no lo soy yo?! 
+
+Pues hay varias historias y teorías sobre el origen de la palabra gringo.
+
+La historia que casi todo el mundo sabe es la del ejército de EEUU y como cuando ellos ocupaban varias tierras de latinoamérica con sus uniformes verdes, la gente siempre les gritaba “Green Go!” O que se vayan los que se visten de verde.
+
+También hay una historia que dice que no fue por el color de los uniformes, sino por una canción que siempre cantaban que se llama “Green Grow the Lilacs.” 
+
+Y aunque estas historias son bien conocidas y fáciles de entender, la verdad es que son falsas. 
+
+Pues resulta que la palabra “gringo” viene de una frase latina que que es “es griego, así que no se puede leer.” Pero quizás conozcan la frase moderna “hablar en griego” que quiere decir que algo no se puede entender. 
+
+Incluso William Shakespeare lo dijo en su obra Julius Caesar. 
+
+Así que la historia es que “gringo” es nada más que un cambio fonético de la palabra “griego” utilizada para señalar a alguien o algo extranjero. 
+
+Escrita por primera vez oficialmente en el Diccionario Castellano de 1787 Esteban Terreros, el autor, dijo que en Madrid y Málaga “gringos llama a los extranjeros, que tienen cierta especie de acento, que los priva de una locución fácil y natural castellana.”
+
+Y si tomamos en cuenta el colonialismo español, tiene sentido que eventualmente, la palabra llegó al continente de América. 
+
+Pero con todos los usos modernos que hay, me quedo con la misma pregunta: ¿Qué carajo es un gringo si no lo soy yo?"
+24,JrXQZe_Pcq8,AFRO LATINO: ¿Qué significa ser Afro Latino?,44,7,0.2857142857142857,0,2018-03-12,00:34:50,0,late_night,65448,4082,70,0,1346,9.966666666666667,hd,false,True,https://i.ytimg.com/vi/JrXQZe_Pcq8/maxresdefault.jpg,1280,720,"['afro latino', 'latino', 'afro latino history', 'afro latino documentary', 'que significa afro latino', 'ser afro latino', 'que es un afro latino', 'famosos afro latinos', 'afro latinos famosos', 'zoe saldaña dominican', 'celia cruz afro latino', 'celia cruz', 'monica style muse', 'pedro albizu campos', 'afro', 'afrolatino', 'gringo hablando español', 'amara la negra afro latino', 'amara la negra afro interview', 'amara la negra breakfast club', 'amara la negra', 'zoe saldaña hablando español']",22,22,none,,,American Boy,296000,8824790,70,"Si has oido el término ""Afro Latino,"" pero no estás 100% seguro de lo que significa, este video es para ti : ) 
+
+Como Aprendí Español: https://youtu.be/PWM8GtyWxoo
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Sígueme en Instagram: https://www.instagram.com/americanboy/"
+25,2FrTLb_b0RM,7 MODISMOS EN INGLÉS QUE TIENES QUE SABER | Inglés Americano,60,10,0.7,0,2019-09-28,10:00:00,5,morning,65414,5319,61,0,264,11.216666666666667,hd,false,False,https://i.ytimg.com/vi/2FrTLb_b0RM/maxresdefault.jpg,1280,720,"['ingles', 'español', 'aprende ingles', 'aprende ingles americano', 'acentos de usa', 'acentos de estados unidos', 'ingles sureño', 'aprende ingles rapido', 'jerga de estados unidos', 'jerga en ingles', 'jerga en ingles americano', 'ingles americano', 'hablar como los americanos', 'american accent', 'american english', 'ingles estadounidense', 'acento afroamericano', 'modismos', 'modismos en ingles', 'jerga', 'ingles basico', 'james callahan', 'james callahan kelly clarkson', 'AAVE']",24,22,none,es,,American Boy,296000,8824790,70,"🛑Reclama tu clase particular gratuita: http://bit.ly/americanboy-2019
+
+ Código: AMERICANBOY
+
+📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+
+James Callahan es en profesor en EEUU que decidió crear un documento con todos los modismos que usan sus alumnos en inglés. Salió en el show de Kelly Clarkson para compartir lo que aprendió. 
+
+Los modismos de Estados Unidos son tan ubicuos que hoy en día, se están convirtiendo en lenguaje culturalmente aceptable fuera de los espacios formales y académicos. Y no solo en Estados Unidos, sino por todo el mundo de habla inglesa. 
+
+Si estudias el inglés americano, seguro que has oído hablar de la variedad de jerga en inglés americano. Así que en este video hablamos sobre la jerga americana, nuestros acentos, vocabulario en inglés, la jerga de nuestras regiones y unos language tips.
+
+📋 Lista de Profesor James Callahan: https://drive.google.com/file/d/1yrJmMHPkZzrxfWbUb4jALN0neE1tbkgH/view?usp=drivesdk
+
+________________________________________________________________
+
+Rights to the footage from The Kelly Clarkson Show and The Steve Harvey Show belong to NBC."
+26,mjBgv24P1ok,"YouTuber Colombiano Habla Perfecto El Inglés, ¿Cómo lo hizo?",60,9,0.0,0,2020-04-25,10:00:11,5,morning,54751,2854,62,0,751,26.683333333333334,hd,false,True,https://i.ytimg.com/vi/mjBgv24P1ok/maxresdefault.jpg,1280,720,"['ingles', 'como hablar perfecto ingles', 'hablar ingles', 'estudiar ingles', 'aprender ingles', 'español', 'aprende ingles', 'aprende ingles americano', 'acentos de usa', 'acentos de estados unidos', 'acento neoyorquino', 'acento de new york', 'aprende ingles rapido', 'jerga de estados unidos', 'jerga en ingles', 'jerga en ingles americano', 'ingles americano', 'hablar como los americanos', 'american english', 'ingles estadounidense', 'American Boy', 'use your spanish', 'aprender español', 'youtuber colombiano']",24,27,none,es,"['https://en.wikipedia.org/wiki/Health', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",American Boy,296000,8824790,70,"🛑Practica Inglés o Español con mi curso de idiomas: http://bit.ly/americanboycurso   
+
+🇺🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+YouTuber Colombiano Habla Perfecto El Inglés, ¿Cómo lo hizo? 
+
+Salo es un estudiante, lingüista, y YouTuber colombiano. Tuve la oportunidad de hablar con él sobre su viaje con el inglés y que hizo para perfeccionar su dominio del idioma. Hicimos una videollamada bilingüe o en Spanglish, entonces vas a notar lo culto que es su inglés y lo bien que se expresa en el idioma. 
+
+Puedes usar estos consejos para aprender inglés o cualquier otro idioma, y si estás aprendiendo español, deberías echar un vistazo a su canal, Use Your Spanish: https://bit.ly/useyourspanish"
+27,7wIJEuWInow,How I Learned Spanish Fluently | 👂English Listening Practice,60,8,0.125,0,2019-04-01,21:15:05,0,night,51791,2745,27,0,411,18.666666666666668,hd,true,True,https://i.ytimg.com/vi/7wIJEuWInow/maxresdefault.jpg,1280,720,"['easy spanish', 'listening practice', 'spain', 'spanish for 24 hours', 'listening comprehension', 'spanish learning', 'english listening', 'learning spanish', 'spanish language', 'spanish culture', 'babbel', 'learn spanish', 'speak spanish', 'learn english', 'english listening practice', 'spanish', 'how i learned spanish', 'aprender ingles', 'language tips', 'native speaker english', 'english', 'learn spanish fast', 'how to speak spanish', 'how to learn spanish', 'spanish culture shock', 'babbel spanish', 'funny', 'humor', 'español']",29,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+📕Think & Grow Rich: https://geni.us/getmoney
+
+Instagram: https://www.instagram.com/americanboy/
+
+Cómo Aprendí Español (en español): https://www.youtube.com/watch?v=PWM8GtyWxoo&t=
+
+Learning Spanish doesn't have to be difficult! It might surprise you to know just how easy Spanish is to learn for English speakers, especially Americans. The Spanish language is the most learned foreign language in the world, and it's the second most spoken language in the United States, so I made this for anyone who wants to learn Spanish or is thinking about learning Español. So if you want to move to Spain or Mexico and avoid the Spanish culture shock, I've got lots of language tips all around here. 
+
+Here's the story of how I learned Spanish in High School through a combination of Spanish classes and real-life situations that allowed me to reach fluency by the time I was 17. 
+
+That's right, I began learning Spanish when I was 12, and was fluent by the time I was 17, without ever moving or living in a Spanish speaking country. It's possible. Here's how I did it.
+
+ALSO: A lot of my subscribers want to learn English and have asked me to make some videos in English, so that they can practice their  English listening comprehension with  a native speaker, so I decided to make this video for them as an English listening practice exercise.
+
+ Let me know why you're learning Spanish in the comments.
+
+Aquí les va la historia de como aprendí español durante High School, pero en inglés pare que puedan practicar su listening conmigo 😃 easy spanish"
+28,uj6i6gjz3gQ,"YouTuber Boliviano en Suecia Habla 8 Idiomas, ¿Es Posible?",58,9,0.0,0,2020-06-06,11:00:30,5,afternoon,39806,2899,34,0,578,33.833333333333336,hd,false,True,https://i.ytimg.com/vi/uj6i6gjz3gQ/maxresdefault.jpg,1280,720,"['youtuber', 'youtuber boliviano', 'bolivia', 'boliviano', 'suecia', 'polígloto', 'viviendo en Suecia', 'plurilingüe', 'hablar inglés', 'hablar inglés y español', 'spanglish', 'inglés', 'español', 'portugués', 'danés', 'alemán', 'sueco', 'vivir en suecia', 'youtuber latino', 'latino sueco', 'american boy', 'como hablar perfecto ingles', 'estudiar ingles', 'aprender ingles', 'aprende ingles', 'aprende ingles americano', 'aprende ingles rapido', 'jerga en ingles americano', 'ingles americano', 'hablar como los americanos', 'ingles estadounidense']",31,22,none,es,,American Boy,296000,8824790,70,"🛑Practica Inglés o Español con mi curso de idiomas: http://bit.ly/americanboycurso   
+
+🇺🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+YouTuber Boliviano en Suecia Habla 8 Idiomas, ¿Es Posible? 
+
+Gustavo es un polígloto, inversor, asesor financiero, y YouTuber Boliviano viviendo en Suecia. Tuve la oportunidad de hablar con él sobre su vida internacional y plurilingüe. Aparte de hablar inglés a la perfección y ser nativo del español, también habla sueco, y portugués con fluidez. Además, se defiende bastante bien con el danés y el alemán.
+
+Parece que a ustedes les gusta estos videos en Spanglish así que hicimos una videollamada bilingüe para que todos puedan practicar inglés con nosotros. Vas a notar que aunque Gustavo nunca ha vivido en Norteamérica, habla perfecto el inglés americano sin acento boliviano. 
+
+Espero que esta conversación te ayude a alcanzar tus metas lingüísticas. Puedes usar estos consejos para aprender inglés o cualquier otro idioma. Pero el objetivo dominante es inspirarte a facilitar una transformación personal a lo largo de tu vida. 
+
+¡Hazme saber qué te pareció el video¡ Me encantaría saber cómo podría seguir ayudándote. 
+
+Si te interesa saber cómo está la vida en Suecia para un latino, deberías echar un vistazo al canal de Gustavo, Latino Sueco: https://bit.ly/latinosueco"
+29,dOCWtBQ7HkM,APRENDE INGLÉS CON LA MÚSICA DE NICKI MINAJ: Modismos de EEUU,61,11,0.8181818181818182,0,2019-09-14,09:00:12,5,morning,38273,4304,38,0,302,9.266666666666667,hd,false,True,https://i.ytimg.com/vi/dOCWtBQ7HkM/maxresdefault.jpg,1280,720,"['Nicki Minaj', 'aprender ingles', 'jerga americana ingles', 'jerga en ingles americano', 'aprende ingles cantando', 'aprende ingles con musica', 'acento de nicki minaj', 'acento americano', 'ingles americano', 'Nicki Minaj English', 'ingles canciones', 'hip hop en ingles', 'nicki minaj retiring', 'como aprender ingles', 'como aprender ingles rapido', 'ingles neoyorkino', 'modismos de estados unidos', 'estados unidos', 'modismos en ingles', 'acento britanico', 'acento caribeño', 'acento new york', 'jerga']",23,22,none,es,['https://en.wikipedia.org/wiki/Hip_hop_music'],American Boy,296000,8824790,70,"🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Si estudias el inglés americano, seguro que has oído mucho de la jerga de EEUU, especialmente en las canciones de Hip Hop. En este video, les enseño unas palabras y frases y modismos en inglés que se pueden oír en las canciones de Nicki Minaj, la Reina de Hip Hop. 
+
+Así que en este video hablamos sobre esa jerga de USA, nuestros acentos, vocabulario en inglés, y unos language tips.
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+30,G-MFksNU604,Analizando Mi Ingles  | Aprende El Inglés Americano,51,7,0.0,0,2019-04-08,21:01:34,0,night,35153,2490,22,0,317,15.95,hd,false,True,https://i.ytimg.com/vi/G-MFksNU604/maxresdefault.jpg,1280,720,"['ingles', 'aprender ingles', 'analizando el ingles', 'ingles americano', 'aprender ingles americano', 'ingles britanico', 'aprender ingles britanico', 'ingles estadounidense', 'ingles estadounidense vs ingles britanico', 'como aprender ingles', 'como hablar ingles como americano', 'como hablar ingles', 'ingles basico', 'gringo hablando español', 'aprender ingles escuchando', 'learn english', 'zach morris', 'acento americano', 'aprenda ingles rapido y facil', 'aprende ingles', 'language tips', 'how i learned spanish']",22,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"La semana pasada, subí mi primer video hablando completamente en inglés. Y como había mucha gente que sabía que hablo inglés, incluso una persona que no sabía si hablo ingles británico o americano, Así que en este video, hago un análisis de mi propio inglés, el inglés americano. Así que si estás intentando aprender inglés britanico o el ingles estadounidense, este video es para ti. 
+
+En este análisis en español, hablo con más detalle sobre el acento americano, vocabulario inglés, phrasal verbs, y muchos otros language tips.  
+
+Instagram: https://www.instagram.com/americanboy/
+
+Cómo Aprendí Español (en español): https://www.youtube.com/watch?v=PWM8GtyWxoo&t=
+___________________________________________________________________
+Learning Spanish doesn't have to be difficult! It might surprise you to know just how easy Spanish is to learn for English speakers, especially Americans. The Spanish language is the most learned foreign language in the world, and it's the second most spoken language in the United States, so I made this for anyone who wants to learn Spanish or is thinking about learning Español. So if you want to move to Spain or Mexico and avoid the Spanish culture shock, I've got lots of language tips all around here. 
+
+Here's the story of how I learned Spanish in High School through a combination of Spanish classes and real-life situations that allowed me to reach fluency by the time I was 17. 
+
+That's right, I began learning Spanish when I was 12, and was fluent by the time I was 17, without ever moving or living in a Spanish speaking country. It's possible. Here's how I did it.
+
+ALSO: A lot of my subscribers want to learn English and have asked me to make some videos in English, so that they can practice their  English listening comprehension with  a native speaker, so I decided to make this video for them as an English listening practice exercise.
+
+ Let me know why you're learning Spanish in the comments.
+
+Aquí les va la historia de como aprendí español durante High School, pero en inglés pare que puedan practicar su listening conmigo 😃 easy spanish"
+31,CalnwLb13Ws,¿Cómo es mi acento? | Acentos Españoles,39,6,0.0,0,2018-01-07,23:26:50,6,late_night,34099,2411,18,0,474,9.766666666666667,hd,false,True,https://i.ytimg.com/vi/CalnwLb13Ws/maxresdefault.jpg,1280,720,"['acentos españoles', 'como es mi acento', 'dialectos españoles', 'gringo hablando español', 'como hablan los venezolanos', 'español', 'spanish', 'acento', 'accent', 'acentos hispanos', 'mejor acento español', 'cual es el mejor acento español', 'acento britanico', 'inglés britanico', 'castellano', 'españa', 'acento castellano', 'acento español vs mexicano', 'acento español vs acento mexicano']",19,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"Ya que somos mas de 15,000 suscriptores (no 500,000 jaja oops : ), les cuento la historia detrás de mi acento. 
+
+
+
+¿Cómo describirías mi acento? 
+
+como aprendí español: https://youtu.be/PWM8GtyWxoo
+aprendiendo venezolano: https://youtu.be/eJa8udXHrn8
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Instagram: https://www.instagram.com/americanboy/
+Sígueme en Twitter: https://twitter.com/AmericanBoy"
+32,wmk_cbHTZvM,3 LIBROS PARA APRENDER INGLÉS | Libros en Inglés que Me Gustan,62,11,0.36363636363636365,0,2019-09-05,18:00:11,3,night,25114,1750,46,0,132,8.6,hd,false,True,https://i.ytimg.com/vi/wmk_cbHTZvM/maxresdefault.jpg,1280,720,"['libros para aprender ingles', 'libros en ingles', 'libros en audio en ingles', 'empezar a leer en ingles', 'como leer en ingles', 'libros faciles de leer en ingles', 'Robert Kiyosaki', 'Rich Dad Poor Dad', 'Paulo Coelho', 'The Alchemist', 'Dr Seuss', 'Dr Seuss ABC', 'ingles audible', 'beneficios de leer', 'leer', 'libros', 'ingles', 'como aprender ingles', 'aprende ingles', 'padre rico padre pobre', 'aprender ingles', 'leer en inglés', 'libros euge oller', 'leer rapido', 'desarrollo personal', 'lector', 'motivacion', 'emprender']",28,22,none,es,,American Boy,296000,8824790,70,"🎧 Recibe 2 Audiolibros GRATIS: https://geni.us/audiolibrosgratis
+
+Si estudias el inglés, español, o cualquier idioma, seguro que has oído mucho de la importancia de la lectura. Así que en este video, les cuento 3 libros que son perfectos para cualquier estudiante de inglés y explico por qué me gustan estos libros.
+
+📚02:34
+Rich Dad, Poor Dad de Robert Kiyosaki
+https://geni.us/padrerico
+
+📚05:16
+The Alchemist de Paulo Coelho
+https://geni.us/transmutation
+ 
+📚07:20
+Dr. Seuss 
+https://geni.us/drseussbooks
+https://geni.us/onefish
+https://geni.us/greeneggs
+https://geni.us/catinthehat
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+33,hL3a_M6yWYE,¿Es difícil aprender el Inglés? | 3 Tips para mejorar tu Inglés RAPIDO,70,12,0.08333333333333333,0,2019-08-31,09:00:11,5,morning,24483,1914,29,0,223,12.166666666666666,hd,false,True,https://i.ytimg.com/vi/hL3a_M6yWYE/maxresdefault.jpg,1280,720,"['inglés', 'aprender ingles', 'aprender ingles americano', 'errores en ingles', 'errores tipicos en ingles', 'language tips', 'aprende ingles', 'ser bilingue', 'como ser bilingue', 'como ser bilingue en ingles', 'american boy', 'american boy spanish', 'american boy english', 'ingles estadounidense', 'estudia ingles', 'estadounidenses hablando español', 'extranjeros hablando español', 'ingles dificil', 'ingles dificil de entender', 'porque el ingles es dificil', 'por que el ingles es tan dificil', 'ingles rapido']",22,22,none,es,,American Boy,296000,8824790,70,"🛑Reclama tu clase particular gratuita: http://bit.ly/americanboy-2019
+
+ Código: AMERICANBOY
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+
+A veces el proceso de aprender un idioma es un poco difícil. Pero no tiene que ser así. Si quieres ser bilingüe pero el inglés es difícil de entender, espero que este video te ayude a superar esas dificultades."
+34,FlfxjaGouLM,COMO APRENDER INGLES AMERICANO | JERGA DE CALIFORNIA,52,7,1.0,0,2019-03-01,17:29:10,4,afternoon,23107,1448,21,0,192,17.25,hd,false,True,https://i.ytimg.com/vi/FlfxjaGouLM/maxresdefault.jpg,1280,720,"['ingles de california', 'jerga norteamericano', 'ingles', 'aprender ingles', 'palabras en ingles', 'california vlog', 'los angeles vlog', 'aprende ingles', 'como aprender ingles', 'ingles americano', 'gringo hablando español', 'american boy', 'ingles norteamericano', 'jerga', 'expresiones en ingles', 'jerga de eeuu', 'california', 'ingles basico', 'aprender ingles americano', 'como aprender ingles americano']",20,22,none,,,American Boy,296000,8824790,70,"mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE
+
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+
+California slang, un travel vlog, y más : ) 
+
+Si quieres aprender rápido como hablar inglés como americano, este video es para ti. 
+
+Te gusta el acento el ingles de california? Pues en este video, les enseño unas cuantas de las palabras ""slang"" o modismos en ingles mas populares que vienen de California. Tambien les muestro un poco de un vlog de mi ultimo viaje a Los Angeles con mi amigo Juan : )
+
+Pueden utilizar estas palabras y expresiones en ingles para hablar el inglés norteamericano con un toque más informal. 
+
+¿Cuál fue tu favorita? ¿Quieres aprender mas jerga estadounidense? Dímelo en los comentarios : )"
+35,SOAMEf7GPtk,Hablando Spanglish en Puerto Rico | American Boy,48,7,0.0,0,2019-01-19,19:58:42,5,night,22087,1128,31,0,207,12.866666666666667,hd,false,True,https://i.ytimg.com/vi/SOAMEf7GPtk/maxresdefault.jpg,1280,720,"['american boy', 'code switching', 'language tips', 'como comunicar mejor', 'puerto rico', 'spanglish', 'como hablan los puertorriqueños', 'español de puerto rico', 'puerto rican spanish', 'oratoria', 'como aprender ingles', 'aprender ingles', 'ingles americano', 'gringo hablando español', 'aprender a comunicar mejor', 'como ser un buen comunicador', 'como hablar en publico', 'como hablar mejor', 'linguistics', 'spanish', 'bilingual', 'puerto rican slang', 'spanish language', 'language learning']",24,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE
+Bocina a las 00:24: https://amzn.to/2DllXVl 
+
+En este video, hablo del Spanglish de Puerto Rico y Code Switching o Cambio de Código en español. Es una práctica lingüística que podemos usar para comunicar mejor y comunicar con eficacia : ) 
+
+
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+
+Sígueme en Twitter: https://twitter.com/AmericanBoy"
+36,Fn0E4CG1SnU,Aprende Inglés Estadounidense con Series de Televisión | Practicar Inglés Listening 🇺🇸,86,10,0.0,0,2019-06-23,12:12:34,6,afternoon,21593,1840,24,0,247,13.15,hd,false,True,https://i.ytimg.com/vi/Fn0E4CG1SnU/maxresdefault.jpg,1280,720,"['aprende ingles con series', 'aprende ingles estadounidense', 'aprender ingles', 'aprender ingles con series', 'aprender ingles con series de television', 'aprender ingles con tv', 'Que pasa usa', 'jane the virgin', 'blackish', 'aprender ingles rapido', 'practicar ingles listening avanzado', 'ingles listening', 'ingles americano', 'ingles estadounidense', 'language tips', 'american english', 'curso de ingles', 'learn english', 'learn english fast', 'como aprender ingles', 'ingles', 'aprende ingles']",22,22,none,es,,American Boy,296000,8824790,70,"🎧 Practicar Inglés GRATIS con Audible: https://geni.us/audiolibrosgratis
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Siempre he usado la televisión para practicar mi español, así que en este video, les cuento como pueden hacer lo mismo, pero para practicar y mejorar su inglés estadounidense. 
+
+Estas 3 series de Estados Unidos son perfectas para cualquier hispanohablante que quiere aprender ingles estadounidense y practicar su listening, ya sea principiante o avanzado. 
+
+¿Qué Pasa, USA? 
+Jane The Virgin 
+Black-Ish 
+
+Déjame un comentario diciéndome cuales son las series que ustedes están viendo para practicar inglés. 
+
+Dame un LIKE si estos language tips son útiles ❤️"
+37,grHmapqiwU8,ANALIZANDO EL ESPAÑOL DE JENNIFER LOPEZ,39,6,1.0,0,2020-02-12,20:00:09,2,night,19518,865,20,0,250,7.083333333333333,hd,false,True,https://i.ytimg.com/vi/grHmapqiwU8/maxresdefault.jpg,1280,720,"['jennifer lopez', 'español de jennifer lopez', 'jennifer lopez hablando español', 'aprender inglés', 'aprender español', 'jlo hablando español', 'J Lo', 'Jennifer Lopez Super Bowl', 'gringos hablando español', 'acento puertorriqueño', 'famosos hablando español', 'famosos hablando español 2020', 'español', 'analizando el español de jennifer lopez', 'hablando español en estados unidos', 'analizando el español de will smith', 'aprende español', 'aprende inglés', 'latinos hablando ingles', 'halftime show', 'super bowl']",21,22,none,es,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Television_program']",American Boy,296000,8824790,70,"🇺🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+Muchas veces cuando tenemos que hablar en nuestra lengua meta, queremos decirlo todo perfecto, y a veces nos quedamos callados si sentimos que no nos va a salir perfecto. Pero lo que a mí siempre me ha encantado de J Lo es que nunca ha pretendido ser perfecta, sino siempre ha demostrado su deseo de siempre seguir mejorando. 
+
+Entonces, en este video aprovecho la oportunidad de analizar el español de Jennifer Lopez usando unas de sus entrevistas en español para darles unas ideas de cómo pueden mejorar sus habilidades en sus lenguas metas usando el ejemplo de Jennifer Lopez hablando en español con su acento puertorriqueño/neoyorquino.  
+
+Entonces si quieres aprender inglés o aprender español, estos tips y trucos te ayudarán a mejorar aun más a también te ayudarán a llegar a ser bilingüe en menos tiempo.
+
+🎶 Sígueme en Spotify: http://bit.ly/americanboyspotify
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/"
+38,LnOWfnU3J4k,TRYING TO SPEAK SPANISH ON 420 | SPANISH CHALLENGE,50,8,0.875,0,2019-04-20,11:32:14,5,afternoon,18088,1190,25,0,190,17.833333333333332,hd,true,True,https://i.ytimg.com/vi/LnOWfnU3J4k/maxresdefault.jpg,1280,720,"['trying to speak spanish', 'spanish', 'learn spanish', 'aprende español', 'speaking spanish', 'gringo hablando español', 'gringo hablando ingles', 'language tips', 'speaking spanish for 24 hours', 'speaking spanish challenge', 'spanish challenge', 'speaking only spanish for 24 hours', 'speaking another language', 'james charles', 'spanish video', 'speaking only spanish challenge', 'speaking spanish 24 hours', 'american boy', 'how i learned spanish', 'ingles americano', 'español', 'ingles', 'english listening', '420', 'marijuana']",25,22,none,es,,American Boy,296000,8824790,70,"📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Do drugs and alcohol actually help us learn languages? I know that when I was trying to learn Spanish or practice my Spanish, I noticed it was a bit easier if I had a few drinks. But what about marijuana? 
+
+And since it's 420, in this video, I'll tell you about my experience learning languages and practicing while under the influence of alcohol and weed. 
+
+I decided to smoke a little bit, then I invited my friend Dylan over to ask me some tough philosophical questions in Spanish. 
+
+Let me know how you think I did in the comments! 
+
+Happy 420 🍃
+
+DISCLAIMER: This video is not promoting the use of marijuana, alcohol, or any substances. I'm specifically talking about my experience. 
+
+¿Las drogas y el alcohol realmente nos ayudan a aprender idiomas? Sé que cuando intentaba aprender español o practicar mi español, noté que era un poco más fácil si tomaba algunas bebidas. Pero ¿qué pasa con la marihuana?
+
+Y como es 420, en este video, les contaré mi experiencia aprendiendo idiomas y practicando bajo la influencia del alcohol y la hierba.
+
+Y para que puedan practicar su english listening conmigo, la primera parte del video será en ingles americano, y luego la segunda parte en español. 
+
+Decidí fumar un poco, luego invité a mi amigo Dylan a hacerme algunas preguntas filosóficas difíciles en español.
+
+¡Déjame saber cómo crees que hice en los comentarios!
+
+Feliz 420 🍃
+
+DESCARGO DE RESPONSABILIDAD: Este video no promueve el uso de marihuana, alcohol o cualquier otra sustancia. Estoy hablando específicamente de mi experiencia."
+39,yUq3fi5YnTE,Growing Up Gringa in the Dominican Republic | English Language Interview + Special Announcement 😉,97,12,0.0,1,2020-01-20,22:11:44,0,night,17879,735,16,0,63,6.216666666666667,hd,false,False,https://i.ytimg.com/vi/yUq3fi5YnTE/maxresdefault.jpg,1280,720,"['dominican republic', 'republica dominicana', 'la verdad sobre la republica dominicana', 'growing up dominican', 'living in the dominican republic', 'dominican republic women', 'dominican republic vacation', 'republica dominicana turismo', 'gringo hablando español', 'como hablan los dominicanos', 'dominican spanish', 'learn spanish abroad', 'us tourists dominican', 'dominican republic deaths', 'english language', 'english language interview', 'listening comprehension', 'practice english']",18,22,none,es,,American Boy,296000,8824790,70,"🇺🇸 Join the channel for Exclusive English Videos: http://bit.ly/americanboymembers
+🇪🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+So, a lot of you have been asking me to do more videos in English to give you an opportunity to practice your English with me, so that's what I'm going to start doing for you guys. 
+
+So, at least once a month, I'm going to post an English language video right here on the channel to to give you guys more opportunities to practice English. 
+
+But also, if you want to practice a bit more often, I've actually opened up Channel Memberships. So, if you join the channel and become a member, for just $4.99/ month, you're going to get a new video, entirely in English, every single week from me.  
+
+That means every single week, you're going to get a new video to and be able to practice your listening comprehension, you're reading, because I'm going to give you transcripts of every video. There's also going to be subtitles. 
+
+And with the transcripts you can actually read out loud along with me, or later, whenever you want, and that way you can practice your speaking.
+
+But you're also going to get a live Q&A from me, every single month where I'll go live right here on YouTube to answer any and all of your questions. Your questions about language, your questions about me and my life. Whatever you want to know. 
+
+And I've actually created 2 emojis. So there's going to be one with the American flag and another with the Spanish flag. So, when you're in the live chat, if you want me to respond in English, you can use the American flag, and if you want me to respond in Spanish, you can use the Spanish flag and I'll answer your questions in Spanish. 
+
+That way we can have a fun, bilingual, Spanglish live chat every single month where I'll answer anything you want to know. 
+
+But I also want to give you a chance to preview the type of content that you're going to get if you become a member. So, a few months ago, I actually interviewed a friend of mine. She is an American but when she was a little girl, she actually got the chance to move with her family to the Dominican Republic. 
+
+So I interviewed her. We talked about her experiences in the Dominican Republic. What it was like learning Spanish. What it was like adapting to the culture. And a ton of different stuff. 
+
+So right now I'm going to give you a preview of our conversation. And if you want access to the full video, all you gotta do is click the join button and become a member. And you'll have access to this full video. 
+
+And every single week you're going to get a new video from me in English so that you can practice."
+40,wdzcyRh9zMs,Language Tips Para Ser Bilingüe | ¿Es Difícil Aprender Español?,63,9,0.0,0,2018-11-15,01:11:26,3,late_night,17326,1313,9,0,229,11.8,hd,false,True,https://i.ytimg.com/vi/wdzcyRh9zMs/maxresdefault.jpg,1280,720,"['dificil español', 'dificil aprender español', 'aprender español', 'aprender idiomas', 'aprender ingles', 'how i learned spanish', 'como ser bilingue', 'como ser bilingue rapido', 'bilingue ingles español', 'español facil', 'learn spanish', 'spanish language', 'spanish is difficult', 'why the spanish language is so difficult to learn', 'spanish tips', 'why is spanish so hard', 'spanish', 'español', 'language tips', 'ser bilingue', 'bilingue', 'aprender idiomas rapido', 'learn languages']",23,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"Mucha gente piensa que aprender idiomas y llegar a ser bilingüe es dificil....tienen razon. Pero en este video, les explico como podemos todos superar estas dificultades para llegar a ser blingue y aprender cualquier idioma que queramos. 
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+Sígueme en Twitter: https://twitter.com/AmericanBoy"
+41,x03dylZegVM,EL INGLÉS DE NUEVA YORK EN LA MÚSICA | HIP HOP EN INGLÉS,56,12,1.0,0,2020-01-08,20:00:10,2,night,15760,1245,15,0,93,8.7,hd,false,True,https://i.ytimg.com/vi/x03dylZegVM/maxresdefault.jpg,1280,720,"['hip hop en ingles', 'canciones en ingles', 'modismos en ingles', 'ingles', 'aprende ingles', 'aprende ingles con musica', 'jerga americana ingles', 'como aprender ingles', 'aprender ingles', 'ingles americano', 'aprende ingles americano', 'ingles basico', 'cultura de estados unidos', 'american boy ingles', 'aprender ingles rapido', 'acento de nicki minaj', 'modismos de estados unidos', 'jerga', 'acento de cardi b', 'analizando el ingles de cardi b', 'french montana', 'acento de french montana', 'curso de ingles']",23,22,none,es,['https://en.wikipedia.org/wiki/Hip_hop_music'],American Boy,296000,8824790,70,"🛑Reclama tu clase gratuita con Cambly: http://bit.ly/americanboy-2019
+
+Código: AMERICANBOY
+
+Escuchar música es una de las maneras más eficientes para practicar y aprender un nuevo idioma, y dado que yo aprendí hablar en español usando la música, en este video quiero darles tres consejos para usar las canciones en ingles para entender mejor el inglés. 
+
+En este video, hablo sobre el inglés de Nueva York, que es bastante famoso y único, y tres artistas neoyorquinos que tienen el acento: 
+
+Nicki Minaj
+Cardi B
+French Montan
+
+Así que dale like, suscríbete, haz click en la campanita para recibir notificaciones cada vez que yo subo un nuevo video.
+
+Y como siempre, dime en los comentarios cual artista quieres analizar para la próxima!
+
+💻 Nuevo Curso de Inmersión: http://bit.ly/americanboycurso
+🎧 Recibe 2 Audiolibros GRATIS: https://geni.us/audiolibrosgratis
+
+🎶 Sígueme en Spotify: http://bit.ly/americanboyspotify
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/"
+42,8nitktMxDZY,Analizando el Inglés Australiano de Iggy Azalea,47,7,0.0,0,2019-12-18,20:00:00,2,night,14862,1222,6,0,110,9.35,hd,false,True,https://i.ytimg.com/vi/8nitktMxDZY/maxresdefault.jpg,1280,720,"['iggy azalea', 'acento de iggy azalea', 'hip hop en ingles', 'jerga australiana', 'jerga', 'jerga inglesa', 'ingles estadounidense', 'aprender ingles', 'ingles australiano', 'australia slang', 'aprender ingles rapido', 'expresiones en ingles', 'como aprender ingles', 'español', 'estados unidos', 'como hablan los australianos', 'los australianos', 'australian slang', 'gringo hablando español', 'acento australiano', 'australia sin ingles', 'trabajar en australia', 'vivir en australia', 'estudiar en australia', 'rap', 'australia']",26,22,none,es,['https://en.wikipedia.org/wiki/Entertainment'],American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/americanboycurso
+
+Escuchar música es una de las maneras más eficientes para practicar y aprender un nuevo idioma, así que en este video, invité a mi amigo Australiano, Murray, para ayudarme a analizar el ingles de la rapera Australiana Iggy Azalea. 
+
+¿Quieres estudiar en Australia? ¿Quieres aprender inglés rápido como los Australianos o poder entender mejor el acento Australiano? O puede que estes en Australia sin ingles. Pues este video es para ti. 
+
+Mi amigo Murray y yo les enseñamos algunas de las palabras, jerga, y expresiones en inglés mas típicas de la tierra ""Down Under,"" Australia y de Estados Unidos.  
+
+Si estas aprendiendo un idioma, es muy importante poder distinguir entre varios acentos. Como Murray es de Australia, espero que este video les ayude practicar entender como hablan los Australianos y los Estadounidenses. 
+
+🎶 Sígueme en Spotify: http://bit.ly/americanboyspotify
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/"
+43,oz5E2lmf66g,APRENDIENDO PALABROTAS EN FRANCES DE MONTREAL | FRANCES DE QUEBEC,65,9,1.0,0,2019-01-10,23:44:14,3,late_night,14764,1125,17,0,81,12.283333333333333,hd,false,True,https://i.ytimg.com/vi/oz5E2lmf66g/maxresdefault.jpg,1280,720,"['learn french', 'french language', 'language learning', 'how to curse in french', 'french curse words', 'aprender frances', 'aprender frances basico', 'jerga francesa', 'french slang', 'french slang words', 'learning french', 'learning french in montreal', 'learning french in quebec', 'Montreal', 'Quebec', 'frances en español', 'french in montreal', 'aprendiendo frances', 'hablando frances', 'frances de quebec', 'quebec', 'quebec french', 'how to curse in french canadian', 'palabrotas en frances', 'frances de montreal']",25,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],American Boy,296000,8824790,70,"mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE
+
+Ok amigos, fui a Montreal con mi amigo para practicar un poco mi francés. Si, estoy aprendiendo frances : ) 
+
+Así que fuimos juntos, como mi amigo es francocanadiense, y grabamos este video en el que él me enseña una de las frases mas comunes del frances de Quebec. 
+
+Si conoces más frases y palabras, enseñamelas en los comentarios porfa! 
+
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+
+Sígueme en Twitter: https://twitter.com/AmericanBoy"
+44,nHUKhho__GU,LEARN ENGLISH WITH FRIENDS | VLOG EN INGLES | 3 LANGUAGE LEARNING STORIES,73,11,0.9090909090909091,0,2019-06-09,22:15:01,6,night,13695,1174,4,0,136,13.966666666666667,hd,true,True,https://i.ytimg.com/vi/nHUKhho__GU/maxresdefault.jpg,1280,720,"['language tips', 'vlog en ingles', 'english with friends', 'american english', 'ingles estadounidense', 'aprende español', 'aprender ingles', 'aprende ingles', 'practicar ingles', 'practicar ingles con nativos', 'languge learning', 'english', 'spanish', 'inglés', 'learn english', 'learn spanish', 'español']",17,22,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Welcome to another vlog en inglés. El otro día estaba celebrando mi cumpleaños en Central Park y cuando mis amigos iniciaron una conversación sobre los idiomas. En particular inglés y español. Así que decidí grabar un poco de esa conversación para todos ustedes que quieren aprender español y también para los que quieren aprender inglés y practicar ingles con nativos. 
+
+Así que si estás practicando inglés, esto sería un buen ejercicio para practicar tu comprensión del inglés estadounidense. 
+
+Una amiga está aprendiendo español. Otro amigo ya es trilingüe y habla inglés, francés, y español. Y la última amiga es alguien que aprendió español cuando vivía en México. 
+
+Déjame un comentario diciéndome que opinan de estas ideas y historias."
+45,eTGKVpBMqxI,Mi Rutina para Aprender Idiomas en New York City | New York Vlog,64,12,0.0,0,2019-11-04,11:00:11,0,afternoon,13017,1080,12,0,155,9.516666666666667,hd,true,True,https://i.ytimg.com/vi/eTGKVpBMqxI/maxresdefault.jpg,1280,720,"['language tips', 'aprender ingles', 'ser bilingue', 'american boy', 'aprender frances', 'practicar ingles', 'ingles listening', 'inwood', 'washington heights', 'new york vlog', 'inwood nyc', 'aprender ingles con canciones', 'aprender idiomas', 'american boy ingles', 'nyc vlog', 'paises bilingues', 'español', 'ingles basico', 'nyc vlog 2019', 'new york', 'new york city vlog', 'como aprender idiomas', 'ingles', 'new york city', 'nyc', 'neistat', 'mi rutina', 'mi rutina diaria', 'mi rutina diaria en estados unidos', 'español en usa']",30,22,none,es,,American Boy,296000,8824790,70,"🛑Reclama tu clase gratuita con Cambly: http://bit.ly/americanboy-2019
+
+Código: AMERICANBOY
+
+Mi Rutina para Aprender Idiomas en New York City | New York Vlog
+
+Aunque no lo parezca, los Estados Unidos es uno de los varios países bilingües, dado que el español en USA es el 2º idioma más hablado. 
+
+Entonces, en este video, les voy a mostrar unos language tips usando un poco de mi rutina diaria para aprender idiomas, específicamente lo que hago para practicar mis 3 idiomas: español, inglés, y francés, y como lo hago aquí en NYC, en el barrio bilingüe de New York City: Washington Heights y Inwood. 
+
+Usa los tips aquí para practicar inglés, practicar español, practicar francés, o cualquier otro idioma que estes aprendiendo. 
+
+¿Qué haces tú para aprender idiomas? 
+
+Thank you to Teaching Artist Ruthy Valdez, PS 132 M Juan Pablo Duarte School, and Urban Arts Partnership: https://urbanarts.org/
+
+An additional thank you to Word Up Community Bookshop: https://www.wordupbooks.com/
+
+🇺🇸 Empezar con el inglés gratis: http://bit.ly/inglesymas
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+📚El Bilingüismo en Mundo Hispanohablante: https://geni.us/7460
+
+📚A New Earth: https://geni.us/ojogrJE
+
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/ aprender idiomas"
+46,dD5Sw5YydRE,RETO DE LOS ACENTOS EN INGLÉS Y ESPAÑOL CON EL CHAD,51,11,1.0,0,2019-10-12,10:35:51,5,afternoon,12951,764,23,0,128,15.3,hd,false,True,https://i.ytimg.com/vi/dD5Sw5YydRE/maxresdefault.jpg,1280,720,"['reto de los acentos', 'imitando acentos', 'acentos en español', 'acentos en inglés', 'acento de colombia', 'acento británico', 'acento australiano', 'acentos challenge', 'acento castellano', 'como hablan los venezolanos', 'acento venezolano', 'como hablan los dominicanos', 'acento dominicano', 'aprender ingles', 'El Chad', 'acento boricua', 'acento mexicano', 'luisito comunica', 'American Boy', 'inglés', 'español', 'accent challenge', 'imitando acentos en español', 'imitando acentos en ingles', 'acento argentino', 'acentos']",26,22,none,es,['https://en.wikipedia.org/wiki/Entertainment'],American Boy,296000,8824790,70,"📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/
+
+📱 Sígue a Chad en Instagram: https://www.instagram.com/elchad/
+
+💻 Sígue a Chad en Facebook: https://www.facebook.com/americanboynyc/
+
+🇺🇸 Empezar con el inglés gratis con mi guía: http://bit.ly/inglesymas
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+Una parte de aprender inglés o aprender español tiene mucho que ver con los acentos. Como hay varios acentos en inglés y aun más acentos es español, mi amigo Chad y yo decidimos  hacer el reto de los acentos con canciones en español y canciones en inglés. Entonces, vamos imitando acentos en inglés, y imitando otros acentos en español para darles una idea de como se habla inglés y español en varios países. 
+
+ACENTOS: 
+
+Acento Boricua
+Acento Mexicano (tipo Luisito Comunica jaja) 
+Acento Argentino
+Acento Paraguayo
+Acento Colombiano 
+Acento Castellano
+Acento Venezolano 
+Acento Dominicano
+Acento de Perú
+Acento de Costa Rica 
+
+Acento Estadounidense Sureño
+Acento Británico
+Acento Cockney
+Acento Australiano
+Acento de Pittsburgh
+Acento de Chicago
+Acento Valley Girl (tipo Kim Kardashian) 
+Acento Escocés 
+Acento Irlandés
+Acento Jamaiquino 
+Acento Indio (de La India) 
+
+CANCIONES: 
+
+La Vida es un Carnaval by Celia Cruz
+Como No by Becky G and Akon
+Tutu by Camilo and Pedro Capó 
+Yo x Ti, Tu x Mi by Rosalía and Ozuna 
+El Chico del Apartamento 512 by Selena 
+I Like It by Cardi B, Bad Bunny, and J Balvin
+Pa Jamaica (Remix) by El Alfa, Farruko, Darell, and Myke Towers
+Con Calma by Daddy Yankee and Snow
+Mi Gente by Hector Lavoe 
+
+Work It by Missy Elliot
+Truth Hurts by Lizzo
+Pure Water by DJ Mustard and MIGOS
+GOKU by Jaden Smith
+Get Busy by Sean Paul 
+New Rules by Dua Lipa 
+Motivation by Normani 
+Señorita by Sean Mendes and Camila Cabello 
+Work by Rihanna and Drake"
+47,Z-DxxcHXN5g,Como Aprender Idiomas Por Tu Cuenta | Language Tips | American Boy,66,10,0.0,0,2018-11-23,23:58:13,4,late_night,12352,1349,8,0,100,7.633333333333333,hd,false,True,https://i.ytimg.com/vi/Z-DxxcHXN5g/maxresdefault.jpg,1280,720,"['spanish', 'como aprendí español', 'español en estados unidos', 'estados unidos', 'hablando español en estados unidos', 'aprender espanol', 'como aprender ingles', 'aprender ingles rapido', 'aprender ingles gratis', 'como ser bilingue rapido', 'aprender ingles online', 'quiero aprender ingles', 'como entender ingles', 'how i learned spanish', 'gringos hablando español', 'tratando de hablar espanol', 'aprender idiomas', 'idiomas', 'language tips', 'como aprender idiomas']",20,22,none,en-US,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"En este video, les hablo de como aprendí español mientras vivía en Estados Unidos. Espero que puedan usar estos language tips para poder aprender idiomas por tu cuenta
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+Sígueme en Twitter: https://twitter.com/AmericanBoy"
+48,nQAaq4-tYcA,ANALIZANDO EL INGLÉS DE JAY-Z,29,6,1.0,0,2019-12-11,20:00:05,2,night,10967,953,7,0,156,9.366666666666667,hd,false,True,https://i.ytimg.com/vi/nQAaq4-tYcA/maxresdefault.jpg,1280,720,"['jay z', 'jay z spotify', 'ingles de jay z', 'acento de jay z', 'hip hop en ingles', 'canciones en ingles', 'modismos en ingles', 'modismos en ingles americano', 'kendrick lamar english', 'ingles', 'aprende ingles', 'aprende ingles con musica', 'jerga americana ingles', 'como aprender ingles', 'aprender ingles', 'ingles americano', 'aprende ingles americano', 'ingles basico', 'cultura de estados unidos', 'modismos comunes en ingles', 'american boy ingles', 'ganar mas dinero', 'aprender ingles rapido', 'hip hop 2019']",24,22,none,es,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Hip_hop_music']",American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/americanboycurso
+
+📕 JAY-Z: Made in America de Michael Eric Dyson: https://geni.us/t1NQwT8
+🎧 Recibe 2 Audiolibros GRATIS: https://geni.us/audiolibrosgratis
+
+Escuchar música es una de las maneras más eficientes para practicar y aprender un nuevo idioma y en mi último video, hablé sobre lo que uno debería hacer para entender mejor el hip hop en inglés. Así que en este video, quiero darles un ejemplo de cómo yo lo haría usando la música de JAY-Z. 
+
+Pero como dije en ese último video que es importante escuchar no solo la música, sino también las entrevistas, vamos a empezar con una cita de una de sus entrevistas que es muy emblemática del mensaje de su música. Y luego me voy a meter un poco en su música para enseñarles unas cosas sobre el inglés y también las lecciones más valiosas que yo he descubierto a través de su música. 
+
+Y como siempre, dime en los comentarios cual artista quieres analizar para la próxima!
+
+🎶 Sígueme en Spotify: http://bit.ly/americanboyspotify
+
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/"
+49,1mpH95oJ9hU,21 Savage y la Realidad de ser Inmigrante en Estados Unidos,59,11,0.0,0,2020-01-22,20:00:10,2,night,10759,968,7,0,74,7.783333333333333,hd,false,True,https://i.ytimg.com/vi/1mpH95oJ9hU/maxresdefault.jpg,1280,720,"['21 savage', '21 savage acento', 'mudarse a estados unidos', 'ser inmigrante en', 'ser inmigrante en estados unidos', 'latinos en estados unidos', 'estados unidos', 'ice', 'reforma migratoria', 'inmigración en estados unidos', 'inmigracion en la frontera mexico estados unidos', 'emigrar a estados unidos', '21 savage british', '21 savage ice arrest', 'hip hop', 'aprender ingles', 'ingles de estados unidos', 'cultura de estados unidos']",18,22,none,es,,American Boy,296000,8824790,70,"Join the channel for Exclusive English Videos: http://bit.ly/americanboymembers
+Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+No sé cuántos mensajes que he recibido de mis suscriptores diciéndome que su sueño es aprender el inglés y mudarse a EEUU para vivir el verdadero sueño americano. Y como Estados Unidos es un país de inmigrantes, en este video, vamos a analizar el inglés y la cultura de EEUU a través de 21 Savage. 
+
+Entonces si tu deseo es mudarte a EEUU, este video es para ti porque voy a revelar un poco sobre la realidad de vivir en este país como inmigrante y cómo deberías estudiar el inglés para maximizar tu conocimiento de nuestra cultura. 
+
+EEUU es un país de libertad, oportunidad, diversidad, abundancia de todo tipo, y todo lo demás que uno podría desear. Pero al mismo tiempo, como cualquier otro país, también pasamos por muchas dificultades como nación. 
+
+Y cuando yo pienso en 21 Savage, yo pienso en alguien verdaderamente familiarizado con esa doble realidad. Porque muchas veces cuando alguien emigra a EEUU, parece que tiene que pasar por muchos contratiempos y dificultades antes de lograr ese sueño americano."
+50,Twstf72ikhY,APRENDE INGLÉS RAPIDO |  3 ESL TIPS PARA APRENDER IDIOMAS,57,9,0.8888888888888888,0,2019-09-21,09:00:04,5,morning,9831,1118,11,0,82,10.05,hd,false,True,https://i.ytimg.com/vi/Twstf72ikhY/maxresdefault.jpg,1280,720,"['ingles', 'ingles para principiantes', 'ingles basico', 'ingles principiantes', 'hablar ingles', 'english', 'aprender idiomas', 'como aprender ingles', 'aprender ingles', 'aprender ingles desde cero', 'language tips', 'aprende ingles', 'ingles vocabulario', 'aprende ingles gramatica', 'curso de ingles', 'gringo hablando español', 'american boy ingles', 'ingles americano', 'aprende ingles rapido', 'ingles rapido y facil', 'ingles americano 101', 'tips para aprender ingles', 'como aprender ingles rapido', 'idiomas', 'esl']",25,27,none,es,['https://en.wikipedia.org/wiki/Business'],American Boy,296000,8824790,70,"🇺🇸Empezar con el inglés gratis con mi guía: https://bit.ly/2WFi33w
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+📚Los 7 Hábitos de la Gente Altamente Efectiva: https://geni.us/sietehabitos
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Casi todo el mundo quiere aprender inglés. Pero para muchos, les resulta demasiado difícil. En este video, les doy 3 language tips para que tu puedas empezar con el inglés desde cero : )  
+
+Vamos a empezar con la importancia de identificar específicamente porque quieres aprender inglés, y luego te voy a mostrar algo muy fácil que puedes hacer con tu smartphone para empezar con el vocabulario, y luego voy a concluir con una manera muy fácil de empezar a usar la gramática desde tu primer día con el idioma. 
+
+02:14 | Empieza con un fin en mente
+
+04:10 | Vocabulario 
+
+05:50 | Gramática
+
+Yo creo que mientras nuestro planeta y nuestra sociedad se ponen más globalizados y conectados, poder hablar más que un solo idioma va a ser aún más importante.
+
+Y como yo entiendo ese deseo que tienes de aprender inglés porque es el mismo deseo que yo tenía cuando quería aprender español, estos consejos te van a ayudar a aprender mucho en muy poco tiempo, porque vamos a trabajar principalmente en el foco de tus estudios y prácticas para que tengas la claridad necesaria para progresar rápido. 
+
+Porque a veces esa claridad es lo que nos falta cuando queremos empezar con un nuevo idioma - no sabemos por dónde empezar, no sabemos cuales son los métodos de práctica que son más efectivos, etc.
+
+En el libro ‘Los 7 hábitos de la gente altamente efectiva’ el autor Stephen Covey habla de la importancia de empezar con un fin en mente cuando queremos lograr algo. Es decir, tenemos que poder identificar y visualizar el resultado final de lo que queremos junto con la razón por la que estamos buscando ese resultado. Dice que: 
+
+“Comenzar con un fin en mente hace posible que nuestra vida tenga razón de ser, pues la creación de una visión de lo que queremos lograr permite que nuestras acciones estén dirigidas a lo que verdaderamente es significativo en nuestras vidas. Después de todo, para un velero sin puerto cualquier viento es bueno.”
+
+Y si llevas un tiempo viendo mi contenido, ya sabes lo importante que es tener una idea bien clara de exactamente por qué quieres aprender inglés, o en otros términos, saber cuál es tu motivación. Y como lo he dicho varias veces, no voy a pasar mucho tiempo cubriéndolo en este video, pero para los que están aquí por primera vez: tienes que saber exactamente por qué estás aprendiendo inglés. 
+
+Porque en cuanto tengas tus metas y tus motivaciones identificadas, memorizadas, y escritas, la parte subconsciente de tu mente va a empezar a buscar las acciones y oportunidades necesarias para que esa meta se realice. 
+
+Cuando estamos hablando de aprender un nuevo idioma, al nivel más básico, estamos hablando de la creación de un nuevo hábito. En tu caso por ejemplo, ese hábito sería pensar y hablar en inglés. 
+
+Entonces, algo muy fácil y efectivo que puedes hacer para empezar con el vocabulario es cambiar los ajustes en tus aparatos electrónicos para que todo salga en inglés. Me refiero principalmente a tu smartphone y tu computadora. O si no quieres empezar con todos tus aparatos, si hay una red social que tú siempre usas, podrías cambiar el idioma de esa cuenta.
+
+Y lo bueno de esta estrategia es que ya eres experto en tus aparatos y la verdad es que si llevas mucho tiempo con tu teléfono o portátil, sabes usar la gran mayoría de las funciones sin tener que leer todas las palabras que salen en la pantalla, así que te vas a acostumbrar al nuevo ajuste en muy poco tiempo. 
+
+Y como siempre estarás usando tu smartphone o tus redes sociales, siempre estarás leyendo las mismas palabras y frases en inglés y ese elemento de repetición es súper valioso, especialmente en este contexto porque será fuera del contexto académico. Es como una manera de aprender sin darte cuenta que estás aprendiendo porque el objetivo inmediato no es aprender, sino usar tu aparato. 
+
+Cuando estás empezando con el inglés, lo primero que deberías hacer es identificar todas las cosas prácticas que necesitas aprender para poder usarlas de inmediato. Por ejemplo, si estás empezando tus estudios, quizás estás tomando una clase o estás haciendo un intercambio. ¿Pues cuáles son esas cosas básicas que vas a querer poder decir desde el principio?  
+
+Otro truco para principiantes es usar tu tarjeta de identificación para empezar a poder hablar sobre ti mismo. Y luego, puedes aprender a pedir esta información de otra persona usando las preguntas correspondientes.
+
+Así que si tomas el tiempo para clarificar tus metas y motivaciones y formular una rutina alineada con esas metas, creo que estarás muy sorprendido con lo que puedes aprender en poco tiempo."
+51,NhfUjuC5UcU,¿Que Pienso Del Reggaeton? | Historia del Reggaeton | American Boy (EN Subtitles),81,11,0.09090909090909091,0,2019-02-02,19:16:51,5,night,9536,716,37,0,211,14.516666666666667,hd,true,True,https://i.ytimg.com/vi/NhfUjuC5UcU/maxresdefault.jpg,1280,720,"['el general tu pum pum', 'reggaeton', 'history of reggaeton', 'reggae en español', 'reggae', 'reggaeton 2019', 'dembow', 'el general', 'j balvin', 'puerto rico', 'historia del reggaeton', 'el chombo', 'historia del reggaeton el chombo', 'ivy queen', 'history of hip hop', 'historia de hip hop', 'historia de puerto rico', 'reggaeton documentary', 'que pienso del reggaeton', 'daddy yankee', 'historia del reggaeton en español', 'puerto rico music']",22,22,none,es,['https://en.wikipedia.org/wiki/Reggae'],American Boy,296000,8824790,70,"UE Megaboom Bocina: https://geni.us/megaboombocina
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE
+
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+
+Desde J Balvin hasta El Chombo, los números no mienten y los números están diciendo que el Reggaeton de Puerto Rico está rompiendo por todo el mundo. Por eso, con todas las críticas que recibe el género, es obvio que la música sigue siendo valiosa para millones de personas, así que quiero hablar un poco de la historia del reggaeton y que pienso del reggaeton (igual que la historia del reggae en español de Panamá y la historia del reggae de Jamaica) que se esta poniendo super mainstream, porque creo que si entendemos más de la historia, entendemos más sobre el valor cultural que tiene el reggaeton y también el potencial que tiene para crecer y evolucionar."
+52,_nzNFe0I_1U,YouTuber Dominicano viaja por el mundo hablando Inglés (English),64,9,0.0,0,2020-06-20,13:05:44,5,afternoon,8974,433,7,0,97,20.583333333333332,hd,true,True,https://i.ytimg.com/vi/_nzNFe0I_1U/maxresdefault.jpg,1280,720,"['YouTuber', 'YouTuber Dominicano', 'YouTuber Dominicano en Nueva York', 'republica dominicana', 'nueva york', 'aprender ingles', 'curso de ingles', 'ingles', 'como hablar perfecto ingles', 'hablar ingles', 'estudiar ingles', 'español', 'aprende ingles', 'aprende ingles americano', 'acentos de estados unidos', 'acento de new york', 'aprende ingles rapido', 'jerga de estados unidos', 'ingles americano', 'hablar como los americanos', 'ingles estadounidense', 'American Boy', 'aprender español', 'youtuber colombiano', 'english']",25,22,none,en-US,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"🛑Hazte socio para recibir más videos en inglés: http://bit.ly/americanboymembers
+
+👨🏾‍💻Clases Particulares de Inglés: https://bitly.com/consultasconesteban
+
+🎓Toma mi cursillo de idiomas: http://bit.ly/americanboycurso
+
+💻Recibe mis correos mensuales: https://bit.ly/americanboynewsletter
+
+YouTuber Dominicano viaja por el mundo hablando Inglés
+
+🌎🎥: Canal de Felix: https://bit.ly/felixbaez
+
+De niño yo siempre soñaba con algún día poder viajar por el mundo varios idiomas. Eso es exactamente lo que está haciendo mi amigo @Felix Baez está haciendo con su canal de YouTube. 
+
+Como YouTuber Dominicano, Felix demuestra lo valioso que es poder no solo viajar por todo el mundo, sino también lo fácil que se pone cuando uno puede hablar ingles, más bien cuando uno es bilingue. 
+
+Durante esta entrevista completamente en inglés, hablamos sobre cómo Felix ha podido aprender inglés en solo 2 años mientras vivía en la República Dominicana y luego en Nueva York. 
+
+Si quieres aprender inglés o si quieres practicar inglés, no te quieres perder esta entrevista."
+53,uDtgsld78N8,PREGUNTAS Y RESPUESTAS | PRIMER Q&A | American Boy,50,8,0.75,0,2018-12-09,20:26:56,6,night,8294,635,6,0,132,22.8,hd,false,True,https://i.ytimg.com/vi/uDtgsld78N8/maxresdefault.jpg,1280,720,"['respondiendo preguntas', 'preguntas y respuestas', 'respondiendo preguntas de instagram', 'respondiendo preguntas sobre nuestra relacion', 'respondiendo preguntas incomodas', 'gringo hablando español', 'como hablan los venezolanos', 'how i learned spanish', 'estados unidos']",9,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],American Boy,296000,8824790,70,"Mi primera sesión de preguntas y respuestas : ) 
+
+En este video, estoy respondiendo preguntas que me han dejado durante las ultimas 3 semanas : ) 
+
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+
+Sígueme en Twitter: https://twitter.com/AmericanBoy"
+54,hpb3a5PHAAM,📚3 BENEFICIOS DE LA LECTURA | 🇩🇴 Dominican Writers Conference 2019,66,9,0.4444444444444444,0,2019-05-11,23:32:53,5,late_night,8275,940,3,0,144,9.75,hd,false,True,https://i.ytimg.com/vi/hpb3a5PHAAM/maxresdefault.jpg,1280,720,"['por que es tan importante leer', 'beneficios de leer', 'razones para leer', 'por que es importante leer para los niños', 'beneficios de leer todos los dias', 'beneficios de la lectura en los niños', 'beneficios de leer antes de dormir', 'sabias que leer', 'beneficios de la lectura para la salud', 'leer', 'libros', 'es bueno leer mucho?', 'lectura', 'ingles', 'español', 'como aprender ingles', 'language tips', 'aprender ingles', 'aprender español', 'español dominicano', 'escritores dominicanos']",21,22,none,es,,American Boy,296000,8824790,70,"📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Si estudias el inglés, español, o cualquier idioma, seguro que has oído mucho de la importancia de la lectura. Así que en este video, les explico 3 beneficios de leer, unos language tips, y porque es tan importante la lectura para mejorar tus habilidades lingüísticas.
+
+También hablo del Dominican Writers Conference, una conferencia de escritores Dominicanos, aquí en Nueva York, para celebrar la cultura Dominicana y elevar la presencia de los Dominicanos mundialmente, igual que en Nueva York. 
+
+Así que en este video hablamos sobre la importancia de la lectura y también la escritura, no solo para aprender español o aprender inglés o mejorar nuestras habilidades lingüísticas, sino también para aprender de las perspectivas de los demás. 
+
+📕 Déjame un comentario contándome lo que estás leyendo en este momento"
+55,AYo41_KeEK8,MI PROBLEMA CON LA PALABRA NORTEAMERICANO | Inglés vs Español,61,9,0.6666666666666666,0,2019-10-17,20:00:11,3,night,7173,627,13,0,197,7.066666666666666,hd,false,True,https://i.ytimg.com/vi/AYo41_KeEK8/maxresdefault.jpg,1280,720,"['norteamericano', 'gringo', 'yanqui', 'estadounidenses', 'gringo hablando español', 'gringo hablando español en estados unidos', 'estados unidos', 'ingles vs español', 'palabras en ingles y español', 'expresiones en ingles', 'ingles americano', 'expresiones utiles en ingles', 'ingles basico', 'como hablar ingles', 'frases en ingles', 'inglés fácil', 'cultura de estados unidos', 'aprender idiomas y cultura', 'idiomas', 'ingles', 'español', 'american boy', 'españa', 'las palabras mas comunes en inglés', 'north american']",25,22,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"🇺🇸 Empezar con el inglés gratis: http://bit.ly/inglesymas
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/
+
+'North American"" no es una de las palabras mas comunes en inglés, y oí la palabra “Norteamericano” por primera vez en España y desde entonces, nunca he podido entender el uso de esta palabra en Español. Así que en este video vamos a hablar del tema."
+56,CAmQGbHy8Bo,COMO HABLAR INGLÉS SIN MIEDO EN 3 MESES | 3 TIPS,48,10,0.8,0,2020-03-15,11:00:10,6,afternoon,6814,500,11,0,43,7.416666666666667,hd,false,True,https://i.ytimg.com/vi/CAmQGbHy8Bo/maxresdefault.jpg,1280,720,"['ingles', 'como hablar ingles', 'hablar ingles', 'hablar ingles sin miedo', 'como hablar ingles sin miedo', 'hablar ingles en 3 meses', 'hablar ingles facil y rapido', 'aprender ingles', 'hablar ingles con fluidez', 'lingoda review', 'lingoda ingles', 'lingoda english class', 'curso de ingles completo gratis', 'superar el miedo', 'superar el miedo a hablar en publico', 'curso de ingles', 'curso de ingles completo', 'ingles facil', 'estudiar ingles en casa', 'como ser bilingue', 'Como ser bilingue en ingles', 'english']",22,27,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"🛑 Inscríbete al Sprint de Idiomas con Lingoda: http://bit.ly/AmericanBoySprint
+
+CÓDIGO: JOIN116
+Reglas Oficiales: https://www.lingoda.com/downloads/sprint/Apr2020/SprintRulesApr20Es.pdf
+
+🇺🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+No sé cuantas veces que ustedes me han preguntado porque hablo tan bien el español siendo estadounidense , y la verdad es que hice muchas cosas para lograrlo. Pero, hay una cualidad específica que me permitió hacerlo y esa cualidad es la consistencia. 
+
+La verdad es que de niño me enamoré del castellano. De hecho, cuando me enteré por primera vez de que Kobe Bryant era plurilingüe y que hablaba varios idiomas incluyendo el castellano, decidí que quería ser como él, pero fuera de la cancha porque soy fatal con los deportes. 
+
+Entonces, como me enamoré del idioma, decidí que iba a estudiarlo y practicarlo todos los días de mi vida y era esta consistencia que hizo toda la diferencia porque la repetición es la clave.
+
+Y hablo con muchos de mis suscriptores que quieren aprender inglés y siempre me preguntan cómo superar las barreras y en la gran mayoría de estos casos, no están practicando de una forma consistente. Entonces si realmente quieres aprender un idioma en poco tiempo, este es el tipo de compromiso que deberías hacer. 
+
+Y es por eso que me da gusto colaborar con Lingoda porque ellos te aportan una manera súper fácil de practicar tu lengua meta todos los días. Y si te inscribes al servicio a partir de hoy hasta el 24 de marzo, vas a poder participar en su nueva oferta, el Sprint de Idiomas. 
+
+Así funciona. Si haces click en el link de la descripción del video y introduces el código ""JOIN116"" vas a poder tomar 30 clases al mes con profesores nativos durante 3 meses. Y si asistes todas las clases, Lingoda te va a devolver 100% de la matrícula que pagaste. 
+
+Además, al final del curso, tendrás acceso al examen de Cambridge para comprobar tu progreso completamente gratis. 
+
+Entonces, si aprender inglés o cualquier idioma realmente es lo que quieres hacer, con una inversión al principio del curso, vas a poder practicar tu inglés todos los días para superar el miedo y hablar con más confianza. 
+
+Pero la consistencia no es todo porque aunque estudiemos todos los días, a veces nuestra mente puede ser nuestro peor enemigo. Por ejemplo: 
+
+Dicen por ahi que los niños pueden aprender idiomas en un par de meses y eso es porque ellos no tienen los prejuicios y miedos que tienen los adolescentes y adultos. Entonces, ¿qué puedes hacer para maximizar tu aprendizaje durante los 3 meses? 
+
+Pues deja de preguntar ""¿Por qué?"" Algo que siempre veo es que los adultos es que siempre quieren entender la lógica detrás de todo cuando estudian idiomas. Y esto no tiene de malo, pero en muchos casos no hay una justificación por cada norma en inglés, y si hay, hay chance que no te va a satisfacer porque lo que tiene sentido en inglés por ejemplo, no necesariamente tiene sentido en español. 
+
+Piensa en las matemáticas. Si yo te digo que uno mas uno es dos, no me vas a preguntar  ¿por qué? Lo aceptas y ya está verdad? Pues los idiomas son parecidos. 
+
+En mi caso por ejemplo estoy usando Lingoda para aprender Frances y estoy progresando mucho porque en cuanto aprendo algo nuevo, lo acepto y ya. De hecho, los profes nativos de Lingoda son tan increíbles que cuando hay ciertas reglas y normas que deberías saber, te las enseñan con mucha claridad. 
+
+Entonces, te pido que solo aceptes lo que estás aprendiendo durante estos 3 meses. La lógica puede venir después. Lo que es importante por ahora es que cultives la habilidad de comunicar con confianza y no es necesario saber la lógica detrás de toda la gramática para hacerlo. 
+
+Mucha gente se siente más cómoda tomando clases particulares, pero para superar el miedo al hablar, es necesario hacer algo que no sea tan cómodo. Me refiero a las clases en grupo. 
+
+Aunque te de pena hablar delante de otros estudiantes, tomar clases en grupo te permite aprender de los otros estudiantes. Muchas veces queremos ser el alumno con más conocimiento del tema, pero la verdad es que es mejor tomar clases con estudiantes que saben un poco más que tú porque vas a poder aprender del profe y también de tus compañeros de clase. 
+
+Por eso me gusta Lingoda porque como soy muy principiante con francés, he podido usar las clases en grupo para aprovechar el conocimiento de otros estudiantes y maximizar mi aprendizaje de francés. 
+
+Y bueno si prefieres hacer algo más ligero, puedes inscribirte a 15 clases y recibirás 50% de la matrícula de vuelta. 
+
+Pero de cualquier manera, si aprender inglés forma parte de tu plan, deberías tener en mente los consejos de este video porque estarás muy sorprendido por lo que puedes aprender y lograr en solo 3 meses.
+
+🇺🇸 Become a member to receive exclusive videos in English: http://bit.ly/americanboymembers"
+57,UWbhbIXuNPc,🇨🇴 COMO HACER PAN DE YUCA COLOMBIANO | CASERO Y DE CAJA,55,10,1.0,0,2019-10-05,14:00:11,5,afternoon,6572,453,19,0,97,11.116666666666667,hd,false,True,https://i.ytimg.com/vi/UWbhbIXuNPc/maxresdefault.jpg,1280,720,"['como hacer pan de yuca colombiano', 'como hacer pan de yuca casero colombiano', 'como hacer pan de yuca', 'platos tipicos de colombia', 'gastronomia colombiana', 'probando comida colombiana', 'cocinando comida colombiana', 'colombia', 'super bowl 2020', 'comida colombiana', 'pan de yuca', 'pan de yuca colombiano', 'pan de yuca colombiano receta', 'platos colombianos', 'platos colombianos faciles de hacer', 'platos tipicos colombianos recetas', 'sofia vergara', 'shakira', 'j lo', 'pan de yuca colombiano recipe']",20,22,none,es,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",American Boy,296000,8824790,70,"🇨🇴  INGREDIENTES
+
+http://bit.ly/maizenayucarina
+https://geni.us/yucaharina
+
+📜 RECETA CASERA 
+
+https://www.mycolombianrecipes.com/colombian-yuca-bread-pan-de-yuca
+
+Quizá esto puede ser una serie en que yo voy probando y cocinando comida colombiana y comida latina en general. 
+
+¿¡Cuál plato colombiano para la próxima?! 
+
+En este video, invito a una amiga a enseñarme preparar la versión colombiana de Pan de Yuca. Hicimos dos versiones. Una versión usando una caja de Maizena Yucarina, y luego, usamos una receta casera. 
+
+¿Cuál te parece mejor? 
+
+🇺🇸 Empezar con el inglés gratis con mi guía: http://bit.ly/inglesymas
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+📱 Instagram de Erica: https://www.instagram.com/ericuddy/
+💻 http://erica-hernandez.com/"
+58,2FRKFb6iBes,Respondiendo Preguntas Sobre Como Aprender Inglés y Español | Q&A Bilingüe,74,11,0.18181818181818182,0,2019-08-01,19:42:45,3,night,6425,715,3,0,99,20.683333333333334,hd,false,True,https://i.ytimg.com/vi/2FRKFb6iBes/maxresdefault.jpg,1280,720,"['errores mas comunes en ingles', 'language tips', 'aprende ingles', 'aprender ingles', 'ser bilingue', 'como ser bilingue', 'como ser bilingue en ingles', 'american boy', 'american boy spanish', 'como aprender idiomas', 'errores gramaticales inglés', 'errores que cometemos en inglés', 'estudia ingles', 'spanish', 'español', 'learn spanish', 'aprende español', 'bilingüe', 'preguntas y respuestas', 'preguntas y respuestas en ingles', 'preguntas y respuestas en espanol', 'aprender español', 'idiomas', 'Q&A']",24,22,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"🛑 Reclama tu clase particular gratuita: http://bit.ly/americanboy-2019
+
+Código: AMERICANBOY
+
+Ya que llegamos a 100,000 suscriptores en el canal, estoy haciendo una Q&A bilingüe, o Preguntas y Respuestas, para contestar sus preguntas sobre los idiomas, cómo aprender ingles, cómo aprender español, language tips para ser bilingüe, y más! 
+
+📱Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+YouTubers Qué Mencioné: 
+
+Felix Baez: http://bit.ly/2LSPdrL
+Matt D'Avela: http://bit.ly/2Zo4Jiy
+Zachary Campbell: http://bit.ly/2Ke3xbb
+Dustin Luke: http://bit.ly/2LSBZeC
+Super Holly: http://bit.ly/318GGVq
+Tatiana Arias: http://bit.ly/2OxU1VP
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE"
+59,dBy3O0BMlDI,How Much MONEY I Make as an American YouTuber,45,9,0.2222222222222222,0,2020-06-13,11:00:22,5,afternoon,6207,330,7,0,44,13.533333333333333,hd,true,True,https://i.ytimg.com/vi/dBy3O0BMlDI/maxresdefault.jpg,1280,720,"['how to make money on youtube', 'youtube money', 'my youtube income', 'youtuber', 'american youtubers', 'how much money can you make on youtube', 'how much money i make on youtube', 'youtube business', 'entrepreneurship', 'make money online', 'make money online 2020', 'making money online', 'affiliate marketing', 'brand partnerships', 'shelby church youtube money', 'graham stephan money on youtube', 'how to make money on youtube without making videos', 'make money on youtube', 'rich youtubers', 'american youtuber']",20,22,none,en-US,"['https://en.wikipedia.org/wiki/Business', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Technology']",American Boy,296000,8824790,70,"👨🏾‍💻Private Language Coaching: https://bitly.com/consultasconesteban
+
+🎓Sign up for my Online Course: http://bit.ly/americanboycurso
+
+💻Join my email list: https://bit.ly/americanboynewsletter
+
+🎥Join the channel for Exclusive English Videos: http://bit.ly/americanboymembers
+
+How Much MONEY I Make as an American YouTuber 
+
+This video is a uniquely honest perspective on what influencer life and entrepreneurship is like for all who may be pursuing it. I aim to show folks that we don't need to pretend that we have it all together by encouraging folks to relax into the steady and natural pace of life's unfolding. 
+
+I've been on YouTube for 3 years now and I've had a lot of ""success,"" but I wanted to be a bit more transparent about what success on YouTube actually looks like for me and for most people on the platform.
+If you're watching this, you've most likely seen some of the other videos out there from some of the most successful folks on YouTube detailing how they make money online and how much money you can make on YouTube, but the thing I notice about these videos is that most YouTubers wait until they reach 1M subscribers and are making loads of money before they share what they make and I'm actually going to do the opposite in this video because I want people to know that there truly is no such thing as being an overnight success on YouTube.
+
+From what I've seen during my 3 years on the platform is that it takes a while to get to a place where you're considered one of the rich YouTubers, your business is completely built out, and your channel becomes a profitable business to the extent that you're envisioning, and I'm going to speak about what it's like making money on the platform during that stage, because that's the stage that I'm currently in. 
+
+And to be honest, there are just not enough influencers sharing what it's like to be in the thick of it, when things are hard, when you still have so much to figure out, and just don't have a lot of answers because you're just quite frankly new at this. So I want this video to speak to that experience because I'm pretty sure we all have a really good idea of what success looks like at this point because we've been following what we think it looks like on social media for years and comparing ourselves to it. But we gotta know how to get through the more challenging stages if we want those successes to be real for us. 
+
+So if you're considering starting a YouTube channel and you want to know the truth about what it's like trying to make money on the platform and reaching success on the platform, this video is for you because I'm going to talk about my experience pursuing 7 different streams of income here on YouTube."
+60,albQDOG21eQ,PRIMERA VEZ EN TULUM MEXICO CON AIRBNB | TULUM VLOG EP. 1,57,11,0.9090909090909091,0,2020-02-27,00:06:13,3,late_night,5709,322,7,0,82,12.133333333333333,hd,false,False,https://i.ytimg.com/vi/albQDOG21eQ/maxresdefault.jpg,1280,720,"['airbnb', 'airbnb mexico', 'airbnb tulum mexico', 'airbnb tulum safe', 'airbnb villa', 'tulum', 'tulum vlog 2020', 'tulum mexico vlog', 'travel vlog', 'viajar a tulum mexico', 'tips para viajar a tulum', 'recomendaciones para viajar a tulum', 'como viajar a tulum', 'airbnb tips', 'airbnb business', 'how to airbnb', 'airbnb en mexico', 'tulum vlog', 'tulum mexico', 'tulum mexico vlog 2019', 'tulum vlog 2019', 'first time in tulum', 'tulum mexico 2020', 'tulum mexico travel guide', 'house tour 2019', 'tulum vlog aeropuerto']",26,19,none,es,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"🇲🇽🏠🏝 Karma Eco Villa en Tulum: http://bit.ly/airbnbtulum
+📑¿Necesitas una traducción? https://bit.ly/translationsnow
+
+🇺🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/
+
+En diciembre fui a Tulum Mexico por primera vez para celebrar el cumpleaños de una amiga. En este episodio, les muestro un poco de los primeros días del viaje y mi experiencia usando Airbnb en Mexico."
+61,--LmetMeMV8,APRENDIENDO IDIOMAS DESDE LA CASA | Una Entrevista Bilingüe,59,8,0.625,0,2020-03-28,17:06:56,5,afternoon,5658,319,3,0,65,58.93333333333333,hd,false,True,https://i.ytimg.com/vi/--LmetMeMV8/maxresdefault.jpg,1280,720,"['aprendiendo idiomas desde la casa', 'bilingüe', 'aprender idiomas', 'se puede aprender ingles desde casa', 'ingles de la india', 'aprender desde casa', 'aprender ingles desde casa', 'como aprender ingles desde casa', 'como aprender ingles', 'como aprender ingles rapido y facil', 'aprender ingles', 'curso de ingles', 'aprender ingles rápido', 'aprenda ingles', 'how i learned spanish', 'como hablan los venezolanos', 'gringo hablando español', 'language tips', 'Aprender idiomas por tu cuenta', 'estadounidense', 'india']",21,27,none,es,,American Boy,296000,8824790,70,"🛑Practica Inglés o Español con mi curso de idiomas: http://bit.ly/americanboycurso   
+
+🇺🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+Tuve la gran placer de placticar con un amigo mío, Kunal, un estudiante de idiomas de La India. A ver si puedes notar las diferencias entre el ingles de la india y mi acento estadounidense 😉
+
+Durante esta entrevista en inglés y español, hablamos sobre nuestras experiencias y proceso para aprender español. Además, hablamos de las prácticas, rutinas, y mentalidades que son necesarias para los hispanohablantes buscando aprender inglés, especialmente para los que están aprendiendo idiomas desde la casa.
+
+🎥 El Canal de Kunal: https://youtu.be/sdcZmSp_w8I"
+62,SNeLDEzswWo,3 consejos para aprender inglés con la música de Gucci Mane,59,11,0.0,0,2020-02-05,20:00:07,2,night,5616,534,1,0,62,6.433333333333334,hd,false,False,https://i.ytimg.com/vi/SNeLDEzswWo/maxresdefault.jpg,1280,720,"['hip hop en ingles', 'canciones en ingles', 'modismos en ingles', 'modismos en ingles americano', 'ingles', 'aprende ingles', 'aprende ingles con musica', 'jerga americana ingles', 'como aprender ingles', 'aprender ingles', 'ingles americano', 'aprende ingles americano', 'ingles basico', 'cultura de estados unidos', 'modismos comunes en ingles', 'american boy ingles', 'aprender ingles rapido', 'Gucci Mane', 'consejos para aprender ingles', 'aprender inglés con música', 'biografia de gucci mane', 'gucci', 'hip hop']",23,22,none,es,,American Boy,296000,8824790,70,"🇺🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+🎧 Recibe 2 Audiolibros GRATIS: https://geni.us/audiolibrosgratis
+📕 La Biografia de Gucci Mane: https://geni.us/guccimanebio
+
+Muchas veces cuando estudiamos idiomas, pasamos la mayoría del tiempo pensando en nuestro futuro bilingüe y lo feliz que estaremos cuando por fin lo logremos. Pero, si siempre dirigimos nuestras energías hacia el futuro sin apreciar el momento presente que estamos viviendo, ese futuro que buscamos nunca llegará.
+
+Todo aquel que haya emprendido el proceso de lograr cualquier cosa está bien familiarizado con ese momento inevitable cuando te pierdes por la visión del resultado que deseas y dejas de apreciar el momento presente. Pero lo que he descubierto a lo largo de mi viaje como YouTuber/Emprendedor Digital es que no se puede controlar una semana, un mes, o un año por ejemplo. 
+
+Pero lo que sí puedo controlar es este momento presente que tengo sin darle prioridad a un futuro imaginario que no sea garantizado. 
+
+Y cuando necesito recordarme de esta lección, me gusta poner la música de Gucci Mane, porque él siempre me motiva a cultivar la paciencia suficiente para pasar por mi evolución sin prisa. Por eso, está semana hice un análisis de la música y el lenguaje de Gucci Mane para darte 3 consejos para aprender inglés y así vas a poder aprovechar el proceso de aprendizaje para llegar a ser bilingüe."
+63,yF1BJEeBQW0,3 LANGUAGE TIPS FROM FAMOUS BILINGUAL SINGERS | American Boy,60,9,0.6666666666666666,0,2018-12-23,01:28:32,6,late_night,5147,410,11,0,92,18.066666666666666,hd,false,True,https://i.ytimg.com/vi/yF1BJEeBQW0/maxresdefault.jpg,1280,720,"['bilingual singers', 'language tips', 'bilingual celebrities', 'bilingual', 'anitta speaking english', 'jennifer lopez hablando español', 'jennifer lopez speaking spanish', 'anitta', 'anitta speaking spanish', 'anitta speaking portuguese', 'becky g', 'becky g speaking spanish', 'becky g hablando español', 'famosos hablando español', 'learn spanish', 'aprender ingles', 'becky g cantando en español', 'speaking different languages', 'bilingue', 'spanish', 'language learning tips', 'language learning', 'mujeres en el genero']",23,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE
+
+Llevo mucho tiempo pensando en la influencia de la música en Español hoy en día, y los artistas que son bilingües y que cantan en inglés y español. Así que decidí hacer este video para compartir con ustedes lo que aprendí de unas cuantas ""Famous Bilingual Singers."" 
+
+Así que si estas buscando aprender ingles, or maybe you want to learn Spanish and are interested in bilingual celebrities speaking different languages, este video va para ti. 
+
+En este video, hablo de: Becky G, Anitta, and Jennifer Lopez
+
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+
+Sígueme en Twitter: https://twitter.com/AmericanBoy"
+64,2sX16_FCkOI,9 palabras del género urbano que no sabías |  Español Vocabulario,65,10,0.0,0,2020-01-29,20:00:01,2,night,4768,337,10,0,54,7.583333333333333,hd,false,True,https://i.ytimg.com/vi/2sX16_FCkOI/maxresdefault.jpg,1280,720,"['español', 'español genero urbano', 'español de reggaeton', 'español vocabulario', 'palabras del genero urbano', 'genero urbano', 'aprender español', 'learn spanish', 'vocabulario reggaeton', 'bad bunny', 'el alfa', 'farruko', 'pa jamaica', 'zion y lennox', 'guayo anuel zion y lennox', 'la romana bad bunny', 'coronao', 'coronao el alfa', 'bichote bad bunny', 'musica en espanol', 'spanish', 'republica dominicana', 'felix baez', 'la pampara', 'kiko el crazy', 'pampara significado dominicano', 'piquete significado']",27,10,none,es,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Music_of_Latin_America']",American Boy,296000,8824790,70,"🇺🇸 Join the channel for Exclusive English Videos: http://bit.ly/americanboymembers
+🇪🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+En este video, mi amigo Felix Baez me enseña unas palabras y frases en español que son muy comunes del género urbano, aka, el reggaeton. Como Felix es de RD y mucho de este vocabulario viene de la República Dominicana y el Caribe, digamos que estoy cada vez más aplatanado 🇩🇴🍌
+
+🎥 El canal de Felix: https://www.youtube.com/user/analisalaman
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+Piquete 
+Guayar
+Andar Rulay
+Coronao
+Arrebatao
+Bichote
+Guayar
+Dar Banda
+Pa Jamaica"
+65,OukQGNPzbpU,¿Te Gustaría Viajar a Nueva York? | NYC Vlog: Manhattan 2019,60,10,0.1,0,2019-10-28,19:45:10,0,night,4083,515,2,0,97,7.366666666666666,hd,true,True,https://i.ytimg.com/vi/OukQGNPzbpU/maxresdefault.jpg,1280,720,"['Nueva York', 'New York', 'New York City', 'Manhattan', 'Manhattan 2019', 'Manhattan Vlog', 'Manhattan Vlog 2019', 'NYC', 'vlog nueva york', 'luisito comunica', 'un dia en nueva york', 'times square', 'nyc subway', 'caracas arepa bar', 'venezuelan arepas', 'puerto rico', 'puerto rican coffee', '787 coffee new york', 'american boy', 'español', 'nyc vlog', 'un dia normal en nueva york', 'walking tour', '42nd street', 'viajar a nueva york', 'viajar a nueva york consejos', 'arepas venezolanas', 'new york vlog', 'travel vlog']",29,22,none,en-US,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],American Boy,296000,8824790,70,"💻 Nuevo Curso de Inmersión: http://bit.ly/americanboycurso
+
+🎧 2 Audiolibros en Inglés GRATIS: https://geni.us/audiolibrosgratis
+
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/
+
+¿Cómo es posible que llevo tanto tiempo en YouTube, pero nunca he mostrado mi ciudad Nueva York? 
+
+En este video, les invito a acompañarme en este mini walking tour/travel vlog por toda la isla de Manhattan para ver un poco de como yo paso un día normal en Nueva York. 
+
+🗽 Si quieres otro nyc vlog, dime en los comentarios los sitios que quieres ver 
+
+00:44  -  Times Square 42nd Street
+01:57  -  NYC Subway 
+02:37  -  Caracas Arepa Bar (Venezuelan Arepas / Arepas Venezolanas)
+04:11  -  787 Coffee Puerto Rico 
+05:09  -  Washington Square Park"
+66,cB_KaAx6sHA,EL PODER DEL AGRADECIMIENTO Y LA GRATITUD | LEO MI DIARIO,57,10,1.0,0,2019-03-15,08:01:36,4,morning,3343,298,2,0,130,12.8,hd,false,True,https://i.ytimg.com/vi/cB_KaAx6sHA/maxresdefault.jpg,1280,720,"['diario', 'agradecimiento', 'la gratitud', 'éxito', 'autoestima', 'el poder del agradecimiento', 'afirmaciones positivas', 'exito', 'motivacion', 'agradecer', 'abundancia', 'inspiración', 'motivacion personal', 'dar gracias', 'mi diario', 'poder del agradecimiento', 'videos de motivacion', 'lograr el exito', 'gratitud', 'alcanzar el exito', 'ser bilingue', 'el poder de la gratitud', 'superacion personal', 'como lograr el exito', 'aprender ingles', 'diario de gratitud', 'leyendo mi diario', 'como alcanzar el exito']",28,22,none,es,,American Boy,296000,8824790,70,"📕Mi diario de gratitud: https://geni.us/gratitudeahora
+
+mi cámara: https://geni.us/0qnpByx
+mi lente: https://geni.us/Hu2A
+mi micrófono: https://geni.us/IAJwMnE
+
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+Sígueme en Twitter: https://twitter.com/AmericanBoy
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+
+En este video, les voy a hablar sobre el poder de practicar la gratitud y como tu puedes usar el sentimiento de agradecimiento para lograr tus metas. Ya sea tu meta llegar a ser bilingüe, aprender ingles, o ganar más dinero, con esta práctica, no habrá nada que no puedes lograr.
+
+Y quería hablar sobre este tema porque hay mucha gente que siempre me pregunta cómo he logrado tener tanto éxito en mi vida. Y eso es porque según los estándares o normas de nuestra sociedad, soy una persona que se considera bastante exitosa. 
+
+Y no lo digo para presumir o parecer prepotente, porque lo último que quiero es transmitir un mensaje de superioridad. Pero ahora, estoy en una etapa de mi vida en la que puedo reconocer con mucha objetividad que para la gente que me conoce, yo llevo una vida muy exitosa. 
+
+Y eso es principalmente porque en mi país, Estados Unidos, no es muy común para un joven de 28 años tener las cosas que yo tengo y haber hecho lo que yo he podido hacer.
+
+Y la verdad es que hay gente mucho más exitosa que yo, pero aún así yo creo que mi perspectiva te puede ayudar en tu viaje hacia el éxito y superación personal. 
+
+En mi vida he visto que la gratitud es el sentimiento más poderoso para poder recibir o hacer cualquier cosa que tu quieras y vivir cualquier experiencia que la vida te puede ofrecer. Y aunque utilizar esta práctica es muy sencillo, cultivarla como un hábito requiere más esfuerzo. 
+
+Porque cuando practicas la gratitud, recibes exactamente lo que quieres y más. Por ejemplo, si quieres un sueldo mejor o una promoción en tu empleo, la manera más eficaz de conseguirlo es estar activamente agradecido por el sueldo que ya tienes o el puesto que ya tienes. 
+
+Porque aunque te merezcas un sueldo mejor, hay otras personas intentando sobrevivir con un sueldo mucho más bajo que el tuyo. Así que en vez de quejarte, podrías estar agradecido por tener un sueldo, y buscar oportunidades para seguir demostrando tu valor como empleado. 
+
+La gratitud realmente es la clave y es la manera más eficaz de conseguir lo que quieres porque así funciona este universo. Si andas todos los días quejándote de tu situación, te quedarás con más de esa situación porque esa es la energía que estás emitiendo con tus palabras y pensamientos de quejas. 
+
+Si tu hábito es quejarte de tus situaciones, el universo te dará más cosas para quejarte. Si tu hábito es estar agradecido por cualquier situación o circunstancia, el universo te dará más cosas por las que estar agradecido. 
+
+Pero cuando me gradué de High School en 2008, alguien me regaló este diario de gratitud. Y me encanta este diario porque es bastante poderoso en demostrando el  poder de la gratitud. Y el proceso de usarlo es super fácil. 
+
+Lo único que tienes que hacer es escribir en la primera página las cosas por las cuales estás agradecido que ya tienes. Así que en tu caso por ejemplo, como estás viendo este video, es evidente que tienes acceso al internet, puede que estés viendo esto desde un smartphone, dentro de tu casa o apartamento, etc. Todas estas cosas merecen nuestra gratitud porque son privilegios. 
+
+Así que en la primera página, escribirías todas las cosas por las cuales estás agradecido que ya tienes. Y en la página siguiente, escribirías todas las cosas por las cuales estás agradecido que aún no tienes. 
+
+Y lo de trabajar es la clave. No es suficiente decir declaraciones de gratitud. También tienes que desarrollar planes y sistemas para conseguir lo que quieres. Pero si trabajas sin gratitud, no vale. Y si practicas la gratitud sin trabajar, no vale. 
+
+Así que en mi opinión este diario realmente funciona. Lo he usado por 10 años ya y sigo logrando meta tras meta tras meta porque el diario realmente me ayuda en concentrar mi gratitud para ampliar sus efectos. Así que este diario es super recomendado así que si quieres más información, te voy a dejar allí abajo un link para el que uso yo. Y la verdad es que podrías hacer esto con cualquier cuaderno que tienes, pero me gusta este en particular porque tiene explicaciones de la lógica detrás del diario, y también viene con varias citas inspiradoras en todas las páginas, así que les recomiendo que echen un vistazo a este con el link que voy a poner en la descripción del video. 
+
+Y lo mejor es que practicar la gratitud es super facil. Es tan fácil que lo vamos a hacer ahorita. Quiero que me escribas en los comentarios algo que ya tienes por el cual estás agradecido y tambien quiero que me digas algo por el cual estás agradecido que aún no tienes. Pero que lo escribas en presente como si ya lo tuvieras."
+67,hG7SGcyPCPg,Fui a los Latin Grammys | ¿Qué Pienso de la Música en Español? | American Boy,77,14,0.0,0,2018-12-02,21:16:59,6,night,3269,322,6,0,70,15.85,hd,false,True,https://i.ytimg.com/vi/hG7SGcyPCPg/maxresdefault.jpg,1280,720,"['latin grammy 2018', 'latin grammys', 'musica latina', 'latin music', 'spanish music', 'musica en español', 'musica en espanol', 'j balvin', 'anitta', 'karol g', 'reggaeton', 'musica urbana', 'aprende español con canciones', 'la llorona', 'angela aguilar', 'latin grammy', 'gringo hablando español', 'how i learned spanish']",18,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music_of_Latin_America']",American Boy,296000,8824790,70,"Hoy quería hacer algo un poco diferente y hablar sobre la música en español y la música latina. Tuvé la oportunidad de ir a los Latin Grammys con Spotify y trabajar con varios de los artistas más grandes de la música Latina: J Balvin, Anitta, Karol G, etc., y quiero compartir un poco lo que aprendí de la experiencia con ustededes : ) 
+
+Suscríbete a mi canal: http://bit.ly/americanboysubscribe
+Sígueme en Instagram: https://www.instagram.com/americanboy/ 
+Sígueme en Twitter: https://twitter.com/AmericanBoy"
+68,vmHRYd1Rz88,PRIMERA VEZ EN TULUM | EP. 2,28,6,0.8333333333333334,0,2020-03-07,12:20:15,5,afternoon,2726,188,3,0,36,7.616666666666667,hd,false,True,https://i.ytimg.com/vi/vmHRYd1Rz88/maxresdefault.jpg,1280,720,"['airbnb', 'airbnb mexico', 'airbnb tulum mexico', 'airbnb tulum safe', 'airbnb villa', 'tulum', 'tulum vlog 2020', 'tulum mexico vlog', 'travel vlog', 'viajar a tulum mexico', 'tips para viajar a tulum', 'recomendaciones para viajar a tulum', 'como viajar a tulum', 'airbnb en mexico', 'tulum vlog', 'tulum mexico', 'tulum mexico vlog 2019', 'tulum vlog 2019', 'first time in tulum', 'tulum mexico 2020', 'tulum mexico travel guide', 'house tour 2019', 'tulum vlog aeropuerto', 'nomade tulum', 'nekhtar tulum']",25,19,none,es,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",American Boy,296000,8824790,70,"🇲🇽🏠🏝 Karma Eco Villa en Tulum: http://bit.ly/airbnbtulum
+
+🇺🇸 Hazte socio para recibir videos exclusivos en inglés: http://bit.ly/americanboymembers
+
+📱 Sígueme en Instagram: https://www.instagram.com/americanboy/
+💻 Sígueme en Facebook: https://www.facebook.com/americanboynyc/
+
+En diciembre fui a Tulum Mexico por primera vez para celebrar el cumpleaños de una amiga. En este episodio, les muestro un poco de los primeros días del viaje y mi experiencia usando Airbnb en Mexico.
+
+En este episodio, pasamos el día en la playa en Nomade Tulum. Y luego pasamos por el juice bar Nekhtar Tulum para apoyar a una amiga mía que es la dueña del sitio 🤗"

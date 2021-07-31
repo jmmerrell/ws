@@ -1,0 +1,779 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,5b5pvZQW3m4,El Gringo orders El Salvadorian PUPUSAS in Spanish! - LEARN SPANISH,67,10,0.3,0,2020-06-13,09:42:16,5,morning,11400,817,3,0,303,6.133333333333334,hd,false,True,https://i.ytimg.com/vi/5b5pvZQW3m4/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'laoshu505000', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'El Salvador', 'Pupusas', 'Latin American food', 'eat pupusas', 'try food', 'white guy', 'gringo', 'Xiáomanyc en Español', 'lingopie review', 'gringo speaks spanish', 'dicaprio pupusas', 'trying pupusa', 'eating pupusa']",29,22,none,en,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"I'm curious to know, how many of you have tried ordering food in Spanish, and how did it go?
+
+I have met too many Americans who claim to love Latin American cuisine, but have only experienced Mexican food. Central and South America have so much more to offer than tacos and enchiladas, and today we take a deep dive into El Salvador's staple dish - pupusas.
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish! Be sure to check out some of my more recent videos to get an idea of where my Spanish level is at!
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/"
+1,YgvglFQ4svk,EL GRINGO practices with native speakers - LEARN SPANISH,56,8,0.5,0,2020-06-27,15:22:52,5,afternoon,9876,415,4,0,132,5.116666666666666,hd,false,True,https://i.ytimg.com/vi/YgvglFQ4svk/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'Latin American food', 'central america', 'cuisine', 'try food', 'white guy', 'gringo', 'Mexican food', 'Tacos', 'street tacos', 'authentic tacos', 'immersion', 'latin cuisine', 'Xiáomanyc en Español', 'lingopie review']",31,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"In an effort to practice my Spanish and hold myself accountable (also I was hungry) I had no other option but to go find tacos and churros.
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish! Be sure to check out some of my more recent videos to get an idea of where my Spanish level is at!"
+2,ueEB4HQWEOA,"Duolingo CHEATS, TIPS & HACKS for Beginners! - LEARN SPANISH",60,8,0.625,0,2020-07-18,14:00:11,5,afternoon,8796,170,21,0,69,8.733333333333333,hd,false,True,https://i.ytimg.com/vi/ueEB4HQWEOA/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'gringo', 'duolingo', 'duolingo review', 'How to', 'Duolingo Stories', 'Duolingo Podcast', 'Duolingo app', 'App', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'lingopie review', 'Duolingo Hack', 'Duolingo 2020', 'Duolingo 2021']",30,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"As a (very) long time Duolingo user, I have learned a thing or two about getting the most out of this free platform. If you use Duolingo to learn Spanish and you feel lost, or just want to maximize your time, I'll show you the top tricks that have helped me along the way.
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+
+If you're new around here be sure to subscribe! I post a new video every week about (almost) all things Spanish.
+
+#LearnSpanish
+#Duolingo
+#DuolingoReview"
+3,QWv7VlaXw1E,The BEST Spanish learning app that NOBODY talks about - Lingebe App Review - LEARN SPANISH,90,14,0.2857142857142857,0,2020-04-19,16:06:37,6,afternoon,8590,279,6,0,54,12.233333333333333,hd,false,True,https://i.ytimg.com/vi/QWv7VlaXw1E/maxresdefault.jpg,1280,720,"['Lingbe', 'app review', 'learn language', 'learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'Learn portuguese', 'how to learn portuguese', 'practice portuguese', 'language challenge', 'speaking spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'Spanish phrases', 'Spanish basics', 'Lingbe review', 'lingopie review', 'gringo speaks spanish', 'pimsleur review', 'rosetta stone review', 'busuu review', 'best spanish learning app', 'best app to learn spanish']",26,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+
+So today the plan was to introduce you guys to a language learning app that doesn’t seem to get enough credit. The initial plan was to investigate its functionality in English, Spanish, and Chinese, but because I forgot time zones exist and I was up against the clock I didn’t get to cover everything I wanted to. 
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish! Be sure to check out some of my more recent videos to get an idea of where my Spanish level is at!"
+4,beZplN00FW8,Learning Mandarin Chinese - 1 Year Later - Process & Progress,61,8,0.0,0,2020-09-05,19:00:11,5,night,6255,275,3,0,88,9.033333333333333,hd,false,True,https://i.ytimg.com/vi/beZplN00FW8/maxresdefault.jpg,1280,720,"['Chinese', 'Chinese language', 'Chinese challenge', 'language challenge', 'Speak Chinese', 'learn Chinese', 'Chinese phrases', 'xiaomanyc', 'laoshu505000', 'Learning Chinese', 'Language progress', 'Chinese progress', 'language update', 'chinese update', 'Mandarin Chinese', 'Learn Mandarin', 'Mandarin phrases', 'Mandarin update', 'Mandarin progress', 'Mandrin language', 'Speak Mandarin', 'Languagebae505000', '口语老炮儿马思瑞 Laoma Chris', 'Mandarin Challenge', 'learning Mandarin', 'pimsleur chinese', 'how to learn mandarin']",27,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Wow the time sure does fly when you're learning Mandarin. It feels like every time I do an update here I feel a twinge of disappointment because I'm just not quite as far along as I'd like to be. I guess that's the point of these updates, to keep me going no matter how fast.. or how slow.. I seem to be learning.
+
+Thanks for keeping me accountable, comment below any resources I should check out and be sure to let me know how your language learning experience is going!
+
+See you at the next update, 再见！"
+5,e3j1iSk5sI8,El Gringo Attempts to Speak SPANISH with Mexican Restaurant Owner (FAIL) LEARN SPANISH,86,13,0.3076923076923077,0,2020-05-19,16:45:24,1,afternoon,4740,179,4,0,56,6.116666666666666,hd,false,True,https://i.ytimg.com/vi/e3j1iSk5sI8/hqdefault.jpg,480,360,"['Spanish', 'Language Challenge', 'learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'Learn portuguese', 'how to learn portuguese', 'portuguese lesson', 'practice portuguese', 'portuguese for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'portuguese dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Xiáomanyc en Español', 'lingopie review', 'gringo speaks spanish']",26,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Inspired by the likes of Xiaomanyc and Laoshu505000 I decided to try to level up my Spanish in the biggest arena there is - the real world. My good friend Alex, who is also learning Spanish, came along for the ride and even though the day definitely didn't go as planned, it was a good opportunity to step away from the ol' comfort zone.
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+
+""Like"" this video if you'd like to see more interactions like this! 
+Nos vemos!
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish! Be sure to check out some of my more recent videos to get an idea of where my Spanish level is at!"
+6,_Ejv8Uayviw,White Guy Speaks Fluent Spanish With Brazilian Girl On Omegle,61,10,0.0,0,2020-10-17,15:00:03,5,afternoon,4325,116,4,0,32,4.266666666666667,hd,true,True,https://i.ytimg.com/vi/_Ejv8Uayviw/maxresdefault.jpg,1280,720,"['Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish phrases', 'Spanish for beginners', 'language challenge', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'Spanish language', 'Laoshu505000', 'white guy', 'gringo', 'easy spanish', 'Spanish app review', 'learning Spanish', 'Spanish on Omegle', 'Spanish Ome.tv', 'Language Omegle', 'Ometv review', 'Learn Spanish Free', 'Xiáomanyc en Español', 'lingopie review', 'white guy speaking spanish', 'omegle languages', 'white guy speaks spanish']",27,24,none,,,El Gringo,2200,119481,70,"Hola a todos, soy El Gringo!
+For the last 4-5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week.
+
+ If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+
+
+Lately I have been practicing Spanish on Omegle and Ome.TV, this was a fun conversation I had with a Brazilian who is currently living in Spain. Obviously, her native language is Portuguese but she speaks excellent Spanish and English! 
+
+Let me know in the comments how you like to practice online, and be sure to subscribe to see more!"
+7,0a9W8oc3S9g,Clueless Gringo Learning SPANISH on Omegle - SHOCKING,53,7,0.2857142857142857,0,2020-10-11,15:00:02,6,afternoon,4300,133,1,0,52,5.166666666666667,hd,true,True,https://i.ytimg.com/vi/0a9W8oc3S9g/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'Spanish language', 'Laoshu505000', 'white guy', 'gringo', 'Spanish app review', 'learning Spanish', 'Spanish on Omegle', 'Spanish Ome.tv', 'Language Omegle', 'Ometv review', 'El gringo', 'Xiáomanyc en Español', 'lingopie review', 'polyglot omegle', 'spanish omegle', 'omegle languages', 'omegle polyglot', 'polyglot on omegle']",28,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"Hola a todos, soy El Gringo!
+For the last 4-5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q
+
+The website I used isn’t actually Omegle, its called Ome.tv. For language practicing purposes, I prefer it because there is access to more countries, fewer pervs, and a free app available on Android and iOS.
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+
+
+If you have any fun ideas you'd like to see me attempt, be sure to comment below!"
+8,FXQw4WgthnM,30 days of Mandarin Chinese progress (or lack there of) video,61,11,0.0,0,2019-08-12,15:05:45,0,afternoon,4108,193,1,0,73,7.383333333333334,hd,false,True,https://i.ytimg.com/vi/FXQw4WgthnM/maxresdefault.jpg,1280,720,"['Chinese', 'Chinese language', 'Chinese challenge', 'language challenge', 'Speak Chinese', 'Chinese dialogue', 'learn Chinese', 'Chinese phrases', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Learning Chinese', 'Language progress', 'Chinese progress', 'language update', 'chinese update', 'Mandarin Chinese', 'Learn Mandarin', 'Mandarin phrases', 'Mandarin update', 'Mandarin progress', 'Mandrin language', 'Speak Mandarin', 'Languagebae505000', '口语老炮儿马思瑞 Laoma Chris', 'Mandarin Challenge']",26,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Language has always been a fascination of mine, and I have wondered how much somebody can realistically learn in thirty days. 
+I ran a poll on Instagram (@Sam_Oleson) to decide what language to attempt and the winner was Mandarin. 
+I haven’t progressed as quickly as I would like, but I feel like now that I understand basic structure and have improved character recognition, progress will speed up from here."
+9,5fyaZ3YwXbo,Learning Mandarin Chinese 6 month update,40,6,0.0,0,2020-02-03,09:56:49,0,morning,3930,159,0,0,109,15.2,hd,false,True,https://i.ytimg.com/vi/5fyaZ3YwXbo/hqdefault.jpg,480,360,"['Language Update', 'Chinese', 'Chinese language', 'Chinese challenge', 'language challenge', 'Speak Chinese', 'Chinese dialogue', 'learn Chinese', 'Chinese phrases', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Learning Chinese', 'Language progress', 'Chinese progress', 'language update', 'chinese update', 'Mandarin Chinese', 'Learn Mandarin', 'Mandarin phrases', 'Mandarin update', 'Mandarin progress', 'Mandrin language', 'Speak Mandarin', 'Languagebae505000', '口语老炮儿马思瑞 Laoma Chris', 'Mandarin Challenge']",27,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Okay everybody, I'm back - this time with a 6 month update. I finally feel like we're getting some progress. So much of language learning is having a process and sticking to it, which is exactly what I've been doing. This video was created in an attempt to bring you all up to speed on my Mandarin ability. I cover speaking / listening, writing, and reading.
+Please comment below to fix my errors, and also any sources that have helped / are helping along the way.
+
+I'll be releasing my first Chinese book review (still don't know what else to call it) next week so be sure to subscribe and follow along if you are curious about reading in Mandarin, and what is working for me.
+
+If you (or somebody you know) would like to give this book a try, you can find it here on Amazon!
+*Updated version* https://amzn.to/3s6yKSJ
+
+Or download the digital version with a free 30-day KindleUnlimited trail!
+https://amzn.to/35psDz6
+
+
+
+
+Like I said in the video, I like to spike my motivation to learn before I sit down to complete a lesson. Listed below are just a few of my go-to channels right now.
+
+Moses has probably forgotten more about language than I've ever learned. Usually his videos are from his perspective as he walks around town striking up conversation in 2-8 languages on any given day.
+https://www.youtube.com/user/laoshu505000
+
+This is Xiaoma, he speaks fluent Mandarin and has been learning other regional dialects lately. His videos usually feature him in Chinatown (NYC) asking all sorts of questions in English before cutting to seemingly perfect Chinese.
+https://www.youtube.com/channel/UCLNoXf8gq6vhwsrYp-l0J-Q
+
+
+I forgot to mention this channel in the video, but Chris is also a great source to follow, he has a really fun series in which he reviews Chinese celebrities speaking English.
+https://www.youtube.com/channel/UC8FnQA_ZSeHwxAX9igzyeCg"
+10,Rkalfa37tHg,El Gringo LEVELS UP! Attempts SPANISH with native speakers! - LEARN SPANISH,75,11,0.45454545454545453,0,2020-06-06,17:19:07,5,afternoon,3547,154,1,0,46,7.966666666666667,hd,false,True,https://i.ytimg.com/vi/Rkalfa37tHg/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'Learn portuguese', 'how to learn portuguese', 'portuguese lesson', 'practice portuguese', 'portuguese for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'portuguese dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Portuguese language', 'Laoshu505000', 'lingopie review', 'gringo speaks spanish']",26,22,none,en,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"I'm curious to know, what experiences have you had while speaking your target language with native speakers? Let me know in the comments!
+
+Today I went to a local Hispanic Supermarket in search of corn flour to make Venezuelan arepas. I found almost everything I was looking for, and then I ate one too many tacos. Oh yeah, and I did it all in Spanish!
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish! Be sure to check out some of my more recent videos to get an idea of where my Spanish level is at!"
+11,QVLGDNAiao4,El Gringo Attempts to Speak Spanish ALL DAY LONG (Language Learning Challenge),78,12,0.25,0,2020-01-17,10:58:40,4,afternoon,3506,190,5,0,100,15.633333333333333,hd,false,True,https://i.ytimg.com/vi/QVLGDNAiao4/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'Learn portuguese', 'portuguese for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'portuguese dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics']",18,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"I’ve been pursuing the Spanish language for about 4.5 years now and I’ve figured out that video is one of the best methods to track progress. 
+
+So, in this video I display my abilities in Spanish l, and although it’s not perfect, it’s better than the last time I spoke Spanish in front of a camera! 
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+
+Native Spanish speakers please please please comment on my mistakes below so I can learn from them and move forward."
+12,AEi91q179Qk,Lonely Gringo Learns How to FLIRT in Spanish on Omegle,54,10,0.1,0,2020-11-13,13:00:01,4,afternoon,2698,102,0,0,35,6.833333333333333,hd,true,True,https://i.ytimg.com/vi/AEi91q179Qk/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'learning spanish', 'ometv review', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish challenge', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'flirt in spanish', 'spanish pick up lines', 'El Gringo', 'lingopie review']",28,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"Hola a todos, soy El Gringo!
+For the last 4-5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q
+
+Today's conversations highlight something apps and classes don't tend to teach - flirting! I used a free online platform called Ome.TV (similar to Omegle, but with community rules so everybody is fully clothed) to practice Spanish. 
+
+Be sure to subscribe so you don't miss next week's video!"
+13,YkrOTdJBjaE,"How El Gringo learned Spanish, and how you can too!",51,10,0.0,0,2019-09-03,14:15:10,1,afternoon,2695,143,0,0,85,14.45,hd,false,True,https://i.ytimg.com/vi/YkrOTdJBjaE/maxresdefault.jpg,1280,720,"['Learn Spanish', 'Spanish Beginner', 'How to', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'Learn portuguese', 'how to learn portuguese', 'portuguese lesson', 'practice portuguese', 'portuguese for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'portuguese dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics']",23,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Spanish speakers, please help! Comment my errors below so I can continue learning from my mistakes!
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+ 
+Although I’m still learning, here are some of the major resources I have used over the last few years to solidify my Spanish. 
+
+https://www.duolingo.com
+
+https://www.languagetransfer.org/complete-spanish 
+
+Extr@ en Español 
+https://www.youtube.com/playlist?list=PLLVULqsElvki_riI1ld0QhZJx1wom5Ply
+
+Luisito Comunica 
+https://www.youtube.com/user/LuisitoComunicaa
+
+Sígueme por Instagram! 
+https://www.instagram.com/sam_oleson/"
+14,BislIK5PKyQ,Learning Mandarin Chinese 9 month progress update,49,7,0.0,0,2020-05-13,09:01:29,2,morning,2627,135,1,0,65,13.083333333333334,hd,false,True,https://i.ytimg.com/vi/BislIK5PKyQ/maxresdefault.jpg,1280,720,"['Chinese', 'Chinese language', 'Chinese challenge', 'language challenge', 'Speak Chinese', 'Chinese dialogue', 'learn Chinese', 'Chinese phrases', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Learning Chinese', 'Language progress', 'Chinese progress', 'language update', 'chinese update', 'Mandarin Chinese', 'Learn Mandarin', 'Mandarin phrases', 'Mandarin update', 'Mandarin progress', 'Mandrin language', 'Speak Mandarin', 'Languagebae505000', '口语老炮儿马思瑞 Laoma Chris', 'Mandarin Challenge']",26,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Wow the time sure does fly when you're learning Mandarin. It feels like every time I do an update here I feel a twinge of disappointment because I'm just not quite as far along as I'd like to be. I guess that's the point of these updates, to keep me going no matter how fast.. or how slow.. I seem to be learning.
+
+Thanks for keeping me accountable, comment below any resources I should check out and I'll see you on the 1 year update!
+
+I realize I went kinda crazy with the links, here they are! 
+
+30 days of Mandarin Chinese progress (or lack there of) video
+https://youtu.be/FXQw4WgthnM
+
+Three months of Mandarin Chinese progress
+https://youtu.be/Gj7Kl0hrI18
+
+Learning Mandarin Chinese 6 month update
+https://youtu.be/5fyaZ3YwXbo
+
+Pimsleur (An AWESOME platform to learn a new language)
+https://www.pimsleur.com/
+
+Tandem (Very helpful language learning community)
+https://www.tandem.net/
+
+The best Chinese podcast I've found yet, also links to their book series
+https://youcanlearnchinese.mandarincompanion.com/
+
+Great flashcard app
+https://www.ankiapp.com/"
+15,buJO7O5K2Q0,Dumb Gringo Attempts to Surprise Spanish Speakers on Omegle,59,9,0.0,0,2020-10-30,11:00:30,4,afternoon,2538,63,1,0,16,6.766666666666667,hd,true,True,https://i.ytimg.com/vi/buJO7O5K2Q0/maxresdefault.jpg,1280,720,"['easy spanish', 'gringo', 'how to learn spanish', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'learning spanish', 'ometv review', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish challenge', 'spanish dialogue', 'spanish for beginners', 'spanish language', 'spanish language transfer', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'lingopie review']",28,24,none,,,El Gringo,2200,119481,70,"Hola a todos, soy El Gringo!
+For the last 4-5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q
+
+
+The other day I decided to practice Spanish online, so I turned to my (current) favorite free platform to do so. Ome.TV is similar to Omegle, but it has rules that are enforced so the conversations tend to be a little more.. wholesome.
+I asked everyone what movie encompasses their culture, and I'll leave the list below!
+
+Relatos Salvajes (Argentina)
+Como caído del cielo (Mexico)
+Casados Con Hijos (Argentina)
+El Infierno (Mexico)
+La Dictadura Perfecta (Mexico)"
+16,R7TsslbAyMI,Podcasts and Stories on DUOLINGO - My Review - LEARN SPANISH,60,9,0.3333333333333333,0,2020-07-11,15:52:57,5,afternoon,1914,123,0,0,71,6.116666666666666,hd,false,True,https://i.ytimg.com/vi/R7TsslbAyMI/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Stories', 'Duolingo Podcast', 'Duolingo app', 'App', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'lingopie review']",31,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"We all know somebody who feels duped by Duolingo. They downloaded the app, did three lessons a day for 6 days, and still weren’t fluent! 
+The truth is, you’re gonna need a lot more than Duolingo to become proficient in a new language.  However, if you’re learning Spanish there are some changes you can make to your Duo routine that will maximize your learning ability.
+
+
+If you're new around here, soy El Gringo! I post content about (almost) all things Spanish! /be sure to subscribe, there's a new video every week!"
+17,Gj7Kl0hrI18,Three months of Mandarin Chinese progress,41,6,0.0,0,2019-10-24,21:13:51,3,night,1736,55,2,0,37,12.733333333333333,hd,false,True,https://i.ytimg.com/vi/Gj7Kl0hrI18/maxresdefault.jpg,1280,720,"['Chinese', 'Chinese language', 'Chinese challenge', 'language challenge', 'Speak Chinese', 'Chinese dialogue', 'learn Chinese', 'Chinese phrases', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Learning Chinese', 'Language progress', 'Chinese progress', 'language update', 'chinese update', 'Mandarin Chinese', 'Learn Mandarin', 'Mandarin phrases', 'Mandarin update', 'Mandarin progress', 'Mandrin language', 'Speak Mandarin', 'Languagebae505000', '口语老炮儿马思瑞 Laoma Chris', 'Mandarin Challenge']",26,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"My first thirty days learning Chinese!
+https://youtu.be/FXQw4WgthnM 
+
+How I learned learned to speak Spanish! 
+https://youtu.be/YkrOTdJBjaE
+
+Mark Zuckerburg speaking Chinese 
+https://youtu.be/HTmHtOSqHTk
+
+As I mentioned in the video, I’m a bit disappointed with my progress. However, I’m glad I have these videos as a public declaration to improve and continue my learning process. 
+Let me know in the comments if you have any good sources or methods!"
+18,lxfDlqrYvEw,5 Things I Wish I Knew Before Learning Spanish,46,9,0.2222222222222222,0,2020-11-20,13:00:18,4,afternoon,1697,114,1,0,45,7.466666666666667,hd,false,True,https://i.ytimg.com/vi/lxfDlqrYvEw/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'white guy', 'gringo', 'easy spanish', 'Language Transfer Review', 'Spanish Language Transfer', 'Spanish app review', 'learning Spanish', 'Xiáomanyc en Español', 'Learn Spanish Free', 'lingopie review']",27,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Hola a todos!
+Today I will breakdown the 5 things that I wish I knew before starting to learn Spanish. I have been learning Spanish for free on the internet (outside of a traditional classroom) for a few years now. Although I have managed to achieve a high proficiency, there are a few tweaks I could have made to save me a TON of time.
+
+If you want to see me practice with strangers, check out this video next!👇👇👇👇
+https://youtu.be/_Ejv8Uayviw
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/"
+19,SfaDEDR1aJ4,Bilingual Gringo Cracks Corny Jokes in Spanish on Omegle,56,9,0.0,0,2020-11-06,12:00:08,4,afternoon,1667,66,0,0,15,6.183333333333334,hd,true,True,https://i.ytimg.com/vi/SfaDEDR1aJ4/maxresdefault.jpg,1280,720,"['easy spanish', 'gringo', 'how to learn spanish', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'learning spanish', 'ometv review', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish challenge', 'spanish dialogue', 'spanish for beginners', 'spanish language', 'spanish language transfer', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'lingopie review']",28,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"Hola a todos, soy El Gringo!
+For the last 4-5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q
+
+
+Are you learning Spanish? Do you want to practice for free? I have been using Ome.tv (think of it like a rule-enforced Omegle) for the last couple weeks and I have been having a great time!
+
+Obviously, I need to step up my joke game. If you know of any fun puns or corny jokes in Spanish please comment below!"
+20,bJvNEwvk2-s,El Gringo Gets Haircut While ONLY Speaking SPANISH - Learn & Practice Spanish,77,11,0.18181818181818182,0,2021-01-19,13:00:10,1,afternoon,1664,133,1,0,52,8.066666666666666,hd,true,True,https://i.ytimg.com/vi/bJvNEwvk2-s/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'immersion', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'haircut']",28,24,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"For the last 5 years I have been learning Spanish for free on the internet. Lately, I have been practicing out in public. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. If you want to see more, here's a playlist of me practicing Spanish with strangers on the internet! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q
+
+I understand there are parts of the video that are difficult to understand. As it turns out, a barbershop is NOT the most audio-friendly place to record! 
+
+If you're up for a challenge, keep ""Closed Captioning"" OFF and test yourself to see how much of the conversation you can follow!
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/"
+21,WZ5LBTeTcVw,Sound Like a NATIVE SPANISH SPEAKER in 6 Minutes,48,9,0.3333333333333333,0,2020-12-18,13:00:18,4,afternoon,1570,93,3,0,65,5.983333333333333,hd,false,True,https://i.ytimg.com/vi/WZ5LBTeTcVw/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'white guy', 'gringo', 'easy spanish', 'Spanish app review', 'learning Spanish', 'Xiáomanyc en Español', 'Learn Spanish Free', 'lingopie review', 'gringo reaction', 'american spanish', 'rolled r', 'trill r', 'el gringo', 'bad bunny reaction']",29,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Want to speak FLUENT SPANISH?
+Let's talk about common greetings, filler words, and the general accent of the Spanish language! In this video I go over a few ways to really perfect your Spanish so you can start sounding like a native speaker!
+Remember, learning a new language can be really fun, and there's nothing wrong with having an accent. But, if you'd like to hear a few tips to improve, you came to the right place!
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish!
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/"
+22,I3FjH3BdAfo,Spanish Analysis Xiaomanyc VS Laoshu505000 - WHO WILL WIN?! - Learn Spanish,75,10,0.4,0,2021-01-27,13:30:09,2,afternoon,1485,64,2,0,46,13.983333333333333,hd,false,True,https://i.ytimg.com/vi/I3FjH3BdAfo/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'laoshu spanish', 'spanish review', 'analyze spanish', 'spanish analysis']",28,24,none,en,,El Gringo,2200,119481,70,"Xiaomanyc and Laoshu505000 are a couple of the most influential language content creators in the world. They both specialize in the Chinese languages, but they have a talent that reaches far beyond Asia. In this video, I breakdown their Spanish proficiency and grade their abilities regarding Vocabulary, Pronunciation, Grammar, and Comprehension. 
+
+Let me know in the comments who you think speaks better Spanish, and why?
+
+If you're new here, I'm El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish!
+
+Some of my FAVORITE Spanish learning sources are listed below 👇👇👇
+
+Graded readers: 
+Try them for FREE with a 30-day Kindle Unlimited Trial: https://amzn.to/2PCniiO
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p​ 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW​
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA​
+
+Supplementary Sources:
+https://www.languagetransfer.org/complete-spanish
+https://www.duolingo.com/
+https://www.spanishdict.com/
+
+Complete programs:
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Babbel: https://amzn.to/2PD5Ivm
+Rosetta Stone: https://amzn.to/3u1we09
+
+Practice with native speakers:
+https://www.italki.com/
+https://www.tandem.net/
+
+
+#Xiaomanyc #Laoshu505000 #LearnSpanish"
+23,IlyP2iECXhU,Gringo Speaks Spanish So Good She Thinks He's MEXICAN?! - With Subtitles,72,12,0.08333333333333333,0,2021-05-06,11:00:18,3,afternoon,1171,75,1,0,37,5.683333333333334,hd,true,True,https://i.ytimg.com/vi/IlyP2iECXhU/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'omegle polyglot', 'learn spanish']",28,24,none,en,,El Gringo,2200,119481,70,"This was a blast, shoutout to everyone in the video! What was your favorite part? Let me know in the comments below! 
+
+Ome.tv is a free online chatroom similar to Omegle, but it has enforced rules so it's a great place to practice languages!
+
+If you're new here, for the last 5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. 
+If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q"
+24,JOchQNppdZQ,Kansas State Fair VLOG,22,4,0.25,0,2019-09-11,12:12:58,2,afternoon,1020,20,11,0,9,12.9,hd,false,True,https://i.ytimg.com/vi/JOchQNppdZQ/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'omegle polyglot', 'learn spanish']",28,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",El Gringo,2200,119481,70,"Ashley and I drove to Hutchinson, Kansas to enjoy a day at the annual State Fair. We were joined by our friends Kaiti and her husband Alex, who just happens to do a great job manning the camera. We ate, drank, and learned a new quirk about Ashley."
+25,AXP5RRL1vZE,Bilingual Gringo Asks MEXICANS What They Think of The United States - Learn Spanish,83,13,0.07692307692307693,0,2021-02-04,13:00:02,3,afternoon,1012,64,1,0,21,5.816666666666666,hd,true,True,https://i.ytimg.com/vi/AXP5RRL1vZE/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'immersion', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'omegle polyglot', 'learn spanish', 'learning spanish']",28,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"I have always wondered what our friendly neighbors south of the border thought of the US, so I hopped on Ome.TV to find out! 
+Ome.tv is a free online chatroom similar to Omegle, but it has enforced rules so it's a great place to practice languages!
+
+If you're new here, for the last 5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. 
+If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q"
+26,J5-7sKTCScA,How much PORTUGUESE can a SPANISH learning GRINGO understand?! (Language Challenge),83,11,0.2727272727272727,0,2020-05-30,09:23:35,5,morning,1006,51,3,0,44,5.466666666666667,hd,false,True,https://i.ytimg.com/vi/J5-7sKTCScA/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'Learn portuguese', 'how to learn portuguese', 'portuguese lesson', 'practice portuguese', 'portuguese for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'portuguese dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Portuguese language', 'lingopie review', 'gringos speaks spanish']",25,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"While learning Spanish, what experiences have you had with other Latin based languages? Let me know in the comments!
+
+
+Ever since I started learning Spanish, I’ve always been fascinated with the other romance languages. Are they close enough to be mutually intelligible? 
+No spoilers.. but don’t expect this to go well..
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish! Be sure to check out some of my more recent videos to get an idea of where my Spanish level is at!"
+27,AMKAaD888NY,How to Use iPhone to LEARN SPANISH - Change Language Settings for Total Immersion,81,13,0.15384615384615385,0,2020-08-25,19:00:13,1,night,1004,49,0,0,20,7.983333333333333,hd,false,True,https://i.ytimg.com/vi/AMKAaD888NY/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'central america', 'white guy', 'gringo', 'immersion', 'iphone in Spanish', 'Spanish siri', 'iphone immersion', 'easy spanish', 'change iphone language', 'learn spanish with iphone', 'lingopie review']",28,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"There are a million ways to learn Spanish. Between traditional classes, books, apps, meetups, and other programs everyone agrees; the best way to learn a language is to immerse yourself in it. However, not everybody is fortunate enough to be surrounded by Spanish 24/7. Changing your iPhone settings to Spanish is one of the most beneficial moves you can make to supplement your learning. The average smart phone user checks their phone 96 times per day. That means by making one simple change, you can be exposed to the Spanish language 96 more times per day!"
+28,6jXoQSRAT_s,Lingo with El Gringo - LEARN SPANISH - Amusement and Arcade Vocabulary,70,10,0.2,0,2020-08-10,19:30:10,0,night,967,56,0,0,43,7.116666666666666,hd,false,True,https://i.ytimg.com/vi/6jXoQSRAT_s/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'authentic tacos', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Stories', 'Duolingo Podcast', 'Duolingo app', 'App', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish']",31,22,none,en,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",El Gringo,2200,119481,70,"Welcome back to another installment of Lingo with El Gringo! In today's episode we're going to review some amusement themed vocabulary.
+If you learn something be sure to leave a like!"
+29,knIdva-JuW4,Learning Castilian vs. Latin American Spanish - Which is BEST? - How to Learn Spanish,85,13,0.07692307692307693,0,2021-03-13,12:00:12,5,afternoon,939,47,0,0,71,3.55,hd,false,True,https://i.ytimg.com/vi/knIdva-JuW4/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language challenge', 'language omegle', 'learn spanish free', 'practice spanish', 'spanish basics', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'learn spanish', 'best spanish accent', 'mexican spanish', 'spain spanish vs mexican spanish']",26,24,none,en,,El Gringo,2200,119481,70,"If you're new here, I'm El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish!
+
+Learning Spanish is overwhelming, and with so many different accents and dialects it can be hard to figure out where your focus needs to be. This video covers some of the most famous Spanish accents, and how to choose which one is right for you.
+
+Some of my FAVORITE Spanish learning sources are listed blow 👇👇👇
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Language Transfer: https://www.languagetransfer.org/complete-spanish"
+30,7UUkgQPpN24,Uncultured Gringo Learns About CHRISTMAS In South America (In SPANISH),70,10,0.2,0,2020-12-11,13:00:01,4,afternoon,921,44,0,0,15,6.216666666666667,hd,true,True,https://i.ytimg.com/vi/7UUkgQPpN24/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'immersion', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish challenge', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'flirt in spanish', 'El Gringo', 'Christmas', 'South America', 'Argentina', 'Chile', 'lingopie review']",30,24,none,,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"Hola a todos, soy El Gringo!
+For the last 4-5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q
+
+
+Are you learning Spanish? Do you want to practice for free? I have been using Ome.tv (think of it like a rule-enforced Omegle) for the last couple weeks and I have been having a great time!
+
+What are the most unique holiday traditions in Central / South America that you know about?"
+31,4sG-uYbVBqI,How to use MUSIC to help attain FLUENCY - LyricsTraining App Review - LEARN SPANISH,83,13,0.3076923076923077,0,2020-04-30,15:00:31,3,afternoon,917,61,0,0,27,7.5,hd,false,True,https://i.ytimg.com/vi/4sG-uYbVBqI/maxresdefault.jpg,1280,720,"['Language App', 'Learn Spanish', 'App Review', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'how to learn portuguese', 'practice portuguese', 'portuguese for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'portuguese dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'lyricstraining app review', 'lyricstraining spanish', 'lingopie review', 'gringo speaks spanish']",25,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Music is a great way to learn about a language and it’s culture, but you’ll need to do more than mindless play music to learn. Using the LyricsTraining app, you are quizzed while you listen to your favorite songs to improve comprehension and build vocabulary. Download LyricsTraining for free on the App Store or the Google Play Store today!
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish! Be sure to check out some of my more recent videos to get an idea of where my Spanish level is at!"
+32,pee4jkpArAI,The TRUTH About Aldi Grocery Stores,35,6,0.16666666666666666,0,2020-03-15,19:42:19,6,night,883,20,2,0,4,12.866666666666667,hd,false,False,https://i.ytimg.com/vi/pee4jkpArAI/hqdefault.jpg,480,360,"['Language App', 'Learn Spanish', 'App Review', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'how to learn portuguese', 'practice portuguese', 'portuguese for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'portuguese dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'lyricstraining app review', 'lyricstraining spanish', 'lingopie review', 'gringo speaks spanish']",25,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Aldi is a growing brand across the United States. They’re known for their notoriously low prices, but how can they justify it? Is it horse meat, or something else?
+
+For any Chinese / Spanish speakers please critique my speaking ability. 
+Ps. Sorry I missed a subtitle in Chinese, I don’t really know what I’m doing"
+33,UX4geF5pPPE,Bilingual White Guy Quizzes SPANISH Speakers Over Difficult English Words,73,10,0.1,0,2021-04-06,11:00:21,1,afternoon,813,45,1,0,15,5.666666666666667,hd,true,True,https://i.ytimg.com/vi/UX4geF5pPPE/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'omegle polyglot', 'learn spanish']",28,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"This was a blast, shoutout to everyone in the video! What was your favorite part? Let me know in the comments below! 
+
+Ome.tv is a free online chatroom similar to Omegle, but it has enforced rules so it's a great place to practice languages!
+
+If you're new here, for the last 5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. 
+If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q"
+34,7Wy2SLb5cMU,How to Learn Spanish (For FREE),31,6,0.16666666666666666,0,2020-12-04,13:00:06,4,afternoon,803,48,0,0,22,9.3,hd,true,True,https://i.ytimg.com/vi/7Wy2SLb5cMU/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'white guy', 'gringo', 'easy spanish', 'Language Transfer Review', 'Spanish Language Transfer', 'Spanish app review', 'learning Spanish', 'Xiáomanyc en Español', 'Learn Spanish Free', 'lingopie review']",27,24,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"So you want to learn Spanish huh? Everybody learns differently, so to address how to learn Spanish I’ll breakdown what I would do if I had to start over. 
+
+New to this channel? Be sure to subscribe! There’s a new Spanish-related video every week!
+
+
+Related links below 👇 👇 👇 
+
+*YouTube recommendations:*
+
+https://www.youtube.com/c/luisitocomunica
+
+https://www.youtube.com/c/superholly
+
+https://www.youtube.com/c/LosGringosTV
+
+https://www.youtube.com/c/LENGUASDEGATOO
+
+
+
+
+https://www.duolingo.com
+https://www.languagetransfer.org
+https://www.tandem.net
+https://www.italki.com
+https://www.omegle.com
+https://www.ome.tv"
+35,sgMXv2pHvWU,Lingbe in 2021 - Better or BUST? - Learn Spanish App Review,59,10,0.1,0,2021-04-14,17:30:08,2,afternoon,735,48,0,0,24,9.166666666666666,hd,true,True,https://i.ytimg.com/vi/sgMXv2pHvWU/maxresdefault.jpg,1280,720,"['easy spanish', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'omegle polyglot', 'learn spanish', 'lingbe review', 'best language app', 'language apps']",28,24,none,en,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Technology']",El Gringo,2200,119481,70,"Lingbe is a language exchange app that has a steadily growing presence amongst the language learning communities. Recently, they have made some improvement to the app so I decided to take a quick tour and see if we could find anyone to talk to.
+
+Be sure to download Linbe and use code SAM294 for 100 free Lingos
+
+If you're new here, for the last 5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. 
+If you want to see more, here's a playlist of some of my favorite Spanish learning resources! 👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q"
+36,QCbiVurnceU,Lingo With El Gringo - LEARN SPANISH They DON’T Teach In Class!,63,12,0.3333333333333333,0,2020-07-26,00:14:15,6,late_night,704,67,3,0,14,6.083333333333333,hd,false,True,https://i.ytimg.com/vi/QCbiVurnceU/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'authentic tacos', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Stories', 'Duolingo Podcast', 'Duolingo app', 'App', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish']",31,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Hola a todos!
+Over the past few years of learning Spanish, I have learned that the most useful words and phrases are not taught in a traditional setting. This series is for those who want to broaden their Spanish vocabulary.
+ If you enjoy the video please be sure to like, and if you’re into this kind of stuff go ahead and subscribe."
+37,CT8Q3b7l3s8,The BEST Book to Read for SPANISH Learners,42,8,0.25,0,2021-01-15,13:00:06,4,afternoon,682,52,0,0,25,3.5833333333333335,hd,false,True,https://i.ytimg.com/vi/CT8Q3b7l3s8/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'laoshu505000', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'white guy', 'gringo', 'easy spanish', 'learning Spanish', 'Xiáomanyc en Español', 'lingopie review', 'learn spanish fast', 'spanish books to learn spanish', 'best spanish books for beginners', 'Short Stories in Spanish']",26,24,none,en,,El Gringo,2200,119481,70,"If you'd like a copy for yourself follow the link(s) below: 
+(the channel may receive a small commission for items purchased) 
+
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA
+
+FREE 30-day Kindle Unlimited Trial: https://amzn.to/2Kkz1k4
+
+It's no secret that Spanish textbooks are far from engaging. I have some good news, there are WAY more entertaining options out there to learn Spanish through reading. Today I'll show you one of my favorites. If you're in the beginner-intermediate stage, this book of short stories was made for you!
+
+
+
+
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish!"
+38,k516yDA_Yq0,The BEST Spanish Learning Tool that NOBODY Talks About (FREE),61,10,0.3,0,2020-10-03,12:00:08,5,afternoon,678,52,1,0,32,4.55,hd,true,True,https://i.ytimg.com/vi/k516yDA_Yq0/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'white guy', 'gringo', 'easy spanish', 'Complete Language Transfer', 'Language Transfer Review', 'Spanish Language Transfer', 'Spanish app review', 'learning Spanish', 'Xiáomanyc en Español', 'lingopie review']",27,24,none,,"['https://en.wikipedia.org/wiki/Health', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"When it comes to language learning, I don't believe there is a single program out there that will work for EVERYBODY who tries it. However, this one is awfully close! Be sure to check it out for yourself, you have absolutely nothing to lose!
+
+(Not sure if this needs to be mentioned but this is NOT a sponsored video)
+
+Experience it wherever is most convenient for you:
+
+https://www.languagetransfer.org/
+https://soundcloud.com/languagetransfer
+https://www.youtube.com/user/LanguageTransfer
+
+Or download the app!
+
+https://apps.apple.com/us/app/language-transfer/id1519599004
+https://play.google.com/store/apps/details?id=org.languagetransfer&hl=en_US
+
+Support Mehalis and the Language Transfer movement to be able to vote on the next course!
+https://www.languagetransfer.org/support"
+39,zS1gYYD5yag,White Guy Recites TONGUE TWISTERS With Spanish Speakers,55,8,0.25,0,2021-01-02,13:00:09,5,afternoon,653,29,1,0,14,6.25,hd,false,True,https://i.ytimg.com/vi/zS1gYYD5yag/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'immersion', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish challenge', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'flirt in spanish', 'El Gringo', 'lingopie review', 'Tongue twister']",27,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"Hola a todos, soy El Gringo!
+For the last 4-5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q
+
+
+Are you learning Spanish? Do you want to practice for free? I have been using Ome.tv (think of it like a rule-enforced Omegle) for the last couple weeks and I have been having a great time!
+
+What tongue twister should we try next time?
+
+#LearnSpanish #PracticeSpanish #TongueTwister"
+40,9VehWMkbUvQ,The TRUTH About Kobe Bryant's SPANISH Ability - Spanish Analysis,64,10,0.2,0,2021-02-12,13:00:03,4,afternoon,612,49,0,0,34,5.25,hd,true,True,https://i.ytimg.com/vi/9VehWMkbUvQ/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language omegle', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish for beginners', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'practicing spanish', 'spanish review', 'analyze spanish', 'spanish analysis', 'kobe bryant speaking spanish', 'kobe bryant', 'kobe bryant talking in spanish']",26,24,none,en,,El Gringo,2200,119481,70,"Some of my FAVORITE Spanish learning sources are listed blow 👇👇👇
+Short Stories in Spanish for Beginners (Volume 1): https://amzn.to/2Kf5d8p 
+Short Stories in Spanish for Beginners (Volume 2): https://amzn.to/3oIOitW
+Short Stories in Spanish for Intermediate Learners: https://amzn.to/35EdFFA
+Pimsleur Spanish: https://amzn.to/2OBcbqd
+Language Transfer: https://www.languagetransfer.org/complete-spanish 
+
+It's no secret that basketball superstar Kobe Bryant was fluent in Italian, but how proficient was his Spanish? 
+
+If you're new here, I'm El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish!"
+41,tqpVbqezgRM,Learning Spanish - An Interview With Shane Godliman,51,7,0.0,0,2021-01-08,13:00:30,4,afternoon,588,42,0,0,19,17.916666666666668,hd,false,True,https://i.ytimg.com/vi/tqpVbqezgRM/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'immersion', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish challenge', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'Spanish interview', 'Shane Godliman', 'Spanish advice']",28,24,none,en,,El Gringo,2200,119481,70,"Hey everyone, my name Sam and for those who don't know me I am learning Spanish. 
+In this video we are joined by Shane Godliman, a fellow language learner and YouTube creator! Shane has been learning Spanish for the last 14 months and gives us his insight and some advice when it comes to learning most effectively and remaining engaged. Follow Shane with the links below!
+
+Youtube: https://www.youtube.com/channel/UCyRPaJSRRjoaiYXo7G76bwA
+Instagram: https://www.instagram.com/shanegodliman/?hl=en
+
+We had a few technical difficulties and the video froze a couple times, I apologize! 
+
+Chapters:
+00:00 Introduction
+01:23 Why Spanish?
+04:14 What Resources Are You Using?
+09:09 Are Castilian Sources Difficult to Find?
+11:54 How Long Have You Been Learning?
+12:24 What Are Your Spanish Goals?
+15:27 Advice For Beginners?"
+42,euCdeA92oTs,EL GRINGO vs. Mexican Snacks & Candies. WHO WILL WIN? - MexiCrate Review,72,11,0.45454545454545453,0,2020-06-20,13:00:27,5,afternoon,475,23,2,0,20,9.416666666666666,hd,false,True,https://i.ytimg.com/vi/euCdeA92oTs/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Portuguese language', 'Laoshu505000', 'Mexican candy', 'Mexican food', 'Mexicrate', 'Mexicrate Review', 'Review', 'Spicy candy', 'Mexican snacks', 'lingopie review']",26,22,none,en,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"To order Mexicrate visit https://mexicrate.com/ (Remember to use promo code TRYUS)
+
+In my experience, language learning is more fun when there's food involved. Cuisine is a major component to culture, and the best way to immerse yourself in the food is to dig in! I would love to see your thoughts on which candies we tried, and what we should be on the lookout for next time."
+43,RlLEqTfl9TA,El Gringo attempts to cook AREPAS - LEARN SPANISH,49,8,0.375,0,2020-07-04,12:01:10,5,afternoon,460,32,0,0,27,7.6,hd,false,True,https://i.ytimg.com/vi/RlLEqTfl9TA/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'Latin American food', 'central america', 'cuisine', 'gringo', 'Mexican food', 'authentic tacos', 'immersion', 'latin cuisine', 'Arepas', 'how to cook arepas', 'venezualan arepas', 'arepa recipe', 'arepa taste test', 'colombian arepas']",30,22,none,en,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"In my quest to learn Spanish I have discovered that it’s easier to do while food is involved. On this week’s video we try to make a famous South American staple known as “arepas.”
+
+This particular recipe calls for：
+1 Cup of P.A.N. White Corn Flour
+1 Cup of water
+Dash of salt
+
+Cook for 4-5 minutes on each side over medium heat.
+
+Makes ~3 servings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+learn Spanish,How to learn Spanish,Spanish lessons,Practice Spanish,Spanish for beginners,language challenge,speaking spanish,speak spanish,spanish challenge,xiaomanyc,laoshu505000,los gringosTV,Spanish phrases,Spanish basics,Spanish language,Laoshu505000,Latin American food,central america,cuisine,gringo,Mexican food,authentic tacos,immersion,latin cuisine,Arepas,how to cook arepas,venezualan arepas,arepa recipe,arepa taste test,colombian arepas"
+44,vzUqu2FNg1k,Lingo With El Gringo - Kitchen Words and Phrases - LEARN SPANISH,64,10,0.2,0,2020-08-19,19:00:10,2,night,453,36,0,0,26,7.3,hd,false,True,https://i.ytimg.com/vi/vzUqu2FNg1k/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo app', 'App', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang']",31,22,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Welcome back to another edition of Lingo With El Gringo! I’ve noticed along my own journey that most people learning Spanish figure out the same core vocabulary around kitchen appliances and utensils, but there are still a ton of seemingly common items that go untaught. Today I’ll be sharing some new words, and be sure to stick around to the end of the video to see how you do on the quiz!"
+45,8D47Rc3dcz0,Drinking a DOUBLE MAGNUM of wine while in quarantine,52,9,0.2222222222222222,0,2020-03-29,15:12:00,6,afternoon,439,21,0,0,3,13.35,hd,false,False,https://i.ytimg.com/vi/8D47Rc3dcz0/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo app', 'App', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang']",31,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"The state of Kansas is a bit late to the party, but yesterday they announced a state wide Stay-At-Home order. In honor of staying in Ashley and I decided to do what we do best - drink wine. 
+
+This video is going to seem discombobulated, imagine that. 🙄 😂 🍷"
+46,_aIsngTJcLY,Indonesian Guy Shocks ME With Fluent Spanish!,45,7,0.14285714285714285,0,2021-05-21,12:00:24,4,afternoon,430,39,0,0,21,6.066666666666666,hd,true,True,https://i.ytimg.com/vi/_aIsngTJcLY/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language challenge', 'language omegle', 'laoshu505000', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'xiaoma spanish', 'practicing spanish', 'omegle polyglot', 'learn spanish']",28,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"This was a blast, shoutout to everyone in the video! What was your favorite part? Let me know in the comments below! 
+
+Ome.tv is a free online chatroom similar to Omegle, but it has enforced rules so it's a great place to practice languages!
+
+If you're new here, for the last 5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. 
+If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q"
+47,C-TXzx52Y0o,Can a Spanish Speaking GRINGO Understand Spoken Portuguese?,59,8,0.125,0,2021-05-13,12:00:04,3,afternoon,402,27,0,0,21,9.883333333333333,hd,false,True,https://i.ytimg.com/vi/C-TXzx52Y0o/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'Learn portuguese', 'how to learn portuguese', 'portuguese lesson', 'practice portuguese', 'portuguese for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'spanish dialogue', 'portuguese dialogue', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Portuguese language', 'lingopie review', 'gringos speaks spanish']",25,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"Ever since I started learning Spanish, I’ve always been fascinated with the other romance languages. Are they close enough to be mutually intelligible? 
+No spoilers.. but don’t expect this to go well..
+
+Tomaz and I have been friends for the last 4 years, and when we're together we often discuss the subtle differences between Spanish and his native Portuguese. Today we're going to look at some not-so-related phrases in Portuguese and see how well I can fair. 
+
+While learning Spanish, what experiences have you had with other Latin based languages? Let me know in the comments!
+
+If you're new here, soy El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish! Be sure to check out some of my more recent videos to get an idea of where my Spanish level is at!"
+48,zCTxZ2ynr_w,First Attempt at Reading IN CHINESE,35,6,0.3333333333333333,0,2020-02-09,17:40:24,6,afternoon,383,27,1,0,14,8.05,hd,false,True,https://i.ytimg.com/vi/zCTxZ2ynr_w/maxresdefault.jpg,1280,720,"['Chinese', 'Mandarin', 'Learning', 'Education', 'Selfstudy', 'Chinese language', 'Chinese challenge', 'language challenge', 'Speak Chinese', 'Chinese dialogue', 'learn Chinese', 'Chinese phrases', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Learning Chinese', 'Language progress', 'Chinese progress', 'language update', 'chinese update', 'Mandarin Chinese', 'Learn Mandarin', 'Mandarin phrases', 'Mandarin update', 'Mandarin progress', 'Mandrin language', 'Speak Mandarin', 'Languagebae505000', '口语老炮儿马思瑞 Laoma Chris', 'Mandarin Challenge']",30,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"After 6 months of learning Mandarin, I’ve decided to push myself and start reading consistently. This is my first attempt, so I decided to find the easiest book I could. 
+
+For those of you with stronger Chinese abilities (shouldn’t be too hard 🤣) please let me know how you progressed, as well as if you have any tips or tricks to improving comprehension!
+
+If you (or somebody you know) would like to give this book a try, you can find it here on Amazon!
+*Updated version* https://amzn.to/3s6yKSJ
+
+Or download the digital version with a free 30-day KindleUnlimited trail!
+https://amzn.to/35psDz6"
+49,YeecAF97IQU,Analyzing Will Smith's SPANISH - LEARN SPANISH,46,7,0.42857142857142855,0,2021-05-28,12:00:30,4,afternoon,376,42,0,0,29,4.75,hd,true,False,https://i.ytimg.com/vi/YeecAF97IQU/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language omegle', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish for beginners', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'practicing spanish', 'spanish review', 'analyze spanish', 'spanish analysis', 'will smith', 'will smith spanish interview', 'will smith speaking spanish']",26,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"In this video we're going to take a look at Hollywood superstar Will Smith and his ability to speak and understand Spanish. Let me know in the comments if you're shocked at his ability!
+
+If you're new here, I'm El Gringo. Go ahead and subscribe to follow along with weekly content about (almost) all things Spanish!"
+50,Q_yWlDCEFOk,My girlfriend attempted to give me a haircut during LOCKDOWN,60,10,0.1,0,2020-04-24,16:24:51,4,afternoon,358,11,0,0,4,11.75,hd,false,False,https://i.ytimg.com/vi/Q_yWlDCEFOk/maxresdefault.jpg,1280,720,"['easy spanish', 'how to learn spanish', 'language omegle', 'learn spanish free', 'practice spanish', 'spanish', 'spanish app review', 'spanish for beginners', 'spanish ome.tv', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'xiaomanyc', 'xiáomanyc en español', 'El Gringo', 'lingopie review', 'gringo speaking spanish', 'practicing spanish', 'spanish review', 'analyze spanish', 'spanish analysis', 'will smith', 'will smith spanish interview', 'will smith speaking spanish']",26,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"I probably needed a haircut 2 weeks before the government shut down all the hair salons, so now that we’re weeks past that it’s time to take matters into our own hands. 
+Ashley has never cut hair before, so naturally she was my #1 pick to clean me up a bit."
+51,HOJHQoI1zSo,Tracking Your Progress w/ Charlie's Language Journey,52,8,0.0,0,2021-06-08,12:00:08,1,afternoon,318,30,0,0,26,13.216666666666667,hd,false,True,https://i.ytimg.com/vi/HOJHQoI1zSo/maxresdefault.jpg,1280,720,"['language learning', 'how to learn a language', 'language learning tips', 'language learning motivation', 'how to learn a language on your own', 'how to learn a language for free', 'how to learn spanish', 'language omegle', 'laoshu505000', 'practice spanish', 'spanish', 'spanish app review', 'spanish basics', 'spanish for beginners', 'spanish language', 'spanish lessons', 'spanish on omegle', 'spanish phrases', 'speak spanish', 'speaking spanish', 'white guy', 'El Gringo', 'Spanish interview', 'Spanish advice']",24,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],El Gringo,2200,119481,70,"Hey everyone, my name Sam and for those who don't know me I am learning Spanish. 
+In this video we are joined by Charlie Molina, a fellow gringo Spanish-learner! Charlies has been learning Spanish for the last 20 months and gives us his insight and some advice when it comes to staying consistent and tracking progress. Follow Charlie's journey! 
+👇👇👇👇
+https://www.youtube.com/channel/UCSehQz2NKe0TCTY7IhjUrzQ
+
+Video Chapters:
+1:18-3:02 Why Spanish?
+3:02-5:51 Why document the process?
+5:51-8:03 How does dyslexia affect the process?
+8:03-9:55 What resources are you using?
+9:55-11:44 How important is familiarity?
+11:44-12:36 Any advice?"
+52,TNCyKCavv3M,Lingo With El Gringo - JUST IN CASE - Learn REAL Spanish,56,10,0.4,0,2021-04-10,09:00:15,5,morning,302,34,0,0,20,2.2333333333333334,hd,false,True,https://i.ytimg.com/vi/TNCyKCavv3M/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,24,none,en,,El Gringo,2200,119481,70,"Welcome to Lingo With El Gringo, where we go over Spanish words and phrases NOT taught in a traditional classroom setting. 
+
+Today we'll look at a very common phrase, with a strange literal translation.
+
+If you're new here, for the last 5 years I have been learning Spanish for free on the internet. Lately, I have been practicing with online chatrooms. If you enjoy what you see be sure to ""like"" and subscribe, there's a new video every week. 
+If you want to see more, here's a playlist of me practicing Spanish with strangers! 👇👇👇👇👇
+https://www.youtube.com/playlist?list=PL9G4IgrSODxZnl6DXEpJaeecLfrx3-K2q"
+53,aIAiljkFr1k,Waxing My Nose!!,16,3,0.0,0,2020-02-01,20:19:22,5,night,293,8,0,0,2,8.966666666666667,hd,false,False,https://i.ytimg.com/vi/aIAiljkFr1k/hqdefault.jpg,480,360,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Not too long ago, Ashley pointed out a savage nose hair way longer than it should be. 
+So, after a nearly fruitless search for a nose waxing kit we finally got ahold of one."
+54,Y6SKVDg1K0o,WE WON THE LOTTERY!!!!,22,4,1.0,0,2019-11-03,18:25:48,6,night,286,13,1,0,7,9.0,hd,false,False,https://i.ytimg.com/vi/Y6SKVDg1K0o/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,Ashley and I found inspiration to play the lottery after finding an outlandish video on the internet.
+55,Ec3NJBltJpA,Is there really a difference between cheap and expensive wine?!,63,10,0.0,0,2019-08-23,12:41:29,4,afternoon,261,13,0,0,9,11.916666666666666,hd,false,False,https://i.ytimg.com/vi/Ec3NJBltJpA/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"Ashley and I sat down and blind tasted three differently priced California Cabernet Sauvignons to answer the question, does expensive wine actually taste better?
+
+Have any challenge ideas you’d like to see us try? Let us know in the comments below!"
+56,F70DLZoGcuY,Eating VEGAN for a week,23,5,0.2,0,2019-11-30,20:04:46,5,night,171,17,0,0,17,12.816666666666666,hd,false,True,https://i.ytimg.com/vi/F70DLZoGcuY/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"Occasionally I like to do a little challenge, just to shake things up. Sometimes I’ll go a couple weeks without alcohol, or attempt a month without caffeine, but this time I arguable took my challenge farther than I ever have. At the end of the week it wasn’t as daunting as I thought it would be, with the exception of just three things..."
+57,ujI8N-pfptQ,Can two 20-somethings tell the difference between cheap vs expensive alcohol?!,78,12,0.0,0,2019-08-27,13:48:45,1,afternoon,134,8,0,0,2,13.25,hd,false,False,https://i.ytimg.com/vi/ujI8N-pfptQ/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"Ashley and I hardly ever drink liquor, and when we do it’s definitely not straight vodka at room temperature. We compare some of the world’s most recognized names in vodka, scotch, and bourbon. Grab an aspirin and join us!"
+58,IpaqlUBkpso,Let’s Do Each Others Makeup!,28,6,0.0,0,2019-10-08,20:37:00,1,night,116,2,0,0,3,16.4,hd,false,False,https://i.ytimg.com/vi/IpaqlUBkpso/hqdefault.jpg,480,360,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"Somebody recommended that we try this, and we’re glad we did! Turns out applying makeup is a breeze - as long as you’re not too concerned with the end result.."
+59,YTthLWYzYPM,WE WENT SKYDIVING!! ...kind of..,32,5,0.6,0,2019-09-30,18:29:04,0,night,108,7,0,0,0,10.883333333333333,hd,false,False,https://i.ytimg.com/vi/YTthLWYzYPM/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,Ashley and I went to Kansas City and while we were there we thought we’d try something new!
+60,2tihCUXypaU,Running a 5K while under the influence,38,7,0.14285714285714285,0,2020-01-08,15:30:16,2,afternoon,74,2,0,0,4,10.266666666666667,hd,false,False,https://i.ytimg.com/vi/2tihCUXypaU/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"I ran cross country in 7th grade and I absolutely hated it. 
+I ran cross country again in 8th grade just to be sure, and I still hated it. 
+
+I live a relatively active lifestyle and I’m able to maintain that while staying far away from treadmills and ellipticals. 
+
+However, my mother runs often. Her 2019 resolution was to run three 5Ks (3.1mi) a week, and I made the mistake of telling her I’d run the last one with her. So on December 31st we geared up for the Resolution Run, a traditional 5K run with a non traditional twist. My mom had fun, my dad and I didn’t, and Ashley was there for moral support (she wasn’t “medically cleared” to run). 
+
+We did, however, all get to drink beer. So there’s always that.."
+61,1sEIECDtUkw,Grocery Shopping,16,2,0.0,0,2019-08-04,16:30:03,6,afternoon,68,2,0,0,0,3.25,hd,false,True,https://i.ytimg.com/vi/1sEIECDtUkw/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,After returning from Iceland and Norway Ashley and I decide to go grocery shopping together.
+62,3lO9y_bA35A,Painting While Drinking,23,3,0.0,0,2020-02-22,21:35:33,5,night,64,4,0,0,0,6.65,hd,false,False,https://i.ytimg.com/vi/3lO9y_bA35A/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",El Gringo,2200,119481,70,"Ashely and I did the group painting session deal, this is how that day went."
+63,k7v5A0pXqTs,Botanical Gardens Illuminations,31,3,0.0,0,2020-01-01,16:34:58,2,afternoon,63,4,0,0,2,4.783333333333333,hd,false,False,https://i.ytimg.com/vi/k7v5A0pXqTs/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Ashley and I finally went to see the largest Christmas Lights display in the entire state (maybe). I got to play with my new camera and did so unsuccessfully, recording some of the darkest and worst footage I have ever seen. This is our story of that night."
+64,dP8zXsKrVgg,Traveling home from Iceland,27,4,0.0,0,2019-08-03,12:51:36,5,afternoon,55,1,0,0,0,5.583333333333333,hd,false,True,https://i.ytimg.com/vi/dP8zXsKrVgg/hqdefault.jpg,480,360,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"We decided to document the long journey home from Iceland. 
+We drink coffee, wine, and even briefly break up."
+65,sArASdXoNUA,Throwing Axes in a Bar,22,5,0.0,0,2020-01-26,09:18:47,6,morning,53,4,1,0,0,6.983333333333333,hd,false,True,https://i.ytimg.com/vi/sArASdXoNUA/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],El Gringo,2200,119481,70,"Axe throwing establishments are on the rise all over the nation, so I decided to check it out with Alex. 
+
+After signing a waiver, we were given two sharp axes and an hour to keep busy."
+66,o8pqbYylgzU,The Zoo,7,2,0.0,0,2020-03-05,21:41:17,3,night,51,11,0,0,9,12.683333333333334,hd,false,False,https://i.ytimg.com/vi/o8pqbYylgzU/maxresdefault.jpg,1280,720,"['learn Spanish', 'How to learn Spanish', 'Spanish lessons', 'Practice Spanish', 'Spanish for beginners', 'language challenge', 'speaking spanish', 'speak spanish', 'spanish challenge', 'xiaomanyc', 'laoshu505000', 'los gringosTV', 'Spanish phrases', 'Spanish basics', 'Spanish language', 'Laoshu505000', 'gringo', 'immersion', 'duolingo', 'duolingo review', 'How to', 'Duolingo Podcast', 'Duolingo Spanish', 'Learn Spanish Duolingo', 'Espanol', 'Learn espanol', 'How to Learn Spanish', 'easy spanish', 'mexican slang', 'spanish for beginners']",30,22,none,,"['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",El Gringo,2200,119481,70,So I really like using this as a medium to practice and track some of my language process so I’m gonna start speaking more Spanish and Chinese intermittently. If you happen to speak either of those please mention the mistakes I make in the comments. It’s a learning process and the only way to sound good is to first sound bad for a long long time.
