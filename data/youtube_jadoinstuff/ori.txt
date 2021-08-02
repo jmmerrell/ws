@@ -1,0 +1,82 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,GziDUG_vFMc,100 MORE Voice Impressions,26,4,0.25,0,2019-10-11,15:00:02,4,afternoon,1844087,83555,2457,0,6079,11.816666666666666,hd,false,True,https://i.ytimg.com/vi/GziDUG_vFMc/maxresdefault.jpg,1280,720,"['voice impressions', 'impressions', 'anime', 'video games', 'voice acting', 'it', 'junko', '100 voice impressions', 'ori', 'neverending ori', 'minecraft', 'overwatch', 'danganronpa']",13,1,none,en-US,['https://en.wikipedia.org/wiki/Entertainment'],Ori,102000,8649405,14,"I tried 100 voice impressions again! Everything from anime to television to video games. Do I regret it? Absolutely. Here for your enjoyment or for you to cringe at, whichever your heart desires, is my second attempt at voicing 100 different characters. This video took quite a bit of work, and it's obviously not the BEST but look, all I can do is try, so here ya go, fam! :D
+
+Keep up with me!
+INSTAGRAM: https://www.instagram.com/neverending.ori/
+TWITTER: https://twitter.com/NeverendingOri?lang=en"
+1,bpSOqBQzWXk,i tried voicing every My Hero Academia character. all of them.,62,11,0.0,0,2019-07-06,12:58:07,5,afternoon,1180187,84242,2061,0,9506,23.183333333333334,hd,false,True,https://i.ytimg.com/vi/bpSOqBQzWXk/maxresdefault.jpg,1280,720,"['my hero academia', 'mha', 'bnha', 'boku no hero academia', 'voice impressions', 'anime', 'impressions', 'cosplayer', 'challenge', 'himikotoga', 'tsuyu', 'mha impressions', 'my hero academia impressions', 'bnha impressions', 'voice acting', 'plus ultra']",16,1,none,,,Ori,102000,8649405,14,"Wow Plus Ultra and all that! I tried voicing EVERY MHA character. There...there were a lot. I have regrets...
+
+INSTAGRAM: https://www.instagram.com/goldengorecosplay/
+TWITTER:  https://twitter.com/OriCosplay?lang=en
+
+Dabi Photo by @cocoreccho on Instagram"
+2,3NFpomPagwA,CRAZY ANIME LAUGH CHALLENGE,27,4,1.0,0,2020-02-09,18:13:04,6,night,396074,33268,650,0,2141,15.616666666666667,hd,false,True,https://i.ytimg.com/vi/3NFpomPagwA/maxresdefault.jpg,1280,720,"['voice impressions', 'anime', 'anime laugh', 'yandere', 'crazy', 'anime laughs', 'voice impression', 'voice acting', 'anime voices', 'ohshc', 'danganronpa', 'junko', 'crazy anime laugh', 'yandere laugh', 'challenge']",15,23,none,en,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Ori,102000,8649405,14,"You know how like, in anime, sometimes characters are insane, and their laughs are like, also insane? I tried to do that. Whether it's the psycho yandere, the Ojou-sama, or the just plain weird or funny anime characters, let's have a laugh today!"
+3,j0EEpKHRHg0,40 ANIME IMPRESSIONS,20,3,0.6666666666666666,0,2019-03-16,12:25:42,5,afternoon,229864,18401,212,0,1341,7.233333333333333,hd,false,True,https://i.ytimg.com/vi/j0EEpKHRHg0/maxresdefault.jpg,1280,720,"['impressions', 'voice impressions', 'anime', 'anime impressions', 'yoi', 'yuri on ice', 'black butler', 'cosplay', 'cosplayer', 'darling in the franxx', 'bnha', 'mha', 'boku no hero academia', 'my hero academia', 'fairy tail', 'anime voice impressions', 'black butler impressions', 'cdawgva', 'the devil is a part timer', 'spirited away', 'deathnote', 'death note', 'goldengorecosplay', 'ori', 'golden gore cosplay', 'ohshc', 'ouran highschool host club', 'voice acting', 'voice actor', 'voice', 'act', 'acting', 'actor', 'seven deadly sins', 'soul eater', 'pokemon']",36,1,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Ori,102000,8649405,14,"UwU notice me senpai (●´ω｀●) ! It- it's not like I made a video doing anime impressions or anything! Baka! Yep, anime impressions. So some of these are pretty bad, but I tried my best. Also I'm sorry there are so many bloopers. I'm bad at this. Thanks for watching! 
+
+COSPLAY INSTAGRAM: https://www.instagram.com/goldengorecosplay/
+TWITTER: https://twitter.com/OriCosplay?lang=en"
+4,8CRJxyeDDVo,Jack Frost Cosplay Video,24,4,0.0,0,2019-02-24,02:49:36,6,late_night,21692,1019,45,0,96,1.6833333333333333,hd,false,True,https://i.ytimg.com/vi/8CRJxyeDDVo/hqdefault.jpg,480,360,"['jack frost', 'rise of the guardians', 'dreamworks', 'jack frost cosplay', 'cmv', 'cosplay music video', 'cosplay', 'cosplayer', 'crossplay', 'rise of the guardians cosplay', 'snow', 'frost', 'movie', 'dreamworks movie', 'jack frost rise of the guardians', 'golden gore cosplay', 'ori', 'cosplay video', 'winter']",19,1,none,,,Ori,102000,8649405,14,"Just messing around in Jack Frost cosplay! Stay tuned for some hilarious bloops at the end.
+
+COSPLAY INSTAGRAM: https://www.instagram.com/goldengorecosplay/"
+5,gyVBxD5LudA,Dabi and Toga: Cosplay Video,28,5,0.0,0,2020-01-04,14:30:00,5,afternoon,14131,857,31,0,88,3.183333333333333,hd,false,True,https://i.ytimg.com/vi/gyVBxD5LudA/maxresdefault.jpg,1280,720,"['my hero academia', 'my hero', 'boku no her academia', 'mha', 'bnha', 'bnha cosplay', 'mha cosplay', 'toga', 'toga himiko', 'dabi', 'dabi cosplay', 'himiko toga cosplay', 'cmv', 'cosplay', 'cosplayer', 'cosplay video', 'cosplay showcase']",17,1,none,,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Ori,102000,8649405,14,"Some shots of our Dabi and Toga Himiko cosplays! Note: This was shot last year, so these are older versions of our cosplays. Also some bloopers, as always, because I can't do anything without being a dork XD
+
+INSTAGRAM:
+Dabi (me): https://www.instagram.com/neverending.ori/ 
+Toga:  https://www.instagram.com/kaoricosplays/
+
+TWITTER:
+ https://twitter.com/NeverendingOri"
+6,bIqgmZCYgKI,Corpse Husband Cosplay,22,3,0.0,0,2021-02-03,06:11:51,2,morning,9017,774,15,0,50,0.25,hd,false,False,https://i.ytimg.com/vi/bIqgmZCYgKI/maxresdefault.jpg,1280,720,"['my hero academia', 'my hero', 'boku no her academia', 'mha', 'bnha', 'bnha cosplay', 'mha cosplay', 'toga', 'toga himiko', 'dabi', 'dabi cosplay', 'himiko toga cosplay', 'cmv', 'cosplay', 'cosplayer', 'cosplay video', 'cosplay showcase']",17,1,none,,['https://en.wikipedia.org/wiki/Entertainment'],Ori,102000,8649405,14,"I just wanted to try uploading a little mini video to see how it does! If you wanna see more cosplay stuffs, follow me on Instagram @ neverending.ori :) There's a new normal video on my channel if this isn't your thing! #corpse #corpsehusband #shorts"
+7,2ITxuHFC-lg,I read a FANFICTION in IMPRESSIONS (My Hero Academia Fanfic),60,10,0.3,0,2020-09-19,13:00:01,5,afternoon,8791,700,9,0,110,21.416666666666668,hd,false,True,https://i.ytimg.com/vi/2ITxuHFC-lg/maxresdefault.jpg,1280,720,"['my hero academia', 'bnha', 'mha', 'boku no hero academia', 'fanfic', 'fanfiction', 'impressions', 'voice impressions']",8,24,none,en-US,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Ori,102000,8649405,14,"Honestly...how have I not done this yet? I'm reading a My Hero Academia fanfiction in voice impressions! If you're reading this, comment your favorite MHA character down below, and try to guess mine! 
+
+Also, if you liked this, let me know if you want me to do it again, and with what fandom!
+
+FANFIC BY SNAKEMITTEN: https://www.instagram.com/snakemitten/
+
+FOLLOW ME OR SUFFER THE CONSEQUENCES (just kidding there are no consequences) (but I would appreciate it if you did :))
+INSTAGRAM: https://www.instagram.com/neverending.ori/
+TWITTER: https://twitter.com/NeverendingOri"
+8,pv8a3m5IzJ8,WIG 👏 REVIEW 👏 (Youvimi Review),31,4,0.5,0,2019-12-01,13:15:44,6,afternoon,6863,551,7,0,60,11.316666666666666,hd,false,True,https://i.ytimg.com/vi/pv8a3m5IzJ8/maxresdefault.jpg,1280,720,"['wig', 'wigs', 'cosplay', 'wig review', 'youvimi', 'cosplayer', 'review', 'cosplay wig', 'saiki k', 'saiki k cosplay', 'cosplay review', 'wig styling', 'kawaii', 'youvimi review']",14,1,none,,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Ori,102000,8649405,14,"A company called Youvimi sent me four wigs to review. These are my thoughts! This video is not sponsored and these are all my honest opinions. :) Oh, also I filmed this in a dorm that I'm temporarily living in, so that's why I'm being more quiet and more awkward than usual probably xD
+
+KEEP UP WITH ME:
+INSTAGRAM: https://www.instagram.com/neverending.ori/ 
+TWITTER: https://twitter.com/NeverendingOri
+
+YOUVIMI: https://www.youvimi.com/
+
+Blonde Wig: https://www.youvimi.com/products/lolita-long-curly-cosplay-wig-yv1176?_pos=3225&_sid=e5e8b869a&_ss=r
+
+Rainbow Wig: https://www.youvimi.com/products/lolita-harajuku-rainbow-wig-yv42092?_pos=3200&_sid=e5e8b869a&_ss=r&variant=22950870089809 
+
+Saiki Wig: https://www.youvimi.com/products/fashion-anime-short-hair-yv90033?_pos=1580&_sid=e5e8b869a&_ss=r"
+9,ws9vR27G8NI,GUESS THE IMPRESSION ft. Joshiiwuh,34,5,0.6,0,2020-06-28,11:30:01,6,afternoon,3091,344,1,0,52,23.7,hd,false,True,https://i.ytimg.com/vi/ws9vR27G8NI/maxresdefault.jpg,1280,720,"['voice impressions', 'challenge', 'collab', 'joshiiwuh', 'impressions', 'anime', 'voice challenge', 'guess the impression']",8,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Ori,102000,8649405,14,"Super excited to collab with the amazing Joshiiwuh for this video! (First ever collab, whoo!) We do our best to guess the voice impressions the other person is doing in a SUPER EXTREME BATTLE TO THE DEA- ok well actually it's just a challenge with no real consequences. But it was still really fun! Hope you all enjoy it :)
+
+FOLLOW JOSHIIWUH:
+Youtube: https://www.youtube.com/user/joshiiwuh
+Instagram: https://www.instagram.com/joshiiwuh/
+Twitter: https://twitter.com/joshiiwuh
+TikTok: joshiiwuhhh
+
+ME:
+Instagram: https://www.instagram.com/neverending.ori/
+Twitter: https://twitter.com/NeverendingOri
+TikTok: neverending.ori"
+10,lJtLqxd3RwQ,Making COFFEE JELLY from Saiki K but it's disastrous,52,10,0.3,0,2021-01-30,11:00:13,5,afternoon,1674,182,2,0,44,19.15,hd,false,True,https://i.ytimg.com/vi/lJtLqxd3RwQ/maxresdefault.jpg,1280,720,"['coffee jelly', 'saiki k', 'anime', 'anime cooking', 'the disastrous life of saiki k', 'anime food', 'anime irl']",7,1,none,en,"['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Ori,102000,8649405,14,"I tried making the oh-so-famous COFFEE JELLY from the anime ""The Disastrous Life of Saiki K."" and it's...well...a disaster. I am terrible at cooking! And following directions, apparently! Would you eat this Japanese dessert? Do you think our favorite psychic would approve? (probably not)
+
+SAY HI ON ANOTHER PLATFORM: 
+Instagram: https://www.instagram.com/neverending.ori
+Twitter: https://twitter.com/NeverendingOri
+
+THE RECIPIE from BABISH:
+https://www.youtube.com/watch?v=YxEcd_wTf5c&t=165s 
+
+MUSIC STUFFS: 
+Funky (Sting) by Twin Musicom is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/
+
+Artist: http://www.twinmusicom.org/"
+11,YtEjmrX7LDw,I can't open doors | Phasmophobia,33,6,0.16666666666666666,0,2020-10-23,14:00:07,4,afternoon,1149,111,2,0,34,26.633333333333333,hd,false,True,https://i.ytimg.com/vi/YtEjmrX7LDw/maxresdefault.jpg,1280,720,"['gameplay', 'playthrough', 'horror game', 'phasmophobia', 'gamer', 'game', 'video game', 'videogame']",8,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Ori,102000,8649405,14,"What's up, gamers? In honor of spooky season, I wanted to try something a little different for this channel. I played this funny, spooky, multiplayer horror game, Phasmophobia! I got to hunt to ghosts, got super scared, got foiled by doors, and had a lot of fun! Let me know if you want to see me play any other games in the comments :)
+
+FOLLOW YA TIRED SPOOKY GIRL:
+Instagram: https://www.instagram.com/neverending.ori/ 
+Twitter: https://twitter.com/NeverendingOri"
+12,IcMaMhRYEqk,When Ethan Winters has Healing Goo,34,6,0.0,0,2021-06-30,06:57:51,2,morning,509,79,0,0,10,0.9833333333333333,hd,false,False,https://i.ytimg.com/vi/IcMaMhRYEqk/hqdefault.jpg,480,360,"['gameplay', 'playthrough', 'horror game', 'phasmophobia', 'gamer', 'game', 'video game', 'videogame']",8,1,none,,"['https://en.wikipedia.org/wiki/Health', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Ori,102000,8649405,14,

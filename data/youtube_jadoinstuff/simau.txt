@@ -1,0 +1,721 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,fzdpKsqMOuU,"You're Welcome but every time Maui talks about himself in any way, the video speeds up",86,17,0.0,0,2016-12-31,13:35:33,5,afternoon,213822,3494,117,0,381,1.3333333333333333,hd,false,False,https://i.ytimg.com/vi/fzdpKsqMOuU/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'Maui', 'moana', 'movie', 'trailer', 'scene', 'scenes', 'shiny', ""you're"", 'your', 'welcome', 'music', 'video', 'full', 'song', 'meme', 'we', 'are', 'number', 'one', 'speeds', 'sped', 'speed', 'up', 'every', 'time', 'let', 'it', 'grow', 'memes', 'lorax', 'cocky', 'narssistic', 'how', 'bad', 'can', 'be', 'but', 'How bad can i be']",63,20,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Simau,5550,300328,53,"Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+1,k0IoTmGGgC0,MORTY PLAYS CS:GO (Funny Voice Trolling Moments),48,8,0.5,0,2016-04-19,00:56:33,1,late_night,18853,291,24,0,47,5.983333333333333,hd,false,False,https://i.ytimg.com/vi/k0IoTmGGgC0/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'leafyishere', 'leafy', 'is', 'here', 'luna', 'lunaa', 'austinffa', 'cs:go', 'cs', 'go', 'counter', 'strike', 'global', 'offensive', 'surfing', 'surf', 'gameplay', 'how', 'to', 'tutorial', 'call', 'of', 'duty', 'zombies', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentater', 'good', 'amazing', 'clone', 'rick', 'and', 'morty', 'dimension', 'adult', 'swim', 'justin', 'roiland', 'voice', 'trolling', 'impression', 'impressions', 'gaming', 'on', 'while']",63,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/channel/UC0YHDld_n1yuLbhNT6Qjv7w
+https://soundcloud.com/dj-zenit-official
+https://itunes.apple.com/us/artist/dj-zenit/id626884594
+https://twitter.com/djzenitswe
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+2,qHv4zzSjsrM,MORDECAI & RIGBY PLAY WARZONE (Funny Voice Trolling Moments),60,8,0.5,0,2021-04-11,13:30:14,6,afternoon,16807,1811,16,0,210,6.366666666666666,hd,false,False,https://i.ytimg.com/vi/qHv4zzSjsrM/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'regular', 'show', 'impressions', 'black', 'ops', 'modern', 'warfare', 'cod', 'call of duty', 'impersonation', 'slack', 'mordecai', 'rigby', 'muscle', 'man', 'play', 'warzone', 'War Zone', 'class', 'setup', 'setups', 'benson', 'skips', 'high', 'five', 'ghost']",70,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Comment if you counted how many times we say ""yeayuhh""
+
+Friends in this Video:
+Sway (Rigby/Muscle Man): https://www.youtube.com/channel/UCD0L-xsWRN79EzBAMBOlH2w
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+3,RcNDH4UQTns,Lin Manuel Miranda Reads His FanFiction,39,6,0.0,0,2017-06-26,12:07:48,0,afternoon,7400,206,6,0,54,3.966666666666667,hd,false,False,https://i.ytimg.com/vi/RcNDH4UQTns/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'hamilton', 'an', 'american', 'musical', 'moment', 'lin', 'manuel', 'miranda', 'Lin-Manuel Miranda', 'Moana', 'In', 'The', 'Heights', 'music', 'composing', 'silly', 'cinnamon', 'roll', 'fam', 'fanfic', 'fan', 'fiction', 'fanfiction', 'reads', 'his', 'about', 'himself']",52,20,none,en,['https://en.wikipedia.org/wiki/Video_game_culture'],Simau,5550,300328,53,"DISCLAIMER: This is obviously me and NOT Lin reading this, but if you thought it was Lin, thank you! Also, I did see the fight in the Hamilton facebook group chat. My opinion is to let them do what they want lol they aren't harming you, let them indulge in their fantasies. I made this so we could all get a lil laugh out of it! 
+
+Music used:
+- The Flash CW Theme Song
+- How to Train Your Dragon Score: Forbidden Friendship
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+4,lrBelyIU90o,CARL WHEEZER GETS BOOTED OFFLINE (Funny Voice Trolling Moments Call of Duty: Modern Warfare),92,14,0.35714285714285715,0,2020-10-22,00:31:00,3,late_night,4902,155,2,0,13,4.95,hd,false,False,https://i.ytimg.com/vi/lrBelyIU90o/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'umokayig', 'um', 'okay', 'ig', 'carl', 'wheezer', 'plays', 'modern', 'warfare', 'voice', 'impression', 'trolling', 'impressions', 'cold', 'war', 'beta', 'jimmys', 'jimmy', 'neutron', 'mom', 'warzone']",46,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"This one goes out to Vegabomb. Let's collab sometime my guy :) 
+
+Also.. there is a hidden message in the captions. If yall can find it, comment it!
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+5,EtthSHsayfQ,MORDECAI & RIGBY PLAY MORE WARZONE (Funny Warzone Voice Impression Moments),75,10,0.5,0,2021-04-25,13:30:19,6,afternoon,2919,350,1,0,53,3.966666666666667,hd,false,False,https://i.ytimg.com/vi/EtthSHsayfQ/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'mordecai', 'rigby', 'regular', 'show', 'regular show', 'benson', 'muscle', 'man', 'impressions', 'gold', 'buzzer', 'agt', 'funniest', 'warzone', 'wz', 'trailer', 'nuke', 'event', 'tiktok', 'simauan', 'sim']",65,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Subscribe to Rigby:
+https://www.youtube.com/channel/UCD0L-xsWRN79EzBAMBOlH2w
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+6,ysmKj_VK25g,5. Last Christmas (Carl Wheezer Sings Christmas Classics Vol. 1) READ PINNED COMMENT,84,13,0.23076923076923078,0,2020-11-27,13:00:12,4,afternoon,2575,78,0,0,14,2.533333333333333,hd,false,False,https://i.ytimg.com/vi/ysmKj_VK25g/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'sings', 'christmas', 'classics', 'holiday', 'xmas', 'tune', 'tunes', 'vol', 'volume', 'one', 'vol 1', 'album', 'wham', 'last', 'cover', 'singing', 'sing', 'song', 'songs', 'hits', 'hit', 'mariah', 'carey', 'andy', 'williams', 'josh', 'groban', 'jimmy', 'neutron', 'jimmys', 'mom']",75,24,none,en,['https://en.wikipedia.org/wiki/Music'],Simau,5550,300328,53,"I'll be releasing one of these each week all the way up until Christmas! Today, however, I'm releasing both this one and ""The Most Wonderful Time Of The Year!"" Enjoy! And please share with your friends! :)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+7,bVDCpbSWFiA,RICK AND MORTY PLAY FRIDAY THE 13TH (Voice Impression Funny Moments),68,11,0.6363636363636364,0,2017-08-01,20:34:11,1,night,2431,52,5,0,23,6.483333333333333,hd,false,False,https://i.ytimg.com/vi/bVDCpbSWFiA/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'rick', 'and', 'morty', 'season 3', 'season', 'three', 'play', 'impression', 'voice', 'tutorial', 'impressions', 'videogames', 'BCC', 'Trolling', 'Friday', 'the', '13th', 'Game', 'trolling', 'chris', 'ray', 'gun', 'sounds', 'like', 'pizza', 'justin', 'roiland', 'szechuan', 'sauce']",54,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"oh no broh, Rick got Morty into some deep trouble in this one broh. woah.
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+8,m8tOTfyx5PI,GRUNKLE STAN PLAYS MODERN WARFARE?! (Funny Gravity Falls Call of Duty Moments!!),80,12,0.4166666666666667,0,2020-10-31,12:07:11,5,afternoon,1824,102,0,0,6,4.116666666666666,hd,false,False,https://i.ytimg.com/vi/m8tOTfyx5PI/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'gravity', 'falls', 'stan', 'stanley', 'stanford', 'pines', 'greatest', 'one', 'liner', 'liners', 'dipper', 'impressions', 'Grunkle', 'cold', 'war', 'modern', 'warfare', 'warzone', 'alex', 'hirsch', 'actor', 'actors', 'justin', 'roiland', 'facts', 'realistic']",70,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Hey guys! Hope you enjoyed this video! I released it a day early in celebration of Halloween! The voice itself is still a work in progress so it's definitely nowhere near perfect. Read more below for some fun little things :)
+
+HUGE Thank you to Phizzy for a tutorial on creating the title text from Gravity Falls! It's how I created the thumbnail as well as the little intro I animated at the beginning. Go check him out: https://www.youtube.com/channel/UCcV1EjpBgmIKkQRTO2g529g
+
+Outro Song creator:
+https://soundcloud.com/lakeyinspired
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+9,7iTOmJ46_5U,BEST OF 2020 COMPILATION (Best & Funny Moments),47,7,0.42857142857142855,0,2020-12-31,19:00:01,3,night,1717,79,3,0,22,8.133333333333333,hd,false,False,https://i.ytimg.com/vi/7iTOmJ46_5U/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'grunkle', 'stan', 'gravity', 'falls', 'rewind', '2020', 'recap', 'among', 'us', 'impressions', '4k', 'webcam', 'avermedia', '513', 'twitch', 'stream', 'streaming', 'streamer']",62,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"HAPPY NEW YEAR EVERYONE!
+2020 is about to be over (Finally.) Even though, I only started uploading again a month or two ago, I thought it would be fun to recap on the best moments of 2020 (in my opinion) :) Hope you all enjoy and I'll see you next year!
+
+Friends featured in this video:
+Dai/Stephen: https://www.youtube.com/user/TheDAITrickster
+Hunter: https://www.youtube.com/user/hjackson409
+
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+10,DpdjvsAS3Iw,Grunkle Stans sings his ORIGINAL song: The Grunkle Stance,57,9,0.1111111111111111,0,2017-11-01,21:02:48,2,night,1692,84,6,0,14,1.75,hd,false,False,https://i.ytimg.com/vi/DpdjvsAS3Iw/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'impression', 'impressions', 'voice', 'acting', 'gravity', 'falls', 'theory', 'grunkle', 'stan', 'stanley', 'stanford', 'sing', 'sings', 'singing', 'monster', 'mash', 'parody', 'the', 'stance', 'dipper', 'mabel', 'mable', 'bill', 'cipher', 'soos', 'alex', 'hirsch', 'actor']",53,20,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Simau,5550,300328,53,"People were requesting this on Alex's post so, give the people what they want ya know? Sorry if it's bad, the impression is in its infancy! Also sorry, I did NOT include 13 hours of soos screaming :/
+
+~ I only own my backup vocals and the impression! ~
+
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+11,tf254CbdjYQ,RICK AND MORTY PLAY OUTLAST (Funny Voice Trolling Moments),58,9,0.5555555555555556,0,2016-05-07,10:59:52,5,afternoon,1604,44,4,0,53,6.1,hd,false,False,https://i.ytimg.com/vi/tf254CbdjYQ/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'leafyishere', 'leafy', 'is', 'here', 'luna', 'lunaa', 'austinffa', 'amazing', 'good', 'rick', 'and', 'morty', 'funny', 'moments', 'moment', 'best', 'of', 'play', 'voice', 'trolling', 'troll', 'impression', 'on', 'impressions', 'video', 'games', 'justin', 'roiland', 'bcc', 'great', 'griefers', 'outlast', 'scary', 'reaction', 'reactions']",56,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Really wanna continue the series so if we can hit at least 5 likes then I'll continue it ;)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/channel/UC0YHDld_n1yuLbhNT6Qjv7w
+https://soundcloud.com/dj-zenit-official
+https://itunes.apple.com/us/artist/dj-zenit/id626884594
+https://twitter.com/djzenitswe
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+12,p6_nj9fIoXs,Archer Plays Fallout 4 (Voice Trolling Funny Moments),53,8,0.0,0,2016-06-12,12:37:00,6,afternoon,1477,24,21,0,9,4.633333333333333,hd,false,False,https://i.ytimg.com/vi/p6_nj9fIoXs/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues']",21,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/channel/UC0YHDld_n1yuLbhNT6Qjv7w
+https://soundcloud.com/dj-zenit-official
+https://itunes.apple.com/us/artist/dj-zenit/id626884594
+https://twitter.com/djzenitswe
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+13,X_p95lCDlDU,Zoidberg Plays BO2! (Voice Trolling Funny Moments),50,7,0.14285714285714285,0,2015-11-21,14:55:58,5,afternoon,1415,24,20,0,11,6.016666666666667,hd,false,False,https://i.ytimg.com/vi/X_p95lCDlDU/hqdefault.jpg,480,360,"['siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'dat', 'voice', 'guy', 'audiyo', 'azzerz', 'azerz', 'azerzz', 'azzerzz', 'azzerrz', 'Zoidberg (Fictional Character)', 'Futurama', 'fry', 'leela', 'doctor', 'dr', 'daithi', 'de', 'nogla', 'dorsal', 'fin', 'funny', 'moments', 'trolling', 'jayuzumi', 'cleveland', 'brown', 'mikey', 'bolts', 'bo2', 'black', 'ops', 'bo3', 'class', 'setup', 'custom', 'camo', 'esports', 'FaZe']",58,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Hope to do more of these in the near future!
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/channel/UC0YHDld_n1yuLbhNT6Qjv7w
+https://soundcloud.com/dj-zenit-official
+https://itunes.apple.com/us/artist/dj-zenit/id626884594
+https://twitter.com/djzenitswe
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+14,ZRf7APtFa_c,Aaron Burr Sir but sung with Family Guy Impressions,51,9,0.0,0,2017-02-27,18:53:46,0,night,1402,28,20,0,12,2.6,hd,false,False,https://i.ytimg.com/vi/ZRf7APtFa_c/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'Hamilton', 'aaron', 'burr', 'alexander', 'sir', 'but', 'every', 'time', 'they', 'say', 'laurens', 'hercules', 'mulligan', 'lafayette', 'rap', 'part', 'challenge', 'voice', 'impressions', 'impression', 'dai', 'trickster', 'sounds', 'like', 'pizza', 'areusupercereal']",51,20,none,en,,Simau,5550,300328,53,"CAST (All done by me. I know, I'm not good at all of them sorry)
+Hamilton - Peter Griffin
+Aaron Burr - Stewie Griffin
+Lafayette/Jefferson - Cleveland Brown
+Washington - Joe Swanson
+Laurens/Phillip - Chris Griffin
+Hercules Mulligan/Madison: Herbert
+
+I am trying to get Azerrz and others to help out with this project cause my Cleveland and Herbert are terrible and Peter could use some work so please support this! :)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+15,8qbtaiK17SA,BOB BELCHER PLAYS BO2 (Funny Black Ops 2 Voice Trolling Moments),64,11,0.36363636363636365,0,2016-03-14,00:39:02,0,late_night,1349,32,14,0,22,4.8,hd,false,False,https://i.ytimg.com/vi/8qbtaiK17SA/maxresdefault.jpg,1280,720,"['siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'bob', 'belcher', 'fandom', 'Bobs Burgers', 'Burger', 'tina', 'gene', 'louise', 'linda', 'lynda', 'H. Jon Benjamin', 'interview', 'Archer', 'danger', 'zone', 'funniest', 'funny', 'moments', 'bo2', 'black', 'ops', 'two', 'search', 'and', 'destroy', 'snd']",46,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Most positive feedback ive gotten for a voice in a long time :)
+
+(Opening song from the show Bob's Burgers, Composed by Loren Bouchard)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/channel/UC0YHDld_n1yuLbhNT6Qjv7w
+https://soundcloud.com/dj-zenit-official
+https://itunes.apple.com/us/artist/dj-zenit/id626884594
+https://twitter.com/djzenitswe
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+16,vDBCpo60qkU,Carl Me By Your Name (CARL WHEEZER IMPRESSION COVER PARODY),59,10,0.5,0,2021-04-06,19:00:16,1,night,1320,105,0,0,13,2.45,hd,false,False,https://i.ytimg.com/vi/vDBCpo60qkU/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'lil', 'nas', 'lil nas x', 'montero', 'me', 'by', 'your', 'name', 'cover', 'impressions', 'impersonation', 'lil nas', 'old', 'town', 'road', 'music', 'video']",61,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Simau,5550,300328,53,"I used the official instrumental for this cover! The impression is my own and the original song is by Lil Nas X (obviously)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+17,QAv-MHJdFvI,BILL CIPHER PLAYS OUTLAST 2,27,5,0.8,0,2016-10-17,16:14:43,0,afternoon,1234,31,3,0,7,7.366666666666666,hd,false,False,https://i.ytimg.com/vi/QAv-MHJdFvI/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'gameplay', 'how', 'to', 'tutorial', 'call', 'of', 'duty', 'zombies', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentater', 'good', 'amazing', 'clone', 'Bill', 'Cipher', 'plays', 'Outlast', 'two', 'Outlast 2', 'gravity', 'falls', 'fall', 'theory', 'theories', 'conspiracies', 'conspiracy', 'not', 'dead', ""Bill's"", 'bills', 'illcam', 'illcams', 'axolotl', 'hidden', 'message', 'reversed', 'backwards']",62,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Bill IS back. But I don't think he's pleased with where Axolotl has sent him. (I sure wouldn't be.)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://soundcloud.com/pjlsounds
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+18,Jxn9eR2Pz0w,LIN-MANUEL MIRANDA PLAYS RED DEAD REDEMPTION 2 (Voice Trolling Funny Moments),77,12,0.5833333333333334,0,2018-11-30,15:19:06,4,afternoon,1087,52,4,0,29,2.9166666666666665,hd,false,False,https://i.ytimg.com/vi/Jxn9eR2Pz0w/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'lin', 'manuel', 'miranda', 'impresion', 'impression', 'impressions', 'sing', 'hamilton', 'musical', 'broadway', 'cheering', 'for', 'me', 'now', 'john', 'kander', 'music', 'video', 'behind', 'the', 'scenes', 'voice', 'trolling', 'troll']",49,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"I understand a lot of you may not know who Lin-Manuel Miranda is (unless you're not from the gaming community) but here's a clip of him talking so you can compare:
+https://www.youtube.com/watch?v=3-gtFhAzDZk
+(If you've seen Moana, he's the one singing ""We read the wind and the sky when the sun gets high"")
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+19,VUxurYgb_FM,LIN-MANUEL MIRANDA MEETS FANS ON OMEGLE (Funny Omegle Voice Trolling Moments),77,12,0.5833333333333334,0,2020-12-29,14:00:13,1,afternoon,1042,100,2,0,18,9.05,hd,false,False,https://i.ytimg.com/vi/VUxurYgb_FM/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'impressions', 'vocal', 'singing', 'hamilton', 'theatre', 'omegle', 'theater', 'musical', 'musicals', 'kath', 'steele']",55,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Simau,5550,300328,53,"Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+20,spLbePci2EU,What Redbone would sound like if it was sung by THE LIN MANUEL MIRANDA,70,14,0.2857142857142857,0,2017-07-03,00:47:20,0,late_night,1033,28,2,0,21,6.383333333333334,hd,false,False,https://i.ytimg.com/vi/spLbePci2EU/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'Lin', 'Manuel', 'Miranda', 'Hamilton', 'meme', 'Spamilton', 'Hamiltrash', 'trash', 'cass', 'animatic', 'alexander', 'joke', 'the', 'story', 'tonight', 'instrumentals', 'Lin-Manuel Miranda', 'USA', 'Today', 'Late', 'Night', 'Tonight', 'Show', 'Jimmy Fallon', 'Interview', 'What', 'Redbone', 'would', 'sound', 'like', 'if', 'it', 'was', 'sung', 'by', 'Kermit', 'Shaggy', 'Cleveland', 'Brown', 'Christopher Walken']",65,20,none,en,"['https://en.wikipedia.org/wiki/Electronic_music', 'https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Soul_music']",Simau,5550,300328,53,"Definitely sung by Lin-Manuel Miranda
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+21,6zbHHBWn1f8,Simau Does Cartoon Impressions,30,4,0.0,0,2015-11-24,22:08:26,1,night,929,51,8,0,26,3.4333333333333336,hd,false,False,https://i.ytimg.com/vi/6zbHHBWn1f8/hqdefault.jpg,480,360,"['siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'itssimau', 'ItsSimau', 'Superbnova', 'supernova', 'goldentonguez', 'golden', 'tongues', 'cartoon', 'voices', 'voice', 'impression', 'impressions', 'funny', 'futurama', 'fry', 'best', 'quotes', 'moments', 'leela', 'bender', 'quagmire', 'peter', 'chris', 'stewie', 'griffin', 'family', 'guy', 'funniest', 'kermit', 'the', 'frog', 'muppets', 'mikey', 'bolts', 'voicing', 'voice acting', 'voice actor', 'pokemon', 'brizzy', 'trolling', 'gaming', 'billy', 'west', 'Family Guy (TV Program)', 'seth', 'macfarlane', 'green', 'zoidberg', 'professor', 'farnsworth']",57,20,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Simau,5550,300328,53,"Really hope you guys enjoyed it! :DD
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/channel/UC0YHDld_n1yuLbhNT6Qjv7w
+https://soundcloud.com/dj-zenit-official
+https://itunes.apple.com/us/artist/dj-zenit/id626884594
+https://twitter.com/djzenitswe
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+22,VA1ZvzJjuvE,MORTY PLAYS SPIDERMAN PS4 (Funny Moments and MORE),50,8,0.625,0,2018-10-04,10:36:00,3,afternoon,893,42,1,0,19,5.183333333333334,hd,false,False,https://i.ytimg.com/vi/VA1ZvzJjuvE/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amaz']",25,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Oh jeez broh, Morty's got into some deep doodoo in this one. He's got spider powers and fights everyone else possible.
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+23,Xyw2lj2_dFA,MORTY SMITH AND MR MEESEEKS DESTROY SND LOBBIES (Funny Modern Warfare Voice Trolling Moments),93,14,0.5714285714285714,0,2020-10-13,00:06:09,1,late_night,859,126,0,0,12,5.766666666666667,hd,false,False,https://i.ytimg.com/vi/Xyw2lj2_dFA/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'umokayig', 'um', 'okay', 'ig', 'morty', 'smith', 'rick', 'and', 'mr', 'meeseeks', 'voice', 'trolling', 'impression', 'impressions', 'cod', 'snd', 'search', 'destroy', 'stewie', 'griffin', 'chris', 'crack', 'fun', 'times', 'xbox', 'playstation', 'play', 'station', 'pc', 'master', 'race']",56,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Oh geez, man. In this one, Morty gets into some Search n Destroy lobbies and DESTROYS enemies. He really goes off with Mr. Meeseeks! I don't know about this one, broh.
+
+Outro Song creator:
+https://soundcloud.com/lakeyinspired
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+24,mP6etRvJC_Q,MORTY MEETS THE CREEPIEST GUY ON ZOMBIES (Funny Cold War Voice Trolling Moments),80,13,0.5384615384615384,0,2020-11-18,12:00:16,2,afternoon,731,44,0,0,12,5.016666666666667,hd,false,False,https://i.ytimg.com/vi/mP6etRvJC_Q/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'smith', 'sanchez', 'impressions', 'cold', 'war', 'zombies', 'troll', 'black', 'ops', 'new', 'in', 'class', 'areusupercereal', 'are', 'you', 'super', 'cereal', 'dai', 'trickster']",63,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"In this one broh, Morty meets a random creepy guy that asks about his personal info! Do NOT give that stuff out online yo!
+
+MUSIC USED:
+
+""Kill Crew"" by Karl Casey @ White Bat Audio
+Business Email: karl@whitebataudio.com
+
+""Investigations"" by Kevin Macleod
+https://www.youtube.com/user/kmmusic
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+25,JCJnu6quiu8,Redbone but its sung by Timon,29,6,0.0,0,2017-10-09,01:54:43,0,late_night,659,26,5,0,6,3.9833333333333334,hd,false,False,https://i.ytimg.com/vi/JCJnu6quiu8/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'timon', 'redbone', 'but', 'its', 'sung', 'by', 'carl', 'sings', 'it', 'meme', 'compilation', 'lion', 'king']",38,20,none,en,['https://en.wikipedia.org/wiki/Music'],Simau,5550,300328,53,"Gaming Impression videos should be coming soon! I need to get XBL Gold first!!
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+26,Ttmx0Tk_dfc,Bob Belcher Plays BO2 #3 (Funny Moments Voice Trolling),55,9,0.1111111111111111,0,2016-07-28,17:38:55,3,afternoon,628,32,4,0,13,6.85,hd,false,False,https://i.ytimg.com/vi/Ttmx0Tk_dfc/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'call', 'of', 'duty', 'zombies', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentater', 'good', 'amazing', 'voice', 'impression', 'acting', 'bobs', 'bob', 'burgers', 'burger', 'belcher', 'belchers', 'plays', 'video', 'games', 'gaming', 'bo2', 'bo3', 'trolling', 'azerrz', 'datvoiceguy', 'areusupercereal', 'super', 'cereal', 'dai', 'trickster']",56,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"He's back. With a really good mic this time around. When I edited the part with the heavenly music as the brightness increases, the Tomahawk was obviously in the middle of the screen but you know the editing program isn't always that exact so there's nothing there lol
+
+All credit goes to PJLSounds for the outro song
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://soundcloud.com/pjlsounds
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+27,TZROHXoBCnQ,CHRIS AND STEWIE PLAY BO2 (Funny Voice Trolling Moments),56,9,0.5555555555555556,0,2016-04-03,17:44:09,6,afternoon,610,29,7,0,19,4.816666666666666,hd,false,False,https://i.ytimg.com/vi/TZROHXoBCnQ/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'leafyishere', 'leafy', 'is', 'here', 'luna', 'lunaa', 'austinffa', 'cs:go', 'cs', 'go', 'counter', 'strike', 'global', 'offensive', 'surfing', 'surf', 'gameplay', 'how', 'to', 'tutorial', 'call', 'of', 'duty', 'zombies', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentater', 'good', 'amazing', 'clone', 'sounds', 'like', 'pizza', 'dai', 'trickster', 'cod', 'bo2']",61,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Just realized other than my cartoon impression video, this is the first time I have done Stewie! :D
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/user/KU632
+https://soundcloud.com/eastwhat3
+https://itunes.apple.com/us/album/jet-life-single/id590508468
+https://twitter.com/MattEastonMusic
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+28,NxiU8p0q8mk,CHRIS GRIFFIN PLAYS THE DIVISION BETA (FUNNY VOICE TROLLING MOMENTS),68,10,1.0,0,2016-02-27,14:24:42,5,afternoon,528,26,9,0,27,5.283333333333333,hd,false,False,https://i.ytimg.com/vi/NxiU8p0q8mk/maxresdefault.jpg,1280,720,"['siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'chris', 'griffin', 'plays', 'black', 'ops', 'two', 'bo2', 'the', 'division', 'beta', 'tom', 'clancy', 'voice', 'trolling', 'on', 'video', 'games', 'family', 'guy', 'impressions', 'dai', 'trickster', 'azerzz', 'soundslikepizza', 'sounds', 'like', 'pizza', 'funny', 'moments']",49,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"ooo 1080p60 :o I hope you guys enjoy this video! I might be uploading a cut commentary tomorrow :)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://soundcloud.com/iamgrom
+https://twitter.com/Grommitthegreat
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+29,yGOaqG4iagE,Morty Plays CSGO #2 (SZECHUAN SAUCE),36,6,0.5,0,2017-04-05,07:45:32,2,morning,522,20,2,0,8,3.716666666666667,hd,false,False,https://i.ytimg.com/vi/yGOaqG4iagE/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'rick', 'and', 'morty', 'szechuan', 'sauce', 'mulan', 'new', 'episode', 'season', 'voice', 'impressions', 'impression', 'cs', 'go', 'counter', 'strike', 'surf', 'surfing', 'tutorial']",44,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+30,z4pRAwdzXUk,Playing Warzone w/ HeyySway (aka Rigby!),40,6,0.0,0,2021-04-17,12:27:17,5,afternoon,514,28,0,0,5,117.33333333333333,hd,false,False,https://i.ytimg.com/vi/z4pRAwdzXUk/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing']",25,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Subscribe to Sway: https://www.youtube.com/channel/UCD0L-xsWRN79EzBAMBOlH2w
+
+Any donations are appreciated but NOT REQUIRED! just hang out and vibe with the stream :)
+https://streamlabs.com/simauan/tip
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+31,0K2vPPK_kGY,CHRIS GRIFFIN PLAYS BO2 (FUNNY VOICE TROLLING MOMENTS),54,8,1.0,0,2016-01-24,00:01:58,6,late_night,491,36,4,0,32,6.216666666666667,hd,false,False,https://i.ytimg.com/vi/0K2vPPK_kGY/maxresdefault.jpg,1280,720,"['siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'chris', 'griffin', 'voice', 'trolling', 'DAI', 'Trickster', 'Areusupercereal', 'super', 'cereal', 'funny', 'new', 'family', 'guy', 'Datvoiceguy', 'dat', 'Audiyo', 'Peter', 'stewie', 'black', 'ops', '||', 'two', 'BO2', 'BO3', 'video', 'games', 'custom', 'class', 'setup', 'haha', 'lol', 'evil', 'monkey']",53,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"He's back.
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/channel/UC0YHDld_n1yuLbhNT6Qjv7w
+https://soundcloud.com/dj-zenit-official
+https://itunes.apple.com/us/artist/dj-zenit/id626884594
+https://twitter.com/djzenitswe
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+32,iF_GizVrHrs,CARL WHEEZER BECOMES A BUDDHIST?! (FUNNY COLD WAR HIDE N SEEK MOMENTS) #Shorts,78,13,0.9230769230769231,0,2021-03-12,23:54:22,4,late_night,432,26,1,0,4,0.9833333333333333,hd,false,False,https://i.ytimg.com/vi/iF_GizVrHrs/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'buddha', 'buddhist', 'ohm', 'jimmys', 'mom']",49,20,none,en,"['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"#shorts
+
+Aaaahhhhhhhh buddha's moommmm
+
+Friends in this video:
+Sway: https://www.youtube.com/channel/UCD0L-xsWRN79EzBAMBOlH2w
+Shizen: https://www.youtube.com/channel/UCRs2MjD9INr3sgWqi4-qeAg
+Raf: https://www.twitch.tv/blazedonakayac
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+33,C6IM-341jRY,KYLO REN PLAYS MODERN WARFARE - MAY THE 4TH BE WITH YOU (Funny Voice Trolling Moments),86,15,0.7333333333333333,0,2021-05-04,20:13:11,1,night,418,32,1,0,12,2.55,hd,false,False,https://i.ytimg.com/vi/C6IM-341jRY/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'may', '4th', 'may the 4th be with you', 'star', 'wars', 'star wars', 'kylo', 'ren', 'kylo ren', 'modern', 'warfare', 'modern warfare', 'warzone', 'call of duty']",58,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@simauan?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+34,o7C8MLbQ5GY,Rick And Morty Play Outlast #2,30,6,0.0,0,2016-08-08,22:03:37,0,night,416,18,3,0,11,4.416666666666667,hd,false,False,https://i.ytimg.com/vi/o7C8MLbQ5GY/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'cs:go', 'cs', 'go', 'counter', 'strike', 'global', 'offensive', 'surfing', 'surf', 'gameplay', 'how', 'to', 'tutorial', 'call', 'of', 'duty', 'zombies', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentater', 'good', 'amazing', 'clone', 'voice', 'trolling', 'impression', 'impressions', 'play', 'plays', 'rick', 'and', 'morty', 'lessty', 'less', 'ty', 'less-ty', 'drawfees', 'sounds', 'like', 'pizza', 'BCC', 'Trolling']",66,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Oh jeez, they're back.
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://soundcloud.com/pjlsounds
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+35,Sr-BUo50h_E,3. The Most Wonderful Time Of The Year (Carl Wheezer Sings Christmas Classics Vol. 1),85,15,0.0,0,2020-11-27,12:10:45,4,afternoon,386,20,1,0,3,2.533333333333333,hd,false,False,https://i.ytimg.com/vi/Sr-BUo50h_E/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'christmas', 'album', 'cover', 'covers', 'classics', 'classic', 'vol', 'vol 1', 'volume', 'one', 'all', 'want', 'for', 'you', 'All I want for christmas is you', 'last', 'O Holy Night', 'holy', 'night', 'josh', 'groban', 'Andy', 'Williams', 'Bing', 'Crosby']",69,24,none,en,,Simau,5550,300328,53,"I'll be releasing one of these each week all the way up until Christmas! Today, however, I'm releasing both this one and ""Last Christmas!"" Enjoy! And please share with your friends! :)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+36,yOQajYB-Zr0,1. All I Want For Christmas Is You (Carl Wheezer Sings Christmas Classics Vol. 1),81,15,0.06666666666666667,0,2020-12-18,13:00:14,4,afternoon,347,30,0,0,2,3.9833333333333334,hd,false,False,https://i.ytimg.com/vi/yOQajYB-Zr0/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'christmas', 'album', 'classics', 'classic', 'sing', 'sings', 'cover', 'covers', 'mariah', 'carey', 'all', 'all i', 'want', 'for', 'is', 'you', '2020', 'covid']",62,24,none,en,"['https://en.wikipedia.org/wiki/Christian_music', 'https://en.wikipedia.org/wiki/Music']",Simau,5550,300328,53,"Track 1/6. It's finally here. You can listen to all of them on my soundcloud (below)!! 
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+37,VV07uNMd-VA,6. The Christmas Song (Carl Wheezer Sings Christmas Classics Vol. 1),68,11,0.0,0,2020-12-04,12:00:11,4,afternoon,337,26,0,0,7,3.1666666666666665,hd,false,False,https://i.ytimg.com/vi/VV07uNMd-VA/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'weezer', 'jimmy', 'neutron', 'jimmys', 'mom', 'christmas', 'album', 'classics', 'songs', 'sings', 'vol 1', 'volume', 'vol', 'one', 'vol one', 'sheen', 'song', 'last', 'all', 'want', 'for', 'is', 'you', 'all i want for christmas is you', 'cover']",69,24,none,en,['https://en.wikipedia.org/wiki/Soul_music'],Simau,5550,300328,53,"Track 6/6 on the Carl Wheezer Christmas Album! which means theres only 3 (Tracks) weeks left till Christmas!!!
+
+You can also listen to this song on SoundCloud!!! https://soundcloud.com/umokayig
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+38,A9XSxoYUECU,MORTY PLAYS MODERN WARFARE!! (Funny Modern Wafare Voice Trolling Moments),73,10,0.4,0,2020-10-05,11:00:04,0,afternoon,305,22,0,0,5,5.5,hd,false,False,https://i.ytimg.com/vi/A9XSxoYUECU/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'morty', 'smith', 'voice', 'trolling', 'impression', 'impressions', 'modern', 'warfare', 'cod', '1v1', 'rick', 'sanchez', 'interdimensional', 'cable', 'episodes', 'free']",41,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Oh man, broh. In this one, Morty gets his hands on Modern Warfare but the one from 2019. He's hella psyched for Cold War though; and to be back on YouTube.
+
+Like, Comment, and Subscribe for more Impression videos!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+39,bUS0rtNzAXQ,2. O Holy Night (Carl Wheezer Sings Christmas Classics Vol. 1),62,11,0.09090909090909091,0,2020-12-11,18:00:13,4,night,266,9,0,0,4,4.683333333333334,hd,false,False,https://i.ytimg.com/vi/bUS0rtNzAXQ/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'song', 'cover', 'christmas', 'album', 'classics', 'classic', 'vol 1', 'volume', 'one', 'vol']",54,24,none,en,,Simau,5550,300328,53,"Track 2/6 on the Carl Wheezer Christmas Album! ONE TRACK LEFT. I'm sure you all can guess what this last song is gonna be...... ;)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+40,ML0UT4NhCYs,I'M BACK (FT. AREUSUPERCEREAL & THEDAITRICKSTER),48,6,1.0,0,2020-09-30,14:00:11,2,afternoon,266,26,0,0,7,1.0833333333333333,hd,false,False,https://i.ytimg.com/vi/ML0UT4NhCYs/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'youtube', 'return', 'gaming', 'impressions', 'impression', 'impressionist', 'areusupercereal', 'thedaitrickster', 'dai', 'trickster', 'elmo', 'kermit', 'the', 'frog', 'daitrickster', 'among', 'us', 'imposter']",43,20,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Simau,5550,300328,53,"After a nearly 2 YEAR hiatus, we are back. Impression videos will be coming shortly. (And if you didn't know somehow, they've gotten much better. It's this neat thing called puberty)
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+► Music Credit: Dj Quads
+Track Name: ""www is a thing""
+Music By: Dj Quads @ https://soundcloud.com/aka-dj-quads
+Original upload HERE - https://www.youtube.com/watch?v=9cqqU...
+• DJ QUads YouTube channel HERE: https://www.youtube.com/channel/UCusF...
+• Dj Quads on SoundCloud HERE: https://soundcloud.com/aka-dj-quads
+• Dj Quads on Twitter HERE: https://twitter.com/DjQuads
+• Dj Quads on Spotify HERE: https://open.spotify.com/artist/2VZrd...
+• Dj Quads on Instagram HERE: https://www.instagram.com/djquads/"
+41,IJpGG3tAiEM,"Warzone (w/ AreUSuperCereal, ChefBigSlick, and Money w Joe)",59,8,0.0,0,2021-03-08,13:34:44,0,afternoon,238,13,0,0,1,91.43333333333334,hd,false,False,https://i.ytimg.com/vi/IJpGG3tAiEM/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'youtube', 'return', 'gaming', 'impressions', 'impression', 'impressionist', 'areusupercereal', 'thedaitrickster', 'dai', 'trickster', 'elmo', 'kermit', 'the', 'frog', 'daitrickster', 'among', 'us', 'imposter']",43,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,Support the stream: https://streamlabs.com/simauan1
+42,m4Z4N7kNzZU,YOUTUBER FIGHT CLUB (Red Dead Redemption Funny Moments),55,8,0.375,0,2015-07-03,23:41:42,4,late_night,187,7,0,0,3,4.566666666666666,hd,false,False,https://i.ytimg.com/vi/m4Z4N7kNzZU/maxresdefault.jpg,1280,720,"['siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'Red Dead Redemption (Video Game)', 'red', 'dead', 'redemption', 'funny', 'moments', 'gta', 'grand', 'theft', 'auto', 'five', 'custom', 'games', 'horses', 'donkey', 'mule', 'fernando', 'Red Dead (Video Game Series)', 'Rockstar', 'Vanoss', 'gaming', 'H20', 'Delirious', 'Daithi', 'De', 'Nogla', 'Terroriser', 'IAMWILDCAT', 'WILDCAT', 'Lui', 'Calibre']",51,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Red Dead Redemption is a pretty fun game!!
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://www.youtube.com/channel/UC0YHDld_n1yuLbhNT6Qjv7w
+https://soundcloud.com/dj-zenit-official
+https://itunes.apple.com/us/artist/dj-zenit/id626884594
+https://twitter.com/djzenitswe
+
+If you liked the track, you can go buy it here: 
+https://itunes.apple.com/us/album/lost-woods-hardstyle-single/id741615894
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+43,vouI3MwJXPg,600 SUBSCRIBER SPECIAL! ROAST MYSELF CHALLENGE WITH @LeafyIsHere!,65,8,0.75,0,2016-07-25,18:52:12,0,night,167,21,4,0,15,6.216666666666667,hd,false,False,https://i.ytimg.com/vi/vouI3MwJXPg/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues']",21,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Yep that was definitely leafy. not me at all.... JK it was an impression duh. lol was it good? Tell me in the comments! Also, thank you for all the support you guys! It helps to keep me goin :)
+
+Gameplay By: https://www.youtube.com/channel/UCp4xiuLlVUTMQi8uDiZeopg
+
+Music at the end is Moon Bounce by Gyom: https://soundcloud.com/gyomdude/moon-bounce
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+http://www.simau.spreadshirt.com
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+44,boTwo_z4Kmw,BATTLEFIELD 1 BETA BEST MOMENTS,31,5,0.8,0,2016-09-06,15:55:44,1,afternoon,151,13,4,0,7,3.8333333333333335,hd,false,False,https://i.ytimg.com/vi/boTwo_z4Kmw/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'Superbnova', 'superbnova', 'SuperbNova', 'supernova', 'Supernova', 'SuperNova', 'goldentonguez', 'golden', 'tongues', 'leafyishere', 'leafy', 'is', 'here', 'luna', 'lunaa', 'austinffa', 'cs:go', 'cs', 'go', 'counter', 'strike', 'global', 'offensive', 'surfing', 'surf', 'gameplay', 'how', 'to', 'tutorial', 'call', 'of', 'duty', 'zombies', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentater', 'good', 'amazing', 'clone', 'battlefield', 'bf1', 'battlefield 1', 'beta']",58,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Slendy: https://www.youtube.com/channel/UCcE6jUkcc7w8XLQtfESQocg
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+*Do you happen to like the outro song? You can check out the Artist  here:* 
+https://soundcloud.com/pjlsounds
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+45,PhrOat0tPWc,1000000 IQ PLAY ON AMONG US!!! Secret Strategy to win!!,55,10,0.5,0,2020-10-25,23:44:47,6,late_night,139,10,3,0,12,19.433333333333334,hd,false,False,https://i.ytimg.com/vi/PhrOat0tPWc/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'among', 'us', 'IQ', 'Smart', 'secret', 'strat', 'strategy', '1 million', '1000', '4000', '2000', 'WIN', 'Imposter', 'tips', 'thedaitrickster', 'dai', 'trickster', 'areusupercereal', 'super', 'cereal', 'sergio', 'serg']",66,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Puzzle_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Hey guys! Hope you all enjoy this video of Among Us! You can find a few of my friends on YouTube as well down here:
+
+Dai: https://www.youtube.com/user/TheDAITrickster
+Sergio: https://www.youtube.com/c/SergioHereandThere
+Hunter: https://www.twitch.tv/livingnuke
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+46,0lSLhE5Kwug,4. Do You Hear What I Hear? (Carl Wheezer Sings Christmas Classics Vol. 1),74,14,0.07142857142857142,0,2020-12-11,14:00:00,4,afternoon,124,9,0,0,4,3.4333333333333336,hd,false,False,https://i.ytimg.com/vi/0lSLhE5Kwug/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'christmas', 'album', 'classics', 'vol', 'vol 1', 'one', 'volume', 'cover', 'song', 'jimmys', 'mom']",55,24,none,en,['https://en.wikipedia.org/wiki/Music'],Simau,5550,300328,53,"Track 4/6 on the Carl Wheezer Christmas Album! Releasing another track today along with this one because y'all seem to love it! NEXT WEEK IS THE LAST TRACK AND THEN YOU CAN STREAM ALL THE SONGS ON SOUNDCLOUD!
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+47,CZovHIOqFxQ,SINGING BO BURNHAM SONGS ON MODERN WARFARE (Funny Call of Duty Trolling Moments),80,13,0.5384615384615384,0,2021-07-28,21:42:34,2,night,122,11,1,0,7,8.35,hd,false,False,https://i.ytimg.com/vi/CZovHIOqFxQ/hqdefault.jpg,480,360,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'bo', 'burnham', 'inside', 'clip', 'jeff', 'bezos', 'piano', 'singing', 'singer', 'songs', 'comedy', 'musical', 'musician']",57,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Maybe I'll try working on an ACTUAL Bo Burnham impression soon. In the meantime, how are you guys doing with your own existentialism?
+
+Songs Sung (In Order):
+Straight White Man
+Facetime with my Mom Tonight
+Sexting
+Goodbye
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+48,-jCgdHxvDZ0,Among Us but Best In Class is bad at the game... (Funny Moments on Among Us),76,16,0.0,0,2020-11-13,14:00:00,4,afternoon,108,12,0,0,6,10.75,hd,false,False,https://i.ytimg.com/vi/-jCgdHxvDZ0/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'funny moments', 'voice', 'trolling', 'impression', 'um', 'okay', 'ig', 'umokayig', 'lin', 'manuel', 'miranda', 'carl', 'wheezer', 'plays', 'online', 'offline', 'morty', 'rick', 'and', 'among', 'us', 'in', 'class', 'dai', 'trickster', 'areusupercereal', 'are', 'super', 'you', 'cereal', 'living', 'nuke', 'hunter']",58,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Casual_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Why does Stephen chase me every single time y'all??
+
+Friends in this video:
+Stephen: https://www.youtube.com/user/TheDAITrickster
+Best In Class: https://www.youtube.com/c/BestInClassTV
+Hunter: https://www.youtube.com/user/hjackson409
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+While you're at it, keep up with me on other social media and streaming platforms!
+Twitter: https://twitter.com/Simauan
+TikTok: https://www.tiktok.com/@umokayig?lang=en
+Twitch: https://www.twitch.tv/simauan
+SoundCloud: https://soundcloud.com/umokayig
+
+Go get some merchandise that has to do with me! I made all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau"
+49,BiDSJpSqaAQ,INTENSE CAGE MATCHES (MWR FUNNY MOMENTS - KID RAGE QUITS),57,9,1.0,0,2017-01-04,16:59:19,2,afternoon,91,10,1,0,5,8.416666666666666,hd,false,False,https://i.ytimg.com/vi/BiDSJpSqaAQ/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'cage', 'match', 'mwr', 'modern', 'warfare', 'remastered', 'remaster', 'game', 'modes', 'gamemodes', '1v1', 'kid', 'quits', 'rage', 'wow', 'gun', 'areusupercereal', 'kermit', 'the', 'frog', 'dai', 'trickster', 'trolling', 'sniper', 'class', 'setup', 'cartoon', 'camping', 'noob', 'nerd', 'christmas', 'cod', 'crazy', 'intense']",59,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+50,d81DNO16pxA,Sim & Slender- 80s ZOMBIES,26,4,0.25,0,2017-01-06,15:22:52,4,afternoon,84,3,3,0,15,22.933333333333334,hd,false,False,https://i.ytimg.com/vi/d81DNO16pxA/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing', 'zombies', 'in', 'spaceland', 'infinite', 'warfare', 'modern', 'remastered', 'super', 'mega', 'game', 'grumps', 'vanoss', 'h20', 'delirious', 'daithi', 'de', 'nogla', 'WILDCAT', 'terroriser', 'crazy', 'cod', 'IW', 'MWR', '80s', 'retro', 'mode', 'gamemode', 'games']",53,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Slend3rmangaming: https://www.youtube.com/channel/UCcE6jUkcc7w8XLQtfESQocg
+
+MUSIC USED - Also Sprach Zarathrusta
+
+Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
+51,SeIzVpheUdw,This game ain't too bad!! Let's Vibe and Talk :) 1080p60,56,12,0.0,0,2020-10-18,06:27:06,6,morning,27,3,0,0,0,30.183333333333334,hd,false,False,https://i.ytimg.com/vi/SeIzVpheUdw/maxresdefault.jpg,1280,720,"['imsimau', 'siimau', 'simau', 'ImSimau', 'Simauan', 'Samoan', 'LDS', 'Mormon', 'Gamer', 'gamer', 'mormon', 'itssimau', 'ItsSimau', 'gameplay', 'call', 'of', 'duty', 'best', 'moments', 'funny', 'commentary', 'commentate', 'commentator', 'good', 'amazing']",25,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Simau,5550,300328,53,"Like, Comment, and become a Simauan by Subscribing!
+https://www.youtube.com/subscription_center?add_user=SuperbNovaGaming
+
+Go get some merchandise that has to do with me! I made probably all of the stuff unless the description says otherwise!
+https://www.teepublic.com/user/simau
+
+Also, check out the whole YTGamer community!
+www.ytgamers.com/youtuber"
