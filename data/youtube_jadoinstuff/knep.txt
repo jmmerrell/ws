@@ -1,0 +1,610 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,VtplvFSTakY,Donald Trump plays Among Us! (Voice Troll),42,7,0.0,0,2020-10-02,11:00:09,4,afternoon,11750,469,6,0,60,12.433333333333334,hd,false,True,https://i.ytimg.com/vi/VtplvFSTakY/maxresdefault.jpg,1280,720,"['trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'knep voice trolling', 'TRUMP', 'Donald Trump Plays Among Us', 'Among us', 'among us imposter', 'among us crewmate', 'trump plays among us', 'trump among us', 'among us trump', 'among us voice trolling', 'among us donald trump']",17,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Hello Folks, this is your president speaking. I am here to inform you of a tremendous video of myself, Donald John Trump, playing Among Us. If you enjoy the video, please consider subscribing, liking and sharing the video, and leaving a comment. Hope you all enjoy!
+
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!
+
+
+Free Music For Your Youtube Videos
+https://www.youtube.com/user/HeatleyBros"
+1,LvoB07MyGXE,Trump Plays Call of Duty: Black Ops Cold War (Voice Troll),58,11,0.0,0,2020-11-20,12:00:08,4,afternoon,10112,428,3,0,86,10.55,hd,false,True,https://i.ytimg.com/vi/LvoB07MyGXE/maxresdefault.jpg,1280,720,"['Donald Trump', 'Black Ops Cold War', 'Trump Plays Call of Duty: Black Ops Cold War', 'Trump plays call of duty', 'Knep COD', 'knep', 'Trump plays cod', 'trump call of duty', 'Donald trump call of duty', 'donald trump voice trolling', 'trump voice trolling', 'voice troll', 'voice trolling', 'impersonation', 'impression', 'trump impression', 'trump playing cod', 'trump playing cod voice troll', 'trump cod', 'cod trump', 'faze trump', 'trump warzone']",22,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Welcome to Donald Trump plays Call of Duty: Black Ops Cold War! I go into COD: Cold War lobbies and impersonate Donald Trump to get funny reactions and clips from people. If you enjoyed this video please leave a like and share it with your friends.
+
+
+**Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+2,HM8OPhNsNnY,TRUMP IS BACK! - Call of Duty: Modern Warfare Voice Trolling,60,10,0.3,0,2020-03-03,00:31:29,1,late_night,9697,215,16,0,36,13.05,hd,false,True,https://i.ytimg.com/vi/HM8OPhNsNnY/maxresdefault.jpg,1280,720,"['knep', 'donald trump plays call of duty', 'trump plays call of duty', 'trolling in call of duty', 'call of duty voice trolling', 'modern warfare trolling', 'voice trolling modern warfare', 'launchers gold modern warfare', 'call of duty modern warfare voice trolling', 'trump', 'trump win', 'the_knep', '_knep', 'theknep', 'cod', 'cod mw', 'mw', 'cod: mw', 'call of duty', 'modern warfare', 'call of duty modern warfare', 'donald trump', 'president trump', 'mike pence']",24,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Join my Discord! https://discord.gg/fFyJCmA
+
+
+Donald Trump is back from a hiatus to play some Call of Duty: Modern Warfare with the great American people! Make sure to like and subscribe for more content like this!
+
+
+
+
+Music:
+Amazing Plan Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/"
+3,JXgUfWxLl58,Trump Plays Search and Destroy in Black Ops Cold War (Voice Trolling),69,12,0.0,0,2021-05-10,11:00:07,0,afternoon,6637,581,3,0,92,10.083333333333334,hd,false,True,https://i.ytimg.com/vi/JXgUfWxLl58/maxresdefault.jpg,1280,720,"['knep', 'donald trump plays call of duty', 'trump plays call of duty', 'trolling in call of duty', 'call of duty voice trolling', 'modern warfare trolling', 'voice trolling modern warfare', 'launchers gold modern warfare', 'call of duty modern warfare voice trolling', 'trump', 'trump win', 'the_knep', '_knep', 'theknep', 'cod', 'cod mw', 'mw', 'cod: mw', 'call of duty', 'modern warfare', 'call of duty modern warfare', 'donald trump', 'president trump', 'mike pence']",24,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Welcome to another voice trolling video! Hopefully you guys enjoy! The support on my videos has been crazy lately and very appreciated.
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+4,NzLdQ2bkLKc,"""TOO MUCH WINNING!"" - COD: Modern Warfare Trump Voice Trolling",62,9,0.4444444444444444,0,2020-02-03,19:13:02,0,night,5486,145,6,0,19,10.683333333333334,hd,false,True,https://i.ytimg.com/vi/NzLdQ2bkLKc/maxresdefault.jpg,1280,720,"['Call of Duty', 'call', 'of', 'duty', 'modern warfare', 'modern', 'warfare', 'knep', 'donald', 'trump', 'donald trump', 'voice', 'trolling', 'voice trolling', 'winning', 'too', 'much', 'too much winning']",18,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Join my Discord! https://discord.gg/fFyJCmA
+
+Voice trolling in Modern Warfare as Donald Trump yet again, and showing people exactly how to win.
+
+Please consider liking, commenting, and subscribing if you enjoyed."
+5,Y_7B_XvZI3A,"""NOBODY BEATS AMERICA"" - Call of Duty: Modern Warfare Voice Trolling as Donald Trump!",85,13,0.23076923076923078,0,2020-03-10,00:33:20,1,late_night,5050,164,6,0,33,11.5,hd,false,True,https://i.ytimg.com/vi/Y_7B_XvZI3A/maxresdefault.jpg,1280,720,"['knep', 'modern warfare', 'the_knep', '_knep', 'call of duty', 'COD MW', 'call of duty warzone', 'modern warfare warzone', 'donald trump', 'trump', 'president donald trump', 'president trump', 'voice trolling', 'voice impressions', 'comedy']",15,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Join my Discord! https://discord.gg/fFyJCmA
+
+Donald Trump is back and shows everyone exactly what the title says: nobody beats America. 
+
+
+
+(Call of Duty: Modern Warfare Voice Trolling and Impressions as President Trump)"
+6,7RdRwlGYajw,Donald Trump plays GTA RP but he interrupts the cops and takes over... (Voice Trolling),87,15,0.13333333333333333,0,2021-04-19,11:00:02,0,afternoon,4754,431,1,0,85,9.333333333333334,hd,false,True,https://i.ytimg.com/vi/7RdRwlGYajw/maxresdefault.jpg,1280,720,"['knep', 'modern warfare', 'the_knep', '_knep', 'call of duty', 'COD MW', 'call of duty warzone', 'modern warfare warzone', 'donald trump', 'trump', 'president donald trump', 'president trump', 'voice trolling', 'voice impressions', 'comedy']",15,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Donald Trump plays GTA RP and gets in the cop's way, brings only fists to a gun fight, kidnaps some random person, and ultimately befriends the server admin in the end....
+
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+7,hxkyhvtgozY,Best of Donald Trump plays COD/Knep 2020,40,8,0.125,0,2020-12-29,14:02:02,1,afternoon,4590,279,1,0,25,31.333333333333332,hd,false,True,https://i.ytimg.com/vi/hxkyhvtgozY/maxresdefault.jpg,1280,720,"['knep', 'modern warfare', 'the_knep', '_knep', 'call of duty', 'COD MW', 'call of duty warzone', 'modern warfare warzone', 'donald trump', 'trump', 'president donald trump', 'president trump', 'voice trolling', 'voice impressions', 'comedy']",15,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"I wanted to compile some of my favorite moments of this year to share with you all. Crazy I started this channel almost a year ago and I have had so many cool things happen, I’m grateful for it all. Thank you to everyone who is subscribed and who watches my stuff. I appreciate all of you. This is Knep’s Best of 2020.
+
+
+**Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+8,wQfMoqgT5v8,Donald Trump plays Call of Duty (feat. Walter Jr.),50,9,0.0,0,2021-05-03,11:00:32,0,afternoon,4277,406,3,0,43,14.133333333333333,hd,false,True,https://i.ytimg.com/vi/wQfMoqgT5v8/maxresdefault.jpg,1280,720,"['knep', 'modern warfare', 'the_knep', '_knep', 'call of duty', 'COD MW', 'call of duty warzone', 'modern warfare warzone', 'donald trump', 'trump', 'president donald trump', 'president trump', 'voice trolling', 'voice impressions', 'comedy']",15,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"I am back with a classic video of Donald Trump playing Call of Duty: Modern Warfare/Warzone. But this time I am collaborating with @Genie Boy (go check him out and subscribe!) to bring you a video where Walt Jr. from Breaking Bad goes at it with Donald Trump!
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+9,iLsW_luaxVI,Call of Duty : Angering Players as Donald Trump! (Voice Trolling),65,10,0.0,0,2020-01-27,20:31:25,0,night,4075,112,2,0,8,11.583333333333334,hd,false,True,https://i.ytimg.com/vi/iLsW_luaxVI/maxresdefault.jpg,1280,720,"['knep', 'donald', 'trump', 'voice', 'trolling', 'call', 'of', 'duty', 'call of duty', 'modern warfare', 'modern', 'warfare']",12,20,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Join my Discord! https://discord.gg/fFyJCmA
+
+Playing Call of Duty with randoms, the Trump voice seems to piss a lot of people off. 
+
+
+
+
+*****
+Note: This is not supposed to be political, it's just meant to be funny and entertaining."
+10,u-NCqV9j8H4,Trump and Arnold Schwarzenegger play Call of Duty: Modern Warfare (Voice Troll),79,12,0.0,0,2020-10-23,11:00:32,4,afternoon,4040,155,0,0,45,11.35,hd,false,True,https://i.ytimg.com/vi/u-NCqV9j8H4/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP', 'Arnold plays cod', 'arnold plays modern warfare', 'Schwarzenegger', 'Arnold Schwarzenegger plays call of duty']",24,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"It's October 4, 2020. Donald Trump calls up Arnold Schwarzenegger to strike up a conversation. One thing leads to another, and they are both hopping on COD and destroying people...
+
+Check out the voice behind Arnold Schwarzenegger! : ARNIE_TV https://www.youtube.com/channel/UCFJxmWGFcudrVjX_iXmD5LA/featured
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+11,p8nnB7W6QnQ,Tremendous Motivation - COD: Modern Warfare Trump Voice Trolling,64,8,0.125,0,2020-02-10,23:34:27,0,late_night,3631,121,2,0,22,10.766666666666667,hd,false,True,https://i.ytimg.com/vi/p8nnB7W6QnQ/maxresdefault.jpg,1280,720,"['trump', 'plays', 'call', 'of', 'duty', 'trump plays call of duty', 'trolling in call of duty', 'Donald trump plays call of duty', 'Modern Warfare trolling', 'Call of Duty Trump', 'Trump', 'Trump win', 'Trolling in call of duty', 'Modern warfare', 'Knep', 'Nep', 'knepp']",17,20,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Join my Discord! https://discord.gg/fFyJCmA
+
+In this Trump plays Call of Duty: Modern Warfare (Voice Trolling) I attempted a different style of editing.
+
+Tried messing with the music and sound effects to go along more with the content. I also just want to say last week I gained more subscribers than any other week, so thank you to those people.
+
+Feedback is also greatly appreciated. 
+
+Please consider subscribing, liking, and commenting."
+12,MpVYlkn4Qoc,Donald Trump plays Search and Destroy in Call of Duty (Voice Trolling),70,12,0.0,0,2020-01-20,00:00:02,0,late_night,3387,100,3,0,8,11.583333333333334,hd,false,True,https://i.ytimg.com/vi/MpVYlkn4Qoc/maxresdefault.jpg,1280,720,"['Trump', 'Donald', 'turmp', 'knep', 'call of duty', 'donald trump', 'voice trolling', 'trump voice trolling']",8,20,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Join my Discord! https://discord.gg/fFyJCmA
+
+This video immediately follows the last and tells the tale of the squad up of Donald Trump and RedFaceBaby in Call of Duty.
+
+
+
+
+
+*****
+Note: This is not supposed to be political, it's just meant to be funny and entertaining."
+13,lm314UdH4Qs,Donald Trump meets people on Omegle! (Voice Impression),55,8,0.0,0,2021-06-14,11:00:32,0,afternoon,3238,363,1,0,55,13.683333333333334,hd,false,True,https://i.ytimg.com/vi/lm314UdH4Qs/hqdefault.jpg,480,360,"['Trump', 'Donald', 'turmp', 'knep', 'call of duty', 'donald trump', 'voice trolling', 'trump voice trolling']",8,20,none,en-US,['https://en.wikipedia.org/wiki/Entertainment'],Knep,3880,146676,47,"I go on Omegle using my Trump impression and half the time act like it's my normal voice (even though its clearly not)
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+14,7scqDl33AlM,Trump Plays GTA RP but it’s part 2 (voice trolling),51,11,0.18181818181818182,0,2021-04-26,11:00:06,0,afternoon,3184,264,2,0,53,8.266666666666667,hd,false,True,https://i.ytimg.com/vi/7scqDl33AlM/maxresdefault.jpg,1280,720,"['Trump', 'Donald', 'turmp', 'knep', 'call of duty', 'donald trump', 'voice trolling', 'trump voice trolling']",8,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Trump plays GTA RP Part 2! Be on the lookout for my next video on May 3rd, I think it’ll be the best video I’ve had in a while!
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+15,OOPRUI-_Umk,A Team Like No Other - Donald Trump Plays Modern Warfare (Voice Trolling),73,12,0.08333333333333333,0,2020-05-02,11:00:15,5,afternoon,3144,140,3,0,32,13.733333333333333,hd,false,True,https://i.ytimg.com/vi/OOPRUI-_Umk/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'trump plays modern warfare part 10']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Subscribe! 
+Join my Discord! https://discord.gg/fFyJCmA
+
+In this latest installment of COD: MW Trump Voice Trolling, Donald Trump makes some friends (and enemies) on Call of Duty and dominates the game with a team like no other...
+
+
+
+
+Thanks for Watching!
+
+Music from:
+Kevin MacLeod: http://incompetech.com/ 
+http://www.premiumbeat.com/ 
+http://audionautix.com/"
+16,rDf6ZEMjeio,You Can't Escape The Don - Trump plays COD: MW Voice Trolling,61,12,0.16666666666666666,0,2020-04-04,18:06:33,5,night,2853,116,4,0,31,10.983333333333333,hd,false,True,https://i.ytimg.com/vi/rDf6ZEMjeio/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling']",17,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Subscribe! 
+Join my Discord! https://discord.gg/fFyJCmA
+
+In this latest installment of COD: MW Trump Voice Trolling, Trump plays Call of Duty, yet again. He comes across a group of players that stand united against their common enemy... many players found out that you can't escape the don
+
+
+
+
+Thanks for Watching!
+
+Music from:
+Kevin MacLeod: http://incompetech.com/ 
+http://www.premiumbeat.com/ 
+http://audionautix.com/"
+17,WzFDoSCETI4,IMPOSTER - Donald Trump Voice Trolling on Call of Duty: Modern Warfare,70,11,0.09090909090909091,0,2020-07-18,11:00:10,5,afternoon,2742,165,0,0,25,12.183333333333334,hd,false,True,https://i.ytimg.com/vi/WzFDoSCETI4/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"**ALL NEW STREAMS ARE ON TWITCH**
+https://www.twitch.tv/theknep
+
+Welcome back to the 13th installment of Donald Trump Voice Trolling on Call of Duty: Modern Warfare! Hope you guys enjoy this one! Thanks for all the support lately.
+
+
+*Subscribe!*
+
+
+***Want to join my community? Join my Discord!***
+https://discord.gg/fFyJCmA
+
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!
+
+Music: https://www.purple-planet.com"
+18,bxFu7A_vurk,Trump plays Among Us but kicks everyone out of the game... (Voice Troll),72,13,0.0,0,2020-10-09,11:00:26,4,afternoon,2669,156,1,0,54,12.783333333333333,hd,false,True,https://i.ytimg.com/vi/bxFu7A_vurk/maxresdefault.jpg,1280,720,"['trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'knep voice trolling', 'TRUMP', 'Donald Trump Plays Among Us', 'Among us', 'among us imposter', 'among us crewmate', 'trump plays among us', 'trump among us', 'among us trump', 'among us voice trolling', 'among us donald trump']",17,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Thank you everyone for the support lately! Donald Trump plays Among Us and kicks everyone out of the spaceship and dominates the game. Please watch till the end for a message from myself. Thank you everyone for the massive support lately, hopefully you enjoy this video. If you played with me and don’t find yourself in this video, please watch the last 30 seconds for an explanation why. 
+
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+Thanks for Watching!
+
+
+
+
+Free Music For Your Youtube Videos
+https://www.youtube.com/user/HeatleyBros"
+19,gN1N_sFlctc,"""Quite Frankly"" - Donald Trump Plays MW (Voice Trolling)",56,8,0.125,0,2020-06-04,00:01:45,3,late_night,2638,128,2,0,28,9.183333333333334,hd,false,True,https://i.ytimg.com/vi/gN1N_sFlctc/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'trump plays modern warfare part 10']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"In this video of Trump voice trolling in Call of Duty, I really stir the pot this time. I really stir it up good. Make sure to watch all the way to the end for a view at the next possible video. Let's try and get 50 likes on this video boys. Hope you guys enjoy.
+
+Subscribe! 
+Twitch: https://www.twitch.tv/theknep
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!
+
+Music from:
+Kevin MacLeod: http://incompetech.com/ 
+http://www.premiumbeat.com/ 
+http://audionautix.com/"
+20,-oM2AT6DVZ8,I CONVINCED A KID I'M TRUMP IN MODERN WARFARE?! (Voice Troll),61,12,0.8333333333333334,0,2020-06-15,23:57:44,0,late_night,2605,139,2,0,27,15.183333333333334,hd,false,True,https://i.ytimg.com/vi/-oM2AT6DVZ8/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"*Subscribe!*
+
+**Follow 007 on Twitch!**
+ https://www.twitch.tv/daddydangles10 
+
+**Follow me on Twitch!**
+https://www.twitch.tv/theknep
+
+***Want to join my community? Join my Discord!***
+https://discord.gg/fFyJCmA
+
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!
+
+Some music is from:
+Kevin MacLeod: http://incompetech.com/"
+21,XnfI9xQkqeY,"""DRAINING THE SWAMP"" - COD: MW Donald Trump Voice Trolling!",59,9,0.5555555555555556,0,2020-03-18,01:09:58,2,late_night,2404,103,3,0,35,10.966666666666667,hd,false,True,https://i.ytimg.com/vi/XnfI9xQkqeY/maxresdefault.jpg,1280,720,"['knep', 'theknep', '_knep', 'cod mw', 'cod', 'mw', 'modern warfare', 'Call of duty', 'call of duty warzone', 'warzone', 'call of duty modern warfare', 'donald trump', 'trump', 'president trump', 'voice trolling', 'trolling', 'donald trump plays call of duty', 'donald trump plays cod', 'trump plays call of duty', 'trump plays cod', 'trump trolling', 'call of duty voice trolling', 'call of duty voice impressions', 'voice impressions', 'no soundboard']",25,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Join my Discord! https://discord.gg/fFyJCmA
+
+Welcome back to Call of Duty: Modern Warfare with Trump! In this video, I carry my team in a game of Search & Destroy and I'll let you figure out the outcome at the end.
+
+I'm also thinking about making a discord for you guys to join, comment down below if you're interested! Also follow me on twitter to keep up with whats going on @the_knep
+
+Thanks for watching"
+22,4LkU8ANRwlA,Trump plays Holdfast: Nations at War! (Voice Impression),56,8,0.0,0,2021-06-01,11:00:02,1,afternoon,2391,249,3,0,74,13.5,hd,false,True,https://i.ytimg.com/vi/4LkU8ANRwlA/hqdefault.jpg,480,360,"['knep', 'theknep', '_knep', 'cod mw', 'cod', 'mw', 'modern warfare', 'Call of duty', 'call of duty warzone', 'warzone', 'call of duty modern warfare', 'donald trump', 'trump', 'president trump', 'voice trolling', 'trolling', 'donald trump plays call of duty', 'donald trump plays cod', 'trump plays call of duty', 'trump plays cod', 'trump trolling', 'call of duty voice trolling', 'call of duty voice impressions', 'voice impressions', 'no soundboard']",25,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Watch as Donald Trump joins the army of England and even Russia during the 1800s. He encounters a violently Scottish man that seems to love screaming.
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+23,l8OoTn2UHIQ,Trump and Arnold Schwarzenegger Play Call of Duty (Voice Trolling),66,10,0.0,0,2021-01-11,22:28:05,0,night,1973,116,0,0,37,9.833333333333334,hd,false,True,https://i.ytimg.com/vi/l8OoTn2UHIQ/maxresdefault.jpg,1280,720,"['knep', 'theknep', '_knep', 'cod mw', 'cod', 'mw', 'modern warfare', 'Call of duty', 'call of duty warzone', 'warzone', 'call of duty modern warfare', 'donald trump', 'trump', 'president trump', 'voice trolling', 'trolling', 'donald trump plays call of duty', 'donald trump plays cod', 'trump plays call of duty', 'trump plays cod', 'trump trolling', 'call of duty voice trolling', 'call of duty voice impressions', 'voice impressions', 'no soundboard']",25,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Hope you guys enjoy Trump and Arnold voice trolling in Black Ops Cold War and Modern Warfare, this was a fun video to make!
+
+Arnold's Channel: ARNIE_TV: https://www.youtube.com/channel/UCFJxmWGFcudrVjX_iXmD5LA
+
+
+
+Subscribe and turn on all notifications! 
+
+Follow/Join me on my socials!
+Discord: https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+
+
+
+
+Thanks for Watching!"
+24,dP5PdSqoVyg,Trump Plays Among Us! (Voice Troll Part 4!),43,8,0.0,0,2020-10-30,11:00:11,4,afternoon,1962,124,0,0,49,16.166666666666668,hd,false,True,https://i.ytimg.com/vi/dP5PdSqoVyg/maxresdefault.jpg,1280,720,"['Trump', 'Donald Trump', 'Voice Trolling', 'nep', 'kep', 'knep', 'kneep', 'Donald Trump Plays Among Us', 'Among Us', 'Trump plays among us', 'Among us voice troll', 'among us trump', 'among us donald trump', 'among us funny', 'among us imposter', 'among us crewmate', 'among us troll', 'among us comedy', 'funny among us game', 'funny among us']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Welcome to part four of Donald Trump Plays Among Us!! I had a blast with this one and I hope everyone has a blast watching!!
+
+Join my Discord to participate in a future QnA for my channel! If you post a question in the discord channel you have the potential to be in a future video! Also join for community events including COD and Among Us lobbies! Plus its a great way to connect with me and many other people :) 
+
+**Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+25,9-I3nnLENM8,"Trump Plays COD, Wishing Everyone a Happy Thanksgiving (Voice Troll)",68,10,0.1,0,2020-11-26,18:30:00,3,night,1907,117,1,0,37,8.116666666666667,hd,false,True,https://i.ytimg.com/vi/9-I3nnLENM8/maxresdefault.jpg,1280,720,"['Knep', 'Trump plays cod', 'Trump plays call of duty', 'Black ops Cold War', 'Warzone', 'Thanksgiving', 'Donald trump plays cod', 'Donald Trump', 'Trump', 'Voice trolling', 'Voice impersonation', 'Call of duty black ops Cold War']",12,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"In this video, Donald Trump plays call of duty to wish everyone a happy thanksgiving and to try and win as much as possible..
+
+
+
+**Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+26,emq3-Gyvm-M,"Donald Trump plays 12v12 Search and Destroy, Season 5 Modern Warfare (Voice Trolling)",85,13,0.0,0,2020-08-07,10:00:12,4,morning,1759,102,2,0,19,13.266666666666667,hd,false,True,https://i.ytimg.com/vi/emq3-Gyvm-M/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Donald Trump goes on a wild ride, finding the grandma from spongebob, a super famous streamer with a poppin' chat, and he figures out how chaotic 12v12 Search and Destroy really is.....
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+27,L_hqo9iPAUk,"Voice Impressions in Discord/Warzone! (Trump, Obama, Carl Wheezer, Joe Swanson, and more)",89,13,0.0,0,2021-02-08,12:00:10,0,afternoon,1655,109,1,0,20,6.616666666666667,hd,false,True,https://i.ytimg.com/vi/L_hqo9iPAUk/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Hey guys hope you enjoyed this video! It's a little different but I figured I'd post it! Here's me and a group of people doing random impressions!
+
+**Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+28,8PiIEj-nipI,Donald Trump Plays Garry's Mod (DarkRP Voice Trolling),54,9,0.0,0,2021-07-13,20:08:00,1,night,1088,143,0,0,37,15.5,hd,false,True,https://i.ytimg.com/vi/8PiIEj-nipI/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Donald Trump (voice impression) joins a roleplay server on Garry's Mod and attempts to take over the town by becoming president (or mayor).
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+29,G4hNAcTzBe8,HOW TO get the RIOT SHIELD and KNIFE GOLD in MODERN WARFARE (PLATINUM MELEE)!,77,14,0.7142857142857143,0,2020-03-07,11:00:02,5,afternoon,1005,34,2,0,2,4.433333333333334,hd,false,True,https://i.ytimg.com/vi/G4hNAcTzBe8/maxresdefault.jpg,1280,720,"['knep', 'gold', 'platinum', 'riot shield', 'knife', 'melee', 'call of duty', 'modern warfare']",8,20,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Join my Discord! https://discord.gg/fFyJCmA
+
+
+In this video I showcase the best secrets, tips, and tricks on how to get your knife and riot shield gold in Call of Duty: Modern Warfare. This should help anyone who is trying to go for Damascus, wanting to complete gold on these two weapons, or just wanting to have a horrible experience playing cod by doing these awful challenges. Make sure to like, subscribe, and to hit the notification bell for more content from me. Thanks."
+30,KKOuN3uGI00,HOW TO GET KICKED FROM GTA RP!  - ARTHUR MORGAN VOICE TROLLING,62,11,1.0,0,2021-03-01,12:00:06,0,afternoon,979,44,1,0,24,12.766666666666667,hd,false,True,https://i.ytimg.com/vi/KKOuN3uGI00/maxresdefault.jpg,1280,720,"['knep', 'gold', 'platinum', 'riot shield', 'knife', 'melee', 'call of duty', 'modern warfare']",8,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"I will show you guys exactly how to get kicked by sweaty admins on a roleplay server. I joined a GTA V RP server and ended up making some friends (and foes) by doing a random voice, which just so happened to sound somewhat like Arthur Morgan from Red Dead Redemption 2. This sort of thing is a little different for my channel but not too far off. Hope you guys enjoy this video! If so, make sure to like, subscribe, and comment what your favorite part was. 
+
+
+*Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+31,JvfWEgGeJU4,The REAL first video of my channel... Donald Trump plays Call of Duty: Modern Warfare (Voice Troll),99,17,0.058823529411764705,0,2020-08-30,10:30:08,6,afternoon,684,32,0,0,13,6.283333333333333,hd,false,True,https://i.ytimg.com/vi/JvfWEgGeJU4/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Hey all! Welcome to an absolute classic. This was made during Modern Warfare Season 1 but it never saw the light of day because the quality in the recording was set so low that I didn't find it fit to be my first video on the channel. I made sure I was content with the production quality of my first video in case it would ever gain traction (which it did thanks to @Azerrz because his first Donald Trump voice trolling in Modern Warfare video was titled extremely similar to mine). Figured I'd finally release it to show everyone my true start to YouTube. 
+
+I'm not expecting this video to do well in terms of views or likes, this is just for my long time subscribers who enjoy my content. Also I know the Trump voice, mic quality, and video quality all suck.. this was my first video keep in mind haha.
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+32,n2N3x1LiTSY,Thank you for 2.5K subscribers! (Channel Update),48,8,0.125,0,2021-05-24,11:00:32,0,afternoon,625,74,1,0,40,10.816666666666666,hd,false,True,https://i.ytimg.com/vi/n2N3x1LiTSY/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+33,AjZke9m93q4,HOW TO STOP A BANK ROBBERY IN GTA RP!  - ARTHUR MORGAN VOICE TROLLING,69,13,1.0,0,2021-03-08,12:00:10,0,afternoon,618,33,1,0,21,7.75,hd,false,True,https://i.ytimg.com/vi/AjZke9m93q4/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'trump plays call of duty', 'trump', 'donald trump', 'voice trolling', 'nep', 'knep', 'kneep', 'donald trump plays call of duty', 'trump call of duty', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'trump plays modern warfare', 'trump plays call of duty modern warfare', 'TRUMP']",20,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Welcome to part two of Arthur Morgan voice trolling in GTA RP! I know its not the best voice impression but I had some fun with it so I thought I would share it with you guys! If you watched it till the end, comment down below! 
+
+**Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+34,Nch5hAuU6a8,What is it like playing with randoms? (Warzone Funny Moments),61,10,0.0,0,2020-04-25,20:30:27,5,night,417,27,0,0,9,10.516666666666667,hd,false,True,https://i.ytimg.com/vi/Nch5hAuU6a8/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'voice trolling', 'nep', 'knep', 'kneep', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'Warzone', 'CoD Warzone', 'Call of Duty Warzone', 'Call of duty modern warfare warzone', 'randoms', 'strangers', 'playing with randoms', 'playing with strangers', 'Playing warzone with randoms', 'How to play warzone with randoms', 'funny', 'funny moments', 'Warzone funny moments', 'Modern warfare funny moments']",26,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Subscribe! 
+Join my Discord! https://discord.gg/fFyJCmA
+
+Have you ever wondered what it is like to play with strangers in Call of Duty: Warzone? Well... it's.. definitely interesting..
+
+After nine Trump voice trolling videos, I went for something different this upload.
+
+
+Thanks for Watching!
+
+Music from:
+Kevin MacLeod: http://incompetech.com/ 
+http://www.premiumbeat.com/ 
+http://audionautix.com/"
+35,OUpHJTgLcEQ,Arthur and Dutch from RDR2 play GTA RP part 2 (Voice Impressions),65,12,0.25,0,2021-06-28,11:00:20,0,afternoon,407,35,0,0,13,7.85,hd,false,True,https://i.ytimg.com/vi/OUpHJTgLcEQ/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'voice trolling', 'nep', 'knep', 'kneep', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'Warzone', 'CoD Warzone', 'Call of Duty Warzone', 'Call of duty modern warfare warzone', 'randoms', 'strangers', 'playing with randoms', 'playing with strangers', 'Playing warzone with randoms', 'How to play warzone with randoms', 'funny', 'funny moments', 'Warzone funny moments', 'Modern warfare funny moments']",26,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Arthur Morgan and Dutch Van Der Linde from Red Dead Redemption 2 go on a chaotic journey that may or may not involve more McDonalds tomfoolery
+Shoutout to Ultimate Lumbago! He does the awesome Dutch impression go check him out! https://youtube.com/channel/UCR85t_zuUxSqp5B9HTFylsw
+
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+36,UbhakdyFQ7g,Arthur Morgan and Dutch buy a Big Mac in GTA RP,47,11,0.18181818181818182,0,2021-06-21,11:00:28,0,afternoon,406,41,0,0,8,13.866666666666667,hd,false,True,https://i.ytimg.com/vi/UbhakdyFQ7g/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'voice trolling', 'nep', 'knep', 'kneep', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'Warzone', 'CoD Warzone', 'Call of Duty Warzone', 'Call of duty modern warfare warzone', 'randoms', 'strangers', 'playing with randoms', 'playing with strangers', 'Playing warzone with randoms', 'How to play warzone with randoms', 'funny', 'funny moments', 'Warzone funny moments', 'Modern warfare funny moments']",26,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Arthur and Dutch from Red Dead Redemption 2 go to McDonald’s to go buy a Big Mac, things get complicated and they rob it. Shoutout to Ultimate Lumbago! He does the awesome Dutch impression go check him out! https://youtube.com/channel/UCR85t_zuUxSqp5B9HTFylsw
+
+Become a channel member! 
+https://www.youtube.com/channel/UCy7gv-FM-dMvw6dMtj8Qfgg/join
+
+*Discord: https://discord.gg/fFyJCmA *
+
+Subscribe and turn on all notifications! 
+
+Fiverr: https://www.fiverr.com/share/qx8jDV
+TikTok: https://www.tiktok.com/@theknep
+Twitter: https://twitter.com/the_knep
+
+
+Thanks for Watching!"
+37,CkcJGTklgNo,My Idiocy Made a Gamer Girl Quit! - Among Us Funny Moments,58,11,0.0,0,2020-09-25,22:45:00,4,night,331,18,0,0,12,9.816666666666666,hd,false,True,https://i.ytimg.com/vi/CkcJGTklgNo/maxresdefault.jpg,1280,720,"['among us memes', 'among us gameplay', 'among us funny moments', 'a among us meme', 'a among us moment', 'among us best imposter', 'among us best moments', 'among us but you cant kill me', 'among us best plays', 'knep', 'nep']",11,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"yeah i totally just threw the game and voted her off and she was pissed lmao and i don't even blame her. Hope you guys enjoy me playing Among Us!
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching
+
+Free Music For Your Youtube Videos
+https://www.youtube.com/user/HeatleyBros"
+38,plugZ3W-ea4,i don't think people like the riot shield... (COD: MW Funny Moments #1),71,14,0.14285714285714285,0,2020-05-17,08:30:10,6,morning,322,29,0,0,15,6.283333333333333,hd,false,True,https://i.ytimg.com/vi/plugZ3W-ea4/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'voice trolling', 'nep', 'knep', 'kneep', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'Warzone', 'CoD Warzone', 'Call of Duty Warzone', 'Call of duty modern warfare warzone', 'randoms', 'strangers', 'playing with randoms', 'playing with strangers', 'Playing warzone with randoms', 'How to play warzone with randoms', 'funny', 'funny moments', 'Warzone funny moments', 'Modern warfare funny moments']",26,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"video starts at 0:57
+
+Hey guys, thanks for all the support lately, its been terrific. I really appreciate everyone that has subscribed, commented, or liked. Went for a funny moments montage here and hope you guys enjoy. Watch till the end to see a hint of the next video (which will be a trump voice trolling video since those are liked)
+
+Go check out MooDuckThing! https://www.youtube.com/channel/UCS50uqJ9BAZ5xZ6W7npmj5g
+
+
+
+If you enjoyed the video please check out my other content and consider subscribing!
+
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter and Instagram: @the_knep
+
+
+
+
+
+
+Thanks for Watching!
+
+Music from:
+Kevin MacLeod: http://incompetech.com/ 
+http://www.premiumbeat.com/ 
+http://audionautix.com/"
+39,dGdhnkIiuMU,The Dumbest Ghost Hunters in Phasmophobia! (Feat. Donald Trump and Carl Wheezer),80,12,0.0,0,2021-01-26,12:00:25,1,afternoon,300,23,1,0,12,8.0,hd,false,True,https://i.ytimg.com/vi/dGdhnkIiuMU/maxresdefault.jpg,1280,720,"['Donald Trump Plays', 'Phasmophobia', 'Ghost busters', 'Ghost Hunting', 'Dumbest players ever', 'Dumbest ghost hunters in phasmophobia', 'nep', 'knep', 'KnepYT', 'TheKnep', 'Kneo', 'Carl Wheezer', 'Carl Wheezer Plays']",13,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Watch my friends and I do the worst job at ghost busting in Phasmophobia! (Trump and Carl Wheezer snuck their way in too...)
+
+Sorry for no video last Monday and an upload on Tuesday this week, had some personal issues that have since been taken care of! Gonna get back into the swing of things real soon here.
+
+Friends in the video: 
+MilkyPlays: https://www.youtube.com/channel/UCST69MZV9xX5nSYOQtQpFSA
+EXSlender: https://www.youtube.com/channel/UC6nGMI5PtbRwPbPTEbQKVhg
+
+Subscribe and turn on all notifications! 
+
+
+
+*Want me to read something for you as Donald Trump? Check out my Fiverr and get a personalized message from yours truly. Every order helps me and my channel!* : https://www.fiverr.com/share/v89Weq
+
+Twitter: https://twitter.com/the_knep
+Discord: https://discord.gg/fFyJCmA
+Twitch: https://www.twitch.tv/theknep
+
+
+Thanks for Watching!"
+40,gxX5LEQgXPQ,WELCOME TO THE GULAG - Call of Duty Warzone Funny Moments,57,10,0.4,0,2020-07-10,10:10:00,4,morning,280,22,1,0,6,5.0,hd,false,True,https://i.ytimg.com/vi/gxX5LEQgXPQ/maxresdefault.jpg,1280,720,"['cod', 'cod mw', 'call of duty modern warfare', 'voice trolling', 'nep', 'knep', 'kneep', 'modern warfare', 'call of duty', 'mw', 'call of duty modern warfare voice trolling', 'knep voice trolling', 'Warzone', 'CoD Warzone', 'Call of Duty Warzone', 'Call of duty modern warfare warzone', 'funny', 'funny moments', 'Warzone funny moments', 'Modern warfare funny moments', 'gulag', 'warzone gulag', 'welcome to the gulag']",23,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"As the title suggests, we get sent to the gulag in Call of Duty: Warzone and also send some other players as well. Please consider subscribing if you enjoyed!
+
+Trump Voice Trolling Playlist:
+https://www.youtube.com/playlist?list=PLABaO6jWFfPy7byQcd0-nT77yNyJJQXhN
+
+**Follow me on Twitch!**
+https://www.twitch.tv/theknep
+
+***Want to join my community? Join my Discord!***
+https://discord.gg/fFyJCmA
+
+Twitter: https://twitter.com/the_knep
+
+Friends in the video: 
+Jamraff: https://www.youtube.com/channel/UCv3IzPL5J50hDaZx0eTjOAw
+ABornWalrus: https://www.youtube.com/channel/UCsq60q_arwpMfq1btXH6BpA
+
+
+Thanks for Watching!"
+41,7UDTYP4S_TY,COD Black Ops Cold War Zombies - Most Botched Easter Egg Attempt Ever,69,12,0.08333333333333333,0,2020-12-14,12:00:02,0,afternoon,221,16,0,0,17,9.266666666666667,hd,false,True,https://i.ytimg.com/vi/7UDTYP4S_TY/maxresdefault.jpg,1280,720,"['Die Maschine', 'Zombies', 'Cold War', 'Black Ops Cold War', 'COD Black Ops Cold War', 'Call of Duty Black Ops Cold War', 'Call of Duty Black Ops Cold War Zombies', 'Call of Duty Black Ops Cold War Zombies Funny Moments', 'Funny Moments', 'Zombes Funny Moments', 'BO', 'COD BO', 'COD Black Ops', 'BOCW', 'COD BOCW', 'knep', 'nep', 'kneep', 'BGZO', 'Bigzo', 'BGZO Knep', 'knepyt', 'KnepYT', 'YT Knep']",24,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Welcome to  Black Ops Cold War Zombies Funny Moments. Me and my friends attempt the Die Maschine Easter Egg and it goes completely wrong... hope you enjoy!
+
+**Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+42,GvZnF7Ki6-Y,The Boys Go Godmode in Phasmophobia!,36,6,0.0,0,2021-01-04,12:00:05,0,afternoon,211,13,0,0,7,10.933333333333334,hd,false,True,https://i.ytimg.com/vi/GvZnF7Ki6-Y/maxresdefault.jpg,1280,720,"['Die Maschine', 'Zombies', 'Cold War', 'Black Ops Cold War', 'COD Black Ops Cold War', 'Call of Duty Black Ops Cold War', 'Call of Duty Black Ops Cold War Zombies', 'Call of Duty Black Ops Cold War Zombies Funny Moments', 'Funny Moments', 'Zombes Funny Moments', 'BO', 'COD BO', 'COD Black Ops', 'BOCW', 'COD BOCW', 'knep', 'nep', 'kneep', 'BGZO', 'Bigzo', 'BGZO Knep', 'knepyt', 'KnepYT', 'YT Knep']",24,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"I play Phasmophobia on my new PC and try and hunt down all the ghosts...
+
+**Discord: https://discord.gg/fFyJCmA **
+
+Subscribe and turn on all notifications! 
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+43,sXmEOp1hjCs,The Current State of Call of Duty: Black Ops Cold War (Honest Review),69,13,0.0,0,2020-09-18,21:15:01,4,night,204,13,0,0,5,9.4,hd,false,True,https://i.ytimg.com/vi/sXmEOp1hjCs/maxresdefault.jpg,1280,720,"['call of duty cold war', 'call of duty', 'cold war', 'call of duty black ops cold war', 'cod black ops', 'cod bo cw', 'black ops cold war alpha', 'black ops cold war review', 'black ops cold war gameplay']",9,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"I talk about the brand new Call of Duty Black Ops: Cold War Alpha. There are many significant things to talk about in regard to this game. Score streaks, create a class, maps, gun play, graphics, and more. Hope everyone enjoys this honest review of the new Call of Duty!
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+44,d9bgalphpXk,"Knep QnA: My Channel, PS5, Black Ops Cold War, 700 Subscribers, and more!",73,13,0.07692307692307693,0,2020-11-06,12:00:10,4,afternoon,202,19,0,0,15,10.3,hd,false,True,https://i.ytimg.com/vi/d9bgalphpXk/maxresdefault.jpg,1280,720,"['QnA', 'Question and Answer', 'Knep', 'Black Ops Cold War', 'PS5', '700 subscriber', 'milestone', 'Black Ops', 'Call of Duty', 'Call of Duty Black Ops Cold War', 'Discord']",11,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"Hi everyone! Welcome to my first QnA video! If you'd like to see more please leave a like and comment! In this video I answer questions that were submitted through my discord server!
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
+45,MXM6qtP9pJA,My Thoughts On the Call of Duty: Black Ops Cold War Beta,56,12,0.0,0,2020-10-16,11:00:08,4,afternoon,192,17,1,0,14,10.95,hd,false,True,https://i.ytimg.com/vi/MXM6qtP9pJA/maxresdefault.jpg,1280,720,"['call of duty cold war', 'call of duty', 'cold war', 'call of duty black ops cold war', 'cod black ops', 'cod bo cw', 'black ops cold war alpha', 'black ops cold war review', 'black ops cold war gameplay', 'black ops cold war beta', 'beta', 'black ops', 'cod', 'cod cold war', 'knep', 'knepyt', 'theknep']",17,20,none,en-US,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Knep,3880,146676,47,"In this video I discuss the Call of Duty: Black Ops Cold War Beta. I talk about the things I liked and disliked coming out of the first weekend and heading into the second. There are many topics discussed and mentioned, including SBMM, gunplay, gameplay, maps, and more. Hopefully everyone enjoys this video! Thanks!
+
+Subscribe and turn on all notifications! 
+Join my Discord! https://discord.gg/fFyJCmA
+Twitter: https://twitter.com/the_knep
+
+
+
+
+Thanks for Watching!"
