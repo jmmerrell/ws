@@ -78,7 +78,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      16 min read
+      15 min read
     
 </span></p>
 
@@ -163,10 +163,8 @@ window.onload = wrap_img;
 <h2 id="1.-Understand-the-Data">
 <a class="anchor" href="#1.-Understand-the-Data" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. Understand the Data<a class="anchor-link" href="#1.-Understand-the-Data"> </a>
 </h2>
-<p>The first step when you face a new data set is to take some time to know the data. In Kaggle competitions, you'll come across something like the sample below.</p>
+<p>The main sources of data for this project are the APIs for YouTube and GoogleVision. From these two sources I gather information about each of my competitor's YouTube channels: views, subscribers, number of videos, titles of the videos, duration of each video, etc. From the YouTube API I also extract the thubnail URL for each video. Later I explain how the Google Vision API analyzes the image of the thumbnail for facial and text recognition. I combine the youtube data and the thumbnail data together for the analysis.</p>
 <p><img src="https://github.com/rmpbastos/data_science/blob/master/img/kaggle_img1.jpg?raw=true" alt="kaggle_img001"></p>
-<p>On the competition's page, you can check the project description on <strong>Overview</strong> and you'll find useful information about the data set on the tab <strong>Data</strong>. In Kaggle competitions, it's common to have the training and test sets provided in separate files. On the same tab, there's usually a summary of the features you'll be working with and some basic statistics. It's crucial to understand which problem needs to be addressed and the data set we have at hand.</p>
-<p>You can use the Kaggle notebooks to execute your projects, as they are similar to Jupyter Notebooks.</p>
 
 </div>
 </div>
@@ -192,18 +190,30 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>                                     <span class="c1"># Data analysis tool</span>
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>                                      <span class="c1"># Package for scientific computing</span>
-<span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">train_test_split</span>    <span class="c1"># Splits arrays or matrices into random train and test subsets</span>
-<span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">KFold</span>               <span class="c1"># Cross-validator</span>
-<span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">cross_validate</span>      <span class="c1"># Evaluate metrics by cross-validation</span>
-<span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">GridSearchCV</span>        <span class="c1"># Search over specified parameter values for an estimator</span>
-<span class="kn">from</span> <span class="nn">sklearn.compose</span> <span class="kn">import</span> <span class="n">ColumnTransformer</span>           <span class="c1"># Applies transformers to columns of DataFrames</span>
-<span class="kn">from</span> <span class="nn">sklearn.pipeline</span> <span class="kn">import</span> <span class="n">Pipeline</span>                   <span class="c1"># Helps building a chain of transforms and estimators</span>
-<span class="kn">from</span> <span class="nn">sklearn.impute</span> <span class="kn">import</span> <span class="n">SimpleImputer</span>                <span class="c1"># Imputation transformer for completing missing values</span>
-<span class="kn">from</span> <span class="nn">sklearn.preprocessing</span> <span class="kn">import</span> <span class="n">OneHotEncoder</span>         <span class="c1"># Encode categorical features</span>
-<span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="kn">import</span> <span class="n">mean_absolute_error</span>         <span class="c1"># One of many statistical measures of error</span>
-<span class="kn">from</span> <span class="nn">xgboost</span> <span class="kn">import</span> <span class="n">XGBRegressor</span>                        <span class="c1"># Our model estimator</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">from</span> <span class="nn">numpy.core.fromnumeric</span> <span class="kn">import</span> <span class="n">shape</span>
+<span class="kn">from</span> <span class="nn">numpy.lib.function_base</span> <span class="kn">import</span> <span class="n">diff</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">re</span>
+<span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">datetime</span><span class="p">,</span> <span class="n">timedelta</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">from</span> <span class="nn">pandas.core.indexes.base</span> <span class="kn">import</span> <span class="n">Index</span>
+<span class="kn">import</span> <span class="nn">emoji</span>
+<span class="kn">from</span> <span class="nn">scipy</span> <span class="kn">import</span> <span class="n">stats</span>
+<span class="kn">import</span> <span class="nn">fasttext</span>
+<span class="kn">from</span> <span class="nn">collections</span> <span class="kn">import</span> <span class="n">Counter</span>
+<span class="kn">from</span> <span class="nn">pprint</span> <span class="kn">import</span> <span class="n">pprint</span> 
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">display_html</span>
+<span class="kn">from</span> <span class="nn">itertools</span> <span class="kn">import</span> <span class="n">chain</span><span class="p">,</span><span class="n">cycle</span>
+<span class="kn">import</span> <span class="nn">seaborn</span> <span class="k">as</span> <span class="nn">sns</span>
+<span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">train_test_split</span>
+<span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">GridSearchCV</span>
+<span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="kn">import</span> <span class="n">confusion_matrix</span><span class="p">,</span> <span class="n">accuracy_score</span>
+<span class="kn">import</span> <span class="nn">shap</span>
+<span class="kn">import</span> <span class="nn">xgboost</span> <span class="k">as</span> <span class="nn">xgb</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pylab</span> <span class="k">as</span> <span class="nn">pl</span>
+<span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="kn">import</span> <span class="n">confusion_matrix</span><span class="p">,</span> <span class="n">accuracy_score</span>
 </pre></div>
 
     </div>
