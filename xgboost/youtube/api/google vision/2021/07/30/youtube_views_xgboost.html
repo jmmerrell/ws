@@ -78,7 +78,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      15 min read
+      26 min read
     
 </span></p>
 
@@ -247,6 +247,23 @@ window.onload = wrap_img;
     
     
 <div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">YouTube</span> <span class="n">API</span> <span class="n">Data</span> <span class="n">Pull</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
 <details class="description">
       <summary class="btn btn-sm" data-open="Hide Code" data-close="Show Code"></summary>
         <p></p>
@@ -254,10 +271,198 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">__</span><span class="p">[</span><span class="n">YouTube</span> <span class="n">API</span> <span class="n">Data</span> <span class="n">Pull</span><span class="p">](</span><span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">jmmerrell</span><span class="o">/</span><span class="n">ws</span><span class="o">/</span><span class="n">blob</span><span class="o">/</span><span class="n">master</span><span class="o">/</span><span class="n">data</span><span class="o">/</span><span class="n">youtube_jadoinstuff</span><span class="o">/</span><span class="n">query_youtube_api</span><span class="o">.</span><span class="n">py</span><span class="p">)</span><span class="n">__</span>
-<span class="n">__</span><span class="p">[</span><span class="n">Convert</span> <span class="n">JSON</span> <span class="n">to</span> <span class="n">Pandas</span><span class="p">](</span><span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">jmmerrell</span><span class="o">/</span><span class="n">ws</span><span class="o">/</span><span class="n">blob</span><span class="o">/</span><span class="n">master</span><span class="o">/</span><span class="n">data</span><span class="o">/</span><span class="n">youtube_jadoinstuff</span><span class="o">/</span><span class="n">from_json_to_pandas</span><span class="o">.</span><span class="n">py</span><span class="p">)</span><span class="n">__</span>
-<span class="n">__</span><span class="p">[</span><span class="n">Functions</span> <span class="n">to</span> <span class="n">Query</span> <span class="n">Google</span> <span class="n">Vision</span> <span class="n">API</span><span class="p">](</span><span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">jmmerrell</span><span class="o">/</span><span class="n">ws</span><span class="o">/</span><span class="n">blob</span><span class="o">/</span><span class="n">master</span><span class="o">/</span><span class="n">data</span><span class="o">/</span><span class="n">youtube_jadoinstuff</span><span class="o">/</span><span class="n">functions_for_google_vision_api</span><span class="o">.</span><span class="n">py</span><span class="p">)</span><span class="n">__</span>
-<span class="n">__</span><span class="p">[</span><span class="n">Google</span> <span class="n">Vision</span> <span class="n">API</span> <span class="n">Data</span> <span class="n">Pull</span><span class="p">](</span><span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">jmmerrell</span><span class="o">/</span><span class="n">ws</span><span class="o">/</span><span class="n">blob</span><span class="o">/</span><span class="n">master</span><span class="o">/</span><span class="n">data</span><span class="o">/</span><span class="n">youtube_jadoinstuff</span><span class="o">/</span><span class="n">query_google_vision_api</span><span class="o">.</span><span class="n">py</span><span class="p">)</span><span class="n">__</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">json</span>
+<span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">from</span> <span class="nn">numpy</span> <span class="kn">import</span> <span class="n">random</span>
+<span class="kn">from</span> <span class="nn">time</span> <span class="kn">import</span> <span class="n">sleep</span>
+<span class="kn">import</span> <span class="nn">os</span>
+
+<span class="k">class</span> <span class="nc">YTstats</span><span class="p">:</span>
+
+    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">api_key</span><span class="p">,</span> <span class="n">channel_id</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">api_key</span> <span class="o">=</span> <span class="n">api_key</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">channel_id</span> <span class="o">=</span> <span class="n">channel_id</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">channel_statistics</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">video_data</span> <span class="o">=</span> <span class="kc">None</span>
+
+    <span class="k">def</span> <span class="nf">extract_all</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">get_channel_statistics</span><span class="p">()</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">get_channel_video_data</span><span class="p">()</span>
+
+    <span class="k">def</span> <span class="nf">get_channel_statistics</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="sd">"""Extract the channel statistics"""</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s1">'get channel statistics...'</span><span class="p">)</span>
+        <span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">'https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">channel_id</span><span class="si">}</span><span class="s1">&amp;key=</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">api_key</span><span class="si">}</span><span class="s1">'</span>
+        
+        <span class="n">json_url</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+        <span class="n">data</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">loads</span><span class="p">(</span><span class="n">json_url</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s1">'items'</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">'statistics'</span><span class="p">]</span>
+        <span class="k">except</span> <span class="ne">KeyError</span><span class="p">:</span>
+            <span class="nb">print</span><span class="p">(</span><span class="s1">'Could not get channel statistics'</span><span class="p">)</span>
+            <span class="n">data</span> <span class="o">=</span> <span class="p">{}</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">channel_statistics</span> <span class="o">=</span> <span class="n">data</span>
+        <span class="k">return</span> <span class="n">data</span>
+
+    <span class="k">def</span> <span class="nf">get_channel_video_data</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">global</span> <span class="n">s</span>
+        <span class="n">s</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>
+        <span class="s2">"Extract all video information of the channel"</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s1">'get video data...'</span><span class="p">)</span>
+        <span class="n">channel_videos</span><span class="p">,</span> <span class="n">channel_playlists</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_get_channel_content</span><span class="p">(</span><span class="n">limit</span><span class="o">=</span><span class="mi">50</span><span class="p">)</span>
+
+        <span class="n">parts</span><span class="o">=</span><span class="p">[</span><span class="s2">"snippet"</span><span class="p">,</span> <span class="s2">"statistics"</span><span class="p">,</span><span class="s2">"contentDetails"</span><span class="p">,</span> <span class="s2">"topicDetails"</span><span class="p">]</span>
+        <span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">channel_videos</span><span class="p">))</span>
+        <span class="n">ii</span> <span class="o">=</span> <span class="mi">0</span>
+       
+        <span class="k">for</span> <span class="n">video_id</span> <span class="ow">in</span> <span class="n">channel_videos</span><span class="p">:</span>
+            <span class="n">ii</span> <span class="o">+=</span> <span class="mi">1</span>
+            <span class="nb">print</span><span class="p">(</span><span class="n">ii</span><span class="o">/</span><span class="nb">len</span><span class="p">(</span><span class="n">channel_videos</span><span class="p">))</span>
+            <span class="k">for</span> <span class="n">part</span> <span class="ow">in</span> <span class="n">parts</span><span class="p">:</span>
+                <span class="n">data</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_get_single_video_data</span><span class="p">(</span><span class="n">video_id</span><span class="p">,</span> <span class="n">part</span><span class="p">)</span>
+                <span class="n">channel_videos</span><span class="p">[</span><span class="n">video_id</span><span class="p">]</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
+
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">video_data</span> <span class="o">=</span> <span class="n">channel_videos</span>
+        <span class="k">return</span> <span class="n">channel_videos</span>
+
+    <span class="k">def</span> <span class="nf">_get_single_video_data</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">video_id</span><span class="p">,</span> <span class="n">part</span><span class="p">):</span>
+        <span class="sd">"""</span>
+<span class="sd">        Extract further information for a single video</span>
+<span class="sd">        parts can be: 'snippet', 'statistics', 'contentDetails', 'topicDetails'</span>
+<span class="sd">        """</span>
+        <span class="n">sleep</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">uniform</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span>
+        <span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">"https://www.googleapis.com/youtube/v3/videos?part=</span><span class="si">{</span><span class="n">part</span><span class="si">}</span><span class="s2">&amp;id=</span><span class="si">{</span><span class="n">video_id</span><span class="si">}</span><span class="s2">&amp;key=</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">api_key</span><span class="si">}</span><span class="s2">"</span>
+        <span class="n">json_url</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+        <span class="n">data</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">loads</span><span class="p">(</span><span class="n">json_url</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+    
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s1">'items'</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="n">part</span><span class="p">]</span>
+        <span class="k">except</span> <span class="ne">KeyError</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'Error! Could not get </span><span class="si">{</span><span class="n">part</span><span class="si">}</span><span class="s1"> part of data: </span><span class="se">\n</span><span class="si">{</span><span class="n">data</span><span class="si">}</span><span class="s1">'</span><span class="p">)</span>
+            <span class="n">data</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">()</span>
+        <span class="k">return</span> <span class="n">data</span>
+
+    <span class="k">def</span> <span class="nf">_get_channel_content</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">limit</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">check_all_pages</span><span class="o">=</span><span class="kc">True</span><span class="p">):</span>
+        <span class="sd">"""</span>
+<span class="sd">        Extract all videos and playlists, can check all available search pages</span>
+<span class="sd">        channel_videos = videoId: title, publishedAt</span>
+<span class="sd">        channel_playlists = playlistId: title, publishedAt</span>
+<span class="sd">        return channel_videos, channel_playlists</span>
+<span class="sd">        """</span>
+        <span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">"https://www.googleapis.com/youtube/v3/search?key=</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">api_key</span><span class="si">}</span><span class="s2">&amp;channelId=</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">channel_id</span><span class="si">}</span><span class="s2">&amp;part=snippet,id&amp;order=date"</span>
+        <span class="k">if</span> <span class="n">limit</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span> <span class="ow">and</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">limit</span><span class="p">,</span> <span class="nb">int</span><span class="p">):</span>
+            <span class="n">url</span> <span class="o">+=</span> <span class="s2">"&amp;maxResults="</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">limit</span><span class="p">)</span>
+
+        <span class="n">vid</span><span class="p">,</span> <span class="n">pl</span><span class="p">,</span> <span class="n">npt</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_get_channel_content_per_page</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+        <span class="n">idx</span> <span class="o">=</span> <span class="mi">0</span>
+        
+        <span class="k">while</span><span class="p">(</span><span class="n">check_all_pages</span> <span class="ow">and</span> <span class="n">npt</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span> <span class="ow">and</span> <span class="n">idx</span> <span class="o">&lt;</span> <span class="mi">50</span> <span class="ow">and</span> <span class="n">num_pages</span> <span class="o">&lt;</span> <span class="mi">2</span><span class="p">):</span>
+            <span class="n">nexturl</span> <span class="o">=</span> <span class="n">url</span> <span class="o">+</span> <span class="s2">"&amp;pageToken="</span> <span class="o">+</span> <span class="n">npt</span>
+            <span class="n">next_vid</span><span class="p">,</span> <span class="n">next_pl</span><span class="p">,</span> <span class="n">npt</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_get_channel_content_per_page</span><span class="p">(</span><span class="n">nexturl</span><span class="p">)</span>
+            <span class="n">vid</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">next_vid</span><span class="p">)</span>
+            <span class="n">pl</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">next_pl</span><span class="p">)</span>
+            <span class="n">idx</span> <span class="o">+=</span> <span class="mi">1</span>
+            <span class="nb">print</span><span class="p">(</span><span class="n">check_all_pages</span><span class="p">,</span> <span class="n">idx</span><span class="p">,</span> <span class="n">npt</span><span class="p">)</span>
+
+        <span class="k">return</span> <span class="n">vid</span><span class="p">,</span> <span class="n">pl</span>
+
+    <span class="k">def</span> <span class="nf">_get_channel_content_per_page</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">url</span><span class="p">):</span>
+        <span class="sd">"""</span>
+<span class="sd">        Extract all videos and playlists per page</span>
+<span class="sd">        return channel_videos, channel_playlists, nextPageToken</span>
+<span class="sd">        """</span>
+        <span class="n">sleep</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">uniform</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="p">))</span>
+        <span class="n">json_url</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+        <span class="n">data</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">loads</span><span class="p">(</span><span class="n">json_url</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+        <span class="n">channel_videos</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">()</span>
+        <span class="n">channel_playlists</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">()</span>
+        <span class="k">if</span> <span class="s1">'items'</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">data</span><span class="p">:</span>
+            <span class="nb">print</span><span class="p">(</span><span class="s1">'Error! Could not get correct channel data!</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">data</span><span class="p">)</span>
+            <span class="k">return</span> <span class="n">channel_videos</span><span class="p">,</span> <span class="n">channel_playlists</span><span class="p">,</span> <span class="kc">None</span>
+        <span class="k">global</span> <span class="n">num_pages</span>
+        <span class="n">num_pages</span><span class="o">+=</span><span class="mi">1</span>
+        <span class="n">nextPageToken</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">"nextPageToken"</span><span class="p">,</span> <span class="kc">None</span><span class="p">)</span>
+
+        <span class="n">item_data</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s1">'items'</span><span class="p">]</span>
+        <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">item_data</span><span class="p">:</span>
+            <span class="k">try</span><span class="p">:</span>
+                <span class="n">kind</span> <span class="o">=</span> <span class="n">item</span><span class="p">[</span><span class="s1">'id'</span><span class="p">][</span><span class="s1">'kind'</span><span class="p">]</span>
+                <span class="n">published_at</span> <span class="o">=</span> <span class="n">item</span><span class="p">[</span><span class="s1">'snippet'</span><span class="p">][</span><span class="s1">'publishedAt'</span><span class="p">]</span>
+                <span class="n">title</span> <span class="o">=</span> <span class="n">item</span><span class="p">[</span><span class="s1">'snippet'</span><span class="p">][</span><span class="s1">'title'</span><span class="p">]</span>
+                <span class="k">if</span> <span class="n">kind</span> <span class="o">==</span> <span class="s1">'youtube#video'</span><span class="p">:</span>
+                    <span class="n">video_id</span> <span class="o">=</span> <span class="n">item</span><span class="p">[</span><span class="s1">'id'</span><span class="p">][</span><span class="s1">'videoId'</span><span class="p">]</span>
+                    <span class="n">channel_videos</span><span class="p">[</span><span class="n">video_id</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'publishedAt'</span><span class="p">:</span> <span class="n">published_at</span><span class="p">,</span> <span class="s1">'title'</span><span class="p">:</span> <span class="n">title</span><span class="p">}</span>
+                <span class="k">elif</span> <span class="n">kind</span> <span class="o">==</span> <span class="s1">'youtube#playlist'</span><span class="p">:</span>
+                    <span class="n">playlist_id</span> <span class="o">=</span> <span class="n">item</span><span class="p">[</span><span class="s1">'id'</span><span class="p">][</span><span class="s1">'playlistId'</span><span class="p">]</span>
+                    <span class="n">channel_playlists</span><span class="p">[</span><span class="n">playlist_id</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'publishedAt'</span><span class="p">:</span> <span class="n">published_at</span><span class="p">,</span> <span class="s1">'title'</span><span class="p">:</span> <span class="n">title</span><span class="p">}</span>
+            <span class="k">except</span> <span class="ne">KeyError</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+                <span class="nb">print</span><span class="p">(</span><span class="s1">'Error! Could not extract data from item:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">item</span><span class="p">)</span>
+
+        <span class="k">return</span> <span class="n">channel_videos</span><span class="p">,</span> <span class="n">channel_playlists</span><span class="p">,</span> <span class="n">nextPageToken</span>
+
+    <span class="k">def</span> <span class="nf">dump</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="sd">"""Dumps channel statistics and video data in a single json file"""</span>
+        <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">channel_statistics</span> <span class="ow">is</span> <span class="kc">None</span> <span class="ow">or</span> <span class="bp">self</span><span class="o">.</span><span class="n">video_data</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+            <span class="nb">print</span><span class="p">(</span><span class="s1">'data is missing!</span><span class="se">\n</span><span class="s1">Call get_channel_statistics() and get_channel_video_data() first!'</span><span class="p">)</span>
+            <span class="k">return</span>
+
+        <span class="n">fused_data</span> <span class="o">=</span> <span class="p">{</span><span class="bp">self</span><span class="o">.</span><span class="n">channel_id</span><span class="p">:</span> <span class="p">{</span><span class="s2">"channel_statistics"</span><span class="p">:</span> <span class="bp">self</span><span class="o">.</span><span class="n">channel_statistics</span><span class="p">,</span>
+                              <span class="s2">"video_data"</span><span class="p">:</span> <span class="bp">self</span><span class="o">.</span><span class="n">video_data</span><span class="p">}}</span>
+
+        <span class="n">channel_title</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">video_data</span><span class="o">.</span><span class="n">popitem</span><span class="p">()[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'channelTitle'</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">channel_id</span><span class="p">)</span>
+        <span class="n">channel_title</span> <span class="o">=</span> <span class="n">channel_title</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s2">" "</span><span class="p">,</span> <span class="s2">"_"</span><span class="p">)</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+        <span class="n">filename</span> <span class="o">=</span> <span class="n">channel_title</span> <span class="o">+</span> <span class="s1">'.json'</span>
+        <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="s1">'w'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+            <span class="n">json</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="n">fused_data</span><span class="p">,</span> <span class="n">f</span><span class="p">,</span> <span class="n">indent</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
+        
+        <span class="nb">print</span><span class="p">(</span><span class="s1">'file dumped to'</span><span class="p">,</span> <span class="n">filename</span><span class="p">)</span>
+
+
+<span class="c1">#brian hull UCiNeUoUWfBLC8mJuMzI6hvw</span>
+<span class="c1">#Black Gryphon UCvzWGXYFDiiJ338KIJPhbhQ </span>
+<span class="c1">#Brock Baker  UCLzdMXE3R2xXIklfIO9HCcQ</span>
+<span class="c1"># Ori  UCra3g9Qvmgux0NyY2Pdj4Lw</span>
+<span class="c1"># Scheiffer Bates   UCcBacTJIf67LSU_-yeJwDvg</span>
+<span class="c1">#Azerrz  UCiwIAU4SNlrcv47504JrJeQ</span>
+<span class="c1">#Danny padilla &amp; mason sperling  UCfhK8MfxO-9RCypkLDyW1rw</span>
+<span class="c1"># Brizzy UC7lObFRyZgoZcMYHHqxi9lg</span>
+<span class="c1"># Redfireball UC88CnZTYFz5ugp-JtDEQ3-g</span>
+<span class="c1"># Sounds like pizza  UCh6OfzCefcCGFfihPbe_Y4g</span>
+<span class="c1">#joshiiwuh  UCxRGk49YNiW3Cq8s7MGknqw</span>
+<span class="c1"># simau UCkXvCWJjAqNcFwxF7hW_ZRQ</span>
+<span class="c1">#Knep UCy7gv-FM-dMvw6dMtj8Qfgg</span>
+<span class="c1"># charlie hopkinson  UCewLMcro9tNP97XQ1rxtLXQ</span>
+<span class="c1">#Uss JA doin  UCqPYUMNbVeEhyTBIZCDO_VQ</span>
+<span class="c1"># Shanieology  UCR93YdwZ4UKEUwf1gA-ZusA</span>
+<span class="c1"># BigShade  UC7Wt6Nukmt83Bph3us5s5Aw</span>
+<span class="c1"># Best in Class  UClQhFMEVUxJAwMW-KdZ0SvQ</span>
+<span class="c1"># Daniel Ferguson  UCXFzOJmXVaP1tMLiww4aQzg</span>
+<span class="c1"># Mikey Boltz  UC0gXT2T6KtmV0IHNNNvruAQ</span>
+<span class="c1"># Maxamili  UC-0WjH-efG2qvNlZUBlX70Q</span>
+
+
+
+
+<span class="n">api_key</span><span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">environ</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'YT_API'</span><span class="p">)</span>
+
+<span class="c1"># channel_ids= ['UCiNeUoUWfBLC8mJuMzI6hvw','UCvzWGXYFDiiJ338KIJPhbhQ','UCLzdMXE3R2xXIklfIO9HCcQ','UCra3g9Qvmgux0NyY2Pdj4Lw','UCcBacTJIf67LSU_-yeJwDvg',</span>
+<span class="c1"># 'UCiwIAU4SNlrcv47504JrJeQ','UCfhK8MfxO-9RCypkLDyW1rw','UC7lObFRyZgoZcMYHHqxi9lg','UC88CnZTYFz5ugp-JtDEQ3-g','UCh6OfzCefcCGFfihPbe_Y4g',</span>
+<span class="c1"># 'UCxRGk49YNiW3Cq8s7MGknqw','UCkXvCWJjAqNcFwxF7hW_ZRQ','UCy7gv-FM-dMvw6dMtj8Qfgg','UCewLMcro9tNP97XQ1rxtLXQ','UCqPYUMNbVeEhyTBIZCDO_VQ',</span>
+<span class="c1"># 'UCR93YdwZ4UKEUwf1gA-ZusA','UC7Wt6Nukmt83Bph3us5s5Aw','UClQhFMEVUxJAwMW-KdZ0SvQ','UCXFzOJmXVaP1tMLiww4aQzg','UC0gXT2T6KtmV0IHNNNvruAQ',</span>
+<span class="c1"># 'UC-0WjH-efG2qvNlZUBlX70Q']</span>
+
+<span class="n">channel_ids</span><span class="o">=</span> <span class="p">[</span><span class="s1">'UC-0WjH-efG2qvNlZUBlX70Q'</span><span class="p">,</span><span class="s1">'UClQhFMEVUxJAwMW-KdZ0SvQ'</span><span class="p">]</span>
+
+<span class="k">for</span> <span class="n">channel_id</span> <span class="ow">in</span> <span class="n">channel_ids</span><span class="p">:</span>
+    <span class="k">global</span> <span class="n">num_pages</span>
+    <span class="n">num_pages</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">yt</span> <span class="o">=</span> <span class="n">YTstats</span><span class="p">(</span><span class="n">api_key</span><span class="p">,</span><span class="n">channel_id</span><span class="p">)</span>
+    <span class="n">yt</span><span class="o">.</span><span class="n">get_channel_statistics</span><span class="p">()</span>
+    <span class="n">yt</span><span class="o">.</span><span class="n">get_channel_video_data</span><span class="p">()</span>
+    <span class="n">yt</span><span class="o">.</span><span class="n">dump</span><span class="p">()</span>
 </pre></div>
 
     </div>
@@ -286,10 +491,658 @@ window.onload = wrap_img;
 </div>
     
 
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">Convert</span> <span class="n">JSON</span> <span class="n">to</span> <span class="n">Pandas</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<details class="description">
+      <summary class="btn btn-sm" data-open="Hide Code" data-close="Show Code"></summary>
+        <p></p>
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">json</span>
+<span class="kn">from</span> <span class="nn">os</span> <span class="kn">import</span> <span class="n">replace</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">re</span>
+<span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">datetime</span><span class="p">,</span> <span class="n">timedelta</span>
+<span class="kn">import</span> <span class="nn">cv2</span>
+<span class="kn">import</span> <span class="nn">urllib</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">from</span> <span class="nn">skimage</span> <span class="kn">import</span> <span class="n">io</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+
+<span class="c1">#C:/Users/merre/Desktop/data projects/</span>
+<span class="n">files</span><span class="o">=</span> <span class="p">[</span><span class="s2">"shanieology.json"</span><span class="p">,</span><span class="s2">"simau.json"</span><span class="p">,</span><span class="s2">"soundslikepizza.json"</span><span class="p">,</span><span class="s2">"azerrz.json"</span><span class="p">,</span><span class="s2">"BigShade.json"</span><span class="p">,</span><span class="s2">"black_gryph0n.json"</span>
+<span class="p">,</span><span class="s2">"brian_hull.json"</span><span class="p">,</span><span class="s2">"brizzy_voices.json"</span><span class="p">,</span><span class="s2">"brock_baker.json"</span><span class="p">,</span><span class="s2">"charlie_hopkinson.json"</span><span class="p">,</span><span class="s2">"danny_padilla_&amp;_mason_sperling.json"</span>
+<span class="p">,</span><span class="s2">"ja_doin_stuff.json"</span><span class="p">,</span><span class="s2">"joshiiwuh.json"</span><span class="p">,</span><span class="s2">"knep.json"</span><span class="p">,</span><span class="s2">"ori.json"</span><span class="p">,</span><span class="s2">"redfireball555.json"</span><span class="p">,</span><span class="s2">"scheiffer_bates.json"</span><span class="p">,</span><span class="s2">"daniel_ferguson.json"</span><span class="p">,</span>
+<span class="s2">"BigShade.json"</span><span class="p">,</span><span class="s2">"best_in_class.json"</span><span class="p">,</span><span class="s2">"maxamili.json"</span><span class="p">,</span><span class="s2">"mikey_bolts.json"</span><span class="p">]</span>
+
+<span class="n">data</span><span class="o">=</span><span class="kc">None</span>
+<span class="n">df_channel_new</span><span class="o">=</span><span class="kc">None</span>
+<span class="n">df_channel</span> <span class="o">=</span> <span class="kc">None</span>
+
+<span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">file</span><span class="p">,</span><span class="s1">'r'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+        <span class="n">data</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="n">f</span><span class="p">)</span>
+
+    <span class="n">channel_id</span><span class="p">,</span> <span class="n">stats</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">popitem</span><span class="p">()</span>
+    <span class="n">channel_stats</span><span class="o">=</span><span class="n">stats</span><span class="p">[</span><span class="s2">"channel_statistics"</span><span class="p">]</span>
+    <span class="n">video_stats</span> <span class="o">=</span> <span class="n">stats</span><span class="p">[</span><span class="s2">"video_data"</span><span class="p">]</span>
+    <span class="n">channel_views</span><span class="o">=</span> <span class="n">channel_stats</span><span class="p">[</span><span class="s2">"viewCount"</span><span class="p">]</span>
+    <span class="n">channel_subs</span><span class="o">=</span> <span class="n">channel_stats</span><span class="p">[</span><span class="s2">"subscriberCount"</span><span class="p">]</span>
+    <span class="n">channel_videos</span><span class="o">=</span> <span class="n">channel_stats</span><span class="p">[</span><span class="s2">"videoCount"</span><span class="p">]</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">sorted_vids</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">video_stats</span><span class="o">.</span><span class="n">items</span><span class="p">(),</span> <span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">item</span><span class="p">:</span> <span class="nb">int</span><span class="p">(</span><span class="n">item</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"viewCount"</span><span class="p">]),</span> <span class="n">reverse</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+    <span class="k">except</span><span class="p">:</span>
+        <span class="n">sorted_vids</span> <span class="o">=</span> <span class="n">video_stats</span><span class="o">.</span><span class="n">items</span><span class="p">()</span>
+    <span class="n">stats</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">for</span> <span class="n">vid</span> <span class="ow">in</span> <span class="n">sorted_vids</span><span class="p">:</span>
+        <span class="n">video_id</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+        <span class="n">title</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"title"</span><span class="p">]</span>
+        <span class="n">title_len</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">title</span><span class="p">)</span>
+        <span class="n">title_words</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">r</span><span class="s1">'\w+'</span><span class="p">,</span><span class="n">title</span><span class="p">)</span>
+        <span class="n">words</span><span class="o">=</span><span class="mi">0</span>
+        <span class="n">upper_words</span><span class="o">=</span><span class="mi">0</span>
+        <span class="k">for</span> <span class="n">word</span> <span class="ow">in</span> <span class="n">title_words</span><span class="p">:</span>
+            <span class="n">words</span> <span class="o">+=</span> <span class="mi">1</span>
+            <span class="k">if</span> <span class="n">word</span><span class="o">.</span><span class="n">isupper</span><span class="p">():</span>
+                <span class="n">upper_words</span> <span class="o">+=</span> <span class="mi">1</span>
+        <span class="n">upper_pct</span> <span class="o">=</span> <span class="n">upper_words</span><span class="o">/</span><span class="n">words</span>
+        
+        <span class="n">emoji_count</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">u</span><span class="s1">'[</span><span class="se">\U0001f600</span><span class="s1">-</span><span class="se">\U0001f650</span><span class="s1">]'</span><span class="p">,</span> <span class="n">title</span><span class="p">))</span>
+        
+        <span class="c1">#Convert time to Mexico City Time</span>
+        <span class="n">upload_date_time</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"publishedAt"</span><span class="p">],</span><span class="s1">'%Y-%m-</span><span class="si">%d</span><span class="s1">T%H:%M:%SZ'</span><span class="p">)</span><span class="o">-</span><span class="n">timedelta</span><span class="p">(</span><span class="n">hours</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+        <span class="n">upload_date</span> <span class="o">=</span> <span class="n">upload_date_time</span><span class="o">.</span><span class="n">date</span><span class="p">()</span>
+        <span class="n">upload_time</span> <span class="o">=</span> <span class="n">upload_date_time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
+        <span class="c1">#0 is Monday, 6 is Sunday</span>
+        <span class="n">upload_day</span> <span class="o">=</span> <span class="n">upload_date</span><span class="o">.</span><span class="n">weekday</span><span class="p">()</span>
+        <span class="k">if</span> <span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="s1">'04:00:00'</span><span class="p">,</span> <span class="s1">'%H:%M:%S'</span><span class="p">)</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> <span class="o">&lt;=</span> <span class="n">upload_time</span> <span class="o">&lt;=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="s1">'10:30:00'</span><span class="p">,</span> <span class="s1">'%H:%M:%S'</span><span class="p">)</span><span class="o">.</span><span class="n">time</span><span class="p">():</span>
+            <span class="n">upload_time_of_day</span> <span class="o">=</span> <span class="s1">'morning'</span>
+        <span class="k">elif</span> <span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="s1">'10:30:01'</span><span class="p">,</span> <span class="s1">'%H:%M:%S'</span><span class="p">)</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> <span class="o">&lt;=</span> <span class="n">upload_time</span> <span class="o">&lt;=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="s1">'18:00:00'</span><span class="p">,</span> <span class="s1">'%H:%M:%S'</span><span class="p">)</span><span class="o">.</span><span class="n">time</span><span class="p">():</span>
+            <span class="n">upload_time_of_day</span> <span class="o">=</span> <span class="s1">'afternoon'</span>
+        <span class="k">elif</span> <span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="s1">'18:00:01'</span><span class="p">,</span> <span class="s1">'%H:%M:%S'</span><span class="p">)</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> <span class="o">&lt;=</span> <span class="n">upload_time</span> <span class="o">&lt;=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="s1">'23:00:00'</span><span class="p">,</span> <span class="s1">'%H:%M:%S'</span><span class="p">)</span><span class="o">.</span><span class="n">time</span><span class="p">():</span>
+            <span class="n">upload_time_of_day</span> <span class="o">=</span> <span class="s1">'night'</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">upload_time_of_day</span> <span class="o">=</span> <span class="s2">"late_night"</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">thumbnail_url</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"maxres"</span><span class="p">][</span><span class="s2">"url"</span><span class="p">]</span>
+            <span class="n">thumbnail_h</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"maxres"</span><span class="p">][</span><span class="s2">"height"</span><span class="p">]</span>
+            <span class="n">thumbnail_w</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"maxres"</span><span class="p">][</span><span class="s2">"width"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="k">try</span><span class="p">:</span>
+                <span class="n">thumbnail_url</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"high"</span><span class="p">][</span><span class="s2">"url"</span><span class="p">]</span>
+                <span class="n">thumbnail_h</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"high"</span><span class="p">][</span><span class="s2">"height"</span><span class="p">]</span>
+                <span class="n">thumbnail_w</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"high"</span><span class="p">][</span><span class="s2">"width"</span><span class="p">]</span>
+            <span class="k">except</span><span class="p">:</span>
+                <span class="k">try</span><span class="p">:</span>
+                    <span class="n">thumbnail_url</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"default"</span><span class="p">][</span><span class="s2">"url"</span><span class="p">]</span>
+                    <span class="n">thumbnail_h</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"default"</span><span class="p">][</span><span class="s2">"height"</span><span class="p">]</span>
+                    <span class="n">thumbnail_w</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"thumbnails"</span><span class="p">][</span><span class="s2">"default"</span><span class="p">][</span><span class="s2">"width"</span><span class="p">]</span>  
+                <span class="k">except</span><span class="p">:</span>
+                    <span class="n">thumbnail_url</span><span class="o">=</span><span class="kc">None</span>
+                    <span class="n">thumbnail_h</span><span class="o">=</span><span class="kc">None</span>
+                    <span class="n">thumbnail_w</span><span class="o">=</span><span class="kc">None</span>                  
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">channel</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"channelTitle"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">channel</span><span class="o">=</span><span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">tags</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"tags"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">tag</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="n">num_tags</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">tags</span><span class="p">)</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">categoryId</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"categoryId"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">categoryId</span><span class="o">=</span><span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span> 
+            <span class="n">liveBroadcastContent</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"liveBroadcastContent"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">liveBroadcastContent</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">defaultAudioLanguage</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"defaultAudioLanguage"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">defaultAudioLanguage</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">viewCount</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"viewCount"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">viewCount</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">likeCount</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"likeCount"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">likeCount</span> <span class="o">=</span><span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">dislikeCount</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"dislikeCount"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">dislikeCount</span><span class="o">=</span><span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">favoriteCount</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"favoriteCount"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">favoriteCount</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">commentCount</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"commentCount"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">commentCount</span><span class="o">=</span><span class="kc">None</span>
+        
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">duration0</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"duration"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">duration0</span><span class="o">=</span><span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">hours</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">r</span><span class="s1">'\d+H'</span><span class="p">,</span><span class="n">duration0</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">'H'</span><span class="p">,</span><span class="s1">''</span><span class="p">))</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">hours</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">mins</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">r</span><span class="s1">'\d+M'</span><span class="p">,</span><span class="n">duration0</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">'M'</span><span class="p">,</span><span class="s1">''</span><span class="p">))</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">mins</span><span class="o">=</span><span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">secs</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">r</span><span class="s1">'\d+S'</span><span class="p">,</span><span class="n">duration0</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">'S'</span><span class="p">,</span><span class="s1">''</span><span class="p">))</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">secs</span><span class="o">=</span><span class="mi">0</span>
+        <span class="k">if</span> <span class="n">hours</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span> <span class="ow">and</span> <span class="n">mins</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span> <span class="ow">and</span> <span class="n">secs</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+            <span class="n">duration</span> <span class="o">=</span> <span class="n">hours</span><span class="o">*</span><span class="mi">60</span> <span class="o">+</span> <span class="n">mins</span> <span class="o">+</span> <span class="n">secs</span><span class="o">/</span><span class="mi">60</span>
+        <span class="k">elif</span> <span class="n">mins</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span> <span class="ow">and</span> <span class="n">secs</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+            <span class="n">duration</span> <span class="o">=</span> <span class="n">mins</span> <span class="o">+</span> <span class="n">secs</span><span class="o">/</span><span class="mi">60</span>
+        <span class="k">elif</span> <span class="n">secs</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+            <span class="n">duration</span> <span class="o">=</span> <span class="n">secs</span><span class="o">/</span><span class="mi">60</span>
+
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">definition</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"definition"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">definition</span> <span class="o">=</span><span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">captions</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"caption"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">captions</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>    
+            <span class="n">licensedContent</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"licensedContent"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">licensedContent</span><span class="o">=</span><span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">projection</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"projection"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">projection</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">topicCategories</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"topicCategories"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">topicCategories</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">desc</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s2">"description"</span><span class="p">]</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="n">desc</span> <span class="o">=</span> <span class="kc">None</span>
+
+        <span class="n">video_id</span> <span class="o">=</span> <span class="n">vid</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+        <span class="n">stats</span><span class="o">.</span><span class="n">append</span><span class="p">([</span><span class="n">video_id</span><span class="p">,</span><span class="n">title</span><span class="p">,</span><span class="n">title_len</span><span class="p">,</span><span class="n">words</span><span class="p">,</span><span class="n">upper_pct</span><span class="p">,</span><span class="n">emoji_count</span><span class="p">,</span><span class="n">upload_date</span><span class="p">,</span><span class="n">upload_time</span><span class="p">,</span><span class="n">upload_day</span><span class="p">,</span><span class="n">upload_time_of_day</span><span class="p">,</span><span class="n">viewCount</span><span class="p">,</span><span class="n">likeCount</span><span class="p">,</span><span class="n">dislikeCount</span><span class="p">,</span><span class="n">favoriteCount</span><span class="p">,</span>
+        <span class="n">commentCount</span><span class="p">,</span><span class="n">duration</span><span class="p">,</span><span class="n">definition</span><span class="p">,</span><span class="n">captions</span><span class="p">,</span><span class="n">licensedContent</span><span class="p">,</span><span class="n">thumbnail_url</span><span class="p">,</span> <span class="n">thumbnail_w</span><span class="p">,</span> <span class="n">thumbnail_h</span><span class="p">,</span> <span class="n">tags</span><span class="p">,</span><span class="n">num_tags</span><span class="p">,</span><span class="n">categoryId</span><span class="p">,</span><span class="n">liveBroadcastContent</span><span class="p">,</span>
+        <span class="n">defaultAudioLanguage</span><span class="p">,</span><span class="n">topicCategories</span><span class="p">,</span> <span class="n">channel</span><span class="p">,</span> <span class="n">channel_subs</span><span class="p">,</span> <span class="n">channel_views</span><span class="p">,</span> <span class="n">channel_videos</span><span class="p">,</span><span class="n">desc</span><span class="p">])</span>
+    <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">stats</span><span class="p">)</span>
+    <span class="n">df</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'video_id'</span><span class="p">,</span><span class="s1">'title'</span><span class="p">,</span><span class="s1">'title_len'</span><span class="p">,</span><span class="s1">'words'</span><span class="p">,</span><span class="s1">'upper_pct'</span><span class="p">,</span><span class="s1">'emoji_count'</span><span class="p">,</span><span class="s1">'upload_date'</span><span class="p">,</span><span class="s1">'upload_time'</span><span class="p">,</span><span class="s1">'upload_day'</span><span class="p">,</span><span class="s1">'upload_time_of_day'</span><span class="p">,</span><span class="s1">'viewCount'</span><span class="p">,</span><span class="s1">'likeCount'</span><span class="p">,</span><span class="s1">'dislikeCount'</span><span class="p">,</span>
+    <span class="s1">'favoriteCount'</span><span class="p">,</span><span class="s1">'commentCount'</span><span class="p">,</span><span class="s1">'duration'</span><span class="p">,</span><span class="s1">'definition'</span><span class="p">,</span><span class="s1">'caption'</span><span class="p">,</span><span class="s1">'licensedContent'</span><span class="p">,</span><span class="s1">'thumbnail_url'</span><span class="p">,</span> <span class="s1">'thumbnail_w'</span><span class="p">,</span> <span class="s1">'thumbnail_h'</span><span class="p">,</span> <span class="s1">'tags'</span><span class="p">,</span><span class="s1">'num_tags'</span><span class="p">,</span>
+    <span class="s1">'categoryId'</span><span class="p">,</span><span class="s1">'liveBroadcastContent'</span><span class="p">,</span><span class="s1">'defaultAudioLanguage'</span><span class="p">,</span><span class="s1">'topicCategories'</span><span class="p">,</span> <span class="s1">'channel'</span><span class="p">,</span> <span class="s1">'channel_subs'</span><span class="p">,</span> <span class="s1">'channel_views'</span><span class="p">,</span> <span class="s1">'channel_videos'</span><span class="p">,</span><span class="s1">'desc'</span><span class="p">]</span>
+    <span class="n">df</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="n">file</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">'json'</span><span class="p">,</span><span class="s1">'txt'</span><span class="p">))</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+    </details>
+</div>
+    
+
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">Functions</span> <span class="n">to</span> <span class="n">Query</span> <span class="n">Google</span> <span class="n">Vision</span> <span class="n">API</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<details class="description">
+      <summary class="btn btn-sm" data-open="Hide Code" data-close="Show Code"></summary>
+        <p></p>
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">httplib2</span>
+<span class="kn">import</span> <span class="nn">sys</span>
+<span class="kn">from</span> <span class="nn">googleapiclient</span> <span class="kn">import</span> <span class="n">discovery</span>
+<span class="kn">from</span> <span class="nn">oauth2client</span> <span class="kn">import</span> <span class="n">tools</span><span class="p">,</span> <span class="n">file</span><span class="p">,</span> <span class="n">client</span>
+<span class="kn">import</span> <span class="nn">json</span>
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">import</span> <span class="nn">cv2</span>
+<span class="kn">from</span> <span class="nn">base64</span> <span class="kn">import</span> <span class="n">b64encode</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+
+
+<span class="c1"># limited preview only (sorry!) </span>
+<span class="n">API_DISCOVERY_FILE</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">environ</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'GOOGLE_VISION_API'</span><span class="p">)</span>
+
+
+
+<span class="sd">""" Google Authentication Utilities """</span>
+
+<span class="k">def</span> <span class="nf">get_vision_api</span><span class="p">():</span>
+	<span class="n">credentials</span> <span class="o">=</span> <span class="n">get_api_credentials</span><span class="p">(</span><span class="s1">'https://www.googleapis.com/auth/cloud-platform'</span><span class="p">)</span>
+	<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">API_DISCOVERY_FILE</span><span class="p">,</span> <span class="s1">'r'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+		<span class="n">doc</span> <span class="o">=</span> <span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>	
+	<span class="k">return</span> <span class="n">discovery</span><span class="o">.</span><span class="n">build_from_document</span><span class="p">(</span><span class="n">doc</span><span class="p">,</span> <span class="n">credentials</span><span class="o">=</span><span class="n">credentials</span><span class="p">,</span> <span class="n">http</span><span class="o">=</span><span class="n">httplib2</span><span class="o">.</span><span class="n">Http</span><span class="p">())</span>
+
+
+<span class="k">def</span> <span class="nf">get_api_credentials</span><span class="p">(</span><span class="n">scope</span><span class="p">,</span> <span class="n">service_account</span><span class="o">=</span><span class="kc">True</span><span class="p">):</span>
+	<span class="sd">""" Build API client based on oAuth2 authentication """</span>
+	<span class="c1"># STORAGE = file.Storage(os.environ.get('GOOGLE_VISION_API')) #local storage of oAuth tokens</span>
+	<span class="n">STORAGE</span> <span class="o">=</span> <span class="n">file</span><span class="o">.</span><span class="n">Storage</span><span class="p">(</span><span class="n">API_DISCOVERY_FILE</span><span class="p">)</span> <span class="c1">#local storage of oAuth tokens</span>
+	<span class="n">credentials</span> <span class="o">=</span> <span class="n">STORAGE</span><span class="o">.</span><span class="n">get</span><span class="p">()</span>
+	<span class="k">if</span> <span class="n">credentials</span> <span class="ow">is</span> <span class="kc">None</span> <span class="ow">or</span> <span class="n">credentials</span><span class="o">.</span><span class="n">invalid</span><span class="p">:</span> <span class="c1">#check if new oAuth flow is needed</span>
+		<span class="k">if</span> <span class="n">service_account</span><span class="p">:</span> <span class="c1">#server 2 server flow</span>
+			<span class="c1"># with open(os.environ.get('GOOGLE_VISION_API')) as f:</span>
+			<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">API_DISCOVERY_FILE</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+				<span class="n">account</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">loads</span><span class="p">(</span><span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+				<span class="n">email</span> <span class="o">=</span> <span class="n">account</span><span class="p">[</span><span class="s1">'client_email'</span><span class="p">]</span>
+				<span class="n">key</span> <span class="o">=</span> <span class="n">account</span><span class="p">[</span><span class="s1">'private_key'</span><span class="p">]</span>
+			<span class="n">credentials</span> <span class="o">=</span> <span class="n">client</span><span class="o">.</span><span class="n">SignedJwtAssertionCredentials</span><span class="p">(</span><span class="n">email</span><span class="p">,</span> <span class="n">key</span><span class="p">,</span> <span class="n">scope</span><span class="o">=</span><span class="n">scope</span><span class="p">)</span>
+			<span class="n">STORAGE</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="n">credentials</span><span class="p">)</span>
+		<span class="k">else</span><span class="p">:</span> <span class="c1">#normal oAuth2 flow</span>
+			<span class="n">CLIENT_SECRETS</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">dirname</span><span class="p">(</span><span class="vm">__file__</span><span class="p">),</span> <span class="s1">'client_secrets.json'</span><span class="p">)</span>
+			<span class="n">FLOW</span> <span class="o">=</span> <span class="n">client</span><span class="o">.</span><span class="n">flow_from_clientsecrets</span><span class="p">(</span><span class="n">CLIENT_SECRETS</span><span class="p">,</span> <span class="n">scope</span><span class="o">=</span><span class="n">scope</span><span class="p">)</span>
+			<span class="n">PARSER</span> <span class="o">=</span> <span class="n">argparse</span><span class="o">.</span><span class="n">ArgumentParser</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="vm">__doc__</span><span class="p">,</span> <span class="n">formatter_class</span><span class="o">=</span><span class="n">argparse</span><span class="o">.</span><span class="n">RawDescriptionHelpFormatter</span><span class="p">,</span> <span class="n">parents</span><span class="o">=</span><span class="p">[</span><span class="n">tools</span><span class="o">.</span><span class="n">argparser</span><span class="p">])</span>
+			<span class="n">FLAGS</span> <span class="o">=</span> <span class="n">PARSER</span><span class="o">.</span><span class="n">parse_args</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])</span>
+			<span class="n">credentials</span> <span class="o">=</span> <span class="n">tools</span><span class="o">.</span><span class="n">run_flow</span><span class="p">(</span><span class="n">FLOW</span><span class="p">,</span> <span class="n">STORAGE</span><span class="p">,</span> <span class="n">FLAGS</span><span class="p">)</span>
+		
+	<span class="k">return</span> <span class="n">credentials</span>
+
+
+<span class="sd">""" read/write utilities """</span>
+
+<span class="k">def</span> <span class="nf">read_image</span><span class="p">(</span><span class="n">filename</span><span class="p">):</span>
+	<span class="k">return</span> <span class="n">cv2</span><span class="o">.</span><span class="n">imread</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+
+<span class="k">def</span> <span class="nf">save_image</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">im</span><span class="p">):</span>
+	<span class="n">cv2</span><span class="o">.</span><span class="n">imwrite</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">cv2</span><span class="o">.</span><span class="n">cvtColor</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">cv2</span><span class="o">.</span><span class="n">COLOR_RGB2BGR</span><span class="p">))</span>
+
+<span class="k">def</span> <span class="nf">read_image_base64</span><span class="p">(</span><span class="n">filename</span><span class="p">):</span>
+	<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="s1">'rb'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+		<span class="k">return</span> <span class="n">b64encode</span><span class="p">(</span><span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+
+
+<span class="sd">""" OpenCV drawing utilities """</span>
+
+<span class="k">def</span> <span class="nf">draw_face</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">annotations</span><span class="p">):</span>
+	<span class="n">faces</span> <span class="o">=</span> <span class="p">[]</span>
+	<span class="k">for</span> <span class="n">a</span> <span class="ow">in</span> <span class="n">annotations</span><span class="p">:</span>
+		<span class="k">if</span> <span class="n">a</span><span class="p">[</span><span class="s1">'detectionConfidence'</span><span class="p">]</span> <span class="o">&gt;</span> <span class="o">.</span><span class="mi">4</span><span class="p">:</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">tl_</span><span class="p">,</span><span class="n">br_</span> <span class="o">=</span> <span class="n">draw_box</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">a</span><span class="p">[</span><span class="s1">'fdBoundingPoly'</span><span class="p">][</span><span class="s1">'vertices'</span><span class="p">])</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">tl_</span><span class="p">,</span><span class="n">br_</span><span class="o">=</span><span class="kc">None</span>
+
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">joy</span> <span class="o">=</span> <span class="n">a</span><span class="p">[</span><span class="s1">'joyLikelihood'</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">joy</span><span class="o">=</span><span class="s1">''</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">sad</span> <span class="o">=</span> <span class="n">a</span><span class="p">[</span><span class="s1">'sorrowLikelihood'</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">sad</span><span class="o">=</span><span class="s1">''</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">angry</span> <span class="o">=</span> <span class="n">a</span><span class="p">[</span><span class="s1">'angerLikelihood'</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">angry</span> <span class="o">=</span> <span class="s1">''</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">suprise</span><span class="o">=</span><span class="n">a</span><span class="p">[</span><span class="s1">'surpriseLikelihood'</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">suprise</span><span class="o">=</span><span class="s1">''</span>
+
+			<span class="n">emotions</span><span class="o">=</span><span class="p">[</span><span class="n">joy</span><span class="p">,</span><span class="n">sad</span><span class="p">,</span><span class="n">angry</span><span class="p">,</span><span class="n">suprise</span><span class="p">]</span>
+
+			<span class="k">if</span> <span class="s1">'VERY_LIKELY'</span> <span class="ow">in</span> <span class="n">emotions</span><span class="p">:</span>
+				<span class="n">emotion</span> <span class="o">=</span> <span class="n">emotions</span><span class="o">.</span><span class="n">index</span><span class="p">(</span><span class="s1">'VERY_LIKELY'</span><span class="p">)</span>
+			<span class="k">elif</span> <span class="s1">'LIKELY'</span> <span class="ow">in</span> <span class="n">emotions</span><span class="p">:</span>
+				<span class="n">emotion</span> <span class="o">=</span> <span class="n">emotions</span><span class="o">.</span><span class="n">index</span><span class="p">(</span><span class="s1">'LIKELY'</span><span class="p">)</span>
+			<span class="k">elif</span> <span class="s1">'POSSIBLE'</span> <span class="ow">in</span> <span class="n">emotions</span><span class="p">:</span>
+				<span class="n">emotion</span> <span class="o">=</span> <span class="n">emotions</span><span class="o">.</span><span class="n">index</span><span class="p">(</span><span class="s1">'POSSIBLE'</span><span class="p">)</span>
+			<span class="k">else</span><span class="p">:</span>
+				<span class="n">emotion</span><span class="o">=</span><span class="kc">None</span>
+			
+			<span class="k">if</span> <span class="n">emotion</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span>
+				<span class="n">text</span><span class="o">=</span> <span class="s2">"happy"</span>
+			<span class="k">elif</span> <span class="n">emotion</span><span class="o">==</span><span class="mi">1</span><span class="p">:</span>
+				<span class="n">text</span><span class="o">=</span><span class="s2">"sad"</span>
+			<span class="k">elif</span> <span class="n">emotion</span><span class="o">==</span><span class="mi">2</span><span class="p">:</span>
+				<span class="n">text</span><span class="o">=</span><span class="s2">"angry"</span>
+			<span class="k">elif</span> <span class="n">emotion</span><span class="o">==</span><span class="mi">3</span><span class="p">:</span>
+				<span class="n">text</span><span class="o">=</span><span class="s2">"suprised"</span>
+			<span class="k">else</span><span class="p">:</span>
+				<span class="n">text</span><span class="o">=</span><span class="s2">"other"</span>
+			<span class="n">faces</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+			<span class="k">if</span> <span class="n">im</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span> <span class="ow">and</span> <span class="n">tl_</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+				<span class="n">draw_text</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">text</span> <span class="p">,</span><span class="n">tl_</span><span class="p">)</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="k">for</span> <span class="n">landmark</span> <span class="ow">in</span> <span class="n">a</span><span class="p">[</span><span class="s1">'landmarks'</span><span class="p">]:</span>
+					<span class="k">if</span> <span class="n">im</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+						<span class="k">try</span><span class="p">:</span>
+							<span class="n">draw_point</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">landmark</span><span class="p">[</span><span class="s1">'position'</span><span class="p">])</span>
+						<span class="k">except</span><span class="p">:</span>
+							<span class="k">pass</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="k">pass</span>
+	<span class="k">return</span> <span class="n">faces</span>	
+
+
+<span class="k">def</span> <span class="nf">extract_vertices</span><span class="p">(</span><span class="n">vertices</span><span class="p">):</span>
+	<span class="sd">""" Extract two opposite vertices from a list of 4 (assumption: rectangle) """</span>
+
+	<span class="n">min_x</span><span class="p">,</span><span class="n">max_x</span><span class="p">,</span><span class="n">min_y</span><span class="p">,</span><span class="n">max_y</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="s2">"inf"</span><span class="p">),</span><span class="nb">float</span><span class="p">(</span><span class="s2">"-inf"</span><span class="p">),</span><span class="nb">float</span><span class="p">(</span><span class="s2">"inf"</span><span class="p">),</span><span class="nb">float</span><span class="p">(</span><span class="s2">"-inf"</span><span class="p">)</span>
+
+	<span class="k">for</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">vertices</span><span class="p">:</span>
+		<span class="k">if</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">,</span><span class="n">min_y</span><span class="p">)</span> <span class="o">&lt;</span> <span class="n">min_x</span><span class="p">:</span>
+			<span class="n">min_x</span> <span class="o">=</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">)</span>
+		<span class="k">if</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">,</span><span class="n">max_y</span><span class="p">)</span> <span class="o">&gt;</span> <span class="n">max_x</span><span class="p">:</span>
+			<span class="n">max_x</span> <span class="o">=</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">)</span>
+		<span class="k">if</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">,</span><span class="n">min_y</span><span class="p">)</span> <span class="o">&lt;</span> <span class="n">min_y</span><span class="p">:</span>
+			<span class="n">min_y</span> <span class="o">=</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">)</span>
+		<span class="k">if</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">,</span><span class="n">max_y</span><span class="p">)</span> <span class="o">&gt;</span> <span class="n">max_y</span><span class="p">:</span>
+			<span class="n">max_y</span> <span class="o">=</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">)</span>
+	<span class="k">try</span><span class="p">:</span>
+		<span class="n">v1</span> <span class="o">=</span> <span class="nb">next</span><span class="p">(</span><span class="n">v</span> <span class="k">for</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">vertices</span> <span class="k">if</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">)</span> <span class="o">==</span> <span class="n">min_x</span> <span class="ow">and</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">)</span> <span class="o">==</span> <span class="n">min_y</span><span class="p">)</span>
+		<span class="n">v2</span> <span class="o">=</span> <span class="nb">next</span><span class="p">(</span><span class="n">v</span> <span class="k">for</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">vertices</span> <span class="k">if</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">)</span> <span class="o">==</span> <span class="n">max_x</span> <span class="ow">and</span> <span class="n">v</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">)</span> <span class="o">==</span> <span class="n">max_y</span><span class="p">)</span>
+	<span class="k">except</span><span class="p">:</span>
+		<span class="n">v1</span><span class="o">=</span><span class="kc">None</span>
+		<span class="n">v2</span><span class="o">=</span><span class="kc">None</span>
+
+	<span class="k">return</span> <span class="n">v1</span><span class="p">,</span><span class="n">v2</span>
+
+
+<span class="k">def</span> <span class="nf">draw_box</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">vertices</span><span class="p">):</span>
+	<span class="n">v1</span><span class="p">,</span><span class="n">v2</span> <span class="o">=</span> <span class="n">extract_vertices</span><span class="p">(</span><span class="n">vertices</span><span class="p">)</span>
+	<span class="k">try</span><span class="p">:</span>
+		<span class="n">pt1</span> <span class="o">=</span> <span class="p">(</span><span class="n">v1</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">v1</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">,</span><span class="mi">0</span><span class="p">))</span>
+		<span class="n">pt2</span> <span class="o">=</span> <span class="p">(</span><span class="n">v2</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">v2</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">,</span><span class="mi">0</span><span class="p">))</span>
+		<span class="n">cv2</span><span class="o">.</span><span class="n">rectangle</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">pt1</span><span class="p">,</span> <span class="n">pt2</span><span class="p">,</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">255</span><span class="p">),</span><span class="n">thickness</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
+	<span class="k">except</span><span class="p">:</span>
+		<span class="n">pt1</span><span class="o">=</span><span class="kc">None</span>
+		<span class="n">pt2</span><span class="o">=</span><span class="kc">None</span>
+	<span class="k">return</span> <span class="n">pt1</span><span class="p">,</span> <span class="n">pt2</span>
+
+<span class="k">def</span> <span class="nf">draw_point</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">position</span><span class="p">):</span>
+	<span class="n">pt</span> <span class="o">=</span> <span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">position</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'x'</span><span class="p">,</span><span class="mi">0</span><span class="p">)),</span> <span class="nb">int</span><span class="p">(</span><span class="n">position</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'y'</span><span class="p">,</span><span class="mi">0</span><span class="p">)))</span>
+	<span class="n">cv2</span><span class="o">.</span><span class="n">circle</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">pt</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">255</span><span class="p">))</span>
+	<span class="k">return</span> <span class="n">pt</span>
+
+<span class="k">def</span> <span class="nf">draw_text</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span><span class="n">loc</span><span class="p">):</span>
+	<span class="n">font_face</span> <span class="o">=</span> <span class="n">cv2</span><span class="o">.</span><span class="n">FONT_HERSHEY_SIMPLEX</span>
+	<span class="c1">#thickness = 1</span>
+	<span class="n">thickness</span><span class="o">=</span><span class="nb">round</span><span class="p">(</span><span class="mf">0.002</span> <span class="o">*</span> <span class="p">(</span><span class="n">im</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">+</span> <span class="n">im</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span> <span class="o">/</span> <span class="mi">2</span><span class="p">)</span> <span class="o">+</span> <span class="mi">10</span>
+	<span class="c1"># for scale in np.arange(20,0,-0.2):</span>
+	<span class="c1"># 	(w,h),baseline = cv2.getTextSize(text, font_face, scale, thickness)</span>
+	<span class="c1"># 	if w &lt;= im.shape[1]:</span>
+	<span class="c1"># 		new_img = cv2.copyMakeBorder(im, 0, baseline*4, 0, 0, cv2.BORDER_CONSTANT, value=0)</span>
+	<span class="c1"># 		cv2.putText(new_img, text, (baseline*2 +20 ,new_img.shape[0]-baseline +20 ), font_face, 2, (255,255,255), thickness)</span>
+	<span class="c1"># 		return new_img</span>
+	<span class="n">new_img</span> <span class="o">=</span> <span class="n">im</span>
+	<span class="n">cv2</span><span class="o">.</span><span class="n">putText</span><span class="p">(</span><span class="n">new_img</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">loc</span><span class="p">,</span> <span class="n">font_face</span><span class="p">,</span> <span class="mf">2.5</span><span class="p">,</span> <span class="p">(</span><span class="mi">102</span><span class="p">,</span><span class="mi">255</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">thickness</span><span class="p">)</span>
+	<span class="k">return</span> <span class="n">new_img</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+    </details>
+</div>
+    
+
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">Google</span> <span class="n">Vision</span> <span class="n">API</span> <span class="n">Data</span> <span class="n">Pull</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<details class="description">
+      <summary class="btn btn-sm" data-open="Hide Code" data-close="Show Code"></summary>
+        <p></p>
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">date</span>
+<span class="kn">import</span> <span class="nn">datetime</span>
+<span class="kn">import</span> <span class="nn">json</span>
+<span class="kn">from</span> <span class="nn">webbrowser</span> <span class="kn">import</span> <span class="n">get</span>
+<span class="kn">from</span> <span class="nn">google.cloud.vision_v1.types.image_annotator</span> <span class="kn">import</span> <span class="n">AnnotateImageRequest</span><span class="p">,</span> <span class="n">AnnotateImageResponse</span>
+<span class="kn">from</span> <span class="nn">numpy.core.fromnumeric</span> <span class="kn">import</span> <span class="n">shape</span>
+<span class="kn">from</span> <span class="nn">numpy.core.numeric</span> <span class="kn">import</span> <span class="n">NaN</span>
+<span class="kn">from</span> <span class="nn">numpy.lib.arraysetops</span> <span class="kn">import</span> <span class="n">unique</span>
+<span class="kn">from</span> <span class="nn">skimage.util</span> <span class="kn">import</span> <span class="n">dtype</span>
+<span class="kn">from</span> <span class="nn">functions_for_google_vision_api</span> <span class="kn">import</span> <span class="p">(</span><span class="n">get_vision_api</span><span class="p">,</span> <span class="n">read_image</span><span class="p">,</span> <span class="n">read_image_base64</span><span class="p">,</span> <span class="n">save_image</span><span class="p">,</span> <span class="n">draw_face</span><span class="p">,</span> <span class="n">draw_box</span><span class="p">,</span> <span class="n">draw_text</span><span class="p">)</span>
+<span class="kn">from</span> <span class="nn">skimage</span> <span class="kn">import</span> <span class="n">io</span>
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">from</span> <span class="nn">google.cloud</span> <span class="kn">import</span> <span class="n">vision_v1</span>
+<span class="kn">from</span> <span class="nn">google.cloud</span> <span class="kn">import</span> <span class="n">vision</span>
+<span class="kn">from</span> <span class="nn">google.cloud.vision_v1</span> <span class="kn">import</span> <span class="n">types</span>
+<span class="kn">import</span> <span class="nn">cv2</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">itertools</span>
+<span class="kn">import</span> <span class="nn">time</span>
+<span class="kn">import</span> <span class="nn">random</span>
+
+<span class="c1">#####################################################################</span>
+
+<span class="kn">import</span> <span class="nn">httplib2</span>
+<span class="kn">from</span> <span class="nn">googleapiclient</span> <span class="kn">import</span> <span class="n">discovery</span>
+<span class="kn">from</span> <span class="nn">oauth2client.client</span> <span class="kn">import</span> <span class="n">GoogleCredentials</span>
+
+<span class="n">os</span><span class="o">.</span><span class="n">environ</span><span class="p">[</span><span class="s1">'GOOGLE_APPLICATION_CREDENTIALS'</span><span class="p">]</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">environ</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'GOOGLE_VISION_API'</span><span class="p">)</span>
+
+<span class="n">DISCOVERY_URL</span><span class="o">=</span><span class="s1">'https://</span><span class="si">{api}</span><span class="s1">.googleapis.com/$discovery/rest?version=</span><span class="si">{apiVersion}</span><span class="s1">'</span>
+
+<span class="k">def</span> <span class="nf">get_vision_service</span><span class="p">():</span>
+	<span class="n">credentials</span> <span class="o">=</span> <span class="n">GoogleCredentials</span><span class="o">.</span><span class="n">get_application_default</span><span class="p">()</span>
+	<span class="k">return</span> <span class="n">discovery</span><span class="o">.</span><span class="n">build</span><span class="p">(</span><span class="s1">'vision'</span><span class="p">,</span> <span class="s1">'v1'</span><span class="p">,</span> <span class="n">credentials</span><span class="o">=</span><span class="n">credentials</span><span class="p">,</span> <span class="n">discoveryServiceUrl</span> <span class="o">=</span> <span class="n">DISCOVERY_URL</span><span class="p">)</span>
+	
+
+<span class="k">def</span> <span class="nf">main</span><span class="p">(</span><span class="n">video_id</span><span class="p">,</span> <span class="n">inputfile</span><span class="p">):</span>
+	<span class="n">service</span> <span class="o">=</span> <span class="n">get_vision_service</span><span class="p">()</span>
+	<span class="n">outputfile</span><span class="o">=</span> <span class="s2">"C:/Users/merre/Desktop/ws/data/youtube_jadoinstuff/output_images/thumbnail_"</span> <span class="o">+</span><span class="n">inputfile</span><span class="p">[</span><span class="n">inputfile</span><span class="o">.</span><span class="n">rfind</span><span class="p">(</span><span class="s1">'/'</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">inputfile</span><span class="o">.</span><span class="n">rfind</span><span class="p">(</span><span class="s1">'/'</span><span class="p">))</span><span class="o">+</span><span class="mi">1</span><span class="p">:</span><span class="n">inputfile</span><span class="o">.</span><span class="n">rfind</span><span class="p">(</span><span class="s1">'/'</span><span class="p">)]</span> <span class="o">+</span> <span class="s2">".jpg"</span>
+
+	<span class="n">batch_request</span><span class="o">=</span><span class="p">[</span>
+    <span class="p">{</span>
+      <span class="s2">"features"</span><span class="p">:</span> <span class="p">[</span>
+        <span class="p">{</span>
+          <span class="s2">"maxResults"</span><span class="p">:</span> <span class="mi">50</span><span class="p">,</span>
+          <span class="s2">"type"</span><span class="p">:</span> <span class="s2">"FACE_DETECTION"</span>
+        <span class="p">},</span>
+        <span class="p">{</span>
+          <span class="s2">"maxResults"</span><span class="p">:</span> <span class="mi">50</span><span class="p">,</span>
+          <span class="s2">"type"</span><span class="p">:</span> <span class="s2">"LABEL_DETECTION"</span>
+        <span class="p">},</span>
+        <span class="p">{</span>
+          <span class="s2">"maxResults"</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+          <span class="s2">"type"</span><span class="p">:</span> <span class="s2">"SAFE_SEARCH_DETECTION"</span>
+        <span class="p">},</span>
+        <span class="p">{</span>
+          <span class="s2">"maxResults"</span><span class="p">:</span> <span class="mi">50</span><span class="p">,</span>
+          <span class="s2">"type"</span><span class="p">:</span> <span class="s2">"TEXT_DETECTION"</span>
+        <span class="p">}</span>
+      <span class="p">],</span>
+		<span class="s2">"image"</span><span class="p">:</span> <span class="p">{</span>
+				<span class="s2">"source"</span><span class="p">:</span> <span class="p">{</span>
+				<span class="s2">"imageUri"</span><span class="p">:</span> <span class="n">inputfile</span>
+				<span class="p">}</span>
+			<span class="p">}</span>
+    <span class="p">}</span>
+	<span class="p">]</span>
+	<span class="n">request</span> <span class="o">=</span> <span class="n">service</span><span class="o">.</span><span class="n">images</span><span class="p">()</span><span class="o">.</span><span class="n">annotate</span><span class="p">(</span><span class="n">body</span><span class="o">=</span><span class="p">{</span>
+		<span class="s1">'requests'</span><span class="p">:</span> <span class="n">batch_request</span><span class="p">,</span>
+		<span class="p">})</span>
+	<span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">random</span><span class="p">()</span><span class="o">*</span><span class="mi">4</span><span class="p">)</span>
+	<span class="n">response</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">execute</span><span class="p">()</span>
+	<span class="n">inputfile</span><span class="p">,</span><span class="n">labels</span><span class="p">,</span><span class="n">faces</span><span class="p">,</span><span class="n">texts</span><span class="p">,</span><span class="n">adult</span><span class="p">,</span><span class="n">medical</span><span class="p">,</span><span class="n">racy</span><span class="p">,</span><span class="n">spoof</span><span class="p">,</span><span class="n">violence</span> <span class="o">=</span> <span class="n">show_results</span><span class="p">(</span><span class="n">inputfile</span><span class="p">,</span> <span class="n">response</span><span class="p">,</span> <span class="n">outputfile</span><span class="p">)</span>
+	<span class="n">vars_list</span> <span class="o">=</span> <span class="p">[</span><span class="n">video_id</span><span class="p">,</span><span class="n">inputfile</span><span class="p">,</span><span class="n">labels</span><span class="p">,</span><span class="n">faces</span><span class="p">,</span><span class="n">texts</span><span class="p">,</span><span class="n">adult</span><span class="p">,</span><span class="n">medical</span><span class="p">,</span><span class="n">racy</span><span class="p">,</span><span class="n">spoof</span><span class="p">,</span><span class="n">violence</span><span class="p">]</span>
+	<span class="n">i</span><span class="o">=</span><span class="mi">0</span>
+	<span class="k">for</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">vars_list</span><span class="p">:</span>
+		<span class="k">if</span> <span class="nb">type</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="o">==</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span><span class="p">:</span>
+			<span class="n">v</span> <span class="o">=</span> <span class="n">v</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span>
+			<span class="n">vars_list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">=</span><span class="n">v</span>
+		<span class="n">i</span> <span class="o">+=</span> <span class="mi">1</span>
+	<span class="k">return</span> <span class="n">vars_list</span>
+
+
+<span class="k">def</span> <span class="nf">show_results</span><span class="p">(</span><span class="n">inputfile</span><span class="p">,</span> <span class="n">data</span><span class="p">,</span> <span class="n">outputfile</span><span class="p">):</span>
+
+	<span class="c1">#read original file</span>
+	<span class="n">im</span> <span class="o">=</span> <span class="n">io</span><span class="o">.</span><span class="n">imread</span><span class="p">(</span><span class="n">inputfile</span><span class="p">)</span>
+
+	<span class="c1">#draw face, boxes and text for each response</span>
+	<span class="n">faces</span><span class="o">=</span><span class="p">[]</span>
+	<span class="n">labels</span><span class="o">=</span><span class="p">[]</span>
+	<span class="n">texts</span><span class="o">=</span><span class="p">[]</span>
+	<span class="c1">#dict_keys = data.keys()</span>
+	<span class="k">for</span> <span class="n">r</span> <span class="ow">in</span> <span class="n">data</span><span class="p">[</span><span class="s1">'responses'</span><span class="p">]:</span>
+		
+		<span class="k">if</span> <span class="s1">'faceAnnotations'</span> <span class="ow">in</span> <span class="n">r</span><span class="p">:</span>
+			<span class="n">faces</span> <span class="o">=</span> <span class="n">draw_face</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">r</span><span class="p">[</span><span class="s1">'faceAnnotations'</span><span class="p">])</span>
+		
+		<span class="k">if</span> <span class="s1">'labelAnnotations'</span> <span class="ow">in</span> <span class="n">r</span><span class="p">:</span>
+			<span class="k">for</span> <span class="n">label</span> <span class="ow">in</span> <span class="n">r</span><span class="p">[</span><span class="s1">'labelAnnotations'</span><span class="p">]:</span>
+				<span class="k">if</span> <span class="n">label</span><span class="p">[</span><span class="s1">'score'</span><span class="p">]</span> <span class="o">&gt;</span> <span class="o">.</span><span class="mi">6</span><span class="p">:</span>
+					<span class="k">try</span><span class="p">:</span>
+						<span class="n">labels</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">label</span><span class="p">[</span><span class="s1">'description'</span><span class="p">])</span>
+					<span class="k">except</span><span class="p">:</span>
+						<span class="n">labels</span><span class="o">=</span><span class="n">labels</span>
+		
+		<span class="k">if</span> <span class="s1">'textAnnotations'</span> <span class="ow">in</span> <span class="n">r</span><span class="p">:</span>
+			<span class="k">for</span> <span class="n">a</span> <span class="ow">in</span> <span class="n">r</span><span class="p">[</span><span class="s1">'textAnnotations'</span><span class="p">]:</span>
+				<span class="k">if</span> <span class="n">a</span><span class="p">[</span><span class="s1">'description'</span><span class="p">]</span> <span class="o">!=</span> <span class="s1">''</span><span class="p">:</span>
+					<span class="k">try</span><span class="p">:</span>
+						<span class="n">texts</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">a</span><span class="p">[</span><span class="s1">'description'</span><span class="p">])</span>
+					<span class="k">except</span><span class="p">:</span>
+						<span class="n">texts</span><span class="o">=</span><span class="n">texts</span>
+		
+		<span class="k">if</span> <span class="s1">'safeSearchAnnotation'</span> <span class="ow">in</span> <span class="n">r</span><span class="p">:</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">adult</span> <span class="o">=</span> <span class="n">r</span><span class="p">[</span><span class="s1">'safeSearchAnnotation'</span><span class="p">][</span><span class="s2">"adult"</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">adult</span><span class="o">=</span><span class="s1">''</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">medical</span> <span class="o">=</span> <span class="n">r</span><span class="p">[</span><span class="s1">'safeSearchAnnotation'</span><span class="p">][</span><span class="s2">"medical"</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">medical</span><span class="o">=</span><span class="s1">''</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">racy</span> <span class="o">=</span> <span class="n">r</span><span class="p">[</span><span class="s1">'safeSearchAnnotation'</span><span class="p">][</span><span class="s2">"racy"</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">racy</span><span class="o">=</span><span class="s1">''</span>
+			<span class="k">try</span><span class="p">:</span>	
+				<span class="n">spoof</span> <span class="o">=</span> <span class="n">r</span><span class="p">[</span><span class="s1">'safeSearchAnnotation'</span><span class="p">][</span><span class="s2">"spoof"</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">spoof</span><span class="o">=</span><span class="s1">''</span>
+			<span class="k">try</span><span class="p">:</span>
+				<span class="n">violence</span> <span class="o">=</span> <span class="n">r</span><span class="p">[</span><span class="s1">'safeSearchAnnotation'</span><span class="p">][</span><span class="s2">"violence"</span><span class="p">]</span>
+			<span class="k">except</span><span class="p">:</span>
+				<span class="n">violence</span><span class="o">=</span><span class="s1">''</span>
+	
+	<span class="n">labels</span><span class="o">=</span><span class="n">unique</span><span class="p">(</span><span class="n">labels</span><span class="p">)</span>
+	<span class="n">texts</span><span class="o">=</span><span class="n">unique</span><span class="p">(</span><span class="n">texts</span><span class="p">)</span>
+		<span class="c1">#save to output file</span>
+	<span class="n">save_image</span><span class="p">(</span><span class="n">outputfile</span><span class="p">,</span> <span class="n">im</span><span class="p">)</span>
+
+	<span class="k">return</span> <span class="n">inputfile</span><span class="p">,</span><span class="n">labels</span><span class="p">,</span><span class="n">faces</span><span class="p">,</span><span class="n">texts</span><span class="p">,</span><span class="n">adult</span><span class="p">,</span><span class="n">medical</span><span class="p">,</span><span class="n">racy</span><span class="p">,</span><span class="n">spoof</span><span class="p">,</span><span class="n">violence</span>
+
+<span class="c1"># files= ["shanieology.txt","simau.txt","soundslikepizza.txt","azerrz.txt","BigShade.txt","black_gryph0n.txt"</span>
+<span class="c1"># ,"brian_hull.txt","brizzy_voices.txt","brock_baker.txt","charlie_hopkinson.txt","danny_padilla_&amp;_mason_sperling.txt"</span>
+<span class="c1"># ,"ja_doin_stuff.txt","joshiiwuh.txt","knep.txt","ori.txt","redfireball555.txt","scheiffer_bates.txt","daniel_ferguson.txt",</span>
+<span class="c1"># "BigShade.txt","best_in_class.txt","maxamili.txt","mikey_bolts.txt"]</span>
+<span class="n">files</span><span class="o">=</span> <span class="p">[</span><span class="s2">"daniel_ferguson.txt"</span><span class="p">,</span><span class="s2">"BigShade.txt"</span><span class="p">,</span><span class="s2">"best_in_class.txt"</span><span class="p">,</span><span class="s2">"maxamili.txt"</span><span class="p">,</span><span class="s2">"mikey_bolts.txt"</span><span class="p">]</span>
+
+<span class="n">vid_ids</span><span class="o">=</span><span class="p">[]</span>
+<span class="n">vid_thumb_urls</span><span class="o">=</span><span class="p">[]</span>
+<span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+	<span class="n">videos_loop</span><span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">file</span><span class="p">)</span>
+	<span class="n">vid_ids</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">videos_loop</span><span class="p">[</span><span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">videos_loop</span><span class="p">[</span><span class="s2">"upload_date"</span><span class="p">])</span><span class="o">&gt;</span><span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="p">(</span><span class="mi">2012</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">)][</span><span class="s2">"video_id"</span><span class="p">]))</span>
+	<span class="n">vid_thumb_urls</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">videos_loop</span><span class="p">[</span><span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">videos_loop</span><span class="p">[</span><span class="s2">"upload_date"</span><span class="p">])</span><span class="o">&gt;</span><span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="p">(</span><span class="mi">2012</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">)][</span><span class="s2">"thumbnail_url"</span><span class="p">]))</span>
+	
+<span class="n">vid_ids</span><span class="o">=</span><span class="nb">list</span><span class="p">(</span><span class="n">itertools</span><span class="o">.</span><span class="n">chain</span><span class="p">(</span><span class="o">*</span><span class="n">vid_ids</span><span class="p">))</span>
+<span class="n">vid_thumb_urls</span><span class="o">=</span><span class="nb">list</span><span class="p">(</span><span class="n">itertools</span><span class="o">.</span><span class="n">chain</span><span class="p">(</span><span class="o">*</span><span class="n">vid_thumb_urls</span><span class="p">))</span>
+
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">'video_id'</span><span class="p">,</span><span class="s1">'thumbnail_url'</span><span class="p">,</span> <span class="s1">'labels'</span><span class="p">,</span><span class="s1">'faces'</span><span class="p">,</span><span class="s1">'texts'</span><span class="p">,</span><span class="s1">'adult'</span><span class="p">,</span><span class="s1">'medical'</span><span class="p">,</span><span class="s1">'racy'</span><span class="p">,</span><span class="s1">'spoof'</span><span class="p">,</span><span class="s1">'violence'</span><span class="p">])</span>
+<span class="n">ii</span> <span class="o">=</span> <span class="mi">0</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">vid_ids</span><span class="p">)):</span>
+	<span class="k">if</span> <span class="n">vid_thumb_urls</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="ow">is</span> <span class="ow">not</span> <span class="n">NaN</span><span class="p">:</span>
+		<span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+		<span class="k">try</span><span class="p">:</span>
+			<span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="nb">len</span><span class="p">(</span><span class="n">df</span><span class="p">)]</span> <span class="o">=</span> <span class="n">main</span><span class="p">(</span><span class="n">video_id</span><span class="o">=</span><span class="n">vid_ids</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="n">inputfile</span><span class="o">=</span><span class="n">vid_thumb_urls</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+			<span class="n">ii</span> <span class="o">+=</span> <span class="mi">1</span>
+
+		<span class="k">except</span><span class="p">:</span>
+			<span class="k">pass</span>
+		<span class="k">if</span> <span class="n">ii</span> <span class="o">%</span> <span class="mi">30</span> <span class="o">==</span> <span class="mi">0</span> <span class="ow">or</span> <span class="n">i</span><span class="o">==</span><span class="nb">len</span><span class="p">(</span><span class="n">vid_ids</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span> <span class="ow">or</span> <span class="n">i</span><span class="o">==</span><span class="nb">len</span><span class="p">(</span><span class="n">vid_ids</span><span class="p">):</span>
+			<span class="n">df</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">'thumbnail_data_'</span><span class="o">+</span><span class="nb">str</span><span class="p">(</span><span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">())</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">'-'</span><span class="p">,</span><span class="s1">''</span><span class="p">)</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">' '</span><span class="p">,</span><span class="s1">'_'</span><span class="p">)</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">':'</span><span class="p">,</span><span class="s1">'-'</span><span class="p">)</span><span class="o">+</span><span class="s1">'.txt'</span><span class="p">,</span> <span class="n">header</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">mode</span><span class="o">=</span><span class="s1">'w'</span><span class="p">)</span>
+			<span class="nb">print</span><span class="p">(</span><span class="s2">"Num videos"</span><span class="p">,</span><span class="n">i</span><span class="p">,</span><span class="s2">"---- Percent complete:"</span><span class="p">,(</span><span class="nb">round</span><span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="nb">len</span><span class="p">(</span><span class="n">vid_ids</span><span class="p">),</span><span class="mi">3</span><span class="p">))</span><span class="o">*</span><span class="mi">100</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+    </details>
+</div>
+    
+
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>The Google API uses deep learning to identify number of faces, facial expressions and the text contained in the thumbnail image of each youtube video. An example is shown below of the facial recognition and the text that was recognized within the image.</p>
+<p><img src="https://github.com/jmmerrell/ws/blob/master/data/youtube_jadoinstuff/output_images/thumbnail_zVRQiZCnKPs.jpg?raw=true" alt="kaggle_img001"></p>
 
 </div>
 </div>
