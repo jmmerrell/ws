@@ -78,7 +78,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      15 min read
+      16 min read
     
 </span></p>
 
@@ -130,7 +130,7 @@ window.onload = wrap_img;
 <li class="toc-entry toc-h2"><a href="#2.-Import-the-necessary-libraries-and-data-set">2. Import the necessary libraries and data set </a>
 <ul>
 <li class="toc-entry toc-h3"><a href="#2.1.-Libraries">2.1. Libraries </a></li>
-<li class="toc-entry toc-h3"><a href="#2.2.-Data-set">2.2. Data set </a></li>
+<li class="toc-entry toc-h3"><a href="#2.2.-Data-Sets">2.2. Data Sets </a></li>
 </ul>
 </li>
 <li class="toc-entry toc-h2"><a href="#3.-Training-and-validation-data">3. Training and validation data </a></li>
@@ -220,16 +220,39 @@ window.onload = wrap_img;
 </div>
 </div>
 
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-intense-fg ansi-bold">---------------------------------------------------------------------------</span>
+<span class="ansi-red-intense-fg ansi-bold">ModuleNotFoundError</span>                       Traceback (most recent call last)
+<span class="ansi-green-intense-fg ansi-bold">&lt;ipython-input-1-4fd441bda680&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
+<span class="ansi-green-fg">      1</span> <span class="ansi-green-intense-fg ansi-bold">import</span> os
+<span class="ansi-green-intense-fg ansi-bold">----&gt; 2</span><span class="ansi-yellow-intense-fg ansi-bold"> </span><span class="ansi-green-intense-fg ansi-bold">from</span> numpy<span class="ansi-yellow-intense-fg ansi-bold">.</span>core<span class="ansi-yellow-intense-fg ansi-bold">.</span>fromnumeric <span class="ansi-green-intense-fg ansi-bold">import</span> shape
+<span class="ansi-green-fg">      3</span> <span class="ansi-green-intense-fg ansi-bold">from</span> numpy<span class="ansi-yellow-intense-fg ansi-bold">.</span>lib<span class="ansi-yellow-intense-fg ansi-bold">.</span>function_base <span class="ansi-green-intense-fg ansi-bold">import</span> diff
+<span class="ansi-green-fg">      4</span> <span class="ansi-green-intense-fg ansi-bold">import</span> pandas <span class="ansi-green-intense-fg ansi-bold">as</span> pd
+<span class="ansi-green-fg">      5</span> <span class="ansi-green-intense-fg ansi-bold">import</span> re
+
+<span class="ansi-red-intense-fg ansi-bold">ModuleNotFoundError</span>: No module named 'numpy'</pre>
+</div>
+</div>
+
+</div>
+</div>
+
 </div>
     
 
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="2.2.-Data-set">
-<a class="anchor" href="#2.2.-Data-set" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.2. Data set<a class="anchor-link" href="#2.2.-Data-set"> </a>
+<h3 id="2.2.-Data-Sets">
+<a class="anchor" href="#2.2.-Data-Sets" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.2. Data Sets<a class="anchor-link" href="#2.2.-Data-Sets"> </a>
 </h3>
-<p>We read the data into</p>
+<p>I merge together all the datasets taken from YouTube's API with the Google Vision API thumbnail image data. You can see the full code below for getting this data. The Google API uses deep learning to identify number of faces, facial expressions and the text contained in the thumbnail image of each youtube video. An example is shown below of the facial recognition and the text that was recognized within the image.</p>
 
 </div>
 </div>
