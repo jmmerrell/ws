@@ -10,8 +10,8 @@ import numpy as np
 
 
 # limited preview only (sorry!) 
-# API_DISCOVERY_FILE = os.environ.get('GOOGLE_VISION_API')
-API_DISCOVERY_FILE = 'youtube_api_key'
+API_DISCOVERY_FILE = os.environ.get('GOOGLE_VISION_API')
+
 
 
 """ Google Authentication Utilities """
@@ -26,12 +26,12 @@ def get_vision_api():
 def get_api_credentials(scope, service_account=True):
 	""" Build API client based on oAuth2 authentication """
 	# STORAGE = file.Storage(os.environ.get('GOOGLE_VISION_API')) #local storage of oAuth tokens
-	STORAGE = file.Storage('youtube_api_key') #local storage of oAuth tokens
+	STORAGE = file.Storage(API_DISCOVERY_FILE) #local storage of oAuth tokens
 	credentials = STORAGE.get()
 	if credentials is None or credentials.invalid: #check if new oAuth flow is needed
 		if service_account: #server 2 server flow
 			# with open(os.environ.get('GOOGLE_VISION_API')) as f:
-			with open('youtube_api_key') as f:
+			with open(API_DISCOVERY_FILE) as f:
 				account = json.loads(f.read())
 				email = account['client_email']
 				key = account['private_key']

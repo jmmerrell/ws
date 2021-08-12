@@ -12,7 +12,8 @@ import matplotlib.pyplot as plt
 #C:/Users/merre/Desktop/data projects/
 files= ["shanieology.json","simau.json","soundslikepizza.json","azerrz.json","BigShade.json","black_gryph0n.json"
 ,"brian_hull.json","brizzy_voices.json","brock_baker.json","charlie_hopkinson.json","danny_padilla_&_mason_sperling.json"
-,"ja_doin_stuff.json","joshiiwuh.json","knep.json","ori.json","redfireball555.json","scheiffer_bates.json"]
+,"ja_doin_stuff.json","joshiiwuh.json","knep.json","ori.json","redfireball555.json","scheiffer_bates.json","daniel_ferguson.json",
+"BigShade.json","best_in_class.json","maxamili.json","mikey_bolts.json"]
 
 data=None
 df_channel_new=None

@@ -33,6 +33,8 @@ class YTstats:
         return data
 
     def get_channel_video_data(self):
+        global s
+        s = requests.Session()
         "Extract all video information of the channel"
         print('get video data...')
         channel_videos, channel_playlists = self._get_channel_content(limit=50)
@@ -57,9 +59,9 @@ class YTstats:
         Extract further information for a single video
         parts can be: 'snippet', 'statistics', 'contentDetails', 'topicDetails'
         """
-        sleep(random.uniform(1, 3)/6)
+        sleep(random.uniform(1, 3)/2)
         url = f"https://www.googleapis.com/youtube/v3/videos?part={part}&id={video_id}&key={self.api_key}"
-        json_url = requests.get(url)
+        json_url = s.get(url)
         data = json.loads(json_url.text)
         print(url)
     
@@ -99,6 +101,7 @@ class YTstats:
         Extract all videos and playlists per page
         return channel_videos, channel_playlists, nextPageToken
         """
+        sleep(random.uniform(1, 3))
         json_url = requests.get(url)
         data = json.loads(json_url.text)
         channel_videos = dict()
@@ -165,7 +168,7 @@ class YTstats:
 # Best in Class  UClQhFMEVUxJAwMW-KdZ0SvQ
 # Daniel Ferguson  UCXFzOJmXVaP1tMLiww4aQzg
 # Mikey Boltz  UC0gXT2T6KtmV0IHNNNvruAQ
-# Maxamili  C-0WjH-efG2qvNlZUBlX70Q
+# Maxamili  UC-0WjH-efG2qvNlZUBlX70Q
 
 
 
@@ -176,11 +179,9 @@ api_key= os.environ.get('YT_API')
 # 'UCiwIAU4SNlrcv47504JrJeQ','UCfhK8MfxO-9RCypkLDyW1rw','UC7lObFRyZgoZcMYHHqxi9lg','UC88CnZTYFz5ugp-JtDEQ3-g','UCh6OfzCefcCGFfihPbe_Y4g',
 # 'UCxRGk49YNiW3Cq8s7MGknqw','UCkXvCWJjAqNcFwxF7hW_ZRQ','UCy7gv-FM-dMvw6dMtj8Qfgg','UCewLMcro9tNP97XQ1rxtLXQ','UCqPYUMNbVeEhyTBIZCDO_VQ',
 # 'UCR93YdwZ4UKEUwf1gA-ZusA','UC7Wt6Nukmt83Bph3us5s5Aw','UClQhFMEVUxJAwMW-KdZ0SvQ','UCXFzOJmXVaP1tMLiww4aQzg','UC0gXT2T6KtmV0IHNNNvruAQ',
-# 'C-0WjH-efG2qvNlZUBlX70Q']
+# 'UC-0WjH-efG2qvNlZUBlX70Q']
 
-
-channel_ids= ['UC7Wt6Nukmt83Bph3us5s5Aw','UClQhFMEVUxJAwMW-KdZ0SvQ','UCXFzOJmXVaP1tMLiww4aQzg','UC0gXT2T6KtmV0IHNNNvruAQ',
-'C-0WjH-efG2qvNlZUBlX70Q']
+channel_ids= ['UC-0WjH-efG2qvNlZUBlX70Q','UClQhFMEVUxJAwMW-KdZ0SvQ']
 
 for channel_id in channel_ids:
     global num_pages
