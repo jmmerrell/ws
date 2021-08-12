@@ -26,8 +26,7 @@ import httplib2
 from googleapiclient import discovery
 from oauth2client.client import GoogleCredentials
 
-# os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.environ.get('GOOGLE_VISION_API')
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"youtube_api_key"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.environ.get('GOOGLE_VISION_API')
 
 DISCOVERY_URL='https://{api}.googleapis.com/$discovery/rest?version={apiVersion}'
 
@@ -143,9 +142,11 @@ def show_results(inputfile, data, outputfile):
 
 	return inputfile,labels,faces,texts,adult,medical,racy,spoof,violence
 
-files= ["shanieology.txt","simau.txt","soundslikepizza.txt","azerrz.txt","BigShade.txt","black_gryph0n.txt"
-,"brian_hull.txt","brizzy_voices.txt","brock_baker.txt","charlie_hopkinson.txt","danny_padilla_&_mason_sperling.txt"
-,"ja_doin_stuff.txt","joshiiwuh.txt","knep.txt","ori.txt","redfireball555.txt","scheiffer_bates.txt"]
+# files= ["shanieology.txt","simau.txt","soundslikepizza.txt","azerrz.txt","BigShade.txt","black_gryph0n.txt"
+# ,"brian_hull.txt","brizzy_voices.txt","brock_baker.txt","charlie_hopkinson.txt","danny_padilla_&_mason_sperling.txt"
+# ,"ja_doin_stuff.txt","joshiiwuh.txt","knep.txt","ori.txt","redfireball555.txt","scheiffer_bates.txt","daniel_ferguson.txt",
+# "BigShade.txt","best_in_class.txt","maxamili.txt","mikey_bolts.txt"]
+files= ["daniel_ferguson.txt","BigShade.txt","best_in_class.txt","maxamili.txt","mikey_bolts.txt"]
 
 vid_ids=[]
 vid_thumb_urls=[]

@@ -1,0 +1,502 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,KLxoyeRvqDw,Kermie lookin' for baddies on Omegle,36,6,0.0,0,2021-02-27,11:04:50,5,afternoon,4827779,230642,2129,0,7030,8.016666666666667,hd,false,True,https://i.ytimg.com/vi/KLxoyeRvqDw/maxresdefault.jpg,1280,720,"['kermit omegle', 'kermit omegle packing', 'omegle kermit', 'omegle', 'maxamili', 'funny omegle', 'kermit the frog on omegle', 'maxamili omegle', 'funny omegle moments', 'kermit tiktok']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit's back on Omegle lookin' for baddies
+
+We're on the road to 15K subscribers.
+Thank you guys so much for all the support thus far! 
+
+If you enjoy my videos, please like, share and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - maxamiliyt
+Follow me on Twitter @MaxamiliYT"
+1,TWLjrSs8AOM,Happy International Women's Day from Kermie,43,7,0.0,0,2021-03-08,19:56:51,0,night,3629317,193174,2178,0,5370,6.166666666666667,hd,false,True,https://i.ytimg.com/vi/TWLjrSs8AOM/maxresdefault.jpg,1280,720,"['kermit omegle', 'international womans day', 'international womans day 2021', 'kermit on omegle', 'omegle', 'maxamili', 'maxamili omegle', 'funny omegle', 'funny omegle moments', 'kermit the frog omegle']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit's back on Omegle wishing all the baddies a happy International Women's Day
+
+We're now on the road to 30K subscribers.
+Thank you guys so much for all the support thus far! 
+
+If you enjoy my videos, please like, share and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - maxamiliyt
+Follow me on Twitter @MaxamiliYT"
+2,mNoZ9orCRYs,Kermit's showing off his zucch on Omegle,40,8,0.0,0,2021-03-05,15:33:10,4,afternoon,2713795,133632,886,0,4299,8.45,hd,false,True,https://i.ytimg.com/vi/mNoZ9orCRYs/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle kermit', 'kermit on omegle', 'kermit the frog omegle', 'maxamili', 'maxamili omegle', 'omegle', 'funny omegle', 'omegle trolling', 'funny omegle moments', 'omegle kermit the frog']",11,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit's back on Omegle showing off his zucch
+
+We're now on the road to 20K subscribers.
+Thank you guys so much for all the support thus far! 
+
+If you enjoy my videos, please like, share and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - maxamiliyt
+Follow me on Twitter @MaxamiliYT"
+3,TFVNNB3ujIw,Kermie's back looking for baddies on Omegle,43,8,0.0,0,2021-03-24,10:00:01,2,morning,2487798,121672,970,0,4610,8.1,hd,false,True,https://i.ytimg.com/vi/TFVNNB3ujIw/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle', 'maxamili', 'funny omegle', 'kermit packin', 'kermit on omegle', 'omegle kermit', 'kermit the frog omegle', 'maxamili omegle', 'funny omegle moments']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermie's back on Omegle looking for baddies
+
+I hit 250k subscribers! 
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I now have over 250k subscribers and it's all thanks 
+to you guys. So again, thank you.
+
+Kermit the Frog rap - https://youtu.be/pYVID2iROs0
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt
+Follow me on Twitter - https://twitter.com/maxamiliyt"
+4,hwnsFuKhx5k,Kermit shouldn't be allowed on Omegle,37,7,0.0,0,2021-01-19,20:16:41,1,night,972021,43640,260,0,1618,6.1,hd,false,True,https://i.ytimg.com/vi/hwnsFuKhx5k/maxresdefault.jpg,1280,720,"['kermit omegle', 'kermit on omegle', 'omegle', 'funny omegle', 'omegle funny', 'omegle funny moments', 'kermit the frog on omegle', 'funny omegle moments', 'omegle kermit']",9,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is on Omegle but it’s not as wholesome as you’d think it would be...
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+5,ta9Al6KCYhc,Kermie meets some of his fans on Omegle,39,8,0.0,0,2021-03-12,12:49:20,4,afternoon,797463,48778,285,0,2555,10.033333333333333,hd,false,True,https://i.ytimg.com/vi/ta9Al6KCYhc/maxresdefault.jpg,1280,720,"['kermit omegle packing', 'kermit omegle', 'kermit fap omegle', 'omegle', 'funny omegle moments', 'maxamili', 'maxamili omegle', 'kermit the frog omegle', 'omegle kermit', 'omegle prank', 'omegle trolling']",11,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit's back on Omegle talking to some of his fan and showing off his zucch
+
+I can't believe i'm saying this but we're now on the road to 100K subscribers.
+Thank you guys so much for all the support thus far! 
+
+If you enjoy my videos, please like, share and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - maxamiliyt
+Follow me on Twitter @MaxamiliYT"
+6,x1xHCnv2zM0,Kermit vs Kermit on Omegle,26,5,0.0,0,2021-04-02,11:04:01,4,afternoon,782306,71258,368,0,2830,8.516666666666667,hd,false,True,https://i.ytimg.com/vi/x1xHCnv2zM0/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle kermit', 'kermit packin', 'kermit omegle packin', 'maxamili', 'maxamili omegle', 'funny omegle moments', 'omegle trolling', 'funny omegle', 'kermit on omegle', 'kermit vs kermit', 'Areusupercereal', 'Are u super cereal', 'Areusupercereal Omegle']",14,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"In this very special episode, Kermit meets another kermit on Omegle!
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I now have over 260k subscribers and it's all thanks 
+to you guys. So again, thank you.
+
+Check out Are U Super Cereals channel! - https://www.youtube.com/cerealschannel
+
+Also check out my friends Kermit rap!
+https://youtu.be/pYVID2iROs0​​
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​​
+Follow me on Twitter - https://twitter.com/maxamiliyt​​"
+7,LQBsdtoSF8Y,Kermit tries using pick up lines on Omegle,42,8,0.0,0,2021-05-15,11:30:22,5,afternoon,740925,32537,247,0,1097,8.183333333333334,hd,false,True,https://i.ytimg.com/vi/LQBsdtoSF8Y/maxresdefault.jpg,1280,720,"['kermit on omegle', 'omegle', 'omegle kermit', 'maxamili', 'kermit packing', 'maxamili omegle', 'funny omegle moments', 'funny omegle', 'kermit omegle', 'omegle funny moments', 'omegle trolling']",11,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermits is back on Omegle this time trying some pick up lines on some baddies
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I just recently hit 300k subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...
+Follow me on Twitter - https://twitter.com/maxamiliyt​​​​​"
+8,iZTWVXoBCbY,Kermit looks for a valentine on Omegle,38,7,0.0,0,2021-02-14,11:55:38,6,afternoon,729204,28775,203,0,762,8.466666666666667,hd,false,True,https://i.ytimg.com/vi/iZTWVXoBCbY/maxresdefault.jpg,1280,720,"['kermit omegle', 'kermit the frog omegle', 'omegle kermit', 'kermit on omegle', 'maxamili', 'maxamili omegle', 'funny omegle', 'omegle funny moments', 'maxamili kermit', 'omegle kermit the frog']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle but this time he's looking to find a valentine
+
+Road to 10k subs! 
+Thank you guys so much for all the support thus far! 
+
+If you enjoy my videos, please like, share and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - maxamiliyt
+Follow me on Twitter @MaxamiliYT"
+9,NupLMC5ewus,Kermit will steal yo' girl on Omegle,36,7,0.0,0,2021-06-20,16:47:15,6,afternoon,707841,31116,287,0,1044,8.983333333333333,hd,false,True,https://i.ytimg.com/vi/NupLMC5ewus/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle kermit', 'kermit', 'omegle', 'funny omegle', 'omegle trolling', 'maxamili', 'maxamili omegle', 'kermit packin', 'lookin for baddies', 'kermit looking for baddles', 'kermit the frog', 'kermit the frog omegle']",13,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit will most definitely steal yo' girl on Omegle.
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I recently hit 330,000 subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...
+Follow me on Twitter - https://twitter.com/Maxamiliyt​​​YT"
+10,X2OqRQH60ro,Frog the Baddie Hunter goes on Omegle,37,7,0.0,0,2021-04-23,13:01:22,4,afternoon,635844,32115,178,0,1478,9.566666666666666,hd,false,True,https://i.ytimg.com/vi/X2OqRQH60ro/maxresdefault.jpg,1280,720,"['kermit omegle', 'kermit omegle trolling', 'omegle kermit', 'omegle', 'funny omegle', 'maxamili', 'maxamili omegle', 'funny omegle moments', 'omegle funny moments', 'kermit on omegle', 'kermit packing']",11,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"You've heard of Dog the Bounty Hunter but what about Frog the Baddie Hunter? 
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I just recently hit 300k subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessedwith baddies for all eternity. Can we get 10k likes?
+
+Please go check out my friends Muppet Cypher rap video!
+https://youtu.be/zEmmwC3DW8k
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​​​​​
+Follow me on Twitter - https://twitter.com/maxamiliyt​​​​"
+11,sdzc4PP_29g,Kermit's back on Omegle,23,5,0.0,0,2021-01-23,19:49:45,5,night,634775,24679,143,0,660,6.4,hd,false,True,https://i.ytimg.com/vi/sdzc4PP_29g/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle', 'omegle kermit', 'kermie', 'maxamili', 'maxamili omegle', 'kermit on omegle', 'kermit meme', 'maxamili tiktok', 'kermit tiktok']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle.
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+12,JIV0yWs3Ubs,Kermit gives frog facts on Omegle,33,6,0.0,0,2021-02-01,20:16:30,0,night,611681,23841,162,0,623,6.966666666666667,hd,false,True,https://i.ytimg.com/vi/JIV0yWs3Ubs/maxresdefault.jpg,1280,720,"['omegle', 'kermit on omegle', 'omegle kermit', 'kermit omegle', 'kermit the frog omegle', 'maxamili', 'maxamili kermit', 'maxamili omegle', 'funny omegle', 'funny omegle moments']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle. This time, he’s giving facts about frogs.
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+13,H8qcSGt9TAY,Kermit's showing off his BGC on Omegle,38,8,0.125,0,2021-04-10,11:35:48,5,afternoon,546548,26502,186,0,1215,9.383333333333333,hd,false,True,https://i.ytimg.com/vi/H8qcSGt9TAY/maxresdefault.jpg,1280,720,"['kermit omegle', 'kermit omegle trolling', 'kermit packin', 'kermit on omegle', 'maxamili', 'maxamili omegle', 'omegle', 'funny omegle', 'omegle trolling', 'funny omegle moments', 'omegle kermit']",11,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle showing off his BGC
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I now have over 290k subscribers and it's all thanks 
+to you guys. So again, thank you.
+
+Check out my friends Kermit rap!
+https://youtu.be/pYVID2iROs0​​​
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​​​
+Follow me on Twitter - https://twitter.com/maxamiliyt​​"
+14,ZkS5-8_2bnQ,Baddies on Omegle love seeing Kermies zucch,43,7,0.0,0,2021-04-30,11:06:00,4,afternoon,483952,22693,164,0,1180,8.116666666666667,hd,false,True,https://i.ytimg.com/vi/ZkS5-8_2bnQ/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle kermit', 'funny omegle', 'omegle', 'kermit packin', 'kermit packing', 'maxamili', 'maxamili omegle', 'omegle maxamili', 'omegle funny moments']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermits is back on Omegle showing his zucch to all the baddies
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I just recently hit 300k subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+Special thanks to Mr. Wobbles for being in the video. He's a super 
+talented musician so if you haven't already, please go check out his channel!
+https://www.youtube.com/mrwobbles
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...​
+Follow me on Twitter - https://twitter.com/maxamiliyt​​​​"
+15,td2QBV_A4Jo,The best of Kermit on Omegle (so far),37,8,0.0,0,2021-06-05,10:32:52,5,afternoon,380037,18236,86,0,927,14.466666666666667,hd,false,True,https://i.ytimg.com/vi/td2QBV_A4Jo/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle kermit', 'omegle', 'funny omegle', 'omegle trolling', 'trolling omegle', 'maxamili', 'maxamili omegle', 'funny omegle moments', 'omegle funny moments', 'kermit packing', 'kermit trolling']",12,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"I made a compilation of some of my favourite Kermit on Omegle moments!
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I'm about to hit 330,000 subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...
+Follow me on Twitter - https://twitter.com/Maxamiliyt​​​YT"
+16,bOV9LTVGQBg,Kermie got back on VRChat,25,5,0.0,0,2020-12-06,19:00:40,6,night,328241,12107,79,0,252,5.933333333333334,hd,false,True,https://i.ytimg.com/vi/bOV9LTVGQBg/maxresdefault.jpg,1280,720,"['vrchat', 'kermit', 'kermit on vrchat', 'funny vrchat', 'vr chat', 'vrchat funny moments', 'vrchat kermit', 'maxamili', 'vrchat maxamili', 'funny vrchat moments', 'maxamili kermit', 'maxamili vrchat', 'kermit voice impression', 'kermit twerking', 'vrchat funny']",15,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+17,Efkog-xQvMw,Kermit performs magic on Omegle,31,5,0.0,0,2021-05-29,12:01:55,5,afternoon,300181,17832,84,0,879,9.75,hd,false,True,https://i.ytimg.com/vi/Efkog-xQvMw/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle kermit', 'maxamili', 'maxamili omegle', 'funny omegle', 'omegle funny moments', 'kermit packing on omegle', 'omegle trolling', 'omegle']",9,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle but this time he's a wizard doing magic!
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I just recently hit 320k subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...
+Follow me on Twitter - https://twitter.com/Maxamiliyt​​​YT"
+18,NKZN44zVK3o,Kermie's making new friends on Omegle,37,7,0.0,0,2021-04-17,15:45:02,5,afternoon,298067,16670,78,0,863,8.916666666666666,hd,false,True,https://i.ytimg.com/vi/NKZN44zVK3o/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle', 'kermit on omegle', 'kermit packin', 'kermit packing on omegle', 'funny omegle', 'funny omegle moments', 'maxamili', 'maxamili omegle', 'omegle funny moments']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is making some new friends on Omegle
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I now have over 298k subscribers and it's all thanks 
+to you guys. Hit those like and subscribe buttons and you'll be blessed
+with baddies for all eternity. Can we get 10k likes?
+
+Please go check out my friends Facebook Commandments rap!
+https://youtu.be/jXDEO2o2vA0
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​​​​
+Follow me on Twitter - https://twitter.com/maxamiliyt​​​"
+19,KqVJ8XPI488,Tony the Toad's lookin' for Kermit on Omegle,44,9,0.0,0,2021-03-28,12:35:14,6,afternoon,296689,19027,88,0,1032,9.583333333333334,hd,false,True,https://i.ytimg.com/vi/KqVJ8XPI488/maxresdefault.jpg,1280,720,"['kermit omegle', 'kermit packin', 'kermit the frog omegle', 'maxamili', 'maxamili omegle', 'funny omegle', 'funny omegle moments', 'tony the toad', 'omegle funny moments']",9,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Tony the Toad is on Omegle looking for kermit to compare zucchs
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I now have over 250k subscribers and it's all thanks 
+to you guys. So again, thank you.
+
+Check out my friends Kermit rap!
+https://youtu.be/pYVID2iROs0​
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​
+Follow me on Twitter - https://twitter.com/maxamiliyt​"
+20,tLKaKH0hCsc,Kermit tries being wholesome on Omegle,38,6,0.0,0,2021-05-07,09:03:16,4,morning,233281,13146,65,0,835,9.683333333333334,hd,false,True,https://i.ytimg.com/vi/tLKaKH0hCsc/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle kermit', 'kermit packin', 'maxamili', 'maxamili omegle', 'kermit the frog omegle', 'funny omegle', 'omegle trolling', 'funny omegle moments']",9,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermits is back on Omegle trying to be wholesome
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I just recently hit 300k subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...​
+Follow me on Twitter - https://twitter.com/maxamiliyt​​​​​"
+21,dQAisOKYwXM,Kermit found some baddies on Omegle,35,6,0.0,0,2021-06-26,12:03:43,5,afternoon,224468,11811,96,0,485,8.783333333333333,hd,false,True,https://i.ytimg.com/vi/dQAisOKYwXM/maxresdefault.jpg,1280,720,"['Kermit omegle', 'omegle', 'kermit on omegle', 'maxamili', 'maxamili omegle', 'funny omegle', 'omegle trolling', 'kermit packin', 'kermit the frog omegle', 'kermit']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit found a couple of baddies on Omegle.
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I recently hit 330,000 subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram -  https://www.instagram.com/maxamiliyt
+Follow me on Twitter - https://twitter.com/MaxamiliYT"
+22,WDyNoYKrRkA,Kermit does special D-liverys on Omegle,39,7,0.14285714285714285,0,2021-07-05,08:00:13,0,morning,159250,9147,67,0,548,8.316666666666666,hd,false,True,https://i.ytimg.com/vi/WDyNoYKrRkA/maxresdefault.jpg,1280,720,"['omegle', 'kermit', 'kermit omegle', 'omegle kermit', 'maxamili', 'funny omegle', 'omegle funny moments', 'omegle trolling', 'kermit packin', 'maxamili omegle']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle this time he's got a ""package"" for people.
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I recently hit 340,000 subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram -  https://www.instagram.com/maxamiliyt
+Follow me on Twitter - https://twitter.com/MaxamiliYT
+Join the Discord! - https://discord.gg/EMrXP4e5QF"
+23,ToQ00F8fFPk,Tony the Toad looks for Kermit on Omegle,40,8,0.0,0,2021-05-22,11:10:22,5,afternoon,157446,8781,46,0,435,9.566666666666666,hd,false,True,https://i.ytimg.com/vi/ToQ00F8fFPk/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle kermit', 'omegle', 'maxamili', 'kermit packing', 'omegle funny moments', 'omegle trolling', 'funny omegle', 'funny omegle moments', 'tony the toad', 'maxamili omegle', 'kermit the frog omegle']",12,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Tony the Toad is back on Omegle looking for Kermit
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I just recently hit 320k subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...
+Follow me on Twitter - https://twitter.com/maxamiliyt​​​​​"
+24,JQn8XRP3J0E,Kermit looks for booty on Omegle,32,6,0.0,0,2021-07-11,17:35:00,6,afternoon,153064,10296,219,0,921,8.55,hd,false,True,https://i.ytimg.com/vi/JQn8XRP3J0E/maxresdefault.jpg,1280,720,"['omegle', 'kermit', 'kermit omegle', 'omegle kermit', 'omegle trolling', 'funny omegle', 'maxamili', 'maxamili omegle', 'kermit the frog', 'kermit packin', 'kermit pirate', 'kermit on omegle']",12,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle this time he's looking for ""booty""
+I recently hit 350,000 subscribers and it's all thanks to you guys. 
+Keep hitting those like and subscribe buttons and you'll be blessed 
+with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram -  https://www.instagram.com/maxamiliyt
+Follow me on Twitter - https://twitter.com/MaxamiliYT
+Join the Discord! - https://discord.gg/EMrXP4e5QF"
+25,zmUTnSoGhQI,Conversing with strangers on Omegle again...,44,6,0.0,0,2021-01-27,15:17:03,2,afternoon,129039,4973,30,0,212,5.55,hd,false,True,https://i.ytimg.com/vi/zmUTnSoGhQI/maxresdefault.jpg,1280,720,"['omegle', 'funny omegle', 'omegle funny moments', 'maxamili', 'maxamili omegle', 'funny omegle moments', 'kermit omegle', 'omegle kermit', 'kermit on omegle']",9,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+26,i5Mml4wBLek,Doing some voice impressions on Omegle,38,6,0.0,0,2021-05-18,16:59:40,1,afternoon,123092,8346,91,0,491,7.083333333333333,hd,false,True,https://i.ytimg.com/vi/i5Mml4wBLek/maxresdefault.jpg,1280,720,"['omegle', 'funny omegle', 'omegle trolling', 'maxamili', 'maxamili omegle', 'omegle voice impressions', 'omegle funny moments', 'funny omegle moments', 'trolling on omegle', 'omegle maxamili']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Went on Omegle and did some voice impressions!
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I just recently hit 300k subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 5k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...
+Follow me on Twitter - https://twitter.com/maxamiliyt​​​​​"
+27,giRqtSx4XTM,I'm back being awkward on Omegle,32,7,0.14285714285714285,0,2021-04-06,10:00:35,1,morning,108429,7092,77,0,535,8.183333333333334,hd,false,True,https://i.ytimg.com/vi/giRqtSx4XTM/maxresdefault.jpg,1280,720,"['maxamili', 'omegle', 'maxamili omegle', 'funny omegle', 'omegle funny moments', 'omegle trolling', 'trolling on omegle']",7,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"People don't stay and chat with me for long but I still manage to make them feel uncomfortable...
+I tried to beep out the swearing this time but missed a bunch... at least I tried to be YouTube friendly 🤷🏻‍♂️
+
+Check out my friends golden eye rap!
+https://youtu.be/ODN1Kvhf_Cc
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​​​
+Follow me on Twitter - https://twitter.com/maxamiliyt​​​"
+28,-kCtECpOa0A,Kermit raps for a baddie on Omegle,34,7,0.0,0,2021-07-24,14:30:09,5,afternoon,87955,6283,40,0,306,9.083333333333334,hd,false,True,https://i.ytimg.com/vi/-kCtECpOa0A/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle', 'kermit', 'omegle kermit', 'maxamili', 'omegle trolling', 'funny omegle', 'omegle singing', 'kermit the frog', 'maxamili omegle', 'funny omegle moments']",11,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle this time he's rappin' for a baddie!
+I recently hit 350,000 subscribers and it's all thanks to you guys. 
+Keep hitting those like and subscribe buttons and you'll be blessed 
+with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram -  https://www.instagram.com/maxamiliyt
+Follow me on Twitter - https://twitter.com/MaxamiliYT
+Join the Discord! - https://discord.gg/EMrXP4e5QF"
+29,SPrgfceEA_Q,Kermit's back on VRChat...,26,5,0.0,0,2020-08-23,22:12:33,6,night,85093,2555,19,0,81,4.533333333333333,hd,false,True,https://i.ytimg.com/vi/SPrgfceEA_Q/maxresdefault.jpg,1280,720,"['vrchat', 'kermit on vrchat', 'kermit on vr chat', 'funny vrchat', 'funny vr chat', 'vrchat kermit', 'vrchat voice impression', 'vrchat funny moments', 'maxamili', 'vrchat maxamili', 'maxamili vrchat', 'kermit the frog on vrchat', 'kermit impression']",13,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+30,bksmS6qFGMU,Kermit got no chill,19,4,0.0,0,2020-05-24,17:05:35,6,afternoon,78246,2822,13,0,83,6.283333333333333,hd,false,False,https://i.ytimg.com/vi/bksmS6qFGMU/maxresdefault.jpg,1280,720,"['vrchat', 'vrchat kermit', 'kermit on vr chat', 'funny vrchat', 'funny kermit', 'maxamili vrchat', 'kermit impression', 'vrchat funny moments', 'vrchat kermit the frog', 'kermit the frog vrchat', 'kermit the frog impression', 'vrchat funny']",12,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+31,-HpL9HArEs4,Pavlov VR - Trouble in Muppet Town,34,6,0.16666666666666666,0,2020-07-12,19:36:43,6,night,77227,2606,25,0,70,4.2,hd,false,True,https://i.ytimg.com/vi/-HpL9HArEs4/maxresdefault.jpg,1280,720,"['pavlov vr', 'pavlov', 'pavlov ttt', 'ttt', 'trouble in terrorist town', 'pavlov kermit', 'ttt kermit', 'pavlov ttt kermit', 'pavlov vr ttt', 'pavlov funny moments', 'pavlov funny', 'maxamili', 'kermit plays pavlov', 'kermit plays ttt', 'kermit plays pavlov vr']",15,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Kermit the Frog plays TTT
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+32,wPfi44nBM7M,Kermit is the simp police on VRChat,35,7,0.0,0,2021-06-16,21:31:42,2,night,73398,4584,43,0,222,9.7,hd,false,True,https://i.ytimg.com/vi/wPfi44nBM7M/maxresdefault.jpg,1280,720,"['kermit vrchat', 'kermit the frog vrchat', 'maxamili', 'vrchat', 'funny vrchat', 'vrchat trolling', 'omegle kermit', 'kermit omegle', 'vrchat kermit', 'kermit', 'kermit the frog', 'simp', 'simp police', 'vrchat simp']",14,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Kermit goes on VRChat as the simp police arresting any simps he comes across.
+
+GabzitoHD's channel - https://www.youtube.com/c/GabzitoHD
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I recently hit 330,000 subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​...
+Follow me on Twitter - https://twitter.com/Maxamiliyt​​​YT"
+33,U2q_60ZZZzM,Kermahigh on VRChat,19,3,0.0,0,2020-05-31,20:26:53,6,night,69393,2400,23,0,67,6.65,hd,false,True,https://i.ytimg.com/vi/U2q_60ZZZzM/maxresdefault.jpg,1280,720,"['kermit vrchat', 'kermit impression', 'high kermit', 'high kermit vrchat', 'funny vrchat', 'kermit vr chat', 'high kermit vr chat', 'vrchat funny', 'maxamili', 'maxamili vrchat', 'vrchat kermit', 'vr chat kermit', 'kermahigh']",13,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+34,wUF1ShTBKUM,I'm awkward on Omegle,21,5,0.2,0,2020-12-24,19:43:53,3,night,69257,2901,21,0,125,5.4,hd,false,True,https://i.ytimg.com/vi/wUF1ShTBKUM/maxresdefault.jpg,1280,720,"['omegle', 'funny omegle', 'omegle funny moments', 'omegle funny', 'maxamili', 'maxamili omegle', 'omegle maxamili', 'omegle snake']",8,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+35,ANjHbixoSBo,Herbert goes on VRChat - Episode 5,34,6,0.0,0,2021-01-17,17:06:32,6,afternoon,59333,1789,14,0,36,5.1,hd,false,True,https://i.ytimg.com/vi/ANjHbixoSBo/maxresdefault.jpg,1280,720,"['herbert on vrchat', 'vrchat', 'vrchat funny', 'vrchat herbert', 'vrchat funny moments', 'herbert goes on vrchat', 'maxamili', 'maxamili herbert', 'maxamili vrchat', 'maxamili vr', 'herbert plays vrchat', 'herbert the pervert']",12,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+36,qpwSzstlNcE,Kermit brings Miss Piggy on Omegle,34,6,0.0,0,2021-08-01,14:30:18,6,afternoon,51883,4964,34,0,287,9.216666666666667,hd,false,True,https://i.ytimg.com/vi/qpwSzstlNcE/maxresdefault.jpg,1280,720,"['kermit omegle', 'omegle', 'kermit', 'maxamili', 'omegle kermit', 'funny omegle', 'omegle trolling', 'john martinez', 'miss piggy', 'omegle funny moments']",10,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"Kermit is back on Omegle this time he brought Miss Piggy along.
+I recently hit 360,000 subscribers and it's all thanks to you guys. 
+Keep hitting those like and subscribe buttons and you'll be blessed 
+with baddies for all eternity. Can we get 10k likes?
+
+Go check out John Martinez! - YouTube - https://www.youtube.com/johnmartinezart
+                                                       TikTok - @johnmartinezart
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram -  https://www.instagram.com/maxamiliyt
+Follow me on Twitter - https://twitter.com/MaxamiliYT
+Join the Discord! - https://discord.gg/EMrXP4e5QF"
+37,nMC8oohOeRE,Herbert goes on VRChat - Episode 4,34,6,0.0,0,2020-10-18,20:07:32,6,night,47866,1265,9,0,24,5.05,hd,false,True,https://i.ytimg.com/vi/nMC8oohOeRE/maxresdefault.jpg,1280,720,"['vrchat', 'funny vrchat', 'herbert vrchat', 'vrchat herbert', 'vrchat maxamili', 'maxamili vrchat', 'herbert on vrchat', 'vrchat herbert the pervert', 'herbert the pervert on vrchat', 'maxamili', 'maxamili herbert']",11,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+38,MQCjAUV9G0Q,Skyrim VR but with ridiculous mods - Episode 1,46,8,0.125,0,2021-03-03,13:08:26,2,afternoon,42267,1962,24,0,153,13.366666666666667,hd,false,True,https://i.ytimg.com/vi/MQCjAUV9G0Q/hqdefault.jpg,480,360,"['skyrim vr', 'skyrim funny mods', 'skyrim vr mods', 'skyrim funny', 'skyrim vr funny', 'skyrim vr playthrough', 'maxamili', 'maxamili skyrim', 'skyrim funny moments', 'skyrim playthrough']",10,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Episode 1 of my Skyrim VR playthrough. I've added a bunch of ridiculous mods to spice it up a bit. Enjoy!
+
+We're now on the road to 20K subscribers.
+Thank you guys so much for all the support thus far! 
+
+If you enjoy my videos, please like, share and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - maxamiliyt
+Follow me on Twitter @MaxamiliYT"
+39,BsYeu2e2AZM,Herbert Plays Pavlov TTT,24,4,0.25,0,2020-04-19,22:24:44,6,night,33861,1103,7,0,23,4.6,hd,false,True,https://i.ytimg.com/vi/BsYeu2e2AZM/hqdefault.jpg,480,360,"['herbert pavlov', 'herbert impression', 'herbert plays pavlov', 'maxamili pavlov', 'maxamili', 'maxamili herbert', 'funny pavlov vr', 'herbert pavlov vr', 'herbert plays pavlov vr', 'funny vr', 'funny vr moments', 'funny pavlov', 'pavlov vr', 'pavlov ttt', 'herbert ttt']",15,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Herbert from Family Guy plays some Pavlov TTT.
+
+If you enjoy the video, please like and subscribe!
+
+Follow me on TikTok! tiktok.com/@maxamiliyt"
+40,r9OqtuuYfgM,Herbert babysits on VRChat,26,4,0.0,0,2021-07-02,16:00:17,4,afternoon,32326,1965,30,0,119,8.616666666666667,hd,false,True,https://i.ytimg.com/vi/r9OqtuuYfgM/maxresdefault.jpg,1280,720,"['vrchat', 'herbert', 'herbert the pervert', 'herbert vrchat', 'herbert goes on vrchat', 'vrchat herbert', 'funny vrchat', 'vrchat funny moments', 'maxamili', 'maxamili vrchat']",10,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Herbert is back on VRChat and this time he's babysitting Kazoo Kid.
+
+Singer at the end - https://open.spotify.com/artist/2w0rju9kQffcDpYmQIJm80?si=qezbG1poRp2MeOmdqAe7SA&dl_branch=1
+
+Thank you BearAnger for helping me get some of these clips! Go check out his channel - https://youtube.com/user/PCBearanger
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I recently hit 340,000 subscribers and it's all thanks 
+to you guys. Keep hitting those like and subscribe buttons and you'll be blessed with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram -  https://www.instagram.com/maxamiliyt
+Follow me on Twitter - https://twitter.com/MaxamiliYT
+Join the Discord! - https://discord.gg/EMrXP4e5QF"
+41,ZjIMfjorS90,Asking would you rather questions on Omegle,43,7,0.0,0,2021-07-27,09:00:13,1,morning,23875,2388,35,0,216,9.25,hd,false,True,https://i.ytimg.com/vi/ZjIMfjorS90/maxresdefault.jpg,1280,720,"['omegle', 'maxamili', 'would you rather', 'omegle trolling', 'funny omegle moments', 'maxamili omegle', 'kermit omegle', 'kermit']",8,23,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,"I went on Omegle as asked some really important questions.
+
+I recently hit 360,000 subscribers and it's all thanks to you guys. 
+Keep hitting those like and subscribe buttons and you'll be blessed 
+with baddies for all eternity. Can we get 10k likes?
+
+“Lookin’ for baddies” T-shirts - https://maxamili.creator-spring.com
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram -  https://www.instagram.com/maxamiliyt
+Follow me on Twitter - https://twitter.com/MaxamiliYT
+Join the Discord! - https://discord.gg/EMrXP4e5QF"
+42,kAK0XjD5sBc,Skyrim VR but with ridiculous mods - Episode 2,46,8,0.125,0,2021-03-31,09:00:02,2,morning,18669,1072,13,0,167,10.516666666666667,hd,false,True,https://i.ytimg.com/vi/kAK0XjD5sBc/hqdefault.jpg,480,360,"['Skyrim VR', 'maxamili', 'funny skyrim', 'funny skyrim mods', 'skyrim mods', 'skyrim playthrough', 'skyrim']",7,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Episode 1 of my Skyrim VR playthrough. I've added a bunch of ridiculous mods to spice it up a bit. Enjoy!
+
+Thank you so much for all the support. My channel has been growing at 
+a ridiculous rate. I now have over 260k subscribers and it's all thanks 
+to you guys. So again, thank you.
+
+Check out my friends Kermit rap!
+https://youtu.be/pYVID2iROs0​​
+
+Follow me on TikTok - tiktok.com/@maxamiliyt
+Follow me on Instagram - https://www.instagram.com/maxamiliyt​​
+Follow me on Twitter - https://twitter.com/maxamiliyt​​"
+43,okv3cwLnD1U,Demon straight outta ram ranch VRChat,37,6,0.0,0,2020-08-08,18:42:00,5,night,12189,492,6,0,13,3.3166666666666664,hd,false,True,https://i.ytimg.com/vi/okv3cwLnD1U/maxresdefault.jpg,1280,720,"['maxamili', 'vrchat', 'vrchat voice mod', 'vrchat scary', 'vrchat scary voice mod', 'vrchat creepy voice mod', 'maxamili vrchat', 'funny vrchat', 'vrchat funny moments', 'voice mod']",10,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+44,Ah8fYGnQbnk,TTT but it's just russian roulette and RDM,42,9,0.2222222222222222,0,2021-01-07,00:59:47,3,late_night,11578,358,4,0,9,5.483333333333333,hd,false,True,https://i.ytimg.com/vi/Ah8fYGnQbnk/hqdefault.jpg,480,360,"['pavlov', 'pavlov vr', 'pavlov ttt', 'pavlov vr ttt', 'ttt', 'trouble in terrorist town', 'maxamili', 'maxamili ttt', 'maxamili pavlov', 'pavlov maxamili', 'pavlov vr maxamili', 'maxamili pavlov vr', 'pavlov funny', 'pavlov funny moments', 'pavlov vr funny']",15,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+45,3ptaR9t0fek,Pavlov VR - So Much Trouble In Terrorist Town,45,8,0.125,0,2020-09-20,13:53:26,6,afternoon,11451,366,6,0,13,5.733333333333333,hd,false,True,https://i.ytimg.com/vi/3ptaR9t0fek/hqdefault.jpg,480,360,"['pavlov', 'pavlov vr', 'pavlov ttt', 'ttt', 'ttt funny moments', 'pavlov funny moments', 'pavlov funny', 'pavlov vr funny', 'pavlov vr ttt', 'pavlov ttt funny', 'maxamili pavlov vr', 'maxamili', 'maxamili pavlov', 'maxamili ttt', 'maxamili pavlov ttt', 'trouble in terrorist town', 'pavlov trouble in terrorist town']",17,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+46,FZR2Jr5ypTg,Celebrity Voice Impressions Episode 1,37,5,0.0,0,2017-01-20,11:52:14,4,afternoon,8289,402,3,0,60,1.2166666666666668,hd,false,True,https://i.ytimg.com/vi/FZR2Jr5ypTg/maxresdefault.jpg,1280,720,"['Celebrity impressions', 'alfred impression', 'bane impression', 'jessie pinkman impression', 'jack sparrow impression', 'davy jones impression', 'ricky gervais impression', 'rick grimes impression', 'napoleon dynamite impression', 'kip impression', 'jason statham impression', 'voice impressions', 'impressions', 'maxamili', 'maxamili impressions']",15,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,Celebrity Impressions Episode 1
+47,W25Y4rr08Iw,The Pavlov VR TTT Experience,28,5,0.4,0,2020-03-14,17:52:16,5,afternoon,7138,258,1,0,17,4.266666666666667,hd,false,True,https://i.ytimg.com/vi/W25Y4rr08Iw/maxresdefault.jpg,1280,720,"['maxamili', 'pavlov vr', 'pavlov vr funny moments', 'pavlov funny moments', 'vr funny moments', 'funny vr', 'ttt', 'ttt funny moments', 'pavlov vr ttt', 'pavlov ttt']",10,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Some funny moments from a few games on TTT in Pavlov VR
+Subscribe and give a like if you enjoyed the video!"
+48,DR8faOex1xs,Cartoon Voice Impressions Episode 2,35,5,0.0,0,2017-01-24,23:22:19,1,late_night,6999,273,6,0,32,0.9166666666666666,hd,false,True,https://i.ytimg.com/vi/DR8faOex1xs/hqdefault.jpg,480,360,"['catroon impressions', 'roccos modern life impressions', 'joker impression', 'rick and morty impression', 'gunter impression', 'ren and stimpy impression', 'impressions', 'voice impressions']",8,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,Cartoon Impressions Episode 2
+49,lOIPpIu39bA,more like population won,24,4,0.0,0,2020-11-22,19:31:58,6,night,6355,157,1,0,18,8.866666666666667,hd,false,True,https://i.ytimg.com/vi/lOIPpIu39bA/maxresdefault.jpg,1280,720,"['maxamili', 'population one', 'population one funny', 'population one funny moments', 'population one wins', 'oculus quest', 'oculus quest 2', 'maxamili population one', 'funny vr moments']",9,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"A few wins and funny moments from the new battle royale game Population: One
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+50,5WYuYi-ogck,Mort Goldman Plays Pavlov VR,28,5,0.2,0,2020-03-22,18:41:59,6,night,5674,214,1,0,10,3.05,hd,false,True,https://i.ytimg.com/vi/5WYuYi-ogck/hqdefault.jpg,480,360,"['mort goldman', 'mort goldman pavlov vr', 'mort pavlov', 'mort goldman pavlov', 'funny pavlov', 'funny vr', 'pavlov vr', 'maxamili', 'maxamili pavlov', 'maxamili mort', 'funny pavlov moments', 'funny pavlov vr']",12,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,Played some Trouble In Terrorist Town as Mort Goldman
+51,dJWOCX2oc04,Pokemon Cypher 2019 Contest Entry,33,5,0.0,0,2019-06-29,19:13:10,5,night,5289,173,7,0,35,0.9333333333333333,hd,false,True,https://i.ytimg.com/vi/dJWOCX2oc04/maxresdefault.jpg,1280,720,"['Pokemon Cypher Contest', 'maxamili', 'maxamili rap', 'pokemon rap', 'pokemon cypher contest 2019', 'pokemon cypher contest entry', 'shofu rap', 'shofu rap contest', 'shofu']",9,22,none,,"['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music']",Maxamili,361000,25219586,87,16 pokebars for the Pokemon Cypher Contest
+52,ssI30l_rvus,Messin’ with ghosts in Phasmophobia VR,38,6,0.16666666666666666,0,2020-12-18,19:58:08,4,night,5150,170,2,0,11,9.016666666666667,hd,false,True,https://i.ytimg.com/vi/ssI30l_rvus/maxresdefault.jpg,1280,720,"['phasmophobia', 'phasmophobia vr', 'phasmophobia funny', 'phasmophobia funny moments', 'phasmophobia vr funny', 'phasmophobia maxamili', 'maxamili']",7,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+53,kZ89XnELOh4,Void Bastards - Funny Voice Lines,33,5,0.0,0,2019-06-16,14:47:14,6,afternoon,4741,96,0,0,20,2.466666666666667,hd,false,True,https://i.ytimg.com/vi/kZ89XnELOh4/maxresdefault.jpg,1280,720,"['Void Bastards', 'void bastards voicelines', 'void bastards funny', 'maxamili', 'maxamili void bastards', 'void bastards tourists', 'void bastards juvi', 'void bastards funny lines']",8,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,Here's a few of my favourite voice lines from the the rougelike strategy-shooter Void Bastards
+54,DZVzryw8pIU,Video Game Voice Impressions Episode 1,38,6,0.0,0,2017-03-17,22:51:31,4,night,4690,188,3,0,19,1.0666666666666667,hd,false,True,https://i.ytimg.com/vi/DZVzryw8pIU/maxresdefault.jpg,1280,720,"['video game voice impressions', 'voice impressions', 'gaming', 'diablo 2 voice impression', 'skyrim voice impression', 'deckard cain impression', 'alduin impression', 'solid snake impression', 're4 impressions', 're4 merchant impression', 'tf2 impressions', 'tf2 voice impressions', 'duke nukem impression', 'max wells', 'max wells impressions']",15,22,none,,,Maxamili,361000,25219586,87,"Some video game character voices. 
+
+Deckard Cain
+Alduin
+Solid Snake
+Ramon Salazar
+Merchant
+Soldier
+Engineer 
+Demoman
+Medic
+Duke Nukem"
+55,eO-kkeYAC2g,Pavlov TTT Funny Moments,24,4,0.25,0,2020-01-17,16:41:15,4,afternoon,4474,157,3,0,5,4.333333333333333,hd,false,True,https://i.ytimg.com/vi/eO-kkeYAC2g/hqdefault.jpg,480,360,"['maxamili', 'ttt', 'pavlov ttt', 'pavlov ttt funny moments', 'funny pavlov', 'pavlov funny moments', 'ttt funny moments', 'trouble in terrorist town', 'trouble in terrorist town funny', 'pavlov vr funny clips']",10,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,I've been having a lot of fun playing TTT (Trouble in Terrorist Town) in Pavlov VR. I put together a few funny moments. Hope you enjoy!
+56,ZkVrfAZyEQ4,CJAY 92's 15 Seconds of Fame contest entry,42,9,0.1111111111111111,0,2017-03-01,19:30:47,2,night,4335,151,2,0,14,0.26666666666666666,hd,false,False,https://i.ytimg.com/vi/ZkVrfAZyEQ4/maxresdefault.jpg,1280,720,"[""CJAY 92's 15 Seconds of Fame"", 'CJAY 92']",2,22,none,,,Maxamili,361000,25219586,87,My entry for CJAY 92's 15 seconds of fame contest. just a few clips from my cartoon impressions episode 1 video.
+57,hMVaNlAqhDg,fall guys but we're mean guys grabbin' glizzys,46,9,0.0,0,2020-09-03,21:29:54,3,night,4143,131,0,0,13,6.85,hd,false,True,https://i.ytimg.com/vi/hMVaNlAqhDg/maxresdefault.jpg,1280,720,"['maxamili', 'fall guys', 'fall guys funny', 'fall guys funny moments', 'fall guys maxamili', 'maxamili fall guys', 'fall guys fails', 'funny gaming', 'fall guys season 2', 'fall guys skins', 'fall guys moments']",11,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Strategy_video_game']",Maxamili,361000,25219586,87,"If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+58,s0MKT4_lGbo,Rick and Morty Impressions,26,4,0.0,0,2018-01-24,21:00:21,2,night,4042,179,2,0,17,0.5666666666666667,hd,false,True,https://i.ytimg.com/vi/s0MKT4_lGbo/maxresdefault.jpg,1280,720,"['Rick and Morty impressions', 'maxamili', 'cartoon impressions', 'rick and morty', 'voice impressions', 'rick and morty voice impressions', 'rick impression', 'rick and morty impression']",8,22,none,,['https://en.wikipedia.org/wiki/Entertainment'],Maxamili,361000,25219586,87,A few quick Rick and Morty Impressions
+59,sSCGF3cc_bI,The Half-Life: Alyx Experience - Episode 1,42,7,0.0,0,2020-03-23,23:53:40,0,late_night,4035,241,0,0,32,3.1666666666666665,hd,false,True,https://i.ytimg.com/vi/sSCGF3cc_bI/maxresdefault.jpg,1280,720,"['half life alyx', 'half life vr', 'half life alyx funny', 'maxamili', 'half life alyx funny moments', 'half life vr funny', 'half life alyx memes']",7,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,Some clips from my first few hours with Half-Life: Alyx
+60,TZy0-RUlFAo,Overwatch Voice Impressions,27,3,0.0,0,2017-02-02,22:55:34,3,night,3983,242,5,0,50,1.6,hd,false,True,https://i.ytimg.com/vi/TZy0-RUlFAo/maxresdefault.jpg,1280,720,"['overwatch voice impressions', 'voice impressions', 'junkrat impression', 'genji impression', 'hanzo impression', 'reinhardt impression', 'roadhog impression', 'tracer impression', 'lucio impression', 'lucio beatbox', 'maccree impression', 'reaper impression', 'soldier 76 impression', 'winston impression', 'zenyatta impression', 'torbjorn impression']",16,22,none,,,Maxamili,361000,25219586,87,Overwatch Voice Impressions
+61,u2LMivOtg1M,Jumpmaster Flex (Apex Legends Rap),34,5,0.0,0,2019-04-03,18:56:17,2,night,3949,263,15,0,58,1.5,hd,false,False,https://i.ytimg.com/vi/u2LMivOtg1M/hqdefault.jpg,480,360,"['apex legends rap', 'apex legends', 'maxamili', 'maxamili rap', 'maxamili impressions', 'jumpmaster', 'jumpmaster flex', 'funny apex legends', 'apex legends song', 'maxamili apex legends']",10,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"I've been playing a lot of Apex Legends lately so why not rap about it. Special thanks to Christ Sampson for mixing and mastering this for me. Check out his channel!
+https://www.youtube.com/christsampson"
+62,JJYYh3pajq4,Mort Meets a Girl - Black Ops 2,31,7,0.0,0,2017-03-18,21:05:51,5,night,3725,167,3,0,7,2.95,hd,false,True,https://i.ytimg.com/vi/JJYYh3pajq4/hqdefault.jpg,480,360,"['Mort Goldman impression', 'Mort plays Black Ops2', 'Black Ops 2', 'Black Ops 2 trolling', 'Mort Goldman', 'Trolling', 'Funny', 'Mort plays Xbox', 'Xbox', 'Call of Duty', 'Mort plays Call of Duty']",11,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,Playing some Black Ops 2 as Mort Goldman.
+63,Ergk1K458Cw,Herbert Plays Rust,18,3,0.0,0,2018-01-12,00:36:39,4,late_night,3609,176,3,0,15,2.8166666666666664,hd,false,True,https://i.ytimg.com/vi/Ergk1K458Cw/maxresdefault.jpg,1280,720,"['Herbert Plays Rust', 'Herbert the pervert', 'Herbert', 'Rust', 'maxamili', 'herbert impression', 'voice impression', 'family guy', 'family guy impression', 'voice trolling', 'rust trolling', 'herbert trolling', 'community update 166']",13,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,Herbert goes looking for Jesse on Rust
+64,wNWbJ-i0lyo,The Forest VR Co-op - Ep.1 - off to a rough start...,52,12,0.08333333333333333,0,2020-07-04,11:13:53,5,afternoon,3512,115,1,0,6,11.683333333333334,hd,false,True,https://i.ytimg.com/vi/wNWbJ-i0lyo/maxresdefault.jpg,1280,720,"['the forest', 'the forest ep 1', 'the forest episode 1', 'the forest funny', 'the forest funny moments', 'maxamili', 'maxamili the forest', 'the forest maxamili', 'the forest lets play', 'the forest playthrough', 'the forest lets play ep 1', 'bearanger', 'bearanger the forest']",13,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Started playing The Forest with my friend Bear. 
+
+Let us know in the comments if you want us to continue this series! 
+https://www.youtube.com/user/PCBearanger
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+65,px0Qiwz3jBE,The Blade and Sorcery Experience - Episode 1,44,7,0.0,0,2020-04-10,10:54:10,4,afternoon,3334,172,2,0,21,5.0,hd,false,True,https://i.ytimg.com/vi/px0Qiwz3jBE/hqdefault.jpg,480,360,"['blade and sorcery', 'blade and sorcery funny', 'blade and sorcery funny moments', 'blade and sorcery mods', 'blade and sorcery star wars', 'blade and sorcery maxamili', 'maxamili', 'funny vr', 'funny vr moments']",9,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"The first installment of my Blade and Sorcery series. 
+If you enjoy the video and want to see more, don't forget to like and subscribe!"
+66,gocxC-v-CPE,they call me doctr helth,24,5,0.0,0,2020-06-19,18:18:44,4,night,3202,174,0,0,21,4.35,hd,false,True,https://i.ytimg.com/vi/gocxC-v-CPE/maxresdefault.jpg,1280,720,"['surgeon simulator', 'surgeon simulator vr', 'surgeon simulator funny moments', 'surgeon sim', 'surgeon sim funny moments', 'maxamili', 'maxamili vr', 'funny vr', 'funny vr moments']",9,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Strategy_video_game']",Maxamili,361000,25219586,87,"Spent a few hours with Surgeon Simulator VR so i'm basically a certified surgeon now.
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+67,ZPOie5KOo_8,The Half-Life: Alyx Experience - Episode 4,42,7,0.0,0,2020-04-04,19:01:37,5,night,2960,248,1,0,33,5.35,hd,false,True,https://i.ytimg.com/vi/ZPOie5KOo_8/hqdefault.jpg,480,360,"['half life alyx experience', 'half life alyx funny moments', 'half life alyx maxamili', 'maxamili', 'half life alyx funny', 'half life alyx memes', 'the half life alyx experience', 'maxamili half life', 'half life alyx episode']",9,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"The 4th installment of The Half-Life: Alyx Experience.
+
+Thank you for 1,000 subs! You guys are awesome."
+68,OgqMpiZWH8Y,Boneworks - Tuscany Quarantine,30,3,0.0,0,2020-04-12,15:39:33,6,afternoon,2959,142,1,0,23,3.3833333333333333,hd,false,True,https://i.ytimg.com/vi/OgqMpiZWH8Y/maxresdefault.jpg,1280,720,"['boneworks tuscany', 'boneworks funny moments', 'boneworks funny', 'boneworks ford', 'maxamili boneworks', 'boneworks maxamili', 'funny vr', 'funny vr moments', 'boneworks new sandbox', 'boneworks sandbox', 'boneworks update']",11,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Quarantined at Tuscany with a couple of Fords...
+
+Be sure to like and subscribe if you enjoyed the video :)"
+69,KeTKFq9eUiw,I'm So Rich Freeverse,21,5,0.2,0,2017-04-26,22:02:01,2,night,2829,124,2,0,17,1.2166666666666668,hd,false,True,https://i.ytimg.com/vi/KeTKFq9eUiw/maxresdefault.jpg,1280,720,"['Rap', 'Freeverse', 'Im so rich', 'max wells', 'max wells impressions', 'hip hop', 'gangsta boogie', 'j dilla']",8,22,none,,"['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music']",Maxamili,361000,25219586,87,Had to re-upload this due to an audio issue. Just a funny freeverse about how rich I am (i'm not rich). Beat is Gangsta Boogie by J Dilla.
+70,rKNo9LrWxJ0,The Half-Life: Alyx Experience - Episode 2,42,7,0.0,0,2020-03-26,00:38:25,3,late_night,2767,151,4,0,14,3.15,hd,false,True,https://i.ytimg.com/vi/rKNo9LrWxJ0/maxresdefault.jpg,1280,720,"['half life alyx', 'half life alyx funny', 'maxamili', 'half life tiktok', 'half life alex memes', 'half life alyx tiktok', 'half life alyx funny moments', 'maxamili half life']",8,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,This game is amazing.
+71,B0yL3rX069M,The Half-Life: Alyx Experience - Episode 3,42,7,0.0,0,2020-03-29,13:16:27,6,afternoon,2592,147,2,0,18,3.1166666666666667,hd,false,True,https://i.ytimg.com/vi/B0yL3rX069M/maxresdefault.jpg,1280,720,"['half life alyx', 'half life alyx funny moments', 'half life alyx maxamili', 'maxamili', 'half life alyx funny', 'half life alyx memes', 'funny vr moments', 'maxamili vr', 'half life alyx experience', 'the half life alyx experience']",10,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,The third installment of The Half-Life Alyx Experience
+72,rOdfdRHkEmU,The Walking Dead VR Experience,30,5,0.2,0,2020-03-01,17:07:53,6,afternoon,2589,131,0,0,12,3.0166666666666666,hd,false,False,https://i.ytimg.com/vi/rOdfdRHkEmU/maxresdefault.jpg,1280,720,"['maxamili', 'maxamili vr', 'the walking dead vr', 'twd saints and sinners', 'saints and sinners', 'twd vr', 'vr funny moments', 'saints and sinners funny moments', 'the walking dead vr funny moments', 'funny vr moments', 'walking dead game', 'the walking dead saints and sinners']",12,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,Some funny moments from my time with TWD: Saints and Sinners
+73,FRrxX1Adhko,Boneworks Absurdity,19,2,0.0,0,2020-04-26,11:49:59,6,afternoon,2306,126,0,0,14,5.916666666666667,hd,false,True,https://i.ytimg.com/vi/FRrxX1Adhko/maxresdefault.jpg,1280,720,"['boneworks funny', 'boneworks', 'boneworks funny moments', 'maxamili boneworks', 'maxamili', 'maxamili vr', 'maxamili funny moments', 'funny boneworks', 'funny vr moments', 'funny vr', 'boneworks vr']",11,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"A few funny moments from my time with the Boneworks story mode.
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+74,R1mcYvJdzbg,MORDHAU RAP,11,2,1.0,0,2019-07-07,23:09:41,6,late_night,2018,93,4,0,15,2.5166666666666666,hd,false,False,https://i.ytimg.com/vi/R1mcYvJdzbg/maxresdefault.jpg,1280,720,"['mordhau rap', 'maxamili rap', 'mordhau', 'maxamili', 'mordhau memes', 'mordhau song']",6,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Had to write a few verses for one of my favorite game to come out this year, Mordhau. Hope you enjoy. Beat is by SokoBeats"
+75,BP6Xo0SE8aE,Boneworks Secret Boss,21,3,0.0,0,2020-02-18,20:58:49,1,night,1977,63,3,0,7,0.4166666666666667,hd,false,False,https://i.ytimg.com/vi/BP6Xo0SE8aE/maxresdefault.jpg,1280,720,"['boneworks', 'boneworks boss', 'boneworks secret boss', 'boneworks funny moments', 'maxamili', 'maxamili boneworks', 'funny boneworks', 'funny vr', 'dark souls', 'dark souls boss', 'dark souls meme']",11,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,Tough fight
+76,rpWkxfIaY7w,"blades, beatboxing and... baskets",33,4,0.0,0,2020-06-27,13:04:20,5,afternoon,1922,101,0,0,7,4.366666666666666,hd,false,True,https://i.ytimg.com/vi/rpWkxfIaY7w/maxresdefault.jpg,1280,720,"['blade and sorcery', 'blade and sorcery u8', 'blade and sorcery funny', 'blade and sorcery funny moments', 'blade and sorcery maxamili', 'maxamili', 'funny vr', 'funny vr moments', 'vr funny moments', 'blade and sorcery update', 'vr', 'maxamili vr']",12,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"u8 is gr8 m8
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+77,zmAhPNmx7k8,Thief Simulator - From Common Thief To Window Salesman,54,8,0.0,0,2020-05-22,11:11:49,4,afternoon,1884,70,0,0,5,7.9,hd,false,True,https://i.ytimg.com/vi/zmAhPNmx7k8/hqdefault.jpg,480,360,"['thief simulator', 'thief simulator funny moments', 'thief simulator funny', 'thief sim', 'thief simulator maxamili', 'funny vr', 'thief simulator vr', 'maxamili', 'maxamili vr', 'thief sim funny', 'thief sim vr', 'thief sim vr funny']",12,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Highlights from my first few hours with Thief Simulator 
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+78,Y5hhVyCD25A,DUKE NUKEM RAP,14,3,1.0,0,2019-06-20,22:15:19,3,night,1738,66,0,0,25,1.2333333333333334,hd,false,False,https://i.ytimg.com/vi/Y5hhVyCD25A/maxresdefault.jpg,1280,720,"['duke nukem rap', 'duke nukem', 'maxamili rap', 'maxamili impressions', 'video game rap', 'maxamili']",6,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Figured I'd rap about a classic
+Beat is by PsychéBeatz"
+79,9vHmaWEp85s,Skyrim VR but with trash tier RP,32,7,0.2857142857142857,0,2020-05-03,10:54:47,6,afternoon,1658,97,2,0,18,4.166666666666667,hd,false,True,https://i.ytimg.com/vi/9vHmaWEp85s/maxresdefault.jpg,1280,720,"['skyrim vr', 'skyrim vr funny', 'skyrim vr funny moments', 'skyrim vr rp', 'skyrim funny', 'skyrim funny moments', 'skyrim rp', 'funny vr moments', 'funny vr', 'maxamili', 'maxamili vr', 'maxamili skyrim']",12,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,"Just mucking about in Skyrim VR
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+80,kLvybnrG6JA,BORDERLANDS 3 RAP,17,3,0.6666666666666666,0,2019-06-10,20:50:50,0,night,1563,91,1,0,18,1.1833333333333333,hd,false,False,https://i.ytimg.com/vi/kLvybnrG6JA/maxresdefault.jpg,1280,720,"['borderlands 3', 'borderlands 3 rap', 'maxamili rap', 'maxamili impressions', 'borderlands rap', 'bl3 rap']",6,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,prod. by 8th Ave Beats
+81,uwsUL3Wc2-8,Mordhau - Pan Man Movie Trailer,31,5,0.0,0,2019-05-26,21:17:39,6,night,1551,60,0,0,5,0.9333333333333333,hd,false,True,https://i.ytimg.com/vi/uwsUL3Wc2-8/hqdefault.jpg,480,360,"['Mordhau', 'mordhau pan man', 'pan man', 'maxamili', 'maxamili impressions', 'mordhau pan', 'pan man trailer', 'mordhau movie trailer', 'maxamili mordhau']",9,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,In theatres June 21st 2059
+82,Hu_oy2d8UrY,Blade and Sorcery: Diner Defense,32,5,0.0,0,2020-05-11,22:48:52,0,night,1321,68,1,0,10,4.6,hd,false,True,https://i.ytimg.com/vi/Hu_oy2d8UrY/maxresdefault.jpg,1280,720,"['blade and sorcery funny', 'blade and sorcery', 'blade and sorcery diner', 'blade and sorcery funny moments', 'funny vr', 'funny vr moments', 'maxamili vr', 'maxamili', 'maxamili funny vr']",9,23,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Entertainment']",Maxamili,361000,25219586,87,"I opened up a diner on the wrong side of town...
+
+If you enjoy my videos, please like and subscribe! :)
+
+Follow me on TikTok - tiktok.com/@maxamiliyt"
+83,NumxyYWqWOY,Boneworks - Drinkin' with Ford,30,4,0.0,0,2019-12-24,23:58:47,1,late_night,1238,56,1,0,6,1.05,hd,false,True,https://i.ytimg.com/vi/NumxyYWqWOY/maxresdefault.jpg,1280,720,"['Boneworks', 'boneworks meme', 'boneworks ford', 'boneworks funny', 'VR', 'funny VR', 'maxamili']",7,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,Had a few drinks with my buddy Ford
+84,cAWxtVN-kMA,MORTAL KOMBAT 11 RAP,20,4,0.75,0,2019-06-04,20:01:36,1,night,1008,58,1,0,6,1.0166666666666666,hd,false,False,https://i.ytimg.com/vi/cAWxtVN-kMA/maxresdefault.jpg,1280,720,"['Mortal Kombat 11', 'Mortal Kombat 11 rap', 'maxamili', 'maxamili impressions', 'maxamili rap', 'maxamili mortal kombat rap', 'mk11', 'mk11 rap', 'mortal kombat rap']",9,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game']",Maxamili,361000,25219586,87,Wrote a verse about beating people up in Mortal Kombat
+85,NZ7Buad_w00,The Dark Messiah Experience,27,4,0.0,0,2019-03-24,21:23:55,6,night,639,34,0,0,9,4.55,hd,false,True,https://i.ytimg.com/vi/NZ7Buad_w00/hqdefault.jpg,480,360,"['dark messiah', 'dark messiah might and magic', 'dark messiah funny moments', 'dark messiah montage', 'gaming', 'funny gaming montage', 'maxamili', 'maxamili impressions']",8,22,none,,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Maxamili,361000,25219586,87,My latest playthrough of the 2006 classic Dark Messiah Might and Magic condensed into 4 and a half minutes of memes

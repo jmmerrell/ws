@@ -1,0 +1,1397 @@
+,video_id,title,title_len,words,upper_pct,emoji_count,upload_date,upload_time,upload_day,upload_time_of_day,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,duration,definition,caption,licensedContent,thumbnail_url,thumbnail_w,thumbnail_h,tags,num_tags,categoryId,liveBroadcastContent,defaultAudioLanguage,topicCategories,channel,channel_subs,channel_views,channel_videos,desc
+0,MfgKw1swBC8,"""Bad Guy"" Sung by Bad Guy Impressions",37,7,0.0,0,2019-10-19,13:43:19,5,afternoon,15161424,462977,17347,0,22140,3.55,hd,false,True,https://i.ytimg.com/vi/MfgKw1swBC8/hqdefault.jpg,480,360,"['billie eilish', 'bad guy', 'music', 'pop', 'cartoons', 'cartoon network', 'disney', 'nickelodeon', 'daniel ferguson', 'voiceover', 'voice over', 'voice actor', 'voice impressions', 'animation', 'spongebob', 'peter pan', 'gravity falls', 'harry potter', 'fairly oddparents', 'powerpuff girls', 'animaniacs', 'lion king', 'adventure time', 'pokemon', 'star wars', 'joker', 'batman']",27,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"It's time for the villains to have their due!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Caitlyn
+Nicole
+
+Song: ""Bad Guy""
+Written by: Billie Eilish & Finneas O'Connell
+Owned by: Interscope Records
+New lyrics written by: Daniel Ferguson
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+1,DqzjKO-0WNE,"26 Impressions Sing ""Never Gonna Give You Up""",45,8,0.0,0,2020-07-05,11:00:12,6,afternoon,4497234,157075,4071,0,20322,3.6833333333333336,hd,false,False,https://i.ytimg.com/vi/DqzjKO-0WNE/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'family guy', 'never gonna give you up', 'rickrolling', 'rickroll', 'rick astley']",20,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Rickrolling: The meme that will never truly die.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene S
+Stephanus S
+Amy S
+Caitlyn F
+Jason K
+MichelleP
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/
+
+Song: Never Gonna Give You Up
+Artist: Rick Astley
+Written by: Stock Aitken Waterman
+Owned by: RCA Records"
+2,wajPTSHcQ84,How to Voice It: Donald Duck,28,6,0.0,0,2019-02-01,14:15:02,4,afternoon,964446,20769,634,0,1364,11.05,hd,false,True,https://i.ytimg.com/vi/wajPTSHcQ84/hqdefault.jpg,480,360,"['disney', 'donald duck', 'mickey mouse', 'goofy', 'spongebob', 'cartoon network', 'disney channel', 'voice acting', 'voice actor', 'voice over', 'moana', 'minnie mouse', 'ducktales', 'scrooge', 'disney xd', 'three caballeros']",16,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"I'm back with a new How to Voice It, featuring half of my parents! (i.e. MY DAD!). We will attempt to teach you how to do the Donald Duck voice.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+3,OeTgito43ac,"""Africa"" But It's 24 Disney Impressions",39,7,0.0,0,2018-09-14,14:15:00,4,afternoon,707140,20789,679,0,1315,4.75,hd,false,True,https://i.ytimg.com/vi/OeTgito43ac/maxresdefault.jpg,1280,720,"['africa', 'toto', 'meme', 'disney', 'phineas and ferb', 'mickey mouse', 'dreamworks', 'voice acting', 'mulan', 'tigger', 'winnie the pooh', 'wreck ir ralph', 'stitch', 'lady and the tramp', 'peter pan', 'disneyworld', 'disneyland', 'voiceover', 'frozen', 'olaf', 'alice in wonderland', 'pirates of the caribbean', 'johnny depp', 'jack sparrow', 'lion king', 'monsters inc', 'ducktales', 'goofy', 'jungle book', 'once upon a time']",30,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"I've a feeling we're not in Kansas anymore, Toto....
+Enjoy my take on one of the biggest memes and music legends!
+
+Please support the official release.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+4,fYSDysrCkMc,"22 Characters Sing ""All I Want for Christmas""",45,8,0.125,0,2018-12-21,15:00:02,4,afternoon,688810,21213,439,0,1434,3.9166666666666665,hd,false,True,https://i.ytimg.com/vi/fYSDysrCkMc/hqdefault.jpg,480,360,"['mariah carey', 'all i want for christmas is you', 'sesame street', 'gravity falls', 'ducktales', 'disney', 'fairly oddparents', 'dragon ball z', 'dragon ball super', 'dragon ball', 'animaniacs', 'cartoon network', 'transformers', 'muppets', 'regular show', 'family guy', 'nickelodeon', 'beauty and the beast', 'aladdin']",19,24,none,en,,Daniel Ferguson,269000,29702188,131,"Happy holidays to all of you! Enjoy one of my least favorite Christmas songs sung by some of my favorite character impressions! Someone has to do it, right?
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+Song: ""All I Want for Christmas Is You""
+Written by: Mariah Carey
+Owned by: Columbia Records"
+5,7r9U3Y7_SEA,How to Voice It: Peter Griffin,30,6,0.0,0,2018-06-29,13:00:01,4,afternoon,304979,9172,271,0,613,7.233333333333333,hd,false,True,https://i.ytimg.com/vi/7r9U3Y7_SEA/hqdefault.jpg,480,360,"['family guy', 'peter griffin', 'cleveland brown', 'stewie', 'stewie griffin', 'fox', 'tbs', 'adult swim', 'voice acting', 'voice over', 'seth macfarlane', 'frank sinatra', 'comedy', 'cartoon']",14,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"A new voice impressions series just for you!
+In this episode, I'll teach you how to do a Peter Griffin impression.
+Practice makes perfect!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+Five Card Shuffle by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100227
+Artist: http://incompetech.com/"
+6,R0D79c41BKg,Characters Rap Alphabet Aerobics,32,4,0.0,0,2018-03-10,12:00:01,5,afternoon,297799,8288,120,0,487,2.4166666666666665,hd,false,False,https://i.ytimg.com/vi/R0D79c41BKg/hqdefault.jpg,480,360,"['alphabet aerobics', 'gravity falls', 'disney', 'robin williams', 'nickelodeon', 'cartoon network', 'fairly oddparents', 'spongebob', 'voice acting', 'blackalicious', 'brizzy voices', 'mikey bolts', 'brian hull', 'adventure time', 'mario', 'animaniacs', 'singing', 'rap', 'simpsons', 'futurama', 'dragon ball z', 'dragon ball super', 'the incredibles', 'transformers', 'phineas and ferb', 'looney tunes', 'family guy', 'star wars', 'powerpuff girls']",29,24,none,en,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Hip_hop_music']",Daniel Ferguson,269000,29702188,131,"YOU try learning this rap while ALSO doing impressions!
+Enjoy 26 characters rapping ""Alphabet Aerobics!""
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Alphabet Aerobics""
+by Blackalicious
+Owned by Quannum Projects
+Cover by Daniel Ferguson"
+7,KuG_O-awyBk,Characters Read Reddit Stories,30,4,0.0,0,2019-08-09,15:53:44,4,afternoon,245179,5163,142,0,373,10.883333333333333,hd,false,True,https://i.ytimg.com/vi/KuG_O-awyBk/hqdefault.jpg,480,360,"['reddit', 'cartoon network', 'voice acting', 'voice over', 'voiceover', 'regular show', 'adventure time', 'finn', 'lumpy space princess', 'muscle man', 'ice king', 'tom kenny', 'spongebob', 'pops', 'jg quintel', 'pendleton ward', 'gravity falls', 'grunkle stan', 'alex hirsch', 'disney xd', 'disney', 'nickelodeon', 'cartoons', 'impressions']",24,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Ever imagined your favorite cartoon characters reading stories from Reddit? Well, now you don't have to! Check out the r/entitledparents subreddit for more stories like these!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+PATRONS:
+
+Jason
+Stephanus
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+8,O104IgoS8rQ,Sugar (Cover)-America's Got Talent (Judge Cuts),47,8,0.0,0,2017-08-08,18:20:45,1,night,216925,5756,59,0,614,2.4,hd,false,True,https://i.ytimg.com/vi/O104IgoS8rQ/hqdefault.jpg,480,360,"['Maroon 5', 'Sugar', 'adam levine', ""bobby's world"", 'family guy', 'monsters inc', 'simpsons', 'sean connery', 'sesame street', 'cookie monster', 'disney', 'donald duck', ""america's got talent"", 'agt', 'judge cuts', 'daniel ferguson', 'aladdin', 'gilbert gottfried']",18,24,none,en,,Daniel Ferguson,269000,29702188,131,"You asked for it, so I'm delivering! Here is my performance piece from my Judge Cuts episode of America's Got Talent. ENJOY!
+NOTE: I added the bridge with a few other characters since I thought the original was too short.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+I don't own anything...except my voice...and those sick posters in the background....oh, and my microphone!"
+9,VSEWYnSwXqk,"Muppets Sing ""Mad World""",24,4,0.0,0,2020-03-19,13:00:10,3,afternoon,143612,4176,54,0,382,3.6166666666666667,hd,false,True,https://i.ytimg.com/vi/VSEWYnSwXqk/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'muppets', 'sesame street', 'the muppets', 'mad world', 'memes', 'meme', 'gary jules', 'kermit', 'cookie monster', 'big bird', 'elmo']",26,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Am I a man, or am I a Muppet?
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Caitlyn
+Nicole
+
+Song: Mad World
+Written by: Roland Orzabal
+Owned by: Phonogram Inc. | Mercury Records
+Instrumentation by: Daniel Ferguson
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+10,YnZro9XcVj4,Harry Potter (Movies & Parodies) Impressions,44,5,0.0,0,2017-07-31,13:30:01,0,afternoon,140053,4428,99,0,513,7.533333333333333,hd,false,True,https://i.ytimg.com/vi/YnZro9XcVj4/hqdefault.jpg,480,360,"['harry potter', 'jacksfilms', 'potter puppet pals', 'oneyng', 'starkid', 'a very potter musical', 'AVPS', 'ron weasley', 'snape', 'alan rickman', 'emma watson', 'jk rowling', 'ravenclaw', 'hufflepuff', 'gryffindor', 'slytherin', 'tom felton', 'fantastic beasts', 'daniel radcliffe', 'eddie redmayne']",20,24,none,en,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Daniel Ferguson,269000,29702188,131,"Happy birthday to the literary genius, J.K. Rowling, and her iconic creation, Harry Potter. Enjoy this nice, long video of Harry Potter impressions from the movies and parodies.
+
+Inspired by Brizzy Voices' Harry Potter Impressions (film & fandom) video: https://www.youtube.com/watch?v=Lx1oXIv6Ks8
+
+Catch me again on America's Got Talent. Tuesday, August 1st @ 8/7c on NBC!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/"
+11,uYW3BSGEbjM,How to Voice It: Scooby-Doo,27,6,0.0,0,2019-11-30,12:00:12,5,afternoon,129548,4006,81,0,198,9.766666666666667,hd,false,True,https://i.ytimg.com/vi/uYW3BSGEbjM/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'scooby doo', 'scooby-doo', 'hanna barbera', 'jonny quest', 'don messick', 'frank welker', 'scoob', 'cyber chase', 'zombie island', 'kids next door']",25,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Learn how to do a Scooby-Doo impression if you want!
+We don't talk about Scott Menville...
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Caitlyn
+Jonathan
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+12,u7-d1aKlpZI,Father's Day Impressions,24,4,0.0,0,2017-06-17,12:33:18,5,afternoon,111487,3492,28,0,412,4.95,hd,false,True,https://i.ytimg.com/vi/u7-d1aKlpZI/hqdefault.jpg,480,360,"['fairly oddparents', 'spongebob', 'family guy', 'peter griffin', 'cartoon network', 'king of the hill', 'popeye', 'nickelodeon', 'star wars', 'harry potter', 'darth vader', 'jimmy neutron', 'disney', 'lion king']",14,24,none,en,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Daniel Ferguson,269000,29702188,131,"Happy Father's Day! Enjoy this impressions video all about famous, fictional dads in movies and T.V.!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/"
+13,mlpTIazqZDQ,Giving Voices to Your Characters,32,5,0.0,0,2019-10-31,19:59:09,3,night,110740,4982,54,0,517,12.0,hd,false,True,https://i.ytimg.com/vi/mlpTIazqZDQ/hqdefault.jpg,480,360,"['voice over', 'impressions', 'voiceover', 'voice actor', 'voice acting', 'cartoons', 'inktober', 'october', 'animation', 'drawing', 'sketch', 'draw', 'art', 'artist', 'artistic', 'cartoon network', 'nickelodeon']",17,20,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"I give voices to your original characters....that's it.
+
+FEATURED ARTISTS:
+
+Biola
+PumpkinFluffVA
+Lexi
+Cyrene
+Caitlyn
+CrosCreates
+Matthew
+Abby
+Tyler
+Jean Marc
+Cailin
+Anastasia
+Kylee
+Ren ren
+Agnes
+Preacher Lawson
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+14,0z0nfGukLFA,Impressions Sing the FRIENDS Theme Song,39,6,0.16666666666666666,0,2021-02-13,12:00:00,5,afternoon,84391,3507,50,0,251,4.533333333333333,hd,false,True,https://i.ytimg.com/vi/0z0nfGukLFA/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent""]",15,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"This video was sponsored by Skillshare. The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/danielferguson02211
+
+For all those who have been friend-zoned during Valentine's Day.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+Cyrene
+Stephanus
+Cody
+Caitlyn
+D.R.
+Nicole
+Jason
+Michelle
+Jenn
+Eric
+Kori
+Amber
+Jon
+Craig
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+15,nXm84REPkEg,39 Iconic Laughing Impressions,30,4,0.0,0,2020-09-05,14:55:09,5,afternoon,78435,4038,65,0,590,5.25,hd,false,True,https://i.ytimg.com/vi/nXm84REPkEg/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent""]",15,24,none,en,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Daniel Ferguson,269000,29702188,131,"I've never fake-laughed so much in my entire life.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene Schlüter
+Stephanus Surjaputra
+Caitlyn Ford
+Amy Smith
+D.R.
+MichelleP
+Jason K
+Nicole Balog
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+16,mwm7PkkLLAc,My Response-America's Got Talent-Judge Cuts,43,8,0.0,0,2017-08-02,00:42:18,2,late_night,74980,2109,31,0,769,7.883333333333333,hd,false,False,https://i.ytimg.com/vi/mwm7PkkLLAc/maxresdefault.jpg,1280,720,"[""America's Got Talent"", 'AGT', 'NBC']",3,24,none,en,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Daniel Ferguson,269000,29702188,131,DISCLAIMER: I tend to be dramatic.
+17,g3_47dbU9HU,"""Time Warp"" But It's Halloween Impressions",42,7,0.0,0,2018-10-26,14:00:05,4,afternoon,62882,2644,66,0,144,3.3166666666666664,hd,false,True,https://i.ytimg.com/vi/g3_47dbU9HU/maxresdefault.jpg,1280,720,"['halloween', 'happy halloween', 'time warp', 'rocky horror', 'rocky horror picture show', 'voice acting', 'voice over', 'monsters inc', 'monsters university', 'billy and mandy', 'potter puppet pals', 'nightmare before christmas', 'monsters', 'gravity falls', 'looney tunes', 'scooby doo', 'cartoon network', 'it', 'doctor who', 'supernatural', 'spongebob']",21,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Happy Halloween! Thank you to all the fans who submitted videos for this. Y'all are dancing fools!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+Song: ""Time Warp""
+Written by: Richard O'Brien & Richard Hartley
+Owned by: Ode Records"
+18,-VeMZymDQg0,Helium Impressions,18,2,0.0,0,2021-01-16,13:30:00,5,afternoon,43726,2364,24,0,205,8.666666666666666,hd,false,True,https://i.ytimg.com/vi/-VeMZymDQg0/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'family guy', 'how to train your dragon', 'kronk', ""emperor's new groove"", 'mickey mouse', 'donald duck', 'goofy', 'lord of the rings', 'dragon ball z', 'dragon ball']",25,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/danielferguson01211
+
+How high can I possibly go?
+
+This video was sponsored by Skillshare.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+Cyrene
+Stephanus
+Caitlyn
+Cody
+D.R.
+Nicole
+Jason
+MichelleP
+Jenn
+Eric
+Amber
+Jon
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+19,qHL1m3Pp9Ys,DuckTales Theme (Cover),23,3,0.0,0,2017-10-10,23:39:47,1,late_night,41187,1175,21,0,106,2.7666666666666666,hd,false,True,https://i.ytimg.com/vi/qHL1m3Pp9Ys/maxresdefault.jpg,1280,720,"['ducktales', 'donald duck', 'disney', 'mickey mouse', 'goofy', 'disneyland', 'disneyxd', 'indiana jones', 'music']",9,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"Solving mysteries and rewriting history. Enjoy this slightly-better-than-average DuckTales Theme Song Cover.
+
+DuckTales Theme: 
+Written by Mark Mueller
+Owned by the Walt Disney Company
+Composed and sung by me!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/"
+20,TcbcWzFr9BI,"""drivers license"" But It's Spongebob",36,6,0.0,0,2021-01-19,17:38:56,1,afternoon,39955,2158,31,0,164,0.9666666666666667,hd,false,True,https://i.ytimg.com/vi/TcbcWzFr9BI/maxresdefault.jpg,1280,720,"['ducktales', 'donald duck', 'disney', 'mickey mouse', 'goofy', 'disneyland', 'disneyxd', 'indiana jones', 'music']",9,24,none,en,,Daniel Ferguson,269000,29702188,131,"#shorts
+
+TikTok does not autocorrect, so I am not directly responsible for any spelling errors caused by my large fingers."
+21,18_suqSantc,Pokémon Theme - Spontaneous Song-pressions #1,45,6,0.0,0,2017-09-12,14:00:01,1,afternoon,37423,1718,12,0,173,5.3,hd,false,True,https://i.ytimg.com/vi/18_suqSantc/hqdefault.jpg,480,360,"['rick and morty', 'disney', 'lion king', 'mickey mouse', 'family guy', 'spongebob', 'looney tunes', 'cartoon network', 'warner brothers', 'batman', 'transformers', 'simpsons', 'voice acting']",13,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"If you think this is meant to sound good, you might be disappointed!
+A new version of an old video where songs and impressions are chosen at random. Enjoy!
+
+Huge thanks to Faniel Júlia for coming up with this brilliant idea!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+I own nothing...except my voice..."
+22,V0UaQopbcVM,"Spongebob Sings ""The Very First Christmas""",42,6,0.0,0,2020-12-25,09:00:08,4,morning,26095,1324,18,0,144,2.3166666666666664,hd,false,True,https://i.ytimg.com/vi/V0UaQopbcVM/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent""]",15,24,none,en,,Daniel Ferguson,269000,29702188,131,"Huge THANK YOU to RhymesWithParade for helping with the instrumentation!
+RhymesWithParade's Channel: https://www.youtube.com/user/CallMeMaiB
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+Cyrene
+Stephanus
+Caitlyn
+Cody
+D.R.
+Nicole
+Jason
+MichelleP
+Jenn
+Eric
+Amber
+Jon
+
+Song: ""The Very First Christmas""
+Owned by: Sony Music Entertainment
+Instruments/Vocals: Daniel Ferguson & RhymesWithParade
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+23,bV6K0lyvGIc,We Three Knights - A Star Wars Parody,37,7,0.14285714285714285,0,2019-12-24,14:53:35,1,afternoon,25029,928,10,0,75,4.283333333333333,hd,false,True,https://i.ytimg.com/vi/bV6K0lyvGIc/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'star wars', 'rise of skywalker', 'the last jedi', ""galaxy's edge"", 'disney world', 'disney land', 'return of the jedi', 'force awakens']",23,24,none,en,"['https://en.wikipedia.org/wiki/Christian_music', 'https://en.wikipedia.org/wiki/Music']",Daniel Ferguson,269000,29702188,131,"Happy holidays and a merry Star Wars to you!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Jonathan
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+24,qVaFz5y0FkM,Giving Voices to Your Characters #2,35,6,0.0,0,2020-10-31,12:24:34,5,afternoon,21385,1216,10,0,124,12.216666666666667,hd,false,True,https://i.ytimg.com/vi/qVaFz5y0FkM/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent""]",15,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Your drawing is my muse. VOctober is back for round 2!
+
+Become a patron: https://www.patreon.com/danieljferguson
+Make a one-time pledge: ko-fi.com/danieljferguson
+
+DRAWINGS BY:
+Stephanus
+Caitlyn (Rosie Arts: https://www.youtube.com/channel/UCXjvJoN39fHwJk-d0OBdNow)
+Cyrene
+Santana
+Ethan (https://www.instagram.com/pencilcasecomics/)
+Torben
+Eunick (YouNick: https://www.youtube.com/channel/UCbYKMPTQjZIk6JhA5TJkDRw/featured)
+Tyler (https://www.instagram.com/cronkillustrations/)
+Curoloo Sings (@generalgeeki0us)
+Emiliano
+Gil
+Lexzie (https://www.instagram.com/lonk_boi/)
+Victoria
+Izzy
+Maidie
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+Cyrene
+Stephanus 
+Caitlyn
+D.R.
+Nicole
+MichelleP
+Jason
+Jenn
+Eric
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+25,eFcehCMPUs0,thank you,9,2,0.0,0,2020-05-15,13:06:13,4,afternoon,18921,1317,15,0,188,4.966666666666667,hd,false,True,https://i.ytimg.com/vi/eFcehCMPUs0/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent""]",15,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"I did not cry while filming this. I just had something in my eye...
+
+DF Logo Pop Socket: https://www.amazon.com/dp/B0846MJLKN
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Amy
+Caitlyn
+Jason
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+26,8SjLT93GWDY,"""Home"" & ""I Will Wait"" - Mash-Up",32,6,0.16666666666666666,0,2017-07-23,19:26:07,6,night,18361,879,4,0,182,5.65,hd,false,True,https://i.ytimg.com/vi/8SjLT93GWDY/hqdefault.jpg,480,360,"['mumford & sons', 'mumford and sons', 'i will wait', 'home', 'mashup', 'phillip phillips', 'ukulele', 'music']",8,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"HEED THE DISCLAIMER!
+
+A mashup of ""Home"" by Phillip Phillips and ""I Will Wait"" by Mumford and Sons
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+*I do not own the rights to these songs.*
+
+""Home"" by Phillip Phillips - written by Greg Holden and Drew Pearson/owned by Interscope Records
+""I Will Wait"" by Mumford & Sons - written by Marcus Mumford/owned by Island Records"
+27,2oQxwsSIMrE,Being Silly and My Time with Simon Cowell (Q&A #3),50,11,0.18181818181818182,0,2017-07-11,22:21:36,1,night,18231,735,6,0,147,8.783333333333333,hd,false,True,https://i.ytimg.com/vi/2oQxwsSIMrE/hqdefault.jpg,480,360,"['cartoon network', 'steven universe', 'gravity falls', 'disney', 'harry potter', 'nickelodeon', 'avatar', 'voice acting', ""america's got talent"", 'adventure time']",10,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"I'm back to answer more of your deepest, most profound questions...or not!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/"
+28,yW-tTmrSSvk,Radioactive (#MusicMonday),26,2,0.0,0,2018-09-03,11:00:08,0,afternoon,18035,980,13,0,78,3.1166666666666667,hd,false,True,https://i.ytimg.com/vi/yW-tTmrSSvk/hqdefault.jpg,480,360,"['imagine dragons', 'radioactive', 'believer', 'thunder', 'rock', 'music', 'musicmonday', 'music monday', 'ukulele', 'singing', 'song cover', 'cover', 'indie', 'alternative', 'voice acting', 'voice over', 'bastille', 'electronic']",18,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"Imagine Dragons has always intimidated me...so here's a nice little ukulele cover of their famous single!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Radioactive""
+Written by Alexander Grant and Imagine Dragons
+Label: KIDinaKORNER/Interscope
+Cover by Daniel Ferguson"
+29,Iuprxko4PvU,"""Look What You Made Me Do"" (a Christmas Parody)",47,9,0.0,0,2017-12-25,00:03:49,0,late_night,17793,852,17,0,80,3.716666666666667,hd,false,False,https://i.ytimg.com/vi/Iuprxko4PvU/hqdefault.jpg,480,360,"['taylor swift', 'christmas', 'santa', 'santa claus', 'look what you made me do', 'christmas music', 'christmas songs', 'parody', 'winter']",9,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Merry Christmas and Happy Holidays! I'm back with a parody of Taylor Swift's recent single. Enjoy!
+
+Original song by Taylor Swift, MXM Studios, and Big Machine
+I OWN NOTHING!
+
+Roles:
+Santa Claus - Me!
+Santa Claus (dancing double) - My brother!
+Baby - My niece!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/"
+30,b1u7jcAFv9I,What Do I Look for in a Girl? | Q&A,35,10,0.3,0,2020-07-24,14:07:59,4,afternoon,17052,1215,10,0,221,19.95,hd,false,True,https://i.ytimg.com/vi/b1u7jcAFv9I/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent""]",15,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"So. Many. Questions.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene Schlüter
+Stephanus Surjaputra
+Caitlyn Ford
+Amy Smith
+D.R.
+MichelleP
+Jason K
+Nicole Balog
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/
+TikTok: @danieljferguson"
+31,IQYEz2Y5upY,Using Auto-Tune for My Impressions,34,6,0.0,0,2021-05-15,15:00:07,5,afternoon,15571,865,20,0,149,8.716666666666667,hd,false,True,https://i.ytimg.com/vi/IQYEz2Y5upY/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'autotune', 'never gonna give you up']",17,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/danielferguson05211
+
+This video was sponsored by Skillshare.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+Cyrene
+Stephanus 
+Jon M
+Cody
+Caitlyn
+D.R.
+Nicole
+MichelleP
+Jason
+Jenn
+Eric
+Kori
+Amber
+Craig
+Jon
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+32,60nuSPEpbgg,More Speech-Jammed Impressions,30,4,0.0,0,2021-04-10,12:00:02,5,afternoon,13951,701,9,0,96,8.9,hd,false,True,https://i.ytimg.com/vi/60nuSPEpbgg/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'family guy', 'animaniacs', 'lord of the rings', 'scooby doo']",19,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/danielferguson04211
+
+This video was sponsored by Skillshare.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+Cyrene
+Stephanus 
+Cody
+Caitlyn
+D.R.
+Nicole
+MichelleP
+Jason
+Jenn
+Eric
+Kori
+Amber
+Craig
+Jon
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+33,oCVzUtCt8oE,"Link's Awakening - Part 5: ""The Office"" or Don't Talk to Me",59,13,0.0,0,2020-01-04,17:00:05,5,afternoon,13199,280,14,0,37,32.78333333333333,hd,false,True,https://i.ytimg.com/vi/oCVzUtCt8oE/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', 'zelda', ""link's awakening"", 'nintendo', 'nintendo switch', 'mario', 'super mario', ""luigi's mansion""]",23,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"""I watch 'The Office' unironically.""
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Jonathan
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+34,pJKTxaGQMjw,Link's Awakening - Part 1: Dank's Awakening,43,8,0.0,0,2019-09-27,14:00:11,4,afternoon,12693,432,6,0,29,46.46666666666667,hd,false,True,https://i.ytimg.com/vi/pJKTxaGQMjw/hqdefault.jpg,480,360,"['legend of zelda', 'nintendo', 'zelda', 'link', 'adventure', 'gaming', 'video games', 'mario', 'super mario', 'super smash bros', 'switch', 'nintendo switch', 'gameboy', 'voiceover', 'voice over', 'voice actor', 'voice acting']",17,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"It's time to awaken...and realize your controller is broken. :\
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS:
+
+Cyrene
+Stephanus
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+35,tgcruKZuUBI,The Night Before Christmas - Narrated by Yoda,45,7,0.0,0,2018-12-25,00:28:43,1,late_night,12049,588,1,0,47,4.283333333333333,hd,false,True,https://i.ytimg.com/vi/tgcruKZuUBI/hqdefault.jpg,480,360,"['yoda', 'star wars', 'the night before christmas', 'christmas', 'holiday', 'winter', 'snow', 'disney', 'marvel', 'degobah', 'reindeer', 'santa claus', 'jedi', 'darth vader', 'anakin skywalker', 'han solo']",16,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Enjoy this classic Christmas tale, translated by everyone's favorite jolly, green Jedi.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+Deck the Halls by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100263"
+36,zRUU0ymtoOw,Soos and Grunkle Stan Play Super Mario Bros.,44,8,0.0,0,2021-03-12,15:00:12,4,afternoon,10934,588,8,0,66,10.25,hd,false,True,https://i.ytimg.com/vi/zRUU0ymtoOw/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'super mario bros', 'nintendo', 'legend of zelda', 'mario kart', 'super mario', 'mario', 'mario maker']",22,20,none,en,"['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/danielferguson03211
+
+Grunkle Stan has a conniption fit. 
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+Cyrene
+Stephanus 
+Cody
+Caitlyn
+D.R.
+Nicole
+MichelleP
+Jason
+Jenn
+Eric
+Kori
+Amber
+Craig
+Jon
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+37,bLONjR_EX9Q,"""Not All Heroes Wear Capes""",27,5,0.0,0,2019-06-16,10:04:51,6,morning,10605,446,6,0,36,3.8,hd,false,True,https://i.ytimg.com/vi/bLONjR_EX9Q/hqdefault.jpg,480,360,"['owl city', 'superman', 'fathers day', 'music', 'ukulele', 'voice over', 'voice actor', 'music video']",8,24,none,en,"['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Pop_music']",Daniel Ferguson,269000,29702188,131,"Happy Father's Day to all you dads and dad-figures out there! You are loved and appreciated!
+
+""Not All Heroes Wear Capes""
+Written by Adam Young
+Owned by Sky Harbor Studios
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+PATRONS:
+
+Jason Means
+Stephanus Surjaputra
+Riley Gray
+Caitlyn Ford
+Nicole Balog
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+38,fv7_TEnC1Xg,No More AGT! | Q&A,18,5,0.6,0,2019-08-30,14:00:11,4,afternoon,10294,459,5,0,70,12.566666666666666,hd,false,True,https://i.ytimg.com/vi/fv7_TEnC1Xg/maxresdefault.jpg,1280,720,"['cartoons', 'voiceover', 'agt', ""america's got talent"", 'cartoon network', 'nickelodeon', 'spongebob', 'the princess bride', 'adventure time', 'how to train your dragon', 'hiccup', 'cosplay', 'comic con', 'voice actor', 'voice impressions', 'impressions', 'voice acting', 'captain america', 'avengers', 'endgame']",20,20,none,en,['https://en.wikipedia.org/wiki/Video_game_culture'],Daniel Ferguson,269000,29702188,131,"After years of refusing to speak to his mother when he discovered the Tooth Fairy was a lie, Daniel calls her to make amends.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+PATRONS:
+
+Jason
+Cyrene
+Stephanus
+Caitlyn
+Nicole
+
+Business email for collabs and projects: danieljferguson.biz@gmail.com
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+39,AS840-tz8ho,I'm an Expert Gamer | Super Mario World,39,8,0.125,0,2019-09-20,14:00:00,4,afternoon,9877,266,6,0,24,32.583333333333336,hd,false,True,https://i.ytimg.com/vi/AS840-tz8ho/maxresdefault.jpg,1280,720,"['super mario world', 'super mario bros', 'super mario', 'mario bros', 'mario maker', 'mario maker 2', 'nintendo switch', 'legend of zelda', 'voice acting', 'voice over', 'voiceover', 'voice actor', 'link to the past', 'gaming', 'retro', 'yoshi', 'super smash bros']",17,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"I get a little emotional playing Super Mario World...
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS:
+
+Cyrene
+Stephanus
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+40,zzjQIKAT-Ts,Link's Awakening - Part 2: Dog Sitting,38,7,0.0,0,2019-10-26,11:00:13,5,afternoon,9735,278,5,0,21,30.85,hd,false,True,https://i.ytimg.com/vi/zzjQIKAT-Ts/hqdefault.jpg,480,360,"['legend of zelda', 'nintendo', 'zelda', 'link', 'adventure', 'gaming', 'video games', 'mario', 'super mario', 'super smash bros', 'switch', 'nintendo switch', 'gameboy', 'voiceover', 'voice over', 'voice actor', 'voice acting']",17,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"How much is that BowWow in the moblin cave?
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS:
+
+Cyrene
+Stephanus
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+41,YUQtebhA54U,"""Night of Silence""/""Silent Night""",33,5,0.0,0,2018-12-24,18:39:14,0,night,9114,315,3,0,31,4.333333333333333,hd,false,True,https://i.ytimg.com/vi/YUQtebhA54U/hqdefault.jpg,480,360,"['christmas', 'silent night', 'night of silence', 'holidays', 'musicmonday', 'christmas eve', 'music', 'voice acting', 'voiceover', 'band']",10,24,none,en,"['https://en.wikipedia.org/wiki/Christian_music', 'https://en.wikipedia.org/wiki/Music']",Daniel Ferguson,269000,29702188,131,"Just a lil' Christmas cover I did with some siblings. Merry Christmas and happy holidays!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Night of Silence""/""Silent Night""
+Written by Daniel Kantor, Joseph Mohr, and Franz Gruber
+Cover by The Fergusons"
+42,8alhqoKt_4I,Why Voice Acting,16,3,0.0,0,2017-07-01,11:00:03,5,afternoon,8971,455,3,0,82,7.783333333333333,hd,false,True,https://i.ytimg.com/vi/8alhqoKt_4I/hqdefault.jpg,480,360,"['voice acting', 'voice over', 'cartoons', 'spongebob', 'disney', 'cartoon network', 'nickelodeon', 'radio', 'advice']",9,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"The one question I've never been haunted by...until now!
+
+America's Got Talent performance: https://www.youtube.com/watch?v=IaAK0gEoJVk
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/"
+43,jbcSaXs_Y8Q,I'm Not a Gamer | Mario Maker 2,31,8,0.125,0,2019-08-17,11:30:00,5,afternoon,8367,297,6,0,29,58.583333333333336,hd,false,True,https://i.ytimg.com/vi/jbcSaXs_Y8Q/maxresdefault.jpg,1280,720,"['mario maker', 'mario maker 2', 'nintendo', ""let's play"", 'lets play', 'voiceover', 'voice actor', 'voice over', 'video games', 'rpg', 'legend of zelda', 'super mario', 'super mario bros', 'game grumps', 'markiplier', 'jacksepticeye']",16,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"Talking and playing video games at the same time is hard!
+(I ran into some sound issues, so no game audio this time.)
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+PATRONS:
+
+Jason
+Cyrene
+Stephanus
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+44,d6eNBN6ZT4E,"""Hallelujah"" (#MusicMonday)",27,2,0.0,0,2018-03-05,21:30:36,0,night,8341,574,4,0,107,3.95,hd,false,True,https://i.ytimg.com/vi/d6eNBN6ZT4E/hqdefault.jpg,480,360,"['hallelujah', 'jeff buckley', 'leonard cohen', 'rufus wainwright', 'shrek', 'dreamworks', 'music', 'musicmonday', 'ukulele', 'piano', 'singing', 'voice acting']",12,24,none,en,"['https://en.wikipedia.org/wiki/Christian_music', 'https://en.wikipedia.org/wiki/Music']",Daniel Ferguson,269000,29702188,131,"I'm trying to get comfortable improving and sharing my natural singing voice, so, as always, it's not going to sound amazing. Enjoy the first in what I hope will become a weekly thing: #MusicMonday!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Hallelujah""
+Written by Leonard Cohen
+Owned by Columbia Records
+I own ""nothing"""
+45,j3PkkNRFLFg,I Was a Stupid Kid | Voices #2,30,7,0.14285714285714285,0,2019-07-26,11:00:06,4,afternoon,8209,209,6,0,26,26.283333333333335,hd,false,True,https://i.ytimg.com/vi/j3PkkNRFLFg/hqdefault.jpg,480,360,"['stupid', 'voice acting', 'voice actor', 'podcast', 'cartoons', 'impressions', 'animals', 'nature', 'radio', 'jewelry', 'beanie babies', 'beanie baby', 'toys', 'voice over', 'adolescence', 'childhood', 'concussion', 'common sense']",18,24,none,en,,Daniel Ferguson,269000,29702188,131,"Update: That tree was not the cause of my stupidity. It only enhanced what was already there!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+PATRONS:
+
+Jason
+Stephanus
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+46,wJ_DcSl-PIA,Gollum Does My Makeup Tutorial,30,5,0.0,0,2019-06-14,13:32:02,4,afternoon,8105,371,11,0,36,4.433333333333334,hd,false,True,https://i.ytimg.com/vi/wJ_DcSl-PIA/maxresdefault.jpg,1280,720,"['lord of the rings', 'gollum', 'the hobbit', 'tolkien', 'middle earth', 'voiceover', 'voice over', 'voice actor', 'makeup', 'makeup tutorial', 'fantasy', 'science fiction', 'd&d', 'dungeons and dragons', 'dungeons & dragons', 'dnd', ""they're taking the hobbits to isengard""]",17,24,none,en,['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Daniel Ferguson,269000,29702188,131,"She's beauty. She's grace. She has orc blood on her face.
+
+Biggest thanks to my friend, Katie, for being my makeup stand-in. I'm sorry if this embarrasses you!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+PATRONS:
+
+Jason Means
+Stephanus Surjaputra
+Riley Gray
+Caitlyn Ford
+Nicole Balog
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+47,AsBkIaccsJs,Real-Life Pokémon Battle! | Patreon,35,5,0.0,0,2019-04-25,14:00:50,3,afternoon,7944,243,6,0,18,4.0,hd,false,True,https://i.ytimg.com/vi/AsBkIaccsJs/hqdefault.jpg,480,360,"['pokemon', 'patreon', 'voice acting', 'voice over', 'video games', 'gamer', 'stream', 'cartoons']",8,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Excited to announce my new Patreon page! If you want to support new and more consistent content, consider becoming a patron. The rewards are pretty neat!
+
+https://www.patreon.com/danieljferguson
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+48,Ix0c8FI11sQ,Lucky (#MusicMonday),20,2,0.0,0,2018-07-09,11:00:04,0,afternoon,7846,307,8,0,34,3.1,hd,false,True,https://i.ytimg.com/vi/Ix0c8FI11sQ/hqdefault.jpg,480,360,"['jason mraz', 'colbie caillat', 'lucky', ""i'm yours"", 'music', 'ukulele', 'voice acting', 'duet', 'harmony', 'melody', 'monday', ""i won't give up"", 'have it all']",13,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"This special #MusicMonday episode features one of my favorite Jason Mraz songs sung with my wonderfully-talented friend, Nicole! Enjoy! 
+
+Follow Nicole on Instagram: @nicole_m_sauter
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Lucky""
+Written by Jason Mraz & Colbie Caillat 
+Label: Atlantic
+Cover by Daniel & Nicole"
+49,UFCDqM9MJ78,Barrel Blast from the Past | Donkey Kong Country: Part 1,56,10,0.0,0,2020-08-15,13:57:52,5,afternoon,7719,302,4,0,56,53.96666666666667,hd,false,True,https://i.ytimg.com/vi/UFCDqM9MJ78/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', 'breath of the wild', 'donkey kong', 'nintendo', 'switch', 'super smash bros']",21,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"""When is your next impressions video?"" 
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene Schlüter
+Stephanus Surjaputra
+Caitlyn Ford
+Amy Smith
+D.R.
+MichelleP
+Jason K
+Nicole Balog
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+50,EB57G7agQLM,Things We Learn from Mothers,28,5,0.0,0,2018-05-13,11:24:20,6,afternoon,7660,432,7,0,45,2.966666666666667,hd,false,True,https://i.ytimg.com/vi/EB57G7agQLM/hqdefault.jpg,480,360,"[""mother's day"", 'mothers day', 'mothers', 'mom', 'mother', ""father's day"", 'holiday', 'voice acting', 'pets', 'animals', 'fedex', 'puberty', 'werewolf', 'werewolves', 'freckles', 'church', 'angels']",17,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Word out to all your mothers on Mother's Day! Take some time to appreciate everything that mothers, mother figures, and fathers who are also mothers do for us every day!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+Investigations by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100646
+Artist: http://incompetech.com/"
+51,Jbd8s6Bh5l8,"Losing ""Everything"" | Voices #1",31,4,0.0,0,2019-05-17,13:00:03,4,afternoon,7348,208,8,0,28,33.06666666666667,hd,false,True,https://i.ytimg.com/vi/Jbd8s6Bh5l8/hqdefault.jpg,480,360,"['voice acting', 'voice over', 'voice actor', 'podcast', 'cartoons', 'career', 'adulting', 'college', 'radio']",9,24,none,en,"['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",Daniel Ferguson,269000,29702188,131,"Is this a podcast? I'll let you decide! This episode, I discuss the difficulties of losing my job and how the experience has changed my perspective.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+PATRONS:
+
+Jason Means
+Stephanus Surjaputra
+Riley Gray
+Nicole Balog
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+52,VyuyQR0wwQI,Link's Awakening - Part 13: Face Reveal!,40,7,0.0,0,2020-05-09,11:00:09,5,afternoon,7233,242,4,0,23,24.7,hd,false,True,https://i.ytimg.com/vi/VyuyQR0wwQI/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', ""link's awakening"", 'links awakening', 'nintendo', 'zelda', 'mario', 'super mario', 'mario odyssey', 'mario kart', 'animal crossing', 'super smash bros', 'breath of the wild']",27,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"FABULOUS!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Amy
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+53,8iCpuDWEuMQ,Rolling in the Deep (#MusicMonday),34,5,0.0,0,2018-04-30,14:00:01,0,afternoon,7012,353,6,0,46,4.033333333333333,hd,false,True,https://i.ytimg.com/vi/8iCpuDWEuMQ/hqdefault.jpg,480,360,"['adele', 'rolling in the deep', 'musicmonday', 'music monday', 'music', 'ukulele', 'singing', 'voice acting', 'piano', 'hello', 'someone like you', 'cover', '#musicmonday', 'lionel richie']",14,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"This #MusicMonday, my sister and I are bringing you Adele! Enjoy my first collab with one of my top 3 favorite siblings!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Rolling in the Deep""
+Written by Adele
+Owned by Eastcote Studios
+Cover by The Fergusons"
+54,JV9XJxA1mJM,VOctober 2020 Live Stream,25,4,0.0,0,2020-10-31,12:31:57,5,afternoon,6983,341,6,0,32,0.6666666666666666,hd,false,True,https://i.ytimg.com/vi/JV9XJxA1mJM/maxresdefault.jpg,1280,720,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent""]",15,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"SUPPORT ME:
+https://www.patreon.com/danieljferguson
+https://ko-fi.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+55,w94jkbsxV6w,Amazing Grace (#MusicMonday),28,3,0.0,0,2018-05-28,12:08:29,0,afternoon,6927,438,1,0,75,4.7,hd,false,True,https://i.ytimg.com/vi/w94jkbsxV6w/hqdefault.jpg,480,360,"['amazing grace', 'my chains are gone', 'christian contemporary', 'praise and worship', 'memorial day', 'veterans day', 'armed forces', 'united states', 'united states of america', 'chris tomlin', 'american flag', 'american', 'christian music', 'music', 'christian', 'music monday']",16,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"This #MusicMonday is a tribute to all those who lost their lives while serving in the country's armed forces. We remember them today and every day.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Amazing Grace (My Chains Are Gone""
+Written by Chris Tomlin 
+Label: Sparrow Records/sixsteps
+Cover by Daniel Ferguson"
+56,daFumhXFPjw,Link's Awakening - Part 4: The Ol' Runaround,44,8,0.0,0,2019-12-08,12:00:13,6,afternoon,6852,176,3,0,19,44.25,hd,false,True,https://i.ytimg.com/vi/daFumhXFPjw/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', ""link's awakening"", 'links awakening', 'breath of the wild', 'zelda', 'nintendo', 'switch', 'wind waker', 'twilight princess']",24,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"It's like this game is trying to teach me that stealing is bad...
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Jonathan
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+57,lJG6Z_-OvJo,Q4U (Reverse Q&A),17,4,0.75,0,2017-08-22,11:00:04,1,afternoon,6793,437,5,0,123,4.833333333333333,hd,false,True,https://i.ytimg.com/vi/lJG6Z_-OvJo/maxresdefault.jpg,1280,720,"['question and answer', 'Q&A']",2,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Changing things up a little by asking all of YOU a question!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/"
+58,hKL17TMK_u8,New Year's Resolutions (Voices In My Closet),44,8,0.0,0,2017-12-31,06:00:06,6,morning,6470,268,12,0,54,27.333333333333332,hd,false,True,https://i.ytimg.com/vi/hKL17TMK_u8/hqdefault.jpg,480,360,"[""new year's"", 'podcast', '2017', '2018', ""new year's resolution"", 'radio', 'preacher lawson', ""america's got talent"", 'agt', 'comedy']",10,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Hey, this isn't an impressions video!
+Ep.#1: Welcome to the Closet of Fluctuating Lighting! Here I will be discussing a topic every week in an attempt to be more consistent with YouTube content. Let me know your thoughts on this podcast-style format!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+59,plg5H8NIwtE,My Secret AGT Audition Tapes?!,30,5,0.2,0,2021-06-19,11:00:35,5,afternoon,5402,410,4,0,57,12.333333333333334,hd,false,True,https://i.ytimg.com/vi/plg5H8NIwtE/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'simpsons']",16,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/danielferguson06211
+
+This video is sponsored by Skillshare.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+StarryNetwork
+Cyrene
+Stephanus 
+Jon M
+Cody
+Eric
+Caitlyn
+D.R.
+Nicole
+Abel
+MichelleP
+Jason
+Jenn
+Kori
+Amber
+Jon
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+60,0hh7tUjVGq8,"Harry Potter, AGT, and My Eyebrows! (Q&A #4)",44,9,0.3333333333333333,0,2018-08-10,13:00:01,4,afternoon,5245,265,5,0,60,13.216666666666667,hd,false,True,https://i.ytimg.com/vi/0hh7tUjVGq8/hqdefault.jpg,480,360,"['gravity falls', 'fairly oddparents', ""america's got talent"", 'americas got talent', 'agt', 'voice acting', 'star vs the forces of evil', 'cartoons', 'food', 'the lion king', 'disney', 'kansas', 'young rising sons', 'music', 'voice over', 'legend of zelda', 'spyro', 'crash bandicoot']",18,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Everyone submitted such great questions, so enjoy this longer-than-usual Q&A video! Learn all there is to know about me! I will be quizzing you on this later...
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/"
+61,nM5RTAHztds,Playing Slender for the First Time,34,6,0.0,0,2018-10-31,22:12:00,2,night,5081,280,3,0,50,13.6,hd,false,True,https://i.ytimg.com/vi/nM5RTAHztds/hqdefault.jpg,480,360,"['slender', 'gaming', 'gamer', 'slender the arrival', 'scary', 'horror']",6,24,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"There's a reason why I'm not a gamer.
+Actually, several reasons.
+Happy Halloween!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+62,sd_Sq9PIuNw,"""Are You Ready"" & ""Learning To Fly"" Mash-Up",43,8,0.0,0,2019-02-22,14:00:04,4,afternoon,5032,200,7,0,54,5.766666666666667,hd,false,True,https://i.ytimg.com/vi/sd_Sq9PIuNw/hqdefault.jpg,480,360,"['tom petty', 'hills x hills', 'ukulele', 'bongos', 'how to train your dragon', 'dreamworks', 'how to train your dragon 2', 'how to train your dragon: the hidden world', 'the hidden world', 'shrek', 'distant cousins', 'fly']",12,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"Haven't done one of these in a while! Have a listen to this mashup of ""Are You Ready"" (Distant Cousins) and ""Learning To Fly"" (Tom Petty / Hills x Hills), both featured in the How To Train Your Dragon: The Hidden World trailers.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Are You Ready (On Your Own)"" by Distant Cousins - written by Dov Rosenblatt, Duvid Swirsky, and Ami Kozak / Owned by Distant Cousins
+
+""Learning To Fly"" by Tom Petty and the Heartbreakers - written by Tom Petty and Jeff Lynne / Owned by MCA"
+63,rkeapYmJrVU,Reacting to Photos from Halloweens Past,39,6,0.0,0,2017-10-30,20:48:47,0,night,4953,294,5,0,79,8.733333333333333,hd,false,True,https://i.ytimg.com/vi/rkeapYmJrVU/hqdefault.jpg,480,360,"['halloween', 'how to train your dragon', 'bats', 'supernatural', 'jensen ackles', 'harry potter', 'ron weasley', 'fantastic beasts', 'waldo', 'dragon ball', 'dragon ball z', 'dragon ball super', 'costume', 'cosplay']",14,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"It's Halloween, and you get to see my stupid face reacting to old pictures of my stupid face. Enjoy!
+
+(I don't dislike my family and friends, I just blocked out their faces to respect their privacy!)
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/mrgingersnap/
+Blogger: http://gingersnap-vo.blogspot.com/"
+64,bCRrqE8o47Q,Reacting to Old Videos (5 Years on YouTube),43,8,0.0,0,2019-03-29,14:00:03,4,afternoon,4836,289,2,0,43,13.533333333333333,hd,false,True,https://i.ytimg.com/vi/bCRrqE8o47Q/hqdefault.jpg,480,360,"['disney', 'dragon ball z', 'dbz', 'dbz abridged', 'dragon ball z abridged', 'dragon ball', 'dragon ball super', 'team four star', 'video games', 'legend of zelda', 'sonic the hedgehog', 'sonic', 'mario', 'super mario', 'luigi', 'mario kart', 'spyro', 'breath of the wild', 'ocarina of time', 'peter pan', 'monsters inc', 'mickey mouse', 'pirates of the caribbean', 'beauty and the beast', 'tangled', 'frozen']",26,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Time flies when you're trying to make it big on the Internet! Join me as I reminisce about my last 5 years on YouTube by watching my first 3 impressions videos.
+
+DBZ Impressions: https://www.youtube.com/watch?v=YJr6h29_JQg
+Disney Impressions: https://www.youtube.com/watch?v=9MkJt7i_zNA
+Video Game Impressions: https://www.youtube.com/watch?v=EVGnY3tnvGQ
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+65,RLG4E7yf3FI,A Birthday Intervention | Sketch,32,4,0.25,0,2020-12-12,10:00:11,5,morning,4771,429,11,0,61,5.916666666666667,hd,false,True,https://i.ytimg.com/vi/RLG4E7yf3FI/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent""]",15,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/danielferguson12201
+
+This video was sponsored by Skillshare.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+Cyrene
+Stephanus
+Caitlyn
+D.R.
+Nicole
+Jason
+MichelleP
+Jenn
+Eric
+Amber
+Jon
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+66,A0gTrpU0L6o,Superheroes!,12,1,0.0,0,2018-04-28,14:39:03,5,afternoon,4448,159,12,0,31,16.25,hd,false,True,https://i.ytimg.com/vi/A0gTrpU0L6o/hqdefault.jpg,480,360,"['podcast', 'radio', 'superheroes', 'superhero', 'superman', 'comic book', 'comics', 'marvel', 'dc', 'action', 'adventure', 'batman', 'wonder woman', 'avengers', 'infinity war', 'black panther', 'captain america', 'captain marvel', 'black widow', 'the flash', 'iron man', 'ironman', 'spider-man', 'spiderman', 'spider man', 'robert downey jr', 'tony stark', 'winter soldier', 'thanos', 'infinity stones', 'infinity gauntlet', 'marvel cinematic universe', 'thor', 'stan lee', 'the great depression', 'guardians of the galaxy', 'groot', 'wolverine', 'x-men', 'deadpool', 'ragnarok']",41,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"They may be fictional, but comic book superheroes have had an immense impact on society and have even affected people on a personal level. Who are your favorite superheroes?
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+67,g-dSvb-QOX0,All About America's Got Talent (Voices In My Closet),52,10,0.0,0,2018-02-20,10:00:04,1,morning,4315,187,3,0,27,21.633333333333333,hd,false,True,https://i.ytimg.com/vi/g-dSvb-QOX0/hqdefault.jpg,480,360,"['radio', 'podcast', 'voice acting', ""america's got talent"", 'daniel ferguson', 'simon cowell', 'nbc', 'agt', 'howie mandel', 'mel b', 'heidi klum', 'talent', 'voice impressions', 'vimc']",14,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"I clear up some very common assumptions and misconceptions about America's Got Talent to give you a better appreciation for the show. Will you be tuning in for Season 13?
+
+AGT Season 12 Original Audition: https://www.youtube.com/watch?v=nzY2lA7LBZM
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+68,p-gnHlcFgPI,Danny Boy (#MusicMonday),24,3,0.0,0,2018-03-12,21:13:08,0,night,4274,259,5,0,56,3.35,hd,false,True,https://i.ytimg.com/vi/p-gnHlcFgPI/hqdefault.jpg,480,360,"['music', 'ukulele', 'ireland', 'danny boy', 'irish', ""st. patrick's day"", 'st patricks day', ""st paddy's day"", 'holiday', 'music monday']",10,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"Happy St. Patrick's Day! I was a bit short on time, so this might seem rushed, but I wanted to get this out today. A nice traditional Irish song just in time for St. Paddy's Day. Enjoy, maybe?
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Danny Boy""
+Lyrics by Frederic Weatherly
+Cover by Daniel Ferguson
+*This song is part of the public domain*"
+69,mu-Lsq-efoI,Link's Awakening - Part 3: Genie in a Bottle,44,9,0.0,0,2019-11-23,12:00:07,5,afternoon,4262,128,3,0,19,44.55,hd,false,True,https://i.ytimg.com/vi/mu-Lsq-efoI/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', ""link's awakening"", 'links awakening', 'breath of the wild', 'zelda', 'nintendo', 'switch', 'wind waker', 'twilight princess']",24,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"Channeling Christina Aguilera.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Jonathan
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+70,IohDBApMXmc,The BEST ASMR Experience,24,4,0.5,0,2018-04-01,09:00:02,6,morning,4187,202,14,0,56,8.95,hd,false,True,https://i.ytimg.com/vi/IohDBApMXmc/hqdefault.jpg,480,360,"['asmr', 'sensory', 'parody', 'april fools', 'april fools day', 'voice acting', 'dragon ball', 'paint', 'water', 'stimulate', 'stimulation', 'sensitive', 'tingly', 'headphones']",14,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"I think I've found my new calling...
+
+Also, April Fools!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+71,Fc-yBVwOec0,Link's Awakening - Part 7: YouTube Is Law,41,8,0.0,0,2020-04-14,11:00:08,1,afternoon,3842,111,4,0,12,49.766666666666666,hd,false,True,https://i.ytimg.com/vi/Fc-yBVwOec0/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", ""link's awakening"", 'legend of zelda', 'nintendo', 'skyward sword', 'super mario', 'mario odyssey', 'pokemon', 'animal crossing']",23,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"Beat the system! Fight the man!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Amy
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+72,5rPnn805bQY,Link's Awakening - Part 12: I Like Turtles,42,8,0.125,0,2020-05-07,11:00:05,3,afternoon,3709,105,3,0,12,55.083333333333336,hd,false,True,https://i.ytimg.com/vi/5rPnn805bQY/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', ""link's awakening"", 'links awakening', 'zelda', 'super mario', 'nintendo', 'mario odyssey', 'animal crossing', 'mario', 'mario kart', 'pokemon', 'teenage mutant ninja turtles']",27,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"I love being a turtle!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Amy
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+73,gTsSdY_d1dg,Link's Awakening - Part 11: Nice Rooster!,41,7,0.0,0,2020-04-22,12:00:31,2,afternoon,3487,123,4,0,14,46.516666666666666,hd,false,True,https://i.ytimg.com/vi/gTsSdY_d1dg/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", ""link's awakening"", 'legend of zelda', 'super mario', 'mario odyssey', 'mario party', 'mario kart', 'animal crossing', 'nintendo', 'links awakening']",24,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"Destruction of private property? Yes, please!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Jonathan
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+74,zagxVfBGmmU,Spongebob Characters Read Reddit Stories,40,5,0.0,0,2021-07-12,14:22:57,0,afternoon,2791,300,4,0,38,9.533333333333333,hd,false,True,https://i.ytimg.com/vi/zagxVfBGmmU/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'reddit', 'malicious compliance', 'maliciouscompliance', 'entitled parents', 'choosing beggars']",20,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"The first 1,000 people to use this link will get a 1-month free trial of Skillshare: https://skl.sh/danielferguson07211
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Anthony
+StarryNetwork
+Cyrene
+Stephanus 
+Jon M
+Cody
+Eric
+Caitlyn
+D.R.
+Abel
+Nicole
+MichelleP
+Jenn
+Kori
+Amber
+Jon
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+TikTok: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+75,ofd00f-_hGQ,College Years (Voices In My Closet),35,6,0.0,0,2018-05-26,14:38:49,5,afternoon,2672,84,0,0,17,15.2,hd,false,True,https://i.ytimg.com/vi/ofd00f-_hGQ/hqdefault.jpg,480,360,"['radio', 'podcast', 'voice acting', 'college', 'kent state', 'ksu', 'kent state university', 'michael keaton', 'communication', 'social media', 'facebook', 'newman', 'newman center', 'catholic', 'catholicism', 'religion', 'video', 'audio', 'movies', 'film', 'television']",21,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Some people say high school is some of the best years of your life, but those people probably didn't go to college!
+
+Due to camera issues, this episode is audio-only. Enjoy! 
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+76,onkIHVrJV_E,Celebrity Encounters (Voices In My Closet),42,6,0.0,0,2018-03-04,22:00:37,6,night,2635,136,3,0,25,19.2,hd,false,True,https://i.ytimg.com/vi/onkIHVrJV_E/hqdefault.jpg,480,360,"['brizzy voices', 'voice acting', 'hugh jackman', 'greatest showman', 'daniel radcliffe', 'emma watson', 'harry potter', 'rupert grint', 'doug jones', 'shape of water', 'tyra banks', 'americas got talent', 'xmen', 'wolverine', 'les miserables', 'podcast', 'looney tunes', 'porky pig', 'oscars', 'movies', 'daisy ridley', 'star wars', 'doctor who', 'karen gillan', 'guardians of the galaxy']",25,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"It's time for the Oscars, and I share my own encounters with famous people! What are your celebrity stories?
+
+Brizzy Voices - One Million Voices: https://www.youtube.com/watch?v=tI_klcS90yw
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+77,0HNQwJHfSI8,Editing Videos: Behind the Scenes,33,5,0.0,0,2019-04-01,14:57:55,0,afternoon,2464,103,10,0,28,8.75,hd,false,True,https://i.ytimg.com/vi/0HNQwJHfSI8/hqdefault.jpg,480,360,"['voice actor', 'voice over', 'videography', 'editing', 'audio', 'video', 'april fools', '2019', 'food', 'canon', 'cartoons', 'cartoon network', 'disney', 'nickelodeon', 'spongebob', 'adventure time', 'steven universe']",17,24,none,en,,Daniel Ferguson,269000,29702188,131,"Ever wonder how much effort goes into editing YouTube videos? Today, I give you just a small glimpse of the process.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+78,yrN0Nh8iGaU,"Obsessions, Fears, & Phobias (Voices In My Closet)",50,7,0.0,0,2018-01-07,06:00:07,6,morning,2450,158,6,0,55,17.566666666666666,hd,false,True,https://i.ytimg.com/vi/yrN0Nh8iGaU/hqdefault.jpg,480,360,"['podcast', 'radio', 'fears', 'phobias', ""america's got talent"", 'agt', 'planes', 'california', 'los angeles', 'monk', 'randy newman']",11,24,none,en,,Daniel Ferguson,269000,29702188,131,"Ep.#2: This week in the Closet of Fluctuating Lighting, I delve deep into my obsessive tendencies, my fears, and my phobias. Be sure to leave some feedback on how I can make this show better!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+79,OA51UoC5Stc,High School (Voices In My Closet),33,6,0.0,0,2018-05-05,11:00:06,5,afternoon,2448,127,2,0,20,23.283333333333335,hd,false,True,https://i.ytimg.com/vi/OA51UoC5Stc/hqdefault.jpg,480,360,"['high school', 'high school musical', 'choir', 'music', 'band', 'signing', 'speech', 'speech and debate', 'english', 'extracurricular', 'podcast', 'radio', 'voice acting', 'voice over']",14,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"High school is never quite like the musical. Find out how I managed to survive what people call ""the best years of our lives.""
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+80,TG2sR7Icwx8,My FIRST Unboxing Video! (Canon Rebel SL2),42,7,0.2857142857142857,0,2018-08-28,14:00:03,1,afternoon,2410,116,1,0,23,4.366666666666666,hd,false,True,https://i.ytimg.com/vi/TG2sR7Icwx8/maxresdefault.jpg,1280,720,"['camera', 'homestar runner', 'strong bad', 'teen girl squad', 'strongbad', 'homestarrunner', 'gravity falls', 'matt chapman', 'canon', 'canon rebel t3i', 'canon rebel sl2', 'canon sl2', 'canon t3i', 'voice acting', 'voice over']",15,24,none,en,"['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Daniel Ferguson,269000,29702188,131,"I'd like to introduce to you the newest addition to my recording equipment bag: The Canon Rebel SL2!
+
+Amazon: https://www.amazon.com/Canon-Rebel-DSLR-Camera-18-55mm/dp/B071K62DPN
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+81,DCrATkxJtMM,Link's Awakening - Part 10: SEASHELLS!,38,6,0.16666666666666666,0,2020-04-17,13:11:50,4,afternoon,2261,81,1,0,15,43.8,hd,false,True,https://i.ytimg.com/vi/DCrATkxJtMM/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', ""link's awakening"", 'links awakening', 'nintendo', 'super mario', 'mario odyssey', 'animal crossing', 'mario kart']",23,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"My album drops next Sursday.
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Jonathan
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+82,zGwuM7_KFYQ,Romantic Flight (#MusicMonday),30,3,0.0,0,2018-04-16,11:00:12,0,afternoon,2235,134,1,0,31,2.2333333333333334,hd,false,True,https://i.ytimg.com/vi/zGwuM7_KFYQ/hqdefault.jpg,480,360,"['how to train your dragon', 'httyd', 'how to train your dragon 2', 'how to train your dragon 3', 'httyd2', 'romantic flight', 'john powell', 'dreamworks', 'shrek', 'hans zimmer', 'kung fu panda', 'music', 'piano', 'music monday', 'piano man', 'orchestra', 'soundtrack', 'john williams', 'dragons']",19,24,none,en,['https://en.wikipedia.org/wiki/Music'],Daniel Ferguson,269000,29702188,131,"A personal favorite score by a personal favorite composer from a personal favorite movie!
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/
+
+""Romantic Flight""
+Composed by John Powell
+Label: Varèse Sarabande
+From How To Train Your Dragon
+Cover by Daniel Ferguson"
+83,R_DnA84PgVI,Bullying Experiences (Voices In My Closet),42,6,0.0,0,2018-01-15,00:00:03,0,late_night,2221,161,0,0,40,24.016666666666666,hd,false,True,https://i.ytimg.com/vi/R_DnA84PgVI/hqdefault.jpg,480,360,"['bullying', 'podcast', 'radio', 'voice acting', 'daniel ferguson', 'childhood', 'cyberbullying', 'online', 'school', 'elementary school']",10,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"This week I take a sensitive topic that resonates strongly with me: Bullying. **PLEASE DO NOT TAKE ANY OF MY SUGGESTIONS AS EXPERT ADVICE** I'm just offering some insight based on my own experiences.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+84,CB6KvLWAwU4,Pranks! (Voices In My Closet),29,5,0.0,0,2018-03-31,17:17:16,5,afternoon,2164,111,4,0,15,15.233333333333333,hd,false,True,https://i.ytimg.com/vi/CB6KvLWAwU4/hqdefault.jpg,480,360,"['April Fools', 'April Fools Day', 'pranks', 'prank vs prank', 'rickroll', 'rickrolling', 'rick astley', 'hipster', 'radio', 'podcast', 'vimc', 'voice acting', 'glitter bomb', 'ship your enemies glitter']",14,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"It's April Fools, and I'm relaying the best prank I've ever fallen victim to. Whether you're the prankster or the prankee, I'm sure you'll appreciate this.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+85,DycZIHkAR3s,Pet Peeves (Voices In My Closet),32,6,0.0,0,2018-04-14,11:00:03,5,afternoon,2148,108,2,0,30,22.3,hd,false,True,https://i.ytimg.com/vi/DycZIHkAR3s/hqdefault.jpg,480,360,"['pet peeves', 'podcast', 'radio', 'food', 'music', 'biking', 'recreation', 'travel', 'grinds my gears']",9,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"You know what really grinds my gears? Pet peeves! I am so sorry if I offend any of you in this video. Except you, Dale. I don't care for you...
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+86,ksp-kx7rMxg,Link's Awakening - Part 6: Life of Crime,40,8,0.0,0,2020-04-13,11:00:20,0,afternoon,2131,98,1,0,21,42.05,hd,false,True,https://i.ytimg.com/vi/ksp-kx7rMxg/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', ""link's awakening"", 'links awakening', 'zelda', 'nintendo', 'super mario', 'mario galaxy', 'mario party', 'breath of the wild']",24,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"With the economy these days, who wouldn't resort to crime?
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Amy
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+87,lMczwDSykBg,Work History (Voices In My Closet),34,6,0.0,0,2018-01-21,12:17:44,6,afternoon,2087,132,2,0,32,21.016666666666666,hd,false,True,https://i.ytimg.com/vi/lMczwDSykBg/hqdefault.jpg,480,360,"['work', 'jobs', 'workplace', 'mcdonalds', 'fast food', 'talent', 'voice acting', 'school', 'employment', 'iheartradio', 'iheartmedia', 'marketing', 'advertising', 'radio', 'podcast', 'acting', 'modeling', 'college', 'university']",19,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"This week is all about the thrills of WORK! Exciting right? Maybe not, but I decided to reflect on how I've developed through many odd jobs in my life.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+88,YJbuHwW5x8Y,Link's Awakening - Part 8: A Night at the Symphony,50,10,0.1,0,2020-04-15,11:00:16,2,afternoon,1874,75,1,0,14,53.65,hd,false,True,https://i.ytimg.com/vi/YJbuHwW5x8Y/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'zelda', ""link's awakening"", 'links awakening', 'legend of zelda', 'breath of the wild', 'ocarina of time', 'animal crossing', 'super mario', 'mario odyssey', 'mario kart', 'nintendo']",26,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Puzzle_video_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"Do you like Zelda? Do you like the symphony? Now you can have both!
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Amy
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+89,HdHQ7lBZySQ,Link's Awakening - Part 9: Frisky Fairy,39,7,0.0,0,2020-04-16,11:00:15,3,afternoon,1672,63,1,0,14,42.03333333333333,hd,false,True,https://i.ytimg.com/vi/HdHQ7lBZySQ/hqdefault.jpg,480,360,"['voice acting', 'voice impressions', 'cartoons', 'voice over', 'voiceover', 'voice actor', 'cartoon network', 'impressions', 'impersonations', 'nickelodeon', 'spongebob', 'adventure time', 'disney', 'agt', ""america's got talent"", 'legend of zelda', 'links awakening', ""link's awakening"", 'super mario', 'mario odyssey', 'mario kart', 'animal crossing', 'nintendo']",23,20,none,en,"['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Role-playing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",Daniel Ferguson,269000,29702188,131,"Where did these new clothes come from?
+
+Become a patron: https://www.patreon.com/danieljferguson
+
+THANK YOU TO MY PATRONS!
+
+Cyrene
+Stephanus 
+Amy
+Caitlyn
+Nicole
+
+Follow me on the stuff!
+Twitter: @danieljferguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/ 
+Blogger: http://gingersnap-vo.blogspot.com/"
+90,KCfX0m8Yjlc,The Future of My Channel (Voices In My Closet),46,9,0.0,0,2018-03-24,14:00:01,5,afternoon,1478,96,1,0,23,19.533333333333335,hd,false,True,https://i.ytimg.com/vi/KCfX0m8Yjlc/hqdefault.jpg,480,360,"['future', 'time travel', 'doctor who', 'youtube', 'voice acting', 'stand up comedy', 'comedian', 'podcast', 'radio', 'comedy', 'voice impressions', 'patreon', 'music', 'music monday', 'dragon ball z', 'dragon ball z abridged', 'brian hull', 'frozen', 'let it go', 'what a wonderful world', 'canon', 'disney', 'steven universe', 'brizzy voices', 'film', 'movies', 'acting']",27,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"It's been 4 years since I got my start on YouTube...so what's next??
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+91,3u8taNaOvwM,Valentine's Day: Good or Bad? (Voices In My Closet),51,10,0.0,0,2018-02-12,12:00:01,0,afternoon,1319,71,1,0,26,14.466666666666667,hd,false,True,https://i.ytimg.com/vi/3u8taNaOvwM/hqdefault.jpg,480,360,"[""Valentine's Day"", 'Valentines', 'Valentines day', 'love', 'lovers', 'in love', 'relationships', 'dating', 'boyfriend', 'girlfriend', 'candy', 'chocolate', 'serenade', 'advice', 'holiday', 'saint valentine', 'movies', 'flowers', 'single', 'couple', 'relationship']",21,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Not sure if Valentine's Day discussion or secretly seeking relationship advice. Enjoy this week's episode as I go through some reasons why people might like/dislike Valentine's Day.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+92,ZiCnqNgIFQw,Lessons In Music (Voices In My Closet),38,7,0.0,0,2018-01-28,12:00:02,6,afternoon,1250,91,2,0,22,21.866666666666667,hd,false,True,https://i.ytimg.com/vi/ZiCnqNgIFQw/hqdefault.jpg,480,360,"['music', 'piano', 'ukulele', 'childhood', 'choir', 'singing', 'drama', 'drama club', 'west side story', 'broadway', 'grease', 'musical']",12,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"If you were one of those people who was forced to play an instrument as a kid, you weren't alone! But some good has come out of it in my case. I take a trip down memory lane to talk about how music has changed my life.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+93,TB8WZ1y8dOc,Ups and Downs of Moving (Voices In My Closet),45,9,0.0,0,2018-02-28,12:00:02,2,afternoon,1193,60,2,0,13,19.933333333333334,hd,false,True,https://i.ytimg.com/vi/TB8WZ1y8dOc/hqdefault.jpg,480,360,"['podcast', 'moving', 'work', 'voice acting', 'travel', 'airplanes', 'country', 'united states']",8,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Moving to a new place can be difficult, and I'm delivering my thoughts on the matter based off my own personal experiences. Do you have any moving away stories?
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+94,l5En9Jy1N-M,"""Wonderful"" World of Sports (Voice In My Closet)",48,8,0.0,0,2018-02-07,12:00:05,2,afternoon,1068,55,0,0,28,19.95,hd,false,True,https://i.ytimg.com/vi/l5En9Jy1N-M/hqdefault.jpg,480,360,"['sports', 'football', 'soccer', 'rugby', 'tennis', 'basketball', 'baseball', 'childhood', 'espn', 'sportscenter', 'super bowl', 'superbowl', 'little league', 'world cup', 'championship', 'voice acting', 'podcast', 'radio']",18,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"Maybe you're a sports person. Maybe your not. I try to bring both parties together when I discuss my love-hate relationship with sports.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
+95,ccsFa-iwISk,My Creative Flow (Voices In My Closet),38,7,0.0,0,2018-03-17,10:05:16,5,morning,1067,74,5,0,17,20.133333333333333,hd,false,True,https://i.ytimg.com/vi/ccsFa-iwISk/hqdefault.jpg,480,360,"['creativity', 'radio', 'video editing', 'music', 'debate team', 'legos', 'building', 'audio editing', 'podcast', 'voices in my closet']",10,24,none,en,['https://en.wikipedia.org/wiki/Entertainment'],Daniel Ferguson,269000,29702188,131,"I love being creative and making stuff. I've been that way my entire life. This week, I talk about how my creativity has evolved.
+
+Follow me on the stuff!
+Twitter: @DanielJFerguson
+Instagram: @danieljferguson
+Facebook: https://www.facebook.com/dan.j.ferguson/
+Blogger: http://gingersnap-vo.blogspot.com/"
