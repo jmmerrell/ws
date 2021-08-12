@@ -78,7 +78,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      16 min read
+      15 min read
     
 </span></p>
 
@@ -191,6 +191,7 @@ window.onload = wrap_img;
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
+<span class="n">os</span><span class="o">.</span><span class="n">chdir</span><span class="p">(</span><span class="s2">"C:</span><span class="se">\\</span><span class="s2">Users</span><span class="se">\\</span><span class="s2">merre</span><span class="se">\\</span><span class="s2">Desktop</span><span class="se">\\</span><span class="s2">envs</span><span class="se">\\</span><span class="s2">yt_api_env</span><span class="se">\\</span><span class="s2">Lib</span><span class="se">\\</span><span class="s2">site-packages"</span><span class="p">)</span>
 <span class="kn">from</span> <span class="nn">numpy.core.fromnumeric</span> <span class="kn">import</span> <span class="n">shape</span>
 <span class="kn">from</span> <span class="nn">numpy.lib.function_base</span> <span class="kn">import</span> <span class="n">diff</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
@@ -220,29 +221,6 @@ window.onload = wrap_img;
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-<div class="output_subarea output_text output_error">
-<pre>
-<span class="ansi-red-intense-fg ansi-bold">---------------------------------------------------------------------------</span>
-<span class="ansi-red-intense-fg ansi-bold">ModuleNotFoundError</span>                       Traceback (most recent call last)
-<span class="ansi-green-intense-fg ansi-bold">&lt;ipython-input-1-4fd441bda680&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
-<span class="ansi-green-fg">      1</span> <span class="ansi-green-intense-fg ansi-bold">import</span> os
-<span class="ansi-green-intense-fg ansi-bold">----&gt; 2</span><span class="ansi-yellow-intense-fg ansi-bold"> </span><span class="ansi-green-intense-fg ansi-bold">from</span> numpy<span class="ansi-yellow-intense-fg ansi-bold">.</span>core<span class="ansi-yellow-intense-fg ansi-bold">.</span>fromnumeric <span class="ansi-green-intense-fg ansi-bold">import</span> shape
-<span class="ansi-green-fg">      3</span> <span class="ansi-green-intense-fg ansi-bold">from</span> numpy<span class="ansi-yellow-intense-fg ansi-bold">.</span>lib<span class="ansi-yellow-intense-fg ansi-bold">.</span>function_base <span class="ansi-green-intense-fg ansi-bold">import</span> diff
-<span class="ansi-green-fg">      4</span> <span class="ansi-green-intense-fg ansi-bold">import</span> pandas <span class="ansi-green-intense-fg ansi-bold">as</span> pd
-<span class="ansi-green-fg">      5</span> <span class="ansi-green-intense-fg ansi-bold">import</span> re
-
-<span class="ansi-red-intense-fg ansi-bold">ModuleNotFoundError</span>: No module named 'numpy'</pre>
-</div>
-</div>
-
-</div>
-</div>
-
 </div>
     
 
@@ -264,13 +242,28 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">X_full</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'https://raw.githubusercontent.com/rmpbastos/data_sets/main/housing_price_train.csv'</span><span class="p">,</span> <span class="n">index_col</span><span class="o">=</span><span class="s1">'Id'</span><span class="p">)</span>
-<span class="n">X_test_full</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'https://raw.githubusercontent.com/rmpbastos/data_sets/main/housing_price_test.csv'</span><span class="p">,</span> <span class="n">index_col</span><span class="o">=</span><span class="s1">'Id'</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">os</span><span class="o">.</span><span class="n">chdir</span><span class="p">(</span><span class="s2">"C:</span><span class="se">\\</span><span class="s2">Users</span><span class="se">\\</span><span class="s2">merre</span><span class="se">\\</span><span class="s2">Desktop</span><span class="se">\\</span><span class="s2">ws</span><span class="se">\\</span><span class="s2">data</span><span class="se">\\</span><span class="s2">youtube_jadoinstuff"</span><span class="p">)</span>
 
-<span class="c1"># Obtain target vectors and predictors</span>
-<span class="n">X</span> <span class="o">=</span> <span class="n">X_full</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
-<span class="n">y</span> <span class="o">=</span> <span class="n">X</span><span class="o">.</span><span class="n">SalePrice</span>
-<span class="n">X</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s1">'SalePrice'</span><span class="p">],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">inplace</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">files</span><span class="o">=</span> <span class="p">[</span><span class="s2">"shanieology.txt"</span><span class="p">,</span><span class="s2">"simau.txt"</span><span class="p">,</span><span class="s2">"soundslikepizza.txt"</span><span class="p">,</span><span class="s2">"azerrz.txt"</span><span class="p">,</span><span class="s2">"BigShade.txt"</span><span class="p">,</span><span class="s2">"black_gryph0n.txt"</span>
+<span class="p">,</span><span class="s2">"brian_hull.txt"</span><span class="p">,</span><span class="s2">"brizzy_voices.txt"</span><span class="p">,</span><span class="s2">"brock_baker.txt"</span><span class="p">,</span><span class="s2">"charlie_hopkinson.txt"</span><span class="p">,</span><span class="s2">"danny_padilla_&amp;_mason_sperling.txt"</span>
+<span class="p">,</span><span class="s2">"ja_doin_stuff.txt"</span><span class="p">,</span><span class="s2">"joshiiwuh.txt"</span><span class="p">,</span><span class="s2">"knep.txt"</span><span class="p">,</span><span class="s2">"ori.txt"</span><span class="p">,</span><span class="s2">"redfireball555.txt"</span><span class="p">,</span><span class="s2">"scheiffer_bates.txt"</span><span class="p">,</span><span class="s2">"daniel_ferguson.txt"</span><span class="p">,</span>
+<span class="s2">"BigShade.txt"</span><span class="p">,</span><span class="s2">"best_in_class.txt"</span><span class="p">,</span><span class="s2">"maxamili.txt"</span><span class="p">,</span><span class="s2">"mikey_bolts.txt"</span><span class="p">]</span>
+
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">'video_id'</span><span class="p">,</span><span class="s1">'title'</span><span class="p">,</span><span class="s1">'title_len'</span><span class="p">,</span><span class="s1">'words'</span><span class="p">,</span><span class="s1">'upper_pct'</span><span class="p">,</span><span class="s1">'emoji_count'</span><span class="p">,</span><span class="s1">'upload_date'</span><span class="p">,</span><span class="s1">'upload_time'</span><span class="p">,</span>
+                           <span class="s1">'upload_day'</span><span class="p">,</span><span class="s1">'upload_time_of_day'</span><span class="p">,</span><span class="s1">'viewCount'</span><span class="p">,</span><span class="s1">'likeCount'</span><span class="p">,</span><span class="s1">'dislikeCount'</span><span class="p">,</span><span class="s1">'favoriteCount'</span><span class="p">,</span>
+                           <span class="s1">'commentCount'</span><span class="p">,</span><span class="s1">'duration'</span><span class="p">,</span><span class="s1">'definition'</span><span class="p">,</span><span class="s1">'caption'</span><span class="p">,</span><span class="s1">'licensedContent'</span><span class="p">,</span><span class="s1">'thumbnail_url'</span><span class="p">,</span> <span class="s1">'thumbnail_w'</span><span class="p">,</span> 
+                           <span class="s1">'thumbnail_h'</span><span class="p">,</span> <span class="s1">'tags'</span><span class="p">,</span><span class="s1">'num_tags'</span><span class="p">,</span><span class="s1">'categoryId'</span><span class="p">,</span><span class="s1">'liveBroadcastContent'</span><span class="p">,</span>
+                           <span class="s1">'topicCategories'</span><span class="p">,</span> <span class="s1">'channel'</span><span class="p">,</span> <span class="s1">'channel_subs'</span><span class="p">,</span> <span class="s1">'channel_views'</span><span class="p">,</span> <span class="s1">'channel_videos'</span><span class="p">,</span><span class="s1">'desc'</span><span class="p">])</span>
+
+<span class="c1">#Loop through all the youtuber's data files and combine into on data frame </span>
+<span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+	<span class="n">df_add</span><span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">file</span><span class="p">)</span>
+	<span class="n">df</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">df_add</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s1">'Unnamed: 0'</span><span class="p">],</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">))</span>
+
+<span class="c1">#Read in the files that have the thumbnail data, and combine with the youtuber data</span>
+<span class="n">df_thumb</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">"thumbnail_data_20210801_23-03-21.638854.txt"</span><span class="p">)</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">"thumbnail_data_20210802_21-39-16.451172.txt"</span><span class="p">))</span>
+<span class="n">df_all</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">df</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="s1">'defaultAudioLanguage'</span><span class="p">,</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">),</span><span class="n">df_thumb</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s1">'thumbnail_url'</span><span class="p">],</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">),</span><span class="n">on</span><span class="o">=</span><span class="s2">"video_id"</span><span class="p">,</span><span class="n">how</span><span class="o">=</span><span class="s2">"inner"</span><span class="p">)</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s1">'emoji_count'</span><span class="p">],</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="n">df_all</span><span class="p">[</span><span class="s1">'all_text'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df_all</span><span class="p">[</span><span class="s1">'title'</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span> <span class="o">+</span> <span class="n">df_all</span><span class="p">[</span><span class="s1">'tags'</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span> <span class="o">+</span> <span class="n">df_all</span><span class="p">[</span><span class="s1">'desc'</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -295,7 +288,7 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">X</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df_all</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 </pre></div>
 
     </div>
@@ -327,582 +320,153 @@ window.onload = wrap_img;
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>MSSubClass</th>
-      <th>MSZoning</th>
-      <th>LotFrontage</th>
-      <th>LotArea</th>
-      <th>Street</th>
-      <th>Alley</th>
-      <th>LotShape</th>
-      <th>LandContour</th>
-      <th>Utilities</th>
-      <th>LotConfig</th>
-      <th>LandSlope</th>
-      <th>Neighborhood</th>
-      <th>Condition1</th>
-      <th>Condition2</th>
-      <th>BldgType</th>
-      <th>HouseStyle</th>
-      <th>OverallQual</th>
-      <th>OverallCond</th>
-      <th>YearBuilt</th>
-      <th>YearRemodAdd</th>
-      <th>RoofStyle</th>
-      <th>RoofMatl</th>
-      <th>Exterior1st</th>
-      <th>Exterior2nd</th>
-      <th>MasVnrType</th>
-      <th>MasVnrArea</th>
-      <th>ExterQual</th>
-      <th>ExterCond</th>
-      <th>Foundation</th>
-      <th>BsmtQual</th>
-      <th>BsmtCond</th>
-      <th>BsmtExposure</th>
-      <th>BsmtFinType1</th>
-      <th>BsmtFinSF1</th>
-      <th>BsmtFinType2</th>
-      <th>BsmtFinSF2</th>
-      <th>BsmtUnfSF</th>
-      <th>TotalBsmtSF</th>
-      <th>Heating</th>
-      <th>HeatingQC</th>
-      <th>CentralAir</th>
-      <th>Electrical</th>
-      <th>1stFlrSF</th>
-      <th>2ndFlrSF</th>
-      <th>LowQualFinSF</th>
-      <th>GrLivArea</th>
-      <th>BsmtFullBath</th>
-      <th>BsmtHalfBath</th>
-      <th>FullBath</th>
-      <th>HalfBath</th>
-      <th>BedroomAbvGr</th>
-      <th>KitchenAbvGr</th>
-      <th>KitchenQual</th>
-      <th>TotRmsAbvGrd</th>
-      <th>Functional</th>
-      <th>Fireplaces</th>
-      <th>FireplaceQu</th>
-      <th>GarageType</th>
-      <th>GarageYrBlt</th>
-      <th>GarageFinish</th>
-      <th>GarageCars</th>
-      <th>GarageArea</th>
-      <th>GarageQual</th>
-      <th>GarageCond</th>
-      <th>PavedDrive</th>
-      <th>WoodDeckSF</th>
-      <th>OpenPorchSF</th>
-      <th>EnclosedPorch</th>
-      <th>3SsnPorch</th>
-      <th>ScreenPorch</th>
-      <th>PoolArea</th>
-      <th>PoolQC</th>
-      <th>Fence</th>
-      <th>MiscFeature</th>
-      <th>MiscVal</th>
-      <th>MoSold</th>
-      <th>YrSold</th>
-      <th>SaleType</th>
-      <th>SaleCondition</th>
-    </tr>
-    <tr>
-      <th>Id</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>video_id</th>
+      <th>title</th>
+      <th>title_len</th>
+      <th>words</th>
+      <th>upper_pct</th>
+      <th>upload_date</th>
+      <th>upload_time</th>
+      <th>upload_day</th>
+      <th>upload_time_of_day</th>
+      <th>viewCount</th>
+      <th>...</th>
+      <th>desc</th>
+      <th>labels</th>
+      <th>faces</th>
+      <th>texts</th>
+      <th>adult</th>
+      <th>medical</th>
+      <th>racy</th>
+      <th>spoof</th>
+      <th>violence</th>
+      <th>all_text</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <th>0</th>
+      <td>eyyTBJUKI3c</td>
+      <td>Skeletor reacts to Episode 1 of Teela and the ...</td>
+      <td>80</td>
+      <td>14</td>
+      <td>0.000000</td>
+      <td>2021-07-25</td>
+      <td>11:22:54</td>
+      <td>6</td>
+      <td>afternoon</td>
+      <td>15005</td>
+      <td>...</td>
+      <td>In this video Skeletor will react and give his...</td>
+      <td>['Action figure', 'Animated cartoon', 'Animati...</td>
+      <td>[]</td>
+      <td>['A', 'AND', 'BAIT', 'R.I.P.', 'SWITCH!', 'THI...</td>
+      <td>UNLIKELY</td>
+      <td>UNLIKELY</td>
+      <td>UNLIKELY</td>
+      <td>LIKELY</td>
+      <td>UNLIKELY</td>
+      <td>Skeletor reacts to Episode 1 of Teela and the ...</td>
+    </tr>
+    <tr>
       <th>1</th>
-      <td>60</td>
-      <td>RL</td>
-      <td>65.0</td>
-      <td>8450</td>
-      <td>Pave</td>
-      <td>NaN</td>
-      <td>Reg</td>
-      <td>Lvl</td>
-      <td>AllPub</td>
-      <td>Inside</td>
-      <td>Gtl</td>
-      <td>CollgCr</td>
-      <td>Norm</td>
-      <td>Norm</td>
-      <td>1Fam</td>
-      <td>2Story</td>
-      <td>7</td>
-      <td>5</td>
-      <td>2003</td>
-      <td>2003</td>
-      <td>Gable</td>
-      <td>CompShg</td>
-      <td>VinylSd</td>
-      <td>VinylSd</td>
-      <td>BrkFace</td>
-      <td>196.0</td>
-      <td>Gd</td>
-      <td>TA</td>
-      <td>PConc</td>
-      <td>Gd</td>
-      <td>TA</td>
-      <td>No</td>
-      <td>GLQ</td>
-      <td>706</td>
-      <td>Unf</td>
-      <td>0</td>
-      <td>150</td>
-      <td>856</td>
-      <td>GasA</td>
-      <td>Ex</td>
-      <td>Y</td>
-      <td>SBrkr</td>
-      <td>856</td>
-      <td>854</td>
-      <td>0</td>
-      <td>1710</td>
+      <td>S1Bmx8Dti6Y</td>
+      <td>Top 5 Worst Reboot Offences Part 2 || Skeletor...</td>
+      <td>53</td>
+      <td>9</td>
+      <td>0.000000</td>
+      <td>2021-07-27</td>
+      <td>18:40:21</td>
       <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>1</td>
-      <td>3</td>
-      <td>1</td>
-      <td>Gd</td>
-      <td>8</td>
-      <td>Typ</td>
-      <td>0</td>
-      <td>NaN</td>
-      <td>Attchd</td>
-      <td>2003.0</td>
-      <td>RFn</td>
-      <td>2</td>
-      <td>548</td>
-      <td>TA</td>
-      <td>TA</td>
-      <td>Y</td>
-      <td>0</td>
-      <td>61</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2008</td>
-      <td>WD</td>
-      <td>Normal</td>
+      <td>night</td>
+      <td>9497</td>
+      <td>...</td>
+      <td>In this video Skeletor finishes his top 5 wors...</td>
+      <td>['Animated cartoon', 'Animation', 'Art', 'Ente...</td>
+      <td>['other', 'other', 'other', 'other', 'other']</td>
+      <td>['Stop', 'Stop exploiting\nour nostalgia!\n', ...</td>
+      <td>VERY_UNLIKELY</td>
+      <td>UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>LIKELY</td>
+      <td>UNLIKELY</td>
+      <td>Top 5 Worst Reboot Offences Part 2 || Skeletor...</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>20</td>
-      <td>RL</td>
-      <td>80.0</td>
-      <td>9600</td>
-      <td>Pave</td>
-      <td>NaN</td>
-      <td>Reg</td>
-      <td>Lvl</td>
-      <td>AllPub</td>
-      <td>FR2</td>
-      <td>Gtl</td>
-      <td>Veenker</td>
-      <td>Feedr</td>
-      <td>Norm</td>
-      <td>1Fam</td>
-      <td>1Story</td>
-      <td>6</td>
-      <td>8</td>
-      <td>1976</td>
-      <td>1976</td>
-      <td>Gable</td>
-      <td>CompShg</td>
-      <td>MetalSd</td>
-      <td>MetalSd</td>
-      <td>None</td>
-      <td>0.0</td>
-      <td>TA</td>
-      <td>TA</td>
-      <td>CBlock</td>
-      <td>Gd</td>
-      <td>TA</td>
-      <td>Gd</td>
-      <td>ALQ</td>
-      <td>978</td>
-      <td>Unf</td>
-      <td>0</td>
-      <td>284</td>
-      <td>1262</td>
-      <td>GasA</td>
-      <td>Ex</td>
-      <td>Y</td>
-      <td>SBrkr</td>
-      <td>1262</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1262</td>
-      <td>0</td>
-      <td>1</td>
+      <td>DStvv0peyYQ</td>
+      <td>Top 5 Worst Reboot Offences Part 1 :Skeletor R...</td>
+      <td>51</td>
+      <td>9</td>
+      <td>0.000000</td>
+      <td>2021-07-21</td>
+      <td>11:03:11</td>
       <td>2</td>
-      <td>0</td>
-      <td>3</td>
-      <td>1</td>
-      <td>TA</td>
-      <td>6</td>
-      <td>Typ</td>
-      <td>1</td>
-      <td>TA</td>
-      <td>Attchd</td>
-      <td>1976.0</td>
-      <td>RFn</td>
-      <td>2</td>
-      <td>460</td>
-      <td>TA</td>
-      <td>TA</td>
-      <td>Y</td>
-      <td>298</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>0</td>
-      <td>5</td>
-      <td>2007</td>
-      <td>WD</td>
-      <td>Normal</td>
+      <td>afternoon</td>
+      <td>5312</td>
+      <td>...</td>
+      <td>In this video Skeletor does a top 5 list of re...</td>
+      <td>['Advertising', 'Animated cartoon', 'Animation...</td>
+      <td>['other', 'other', 'other', 'other']</td>
+      <td>['1', '5', 'Hollywood', 'I', "I wonder why we ...</td>
+      <td>UNLIKELY</td>
+      <td>UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>LIKELY</td>
+      <td>UNLIKELY</td>
+      <td>Top 5 Worst Reboot Offences Part 1 :Skeletor R...</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>60</td>
-      <td>RL</td>
-      <td>68.0</td>
-      <td>11250</td>
-      <td>Pave</td>
-      <td>NaN</td>
-      <td>IR1</td>
-      <td>Lvl</td>
-      <td>AllPub</td>
-      <td>Inside</td>
-      <td>Gtl</td>
-      <td>CollgCr</td>
-      <td>Norm</td>
-      <td>Norm</td>
-      <td>1Fam</td>
-      <td>2Story</td>
-      <td>7</td>
+      <td>PCwtNUQ3t30</td>
+      <td>Skeletor Reacts to the new MOTU toy line Pt2 W...</td>
+      <td>71</td>
+      <td>15</td>
+      <td>0.066667</td>
+      <td>2021-07-17</td>
+      <td>13:34:25</td>
       <td>5</td>
-      <td>2001</td>
-      <td>2002</td>
-      <td>Gable</td>
-      <td>CompShg</td>
-      <td>VinylSd</td>
-      <td>VinylSd</td>
-      <td>BrkFace</td>
-      <td>162.0</td>
-      <td>Gd</td>
-      <td>TA</td>
-      <td>PConc</td>
-      <td>Gd</td>
-      <td>TA</td>
-      <td>Mn</td>
-      <td>GLQ</td>
-      <td>486</td>
-      <td>Unf</td>
-      <td>0</td>
-      <td>434</td>
-      <td>920</td>
-      <td>GasA</td>
-      <td>Ex</td>
-      <td>Y</td>
-      <td>SBrkr</td>
-      <td>920</td>
-      <td>866</td>
-      <td>0</td>
-      <td>1786</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>1</td>
-      <td>3</td>
-      <td>1</td>
-      <td>Gd</td>
-      <td>6</td>
-      <td>Typ</td>
-      <td>1</td>
-      <td>TA</td>
-      <td>Attchd</td>
-      <td>2001.0</td>
-      <td>RFn</td>
-      <td>2</td>
-      <td>608</td>
-      <td>TA</td>
-      <td>TA</td>
-      <td>Y</td>
-      <td>0</td>
-      <td>42</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>0</td>
-      <td>9</td>
-      <td>2008</td>
-      <td>WD</td>
-      <td>Normal</td>
+      <td>afternoon</td>
+      <td>5079</td>
+      <td>...</td>
+      <td>This video is part 2 of Skeletor's reaction to...</td>
+      <td>['Animated cartoon', 'Animation', 'Art', 'Cart...</td>
+      <td>[]</td>
+      <td>['ETERNIA', 'No', 'SHORE', 'So...', "So...\nWh...</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>LIKELY</td>
+      <td>UNLIKELY</td>
+      <td>Skeletor Reacts to the new MOTU toy line Pt2 W...</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>70</td>
-      <td>RL</td>
-      <td>60.0</td>
-      <td>9550</td>
-      <td>Pave</td>
-      <td>NaN</td>
-      <td>IR1</td>
-      <td>Lvl</td>
-      <td>AllPub</td>
-      <td>Corner</td>
-      <td>Gtl</td>
-      <td>Crawfor</td>
-      <td>Norm</td>
-      <td>Norm</td>
-      <td>1Fam</td>
-      <td>2Story</td>
-      <td>7</td>
+      <td>yiQto5PfuII</td>
+      <td>Skeletor Reacts to Episode 2 of Teela and the ...</td>
+      <td>87</td>
+      <td>16</td>
+      <td>0.000000</td>
+      <td>2021-07-31</td>
+      <td>12:13:54</td>
       <td>5</td>
-      <td>1915</td>
-      <td>1970</td>
-      <td>Gable</td>
-      <td>CompShg</td>
-      <td>Wd Sdng</td>
-      <td>Wd Shng</td>
-      <td>None</td>
-      <td>0.0</td>
-      <td>TA</td>
-      <td>TA</td>
-      <td>BrkTil</td>
-      <td>TA</td>
-      <td>Gd</td>
-      <td>No</td>
-      <td>ALQ</td>
-      <td>216</td>
-      <td>Unf</td>
-      <td>0</td>
-      <td>540</td>
-      <td>756</td>
-      <td>GasA</td>
-      <td>Gd</td>
-      <td>Y</td>
-      <td>SBrkr</td>
-      <td>961</td>
-      <td>756</td>
-      <td>0</td>
-      <td>1717</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>3</td>
-      <td>1</td>
-      <td>Gd</td>
-      <td>7</td>
-      <td>Typ</td>
-      <td>1</td>
-      <td>Gd</td>
-      <td>Detchd</td>
-      <td>1998.0</td>
-      <td>Unf</td>
-      <td>3</td>
-      <td>642</td>
-      <td>TA</td>
-      <td>TA</td>
-      <td>Y</td>
-      <td>0</td>
-      <td>35</td>
-      <td>272</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2006</td>
-      <td>WD</td>
-      <td>Abnorml</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>60</td>
-      <td>RL</td>
-      <td>84.0</td>
-      <td>14260</td>
-      <td>Pave</td>
-      <td>NaN</td>
-      <td>IR1</td>
-      <td>Lvl</td>
-      <td>AllPub</td>
-      <td>FR2</td>
-      <td>Gtl</td>
-      <td>NoRidge</td>
-      <td>Norm</td>
-      <td>Norm</td>
-      <td>1Fam</td>
-      <td>2Story</td>
-      <td>8</td>
-      <td>5</td>
-      <td>2000</td>
-      <td>2000</td>
-      <td>Gable</td>
-      <td>CompShg</td>
-      <td>VinylSd</td>
-      <td>VinylSd</td>
-      <td>BrkFace</td>
-      <td>350.0</td>
-      <td>Gd</td>
-      <td>TA</td>
-      <td>PConc</td>
-      <td>Gd</td>
-      <td>TA</td>
-      <td>Av</td>
-      <td>GLQ</td>
-      <td>655</td>
-      <td>Unf</td>
-      <td>0</td>
-      <td>490</td>
-      <td>1145</td>
-      <td>GasA</td>
-      <td>Ex</td>
-      <td>Y</td>
-      <td>SBrkr</td>
-      <td>1145</td>
-      <td>1053</td>
-      <td>0</td>
-      <td>2198</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>1</td>
-      <td>4</td>
-      <td>1</td>
-      <td>Gd</td>
-      <td>9</td>
-      <td>Typ</td>
-      <td>1</td>
-      <td>TA</td>
-      <td>Attchd</td>
-      <td>2000.0</td>
-      <td>RFn</td>
-      <td>3</td>
-      <td>836</td>
-      <td>TA</td>
-      <td>TA</td>
-      <td>Y</td>
-      <td>192</td>
-      <td>84</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>0</td>
-      <td>12</td>
-      <td>2008</td>
-      <td>WD</td>
-      <td>Normal</td>
+      <td>afternoon</td>
+      <td>4891</td>
+      <td>...</td>
+      <td>This video is part one of Skeletor watches and...</td>
+      <td>['Animated cartoon', 'Animation', 'Art', 'Elec...</td>
+      <td>['other']</td>
+      <td>['SOMETHING', 'SOMETHING\nSTINKS!\n', 'STINKS!']</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>POSSIBLE</td>
+      <td>UNLIKELY</td>
+      <td>Skeletor Reacts to Episode 2 of Teela and the ...</td>
     </tr>
   </tbody>
 </table>
+<p>5 rows × 40 columns</p>
 </div>
 </div>
 
