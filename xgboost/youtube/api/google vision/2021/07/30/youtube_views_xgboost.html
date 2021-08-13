@@ -78,7 +78,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      26 min read
+      27 min read
     
 </span></p>
 
@@ -1123,8 +1123,9 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The Google API uses deep learning to identify number of faces, facial expressions and the text contained in the thumbnail image of each youtube video. An example is shown below of the facial recognition and the text that was recognized within the image.</p>
+<p>The Google API uses deep learning to identify number of faces, facial expressions and the text contained in the thumbnail image of each youtube video. An example is shown below of the facial recognition. The google vision also accurately identifies any text inside the thunbnail image.</p>
 <p><img src="https://github.com/jmmerrell/ws/blob/master/data/youtube_jadoinstuff/output_images/thumbnail_zVRQiZCnKPs.jpg?raw=true" alt="kaggle_img001"></p>
+<p>I combined the YouTube data with the thumbnail image data for each channel, including nearly 100 videos for each channel.</p>
 
 </div>
 </div>
@@ -1170,7 +1171,7 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>To get an overview of the data, let's check the first rows and the size of the data set.</p>
+<p>To get an overview of the data, let's check the first rows and the size of the data set. We can see the data has 1,940 rows and 40 columns.</p>
 
 </div>
 </div>
@@ -1182,7 +1183,7 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df_all</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df_all</span>
 </pre></div>
 
     </div>
@@ -1358,76 +1359,154 @@ window.onload = wrap_img;
       <td>UNLIKELY</td>
       <td>Skeletor Reacts to Episode 2 of Teela and the ...</td>
     </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>1935</th>
+      <td>mCjhGzx3FOA</td>
+      <td>Impressions of Famous Authors</td>
+      <td>29</td>
+      <td>4</td>
+      <td>0.000000</td>
+      <td>2019-07-22</td>
+      <td>13:53:24</td>
+      <td>0</td>
+      <td>afternoon</td>
+      <td>51825</td>
+      <td>...</td>
+      <td>Go to http://www.audible.com/MIKEYBOLTS or tex...</td>
+      <td>['Audio equipment', 'Baseball cap', 'Beard', '...</td>
+      <td>['other']</td>
+      <td>['AUTHORS', 'FAMOUS', 'FAMOUS\nAUTHORS\n']</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>POSSIBLE</td>
+      <td>VERY_UNLIKELY</td>
+      <td>Impressions of Famous Authors['Impressions', '...</td>
+    </tr>
+    <tr>
+      <th>1936</th>
+      <td>aTm4yI1hbrU</td>
+      <td>14 Things That Drive Me Nuts In 2020</td>
+      <td>36</td>
+      <td>8</td>
+      <td>0.000000</td>
+      <td>2020-08-25</td>
+      <td>15:02:31</td>
+      <td>1</td>
+      <td>afternoon</td>
+      <td>41215</td>
+      <td>...</td>
+      <td>MAN ITS GOOD TO BE BACK! :) \nThanks for watch...</td>
+      <td>['Audio equipment', 'Azure', 'Baseball cap', '...</td>
+      <td>['happy']</td>
+      <td>['2020', '2020\n']</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>14 Things That Drive Me Nuts In 2020['Impressi...</td>
+    </tr>
+    <tr>
+      <th>1937</th>
+      <td>W8cR5YsSo-I</td>
+      <td>THE QUARANTINE ANTHEM</td>
+      <td>21</td>
+      <td>3</td>
+      <td>1.000000</td>
+      <td>2020-03-27</td>
+      <td>18:52:07</td>
+      <td>4</td>
+      <td>night</td>
+      <td>40042</td>
+      <td>...</td>
+      <td>A song I made about quarantine.\nPls Subscribe...</td>
+      <td>['Advertising', 'Brand', 'Cameras &amp; optics', '...</td>
+      <td>['other']</td>
+      <td>['MUSIC', 'MUSIC VIDEO\n', 'VIDEO']</td>
+      <td>UNLIKELY</td>
+      <td>UNLIKELY</td>
+      <td>UNLIKELY</td>
+      <td>VERY_LIKELY</td>
+      <td>UNLIKELY</td>
+      <td>THE QUARANTINE ANTHEM['corona virus', 'corona ...</td>
+    </tr>
+    <tr>
+      <th>1938</th>
+      <td>DmBZ1vjOibM</td>
+      <td>IMPRESSIONS CHALLENGE 16 | Mikey Bolts</td>
+      <td>38</td>
+      <td>5</td>
+      <td>0.400000</td>
+      <td>2021-04-14</td>
+      <td>15:06:16</td>
+      <td>2</td>
+      <td>afternoon</td>
+      <td>33362</td>
+      <td>...</td>
+      <td>- Hello Fellas &amp; Stella's, Friends, and Marshe...</td>
+      <td>['Animated cartoon', 'Audio equipment', 'Baseb...</td>
+      <td>['happy', 'happy']</td>
+      <td>['00', '00\nIMPRESSIONS\nCHALLENGE\n16\n', '16...</td>
+      <td>UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>IMPRESSIONS CHALLENGE 16 | Mikey Bolts['corona...</td>
+    </tr>
+    <tr>
+      <th>1939</th>
+      <td>Tyz2Pcp1p5A</td>
+      <td>HOTDOG IN A RAINCOAT - Original Animation</td>
+      <td>41</td>
+      <td>6</td>
+      <td>0.666667</td>
+      <td>2021-02-22</td>
+      <td>14:54:14</td>
+      <td>0</td>
+      <td>afternoon</td>
+      <td>16722</td>
+      <td>...</td>
+      <td>hello friends. here's something i made. hope y...</td>
+      <td>['Animated cartoon', 'Art', 'Brand', 'Cartoon'...</td>
+      <td>[]</td>
+      <td>['@mikeybolts', 'A', 'A\nDOG\n@mikeybolts\n', ...</td>
+      <td>UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>VERY_UNLIKELY</td>
+      <td>POSSIBLE</td>
+      <td>UNLIKELY</td>
+      <td>HOTDOG IN A RAINCOAT - Original Animation['cor...</td>
+    </tr>
   </tbody>
 </table>
-<p>5 rows × 40 columns</p>
+<p>1940 rows × 40 columns</p>
 </div>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-    
-
-    
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">X</span><span class="o">.</span><span class="n">shape</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>(1460, 79)</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-    
-
-    
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y</span><span class="o">.</span><span class="n">shape</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>(1460,)</pre>
 </div>
 
 </div>
