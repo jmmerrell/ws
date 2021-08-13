@@ -77,7 +77,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      27 min read
+      24 min read
     
 </span></p>
 
@@ -125,32 +125,23 @@ window.onload = wrap_img;
 </div>
 </div>
 </div>
-    
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">-</span> <span class="n">toc</span><span class="p">:</span> <span class="n">true</span>
-<span class="o">-</span> <span class="n">badges</span><span class="p">:</span> <span class="n">true</span>
-<span class="o">-</span> <span class="n">comments</span><span class="p">:</span> <span class="n">true</span>
-<span class="o">-</span> <span class="n">categories</span><span class="p">:</span> <span class="p">[</span><span class="n">XGBoost</span><span class="p">,</span><span class="n">YouTube</span><span class="p">,</span><span class="n">API</span><span class="p">,</span><span class="n">Google</span> <span class="n">Vision</span><span class="p">]</span>
-<span class="o">-</span> <span class="n">image</span><span class="p">:</span> <span class="n">images</span><span class="o">/</span><span class="n">youtube</span><span class="o">.</span><span class="n">jpg</span>
-<span class="o">---</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li>toc: true</li>
+<li>badges: true</li>
+<li>comments: true</li>
+<li>categories: [XGBoost,YouTube,API,Google Vision]</li>
+<li>image: images/youtube.jpg</li>
+</ul>
+<hr />
 
 </div>
-    
-
+</div>
+</div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="1.-Objective">1. Objective<a class="anchor-link" href="#1.-Objective"> </a></h2><p>We want to classify videos as succesful(high views per subscriber) or unsuccessful by scraping data from YouTube and using the data to train an XGBoost model. The main sources of data for this project are the APIs for YouTube and GoogleVision. From these two sources we gather information about each of my competitor's YouTube channels: views, subscribers, number of videos, titles of the videos, duration of each video, etc. From the YouTube API I also extract the thubnail URL for each video. Later I explain how the Google Vision API analyzes the image of the thumbnail for facial and text recognition. I combine the youtube data and the thumbnail data together for the analysis.</p>
-<p><img src="https://github.com/rmpbastos/data_science/blob/master/img/kaggle_img1.jpg?raw=true" alt="kaggle_img001" /></p>
 
 </div>
 </div>
@@ -1479,144 +1470,14 @@ window.onload = wrap_img;
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>There are 1940 YouTube videos for the analysis and 40 features. In the next steps we will create new fields that could potentially be valuable, handle missing values, and determine if any columns should be left out of the study.</p>
+<p>There are 1940 YouTube videos for the analysis and 40 features.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Checking the shape of our training and validation sets, we get the following.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="4.-Analyze-and-prepare-the-data">4. Analyze and prepare the data<a class="anchor-link" href="#4.-Analyze-and-prepare-the-data"> </a></h2><p>Now, we start analyzing the data by checking some information about the features.</p>
-
-</div>
-</div>
-</div>
-    
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">X</span><span class="o">.</span><span class="n">info</span><span class="p">()</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
-Int64Index: 1460 entries, 1 to 1460
-Data columns (total 79 columns):
- #   Column         Non-Null Count  Dtype  
----  ------         --------------  -----  
- 0   MSSubClass     1460 non-null   int64  
- 1   MSZoning       1460 non-null   object 
- 2   LotFrontage    1201 non-null   float64
- 3   LotArea        1460 non-null   int64  
- 4   Street         1460 non-null   object 
- 5   Alley          91 non-null     object 
- 6   LotShape       1460 non-null   object 
- 7   LandContour    1460 non-null   object 
- 8   Utilities      1460 non-null   object 
- 9   LotConfig      1460 non-null   object 
- 10  LandSlope      1460 non-null   object 
- 11  Neighborhood   1460 non-null   object 
- 12  Condition1     1460 non-null   object 
- 13  Condition2     1460 non-null   object 
- 14  BldgType       1460 non-null   object 
- 15  HouseStyle     1460 non-null   object 
- 16  OverallQual    1460 non-null   int64  
- 17  OverallCond    1460 non-null   int64  
- 18  YearBuilt      1460 non-null   int64  
- 19  YearRemodAdd   1460 non-null   int64  
- 20  RoofStyle      1460 non-null   object 
- 21  RoofMatl       1460 non-null   object 
- 22  Exterior1st    1460 non-null   object 
- 23  Exterior2nd    1460 non-null   object 
- 24  MasVnrType     1452 non-null   object 
- 25  MasVnrArea     1452 non-null   float64
- 26  ExterQual      1460 non-null   object 
- 27  ExterCond      1460 non-null   object 
- 28  Foundation     1460 non-null   object 
- 29  BsmtQual       1423 non-null   object 
- 30  BsmtCond       1423 non-null   object 
- 31  BsmtExposure   1422 non-null   object 
- 32  BsmtFinType1   1423 non-null   object 
- 33  BsmtFinSF1     1460 non-null   int64  
- 34  BsmtFinType2   1422 non-null   object 
- 35  BsmtFinSF2     1460 non-null   int64  
- 36  BsmtUnfSF      1460 non-null   int64  
- 37  TotalBsmtSF    1460 non-null   int64  
- 38  Heating        1460 non-null   object 
- 39  HeatingQC      1460 non-null   object 
- 40  CentralAir     1460 non-null   object 
- 41  Electrical     1459 non-null   object 
- 42  1stFlrSF       1460 non-null   int64  
- 43  2ndFlrSF       1460 non-null   int64  
- 44  LowQualFinSF   1460 non-null   int64  
- 45  GrLivArea      1460 non-null   int64  
- 46  BsmtFullBath   1460 non-null   int64  
- 47  BsmtHalfBath   1460 non-null   int64  
- 48  FullBath       1460 non-null   int64  
- 49  HalfBath       1460 non-null   int64  
- 50  BedroomAbvGr   1460 non-null   int64  
- 51  KitchenAbvGr   1460 non-null   int64  
- 52  KitchenQual    1460 non-null   object 
- 53  TotRmsAbvGrd   1460 non-null   int64  
- 54  Functional     1460 non-null   object 
- 55  Fireplaces     1460 non-null   int64  
- 56  FireplaceQu    770 non-null    object 
- 57  GarageType     1379 non-null   object 
- 58  GarageYrBlt    1379 non-null   float64
- 59  GarageFinish   1379 non-null   object 
- 60  GarageCars     1460 non-null   int64  
- 61  GarageArea     1460 non-null   int64  
- 62  GarageQual     1379 non-null   object 
- 63  GarageCond     1379 non-null   object 
- 64  PavedDrive     1460 non-null   object 
- 65  WoodDeckSF     1460 non-null   int64  
- 66  OpenPorchSF    1460 non-null   int64  
- 67  EnclosedPorch  1460 non-null   int64  
- 68  3SsnPorch      1460 non-null   int64  
- 69  ScreenPorch    1460 non-null   int64  
- 70  PoolArea       1460 non-null   int64  
- 71  PoolQC         7 non-null      object 
- 72  Fence          281 non-null    object 
- 73  MiscFeature    54 non-null     object 
- 74  MiscVal        1460 non-null   int64  
- 75  MoSold         1460 non-null   int64  
- 76  YrSold         1460 non-null   int64  
- 77  SaleType       1460 non-null   object 
- 78  SaleCondition  1460 non-null   object 
-dtypes: float64(3), int64(33), object(43)
-memory usage: 912.5+ KB
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-    
-
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>From the summary above, we can observe that some columns have missing values. Let's take a closer look.</p>
+<h2 id="3.-Analyze-and-prepare-the-data">3. Analyze and prepare the data<a class="anchor-link" href="#3.-Analyze-and-prepare-the-data"> </a></h2><p>In the next steps we will create new fields that could potentially be valuable, handle missing values, and determine if any columns should be left out of the study.</p>
 
 </div>
 </div>
@@ -1634,9 +1495,7 @@ memory usage: 912.5+ KB
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">missing_values</span> <span class="o">=</span> <span class="n">X</span><span class="o">.</span><span class="n">isnull</span><span class="p">()</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
-<span class="n">missing_values</span> <span class="o">=</span> <span class="n">missing_values</span><span class="p">[</span><span class="n">missing_values</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">missing_values</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">df_all</span><span class="o">.</span><span class="n">isna</span><span class="p">()</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="mi">4</span><span class="p">))</span>
 </pre></div>
 
     </div>
