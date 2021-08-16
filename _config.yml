@@ -1,16 +1,102 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog.
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
 #
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise","default"
 
-title: Jacob Merrell
-description: Some data science projects I'm passionate about. 
-github_username: jmmerrell
+# Site Settings
+locale                   : "en-US"
+title                    : "Jacob Merrell"
+title_separator          : "-"
+name                     : "Jacob Merrell"
+description              : "Data Science"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment by {fields.name}"
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
+  transforms:
+    email                : # "md5"
+  generatedFields:
+    date:
+      type               : # "date"
+      options:
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
+
 
 # Site Author
 author:
@@ -45,121 +131,43 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
-# you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "ws"
 
-# OPTIONAL: override baseurl and url if using a custom domain
-# Note: leave out the trailing / from this value. 
-url: "https://jmmerrell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-###########################################################
-#########  Special Instructions for baseurl ###############
-#
-#### Scenario One: If you do not have a Custom Domain #####
-#    -  if you are not using a custom domain, the baseurl *must* be set to your repo name
-# 
-####  Scenario Two: If you have a Custom Domain #####
-# 1. If your domain does NOT have a subpath, this leave this value as ""
-# 2. If your domain does have a subpath, you must preceed the value with a / and NOT have a / at the end.  
-#      For example: 
-#           "" is valid
-#           "/blog"        is valid
-#            "/blog/site/" is invalid  ( / at the end)
-#            "/blog/site"  is valid
-#            "blog/site"   is invalid  ( because doesn't begin with a /)
-#
-# 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
-#
-baseurl: "/ws" # the subpath of your site, e.g. "/blog".
-
-# Github and twitter are optional:
-minima:
-  social_links:
-    github: jmmerrell
-    youtube_channel: UC_3VPXVC1-ym83R3fOIMpVQ
-
-# Set this to true to get LaTeX math equation support
-use_math: 
-
-# Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: true
-
-# Set this to true to display image previews on home page, if they exist
-show_image: true
-
-# Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
-annotations: false
-
-# Set this to true to display tags on each post
-show_tags: true
-
-# Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
-
-exclude:
-  - docker-compose.yml
-  - action.yml
-  - Makefile
-
-# this setting allows you to keep pages organized in the _pages folder
+# Reading Files
 include:
   - .htaccess
   - _pages
-
-# This specifies what badges are turned on by default for notebook posts.
-default_badges:
-  github: true
-  binder: true
-  colab: true
-
-# Escape HTML in post descriptions
-html_escape:
-  description: false
-
-# Everything below here should be left alone. Modifications may break fastpages
-future: true
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-toc
-  - jekyll-twitter-plugin
-  - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-
-# See https://jekyllrb.com/docs/pagination/
-# For pagination to work, you cannot have index.md at the root of your repo, instead you must rename this file to index.html
-paginate: 15
-paginate_path: /page:num/
-
-remote_theme: jekyll/minima
-
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
-
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  math_engine: katex
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
-
-# to limit size of xml as it can grow quite large.
-feed:
-  posts_limit: 5 #default posts_limit: 10
-  excerpt_only: true
-  
 exclude:
-  - settings.ini
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 
 # Conversion
 markdown: kramdown
@@ -167,6 +175,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 
 # Markdown Processing
 kramdown:
@@ -178,3 +187,93 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: true
+      related: false
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
