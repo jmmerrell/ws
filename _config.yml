@@ -44,7 +44,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  
+
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "ws"
 
@@ -103,6 +103,7 @@ exclude:
 
 # this setting allows you to keep pages organized in the _pages folder
 include:
+  - .htaccess
   - _pages
 
 # This specifies what badges are turned on by default for notebook posts.
@@ -159,3 +160,21 @@ feed:
   
 exclude:
   - settings.ini
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
