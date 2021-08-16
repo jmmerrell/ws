@@ -11,6 +11,40 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 title: Jacob Merrell
 description: Some data science projects I'm passionate about. 
 github_username: jmmerrell
+
+# Site Author
+author:
+  name             : "Jacob Merrell"
+  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I have a love for data science, making YouTube content, playing racket sports, and trying to be a semi-cool nerd."
+  location         : "Phoenix, Arizona"
+  email            : "merrell.jacob@gmail.com"
+  uri              : 
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "jmmerrell"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "jacob-merrell-87315a5a" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "ws"
 
